@@ -38,25 +38,22 @@ https://github.com/maxloosmu/googlesheet2
 Actions:
 - I've subscribed to ChatGPT Plus.  I did tri-programming with ChatGPT and Github Copilot.
 - I read the book "A Thousand Brains: A New Theory of Intelligence" Part 2 "Machine Intelligence" Chapter 8 "Why There Is No “I” in AI".
-
-I briefly read these books:
-- "The robots are coming! The Future of Jobs in the Age of Automation" Chapter 10 "Jobs of the Future" and "Epilogue: The Top Ten Job Fields of the Future".
-- "Harvard Business Review: The Year in Tech, 2023" Chapter 10 "No-code Platforms can bring AI to Small and Midsize Businesses".
-- "Future Minds: The Rise of Intelligence from the Big Bang to the End of the Universe" Chapter 7 "Chatbots and the Illusion of Awareness".
-- "Radically Human: How New Technology Is Transforming Business and Shaping Our Future" Chapter 6 "Talent: Humans + Radically Human Technology".
-
-I read most of the following web articles:
-- Tools such as ChatGPT threaten transparent science; here are our ground rules for their use
-- Understanding and Regulating ChatGPT, and Other Large Generative AI Models
-- Generative AI Won’t Revolutionize Search — Yet
-- What is Microsoft's new Bing with ChatGPT? Here's everything we know
-- ChatGPT: how to use the viral AI chatbot that everyone’s talking about
-- Everything We Know About GPT-4
-- https://en.wikipedia.org/wiki/GPT-3
-- Use of Large Language Models: Editorial Comments
-- The Promise and Peril of Generative AI
-
-I read the book "GPT-3: The Ultimate Guide To Building NLP Products With OpenAI API" Chapter 5 "GPT-3 as the Next Step in Corporate Innovation" to learn more about Github Copilot.
+- I briefly read these books:
+    - "The robots are coming! The Future of Jobs in the Age of Automation" Chapter 10 "Jobs of the Future" and "Epilogue: The Top Ten Job Fields of the Future".
+    - "Harvard Business Review: The Year in Tech, 2023" Chapter 10 "No-code Platforms can bring AI to Small and Midsize Businesses".
+    - "Future Minds: The Rise of Intelligence from the Big Bang to the End of the Universe" Chapter 7 "Chatbots and the Illusion of Awareness".
+    - "Radically Human: How New Technology Is Transforming Business and Shaping Our Future" Chapter 6 "Talent: Humans + Radically Human Technology".
+- I read most of the following web articles:
+    - Tools such as ChatGPT threaten transparent science; here are our ground rules for their use
+    - Understanding and Regulating ChatGPT, and Other Large Generative AI Models
+    - Generative AI Won’t Revolutionize Search — Yet
+    - What is Microsoft's new Bing with ChatGPT? Here's everything we know
+    - ChatGPT: how to use the viral AI chatbot that everyone’s talking about
+    - Everything We Know About GPT-4
+    - https://en.wikipedia.org/wiki/GPT-3
+    - Use of Large Language Models: Editorial Comments
+    - The Promise and Peril of Generative AI
+- I read the book "GPT-3: The Ultimate Guide To Building NLP Products With OpenAI API" Chapter 5 "GPT-3 as the Next Step in Corporate Innovation" to learn more about Github Copilot.
 
 # Secondary Tasks:
 ### 1) Occasional work related matters as they come by from Slack, Asana, emails or our meetings currently or in the past.
