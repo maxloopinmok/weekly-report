@@ -55,6 +55,7 @@ I read most of the following web articles:
 - https://en.wikipedia.org/wiki/GPT-3
 - Use of Large Language Models: Editorial Comments
 - The Promise and Peril of Generative AI
+
 I read the book "GPT-3: The Ultimate Guide To Building NLP Products With OpenAI API" Chapter 5 "GPT-3 as the Next Step in Corporate Innovation" to learn more about Github Copilot.
 
 # Secondary Tasks:
