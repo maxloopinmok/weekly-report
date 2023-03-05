@@ -10,11 +10,11 @@ Actions:
 - In progress.
 I attended the Mirdin course on Monday at 10am.
 I read most of the following readings:
-- Program Development by Stepwise Refinement
-- A Dead Dog
-- Boolean Blindness
-- Persistence of Memory
-- Languages and Machines
+    - Program Development by Stepwise Refinement
+    - A Dead Dog
+    - Boolean Blindness
+    - Persistence of Memory
+    - Languages and Machines
 
 ### 2) To explore the following:
 - implement Auth0 with Vue/Python
