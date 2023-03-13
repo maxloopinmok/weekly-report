@@ -16,8 +16,13 @@ Actions:
     - Cognitive Wheels: The Frame Problem of AI
 
 ### 2) To test Eclipse Theia on Windows and Mac:
+Actions:
 - In progress.
 - I updated https://github.com/maxloosmu/mti.
+
+### 3) Attend the Well Typed Haskell course on Monday and Friday at 3pm.
+Actions:
+- In progress.
 
 # Secondary Tasks:
 ### 1) Occasional work related matters as they come by from Slack, Asana, emails or our meetings currently or in the past.
