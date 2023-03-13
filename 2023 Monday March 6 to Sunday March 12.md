@@ -19,6 +19,9 @@ Actions:
 Actions:
 - In progress.
 - I updated https://github.com/maxloosmu/mti.
+- I posted my problems at:
+    - https://github.com/eclipse-theia/theia/discussions/12282
+    - https://github.com/eclipse-theia/theia/issues/1045
 
 ### 3) Attend the Well Typed Haskell course on Monday and Friday at 3pm.
 Actions:
