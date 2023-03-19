@@ -47,8 +47,8 @@ Actions:
 ### 1) Occasional work related matters as they come by from Slack, Asana, emails or our meetings currently or in the past.
 Actions:
 - I contributed to our Slack.
-- I attended Monday's FrontEnd meeting.
-- I attended Thursday's Tech meeting.
+- I attended Monday's 1.30pm FrontEnd meeting.
+- I attended Thursday's 2.30pm Tech meeting.
 
 ## Secondary tasks at a later date:
 
