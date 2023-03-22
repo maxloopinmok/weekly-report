@@ -1,4 +1,4 @@
-This week, I worked on the following:
+This week, I had a medical appointment on Tuesday.  On the other days, I worked on the following:
 
 # Primary Task:
 - To learn how to do better programming and researching to support and contribute to our projects.
@@ -37,7 +37,7 @@ Actions:
     - https://github.com/eclipse-theia/theia/discussions/12289
     - https://community.theia-ide.org/t/how-to-open-3-or-more-tabs-in-a-theia-ide-in-a-html-file-programmatically/2874
 
-### 3) Attend the Well Typed Haskell course on Monday and Friday at 3pm.
+### 3) Attend the Well Typed Haskell course on Monday at 3pm.
 Actions:
 - In progress.
 - I contributed to discussions at https://chat.well-typed.com/cclaw/channels/town-square.
