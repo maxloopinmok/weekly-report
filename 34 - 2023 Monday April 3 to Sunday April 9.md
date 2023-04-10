@@ -10,25 +10,40 @@ Actions:
 - In progress.
 - I attended the Mirdin course on Monday at 11am for what should be the Unit 5 lecture.
 - I completed the readings and exercises for Unit 4 with a lot of help from GPT4.
+- Some relevant links:
+    - https://advanced-software-design.disco.co/p/advanced-software-design-feb-2023/dashboard
+    - https://app.slack.com/client/T9F5D6U4R/C04MPE8AULX
+    - https://app.slack.com/client/T012Q6P08BY/C04N48SN57V
 
 ### 2) Attend the Well Typed Haskell course on Monday at 3pm.
 Actions:
 - In progress.
 - I contributed to discussions at https://chat.well-typed.com/cclaw/channels/town-square.
+- Some relevant links:
+    - https://chat.well-typed.com/cclaw/channels/town-square
+    - https://code.well-typed.com/maxloo
+    - https://code.well-typed.com/cclaw/haskell-course
 
 ### 3) Develop a workflow to load in the article chunks (FTA/...../*.html) into the web mockup
 Actions:
 - In progress.
 - Successfully developed a workable mockup with a lot of help from GPT4 and Copilot in less than a week.
 - This pair programming approach has helped me overcome many difficulties in learning unfamiliar areas of coding.
+- Some relevant links:
+    - https://github.com/maxloosmu/mti
+    - https://github.com/smucclaw/usecases/tree/main/vue
 
 ### 4) Take a look at the impress.js repo and see how to adapt that framework for our needs
 Actions:
 - Yet to really begin due to work on other tasks.
+- Some relevant links:
+    - https://github.com/smucclaw/impress.js
 
 ### 5) Learning AWS S3, Textract, DynamoDB
 Actions:
 - Have not worked on this due to work on other tasks.
+- Some relevant links:
+    - https://eresources.nlb.gov.sg/main/browse?browseBy=type&filter=18
 
 ### 6) Explore the Semantic possibilities of Legal BERT and other alternatives for our L4 DSL
 Actions:
