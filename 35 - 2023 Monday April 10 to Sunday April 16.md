@@ -52,10 +52,20 @@ Actions:
 ### 6) Explore the Semantic possibilities of Legal BERT and other alternatives for our L4 DSL
 Actions:
 - I've done a user level review of GPT4 based on my experiences using it to develop code, and learn and get answers.
+- Some relevant links:
+    - https://github.com/maxloosmu/weekly-report/blob/main/Review%20of%20GPT4%20from%20a%20user%20perspective.md
 
 ### 7) Encode S10 of policy into L4 with considerations and trade-offs in comments
 Actions:
-- Tried encoding several contractual statements:
+- Tried encoding several contractual statements.
+- Some relevant links:
     - https://docs.google.com/spreadsheets/d/1u5aizEaRfnDJD7N0Zz4pJeBd3lMx36BdqKwdE-lppV8/edit#gid=0
     - https://docs.google.com/spreadsheets/d/1dZrYqf87UZGzEfz_vxYXFl-v7vlyddweYNy6wtV2WEU/edit#gid=1890284544
 
+### 8) [Stage 2] [everyone] **Sketch** backend implementation (but NOT the compiler)
+Actions:
+- Have not worked on this.
+- Some relevant links:
+    - https://app.asana.com/0/1204211889758721/1204379268152484/f
+To Do:
+- Explore and create some specifications for a program, possibly through use of GPT4 prompts.
