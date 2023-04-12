@@ -68,6 +68,7 @@ To Do:
 Actions:
 - I contributed to CCLAW Slack discussions.
 - I updated Asana:
+    - https://app.asana.com/0/1189209909138566/list
     - https://app.asana.com/0/1202350988793222/1204296873942315/f
     - https://app.asana.com/0/1202350988793222/1204296873942322/f
 - I attended Monday's FrontEnd meeting at 1.30pm.
