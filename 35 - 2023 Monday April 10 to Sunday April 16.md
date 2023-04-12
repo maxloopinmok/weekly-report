@@ -69,3 +69,4 @@ Actions:
     - https://app.asana.com/0/1204211889758721/1204379268152484/f
 To Do:
 - Explore and create some specifications for a program, possibly through use of GPT4 prompts.
+
