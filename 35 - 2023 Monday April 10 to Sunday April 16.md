@@ -1,4 +1,4 @@
-As of Wednesday 11pm this week, I worked on the following:
+As of Thursday 4pm this week, I worked on the following:
 
 # Primary Task:
 - To learn how to do better programming and researching to support and contribute to our projects.
@@ -69,4 +69,12 @@ Actions:
     - https://app.asana.com/0/1204211889758721/1204379268152484/f
 To Do:
 - Explore and create some specifications for a program, possibly through use of GPT4 prompts.
+
+### 9) Testing Parsr
+- Tried but failed to get it to run. 
+- Some relevant links:
+    - https://pypi.org/project/parsr-client/
+    - https://github.com/axa-group/Parsr
+    - https://github.com/axa-group/Parsr/blob/master/server/defaultConfig.json
+    - https://github.com/axa-group/Parsr/issues/663
 
