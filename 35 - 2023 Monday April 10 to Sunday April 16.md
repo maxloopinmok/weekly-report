@@ -1,4 +1,4 @@
-As of Thursday 4pm this week, I worked on the following:
+As of Sunday 11pm this week, I have worked on the following:
 
 # Primary Task:
 - To learn how to do better programming and researching to support and contribute to our projects.
@@ -8,6 +8,9 @@ As of Thursday 4pm this week, I worked on the following:
 ### 1) Attend the Mirdin course on Monday at 11am and 10am on alternating weeks over a few months.
 Actions:
 - In progress.
+- There were no Mirdin lesson this week.
+- I started reading about the exercises and tasks to be done for Unit 5.
+- I also read the blog post "The Algebra of Algebraic Data Types, Part 1".
 - Some relevant links:
     - https://advanced-software-design.disco.co/p/advanced-software-design-feb-2023/dashboard
     - https://app.slack.com/client/T9F5D6U4R/C04MPE8AULX
@@ -28,10 +31,11 @@ Actions:
 - Some relevant links:
     - https://github.com/maxloosmu/mti
     - https://github.com/smucclaw/usecases/tree/main/vue
-To Do:
+NLP Done:
 - Extract the text content from the HTML documents using Beautiful Soup.
-- Preprocess the text using NLTK or spaCy (tokenization, stop word removal, stemming, or lemmatizing).
-- Use Gensim or another similarity analysis library to find similarities between the preprocessed text.
+- Preprocess the text using spaCy (have not tried NLTK) (tokenization, stop word removal, stemming, or lemmatizing).
+- Use Gensim or another similarity analysis library to find similarities between the preprocessed text.  (Only tried cosine similarity and bag of words, and results were too simplistic for anything useful, but admittedly, I'm also not sure if the results were completely correct)
+Yet To Do:
 - Use difflib to create a report that highlights the differences and similarities between the documents.
 - Send the report back to the frontend Vue.js app and display it in the lower right section of the webpage.
 
@@ -71,10 +75,31 @@ To Do:
 - Explore and create some specifications for a program, possibly through use of GPT4 prompts.
 
 ### 9) Testing Parsr
-- Tried but failed to get it to run. 
+- Tried but failed to get it to run.
 - Some relevant links:
     - https://pypi.org/project/parsr-client/
     - https://github.com/axa-group/Parsr
     - https://github.com/axa-group/Parsr/blob/master/server/defaultConfig.json
     - https://github.com/axa-group/Parsr/issues/663
 
+# Secondary Tasks:
+
+### 1) Occasional work related matters as they come by from Slack, Asana, emails or our meetings currently or in the past.
+Actions:
+- I contributed to CCLAW Slack discussions.
+- I updated Asana:
+    - https://app.asana.com/0/1189209909138566/list
+    - https://app.asana.com/0/1202350988793222/1204296873942315/f
+    - https://app.asana.com/0/1202350988793222/1204296873942322/f
+- There was no Monday FrontEnd meeting at 1.30pm.
+- I attended the Insurance Discussion Meeting on Tuesday at 1.30pm.
+- I attended the Insurance Discussion Meeting on Wednesday at 1.30pm.
+- I attended Thursday's Tech meeting at 2.30pm.
+
+# Upcoming Leave and Medical Appointments:
+- Tuesday 9 May 2023 10.50am CGH Digestive Diseases Centre
+- Wednesday 17 May 2023 3pm CGH Urology Clinic
+- Wednesday 17 May 2023 3.40pm/4.10pm CGH Radiology DDR CT Scan
+- Friday 19 May 2023 11am IMH Clinic B
+- Tuesday 30 May 2023 9.40am/10.40am CGH Urology Clinic
+- Friday 24 November 2023 10.15am SNEC Eye Clinic @ CGH
