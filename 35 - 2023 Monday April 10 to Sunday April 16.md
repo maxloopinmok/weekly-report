@@ -31,10 +31,12 @@ Actions:
 - Some relevant links:
     - https://github.com/maxloosmu/mti
     - https://github.com/smucclaw/usecases/tree/main/vue
+
 NLP Done:
 - Extract the text content from the HTML documents using Beautiful Soup.
 - Preprocess the text using spaCy (have not tried NLTK) (tokenization, stop word removal, stemming, or lemmatizing).
 - Use Gensim or another similarity analysis library to find similarities between the preprocessed text.  (Only tried cosine similarity and bag of words, and results were too simplistic for anything useful, but admittedly, I'm also not sure if the results were completely correct)
+
 Yet To Do:
 - Use difflib to create a report that highlights the differences and similarities between the documents.
 - Send the report back to the frontend Vue.js app and display it in the lower right section of the webpage.
