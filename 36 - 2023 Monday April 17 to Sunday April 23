@@ -35,6 +35,8 @@ Actions:
 - I've installed and tried impress.js, but find the controls confusing.
 - Some relevant links:
     - https://github.com/smucclaw/impress.js
+    - https://github.com/smucclaw/impress.js/blob/fta/js/impress.js
+    - https://github.com/smucclaw/impress.js/tree/fta/css
 
 To Do:
 - Try to get a general understanding of the code.
