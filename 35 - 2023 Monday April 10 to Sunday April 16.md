@@ -78,8 +78,8 @@ Actions:
 To Do:
 - Explore and create some specifications for a program, possibly through use of GPT4 prompts.
 
-### 9) Testing Parsr
-- Tried but failed to get it to run.
+### 9) Testing Parsr and other PDF text extraction tools
+- Tried Parsr but unsure if it has run properly because output file with text extracted from pdf is not found.
 - Some relevant links:
     - https://pypi.org/project/parsr-client/
     - https://github.com/axa-group/Parsr
