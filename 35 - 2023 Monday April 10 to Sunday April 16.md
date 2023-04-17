@@ -99,6 +99,7 @@ Actions:
 - I attended the Insurance Discussion Meeting on Tuesday at 1.30pm.
 - I attended the Insurance Discussion Meeting on Wednesday at 1.30pm.
 - I attended Thursday's Tech meeting at 2.30pm.
+- I regularly use https://chat.openai.com/.  
 
 # Upcoming Leave and Medical Appointments:
 - Tuesday 9 May 2023 10.50am CGH Digestive Diseases Centre
