@@ -46,6 +46,7 @@ Actions:
 - Yet to really begin due to work on other tasks.
 - Some relevant links:
     - https://github.com/smucclaw/impress.js
+
 To Do:
 - Try to get a general understanding of the code.
 
@@ -73,6 +74,7 @@ Actions:
 - Have not worked on this.
 - Some relevant links:
     - https://app.asana.com/0/1204211889758721/1204379268152484/f
+
 To Do:
 - Explore and create some specifications for a program, possibly through use of GPT4 prompts.
 
