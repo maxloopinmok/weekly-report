@@ -32,9 +32,9 @@ Actions:
 
 ### 4) Take a look at the impress.js repo and see how to adapt that framework for our needs
 Actions:
-- I've installed and tried impress.js, but find the controls confusing.
+- I've installed and tried impress.js.
 - I've updated the source file of impress.js to remove all rotations during transitions.  
-- I've updated the index.html of the fta example to contrain slide transitions to only the FTAs.  
+- I've updated the index.html of the fta example to constrain slide transitions to only the FTAs.  
 - Some relevant links:
     - https://github.com/smucclaw/impress.js/blob/fta/examples/fta/index.html
     - https://github.com/smucclaw/impress.js/blob/fta/src/impress.js
