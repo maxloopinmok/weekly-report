@@ -1,4 +1,4 @@
-As of Tuesday 4.30pm this week, I have worked on the following:
+As of Wednesday 12.30am this week, I have worked on the following:
 
 # Primary Task:
 - To learn how to do better programming and researching to support and contribute to our projects.
@@ -34,12 +34,11 @@ Actions:
 
 ### 4) Take a look at the impress.js repo and see how to adapt that framework for our needs
 Actions:
-- I've installed and tried impress.js.
-- I've updated the source file of impress.js to remove all rotations during transitions.
-- I've updated the index.html of the fta example to constrain slide transitions to only the FTAs.
+- I've installed and tried impress.js, but find the controls confusing.
 - Some relevant links:
-    - https://github.com/smucclaw/impress.js/blob/fta/examples/fta/index.html
-    - https://github.com/smucclaw/impress.js/blob/fta/src/impress.js
+    - https://github.com/smucclaw/impress.js
+    - https://github.com/smucclaw/impress.js/blob/fta/js/impress.js
+    - https://github.com/smucclaw/impress.js/tree/fta/css
 
 To Do:
 - Try to get a general understanding of the code.
