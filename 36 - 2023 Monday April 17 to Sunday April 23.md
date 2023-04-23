@@ -1,13 +1,15 @@
-As of Tuesday 4.30pm this week, I have worked on the following:
+As of Sunday 11.15pm this week, I have worked on the following:
 
 # Primary Task:
 - To learn how to do better programming and researching to support and contribute to our projects.
 
-## Seven Subtasks:
+## Nine Subtasks:
 
 ### 1) Attend the Mirdin course on Monday at 11am and 10am on alternating weeks over a few months.
 Actions:
 - In progress.
+- I attended the Mirdin Unit 4 tutorial at 10am on Monday.
+- I tried to read some of the relevant readings and have tried the exercises and drills until "The Equational Reasoning Drill".  I have yet to do "Mechanical Refactoring", "Hidden Coupling Drill", and "Case Study: A Tale of Two Parsers".
 - Some relevant links:
     - https://advanced-software-design.disco.co/p/advanced-software-design-feb-2023/dashboard
     - https://app.slack.com/client/T9F5D6U4R/C04MPE8AULX
@@ -26,7 +28,7 @@ Actions:
 - Completed.
 - As an extension to this task, I may explore more NLP to compare the HTML documents.
 - This may dovetail with Item 6 in this report due to a common exploration of BERT.
-- I've tried using distilBERT on Google Colabs, but I've not gotten the right outputs yet.
+- I've successfully used distilBERT with Python on Google Colabs to highlight the similarities and differences between 2 sections of text from FTAs.  However, this semantic comparison may not be very accurate, and depends on the adjustment of the similarity_threshold in the function compare_and_highlight before calling the function.
 - Some relevant links:
     - https://github.com/maxloosmu/mti
     - https://github.com/smucclaw/usecases/tree/main/vue
@@ -35,14 +37,16 @@ Actions:
 ### 4) Take a look at the impress.js repo and see how to adapt that framework for our needs
 Actions:
 - I've installed and tried impress.js.
-- I've updated the source file of impress.js to remove all rotations during transitions.
-- I've updated the index.html of the fta example to constrain slide transitions to only the FTAs.
+- I've updated the source file of impress.js to remove all rotations during transitions.  I've also updated the index.html of the fta example to constrain slide transitions to only the FTAs.  Both efforts are just for a better understanding of impress.js.
+- I've also tried using impress.js with my Flask-Vue-Bulma stack, but although I managed to get the slides working, I could not stop the slides.
+- I finally tried to directly create slide transitions from Vue-Bulma itself using CSS, but although I managed to get the first slide shown, I have not yet gotten the slides to successfully transition.
 - Some relevant links:
     - https://github.com/smucclaw/impress.js/blob/fta/examples/fta/index.html
     - https://github.com/smucclaw/impress.js/blob/fta/src/impress.js
+    - https://github.com/smucclaw/usecases/tree/main/vue
 
 To Do:
-- Try to get a general understanding of the code.
+- To get slide transitions working, and ensure they can be stopped.
 
 ### 5) Learning AWS S3, Textract, DynamoDB
 Actions:
@@ -71,13 +75,16 @@ Actions:
 
 ### 9) Testing Parsr and other PDF text extraction tools
 - I've tried Parsr but unsure if it has run properly because output file with text extracted from pdf is not found.
-- I've found and tried successfully an alternative: pdf2htmlEX.
+- I've found and tried successfully an alternative: pdf2htmlEX, but I've realised that this Docker image creates HTML files riddled with excessive CSS and JavaScript.
 - Some relevant links:
     - https://pypi.org/project/parsr-client/
     - https://github.com/axa-group/Parsr
     - https://github.com/axa-group/Parsr/blob/master/server/defaultConfig.json
     - https://github.com/axa-group/Parsr/issues/663
     - https://github.com/smucclaw/usecases/tree/main/vue/pdf2htmlex
+
+To Do:
+- To try Pandoc.
 
 # Secondary Tasks:
 
@@ -87,6 +94,7 @@ Actions:
 - I updated Asana:
     - https://app.asana.com/0/1189209909138566/list
 - There was no Monday FrontEnd meeting at 1.30pm.
+- I attended Thursday's Tech meeting at 2.30pm.
 - I regularly use https://chat.openai.com/.
 
 # Upcoming Leave and Medical Appointments:
