@@ -1,4 +1,4 @@
-As of Monday 2pm this week, I have worked on the following:
+As of Sunday 11.55pm this week, I have worked on the following:
 
 # Primary Task:
 - To learn how to do better programming and researching to support and contribute to our projects.
@@ -9,6 +9,7 @@ As of Monday 2pm this week, I have worked on the following:
 Actions:
 - In progress.
 - I attended the Mirdin Unit 5 tutorial at 10am on Monday.
+- I tried to do another one or two readings, and did one Unit 6 tutorial exercise question.
 - Some relevant links:
     - https://advanced-software-design.disco.co/p/advanced-software-design-feb-2023/dashboard
     - https://app.slack.com/client/T9F5D6U4R/C04MPE8AULX
@@ -33,11 +34,16 @@ Actions:
 - As an extension to this task, I may explore more NLP to compare the HTML documents.
 - This dovetails with Item 4 due to the exploration of way impress.js works in presenting slides of FTAs.
 - This may dovetail with Item 6 in this report due to a common exploration of BERT.
-- Nothing here this week.
+- I completed my tests comparing a couple of test files and FTAs using distilBERT, but the results were not good because there were a number of false positives and negatives at the same time.  Even at a minimum, they do not highlight the differences and similarities very well.
+- I also implemented a function to stop users from surfing away from the webpage when the file comparison operation is in progress.
+- I also tried legalBERT, but realised that there was only an option for text classification.  I found nothing for semantic comparison of texts.
 - Some relevant links:
     - https://github.com/maxloosmu/mti
     - https://github.com/smucclaw/usecases/tree/main/vue
     - https://github.com/maxloosmu/bert
+
+To Do:
+- Try SBERT or Siamese-BERT.
 
 ### 4) Take a look at the impress.js repo and see how to adapt that framework for our needs
 Actions:
@@ -56,8 +62,7 @@ Actions:
 
 ### 6) Explore the Semantic possibilities of Legal BERT and other alternatives for our L4 DSL
 Actions:
-- Nothing here this week.
-- This may dovetail with Item 3 in this report due to a common exploration of BERT.
+- This may dovetail with Item 3 in this report due to a common exploration of BERT.  The latest findings are listed in Item 3.
 - Some relevant links:
     - https://github.com/maxloosmu/weekly-report/blob/main/Review%20of%20GPT4%20from%20a%20user%20perspective.md
 
@@ -91,16 +96,21 @@ To Do:
 
 ### 10) Occasional work related matters as they come by from Slack, Asana, emails or our meetings currently or in the past.
 Actions:
-- I contributed to CCLAW Slack discussions.
+- I contributed to CCLAW and Mirdin Slack discussions.
 - I updated Asana:
     - https://app.asana.com/0/1189209909138566/list
 - There's no Monday Relational Predicate/FrontEnd meeting at 1.30pm.
-- I attended a meeting online via Zoom on Tuesday at 2pm.
+- I attended Tuesday's meeting at 2pm.
 - I attended Thursday's Tech meeting at 2.30pm.
-- I regularly use https://chat.openai.com/.
+- I regularly use these:
+    - https://chat.openai.com/.
+    - https://github.com/features/copilot
+    - https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat
+    - https://chat.lmsys.org/
+    - https://chat.lmsys.org/?arena
+    - https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming
 
 # Upcoming Leave and Medical Appointments:
-- Tuesday 9 May 2023 10.50am CGH Digestive Diseases Centre
 - Wednesday 17 May 2023 3pm CGH Urology Clinic
 - Wednesday 17 May 2023 3.40pm/4.10pm CGH Radiology DDR CT Scan
 - Friday 19 May 2023 11am IMH Clinic B
