@@ -1,4 +1,4 @@
-I'd like to add that on last Tuesday, I had a medical appointment in the morning.  I also have medical appointments on Wednesday and Friday this week.  As of Tuesday 11.45pm this week, I have worked on the following:
+I'd like to add that on last Tuesday, I had a medical appointment in the morning.  I also have medical appointments on Wednesday and Friday this week.  As of Saturday 4.45pm this week, I have worked on the following:
 
 # Primary Task:
 - To learn how to do better programming and researching to support and contribute to our projects.
@@ -9,6 +9,7 @@ I'd like to add that on last Tuesday, I had a medical appointment in the morning
 Actions:
 - In progress.
 - I attended the Mirdin Unit 6 tutorial at 10am on Monday.
+- I completed the Unit 6 tutorials up until question 4: "Why are the Microsoft API Formats So Complicated".  
 - Some relevant links:
     - https://advanced-software-design.disco.co/p/advanced-software-design-feb-2023/dashboard
     - https://app.slack.com/client/T9F5D6U4R/C04MPE8AULX
@@ -40,7 +41,8 @@ Actions:
     - https://github.com/maxloosmu/bert
 
 To Do:
-- Retry LegalBERT.
+- Retry LegalBERT or try roBERTa, based on this:
+    - https://github.com/coollx/Relevant-Difference-Detector-for-Legal-Text/tree/master
 
 ### 4) Take a look at the impress.js repo and see how to adapt that framework for our needs
 Actions:
@@ -70,12 +72,10 @@ Actions:
     - https://docs.google.com/spreadsheets/d/1u5aizEaRfnDJD7N0Zz4pJeBd3lMx36BdqKwdE-lppV8/edit#gid=0
     - https://docs.google.com/spreadsheets/d/1dZrYqf87UZGzEfz_vxYXFl-v7vlyddweYNy6wtV2WEU/edit#gid=1890284544
 
-### 8) [Stage 2] [everyone] **Sketch** backend implementation (but NOT the compiler)
+### 8) Debug the multi-head code in vue-pure-pdpa
 Actions:
-- Nothing here this week.
-- Some relevant links:
-    - https://app.asana.com/0/1204211889758721/1204379268152484/f
-    - https://smucclaw.slack.com/archives/C024BC50FFA/p1681724568268529
+- I tried to better understand the PureScript parts of the code at:
+    - https://github.com/smucclaw/vue-pure-pdpa/tree/dolora2
 
 ### 9) Testing Parsr and other PDF text extraction tools
 - Nothing here this week.
@@ -97,7 +97,7 @@ Actions:
 - I updated Asana:
     - https://app.asana.com/0/1189209909138566/list
 - There's no Monday Relational Predicate/FrontEnd meeting at 1.30pm.
-- I attended Tuesday's meeting at 2pm.
+- I attended Tuesday's meeting at 2pm via Zoom.
 - I attended Thursday's Tech meeting at 2.30pm.
 - I regularly use these Generative AI:
     - https://chat.openai.com/.
@@ -109,8 +109,6 @@ Actions:
     - https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming
 
 # Upcoming Leave and Medical Appointments:
-- Wednesday 17 May 2023 3pm CGH Urology Clinic
-- Wednesday 17 May 2023 3.40pm/4.10pm CGH Radiology DDR CT Scan
-- Friday 19 May 2023 11am IMH Clinic B
 - Tuesday 30 May 2023 9.40am/10.40am CGH Urology Clinic
 - Friday 24 November 2023 10.15am SNEC Eye Clinic @ CGH
+- Friday 8 September 2023 11am IMH Clinic B
