@@ -108,6 +108,46 @@ Actions:
     - https://chat.lmsys.org/
     - https://chat.lmsys.org/?arena
     - https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming
+    - https://iask.ai/
+    - https://www.perplexity.ai/
+- Some news, blogs and content sources:
+    - https://news.ycombinator.com/
+    - https://hackernoon.com/
+    - https://techcrunch.com/category/artificial-intelligence/
+    - https://slashdot.org/
+    - https://dev.to/
+    - https://www.technologyreview.com/
+    - https://www.science.org/
+    - https://www.businesstimes.com.sg/
+    - https://www.channelnewsasia.com/search?q=artificial%20intelligence
+    - https://www.todayonline.com/search?q=artificial%20intelligence
+    - https://www.zdnet.com/
+    - https://www.computerworld.com/
+    - https://www.kdnuggets.com/
+    - https://www.sciencealert.com/
+    - https://towardsdatascience.com/
+    - https://www.deeplearningbook.org/
+    - https://www.fast.ai/
+    - http://jalammar.github.io/
+    - https://colah.github.io/
+    - https://www.ruder.io/
+    - http://karpathy.github.io/
+    - https://distill.pub/
+    - https://dennybritz.com/
+    - https://www.codecademy.com/resources/blog/
+    - https://alistapart.com/
+    - https://www.pathsensitive.com/
+    - https://blog.codinghorror.com/
+    - https://thenewstack.io/
+    - https://www.smashingmagazine.com/
+    - https://ocw.mit.edu/
+    - https://online.stanford.edu/free-courses
+    - https://bair.berkeley.edu/blog/
+    - https://blog.acolyer.org/
+    - https://ai.googleblog.com/
+    - https://cacm.acm.org/
+    - https://thenextweb.com/
+    - http://www.offconvex.org/
 
 # Upcoming Leave and Medical Appointments:
 - Tuesday 30 May 2023 9.40am/10.40am CGH Urology Clinic
