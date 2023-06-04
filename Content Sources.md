@@ -1,0 +1,61 @@
+Generative AI:
+  - https://chat.openai.com/.
+  - https://github.com/features/copilot
+  - https://bard.google.com/
+  - https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat
+  - https://chat.lmsys.org/
+  - https://chat.lmsys.org/?arena
+  - https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming
+  - https://iask.ai/
+  - https://www.perplexity.ai/
+  - https://www.chatpdf.com/
+
+News, blogs and content sources:
+  - More frequently accessed sources:
+    - https://www.businesstimes.com.sg/
+    - https://www.channelnewsasia.com/search?q=artificial%20intelligence
+    - https://www.todayonline.com/search?q=artificial%20intelligence  
+    - https://www.technologyreview.com/
+    - https://www.science.org/
+    - https://www.nature.com/natmachintell/
+  - https://news.ycombinator.com/
+  - https://hackernoon.com/
+  - https://techcrunch.com/category/artificial-intelligence/
+  - https://slashdot.org/
+  - https://dev.to/
+  - https://www.zdnet.com/
+  - https://www.computerworld.com/
+  - https://www.kdnuggets.com/
+  - https://www.sciencealert.com/
+  - https://towardsdatascience.com/
+  - https://betterprogramming.pub/
+  - https://pub.towardsai.net/
+  - https://www.deeplearningbook.org/
+  - https://www.fast.ai/
+  - http://jalammar.github.io/
+  - https://colah.github.io/
+  - https://www.ruder.io/
+  - http://karpathy.github.io/
+  - https://distill.pub/
+  - https://dennybritz.com/
+  - https://www.codecademy.com/resources/blog/
+  - https://alistapart.com/
+  - https://blog.codinghorror.com/
+  - https://thenewstack.io/
+  - https://www.smashingmagazine.com/
+  - https://ocw.mit.edu/
+  - https://online.stanford.edu/free-courses
+  - https://bair.berkeley.edu/blog/
+  - https://blog.acolyer.org/
+  - https://ai.googleblog.com/
+  - https://cacm.acm.org/
+  - https://thenextweb.com/
+  - http://www.offconvex.org/
+  - https://www.quantamagazine.org/computer-science/
+  - https://jack-clark.net/
+  - https://spectrum.ieee.org/topic/artificial-intelligence/
+  - Mirdin related:
+    - https://www.pathsensitive.com/
+    - https://advanced-software-design.disco.co/p/advanced-software-design-feb-2023/dashboard
+    - https://app.slack.com/client/T9F5D6U4R/C04MPE8AULX
+    - https://app.slack.com/client/T012Q6P08BY/C04N48SN57V
