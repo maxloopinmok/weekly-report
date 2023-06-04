@@ -96,7 +96,7 @@ Actions:
 - I attended Tuesday's meeting at 2pm.
 - I attended Thursday's Tech meeting at 2.30pm.
 - Content Sources:
-    - 
+    - https://github.com/maxloosmu/weekly-report/blob/main/Content%20Sources.md
 
 # Upcoming Leave and Medical Appointments:
 - Tuesday 30 May 2023 9.40am/10.40am CGH Urology Clinic
