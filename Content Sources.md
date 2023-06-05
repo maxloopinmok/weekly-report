@@ -18,7 +18,9 @@ News, blogs and content sources:
     - https://www.technologyreview.com/
     - https://www.science.org/
     - https://www.nature.com/natmachintell/
+    - https://www.platformer.news/
   - https://news.ycombinator.com/
+  - https://www.theverge.com
   - https://hackernoon.com/
   - https://techcrunch.com/category/artificial-intelligence/
   - https://slashdot.org/
