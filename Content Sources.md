@@ -19,6 +19,7 @@ News, blogs and content sources:
     - https://www.science.org/
     - https://www.nature.com/natmachintell/
     - https://www.platformer.news/
+    - https://theconversation.com/us/technology
   - https://news.ycombinator.com/
   - https://www.theverge.com
   - https://hackernoon.com/
