@@ -9,6 +9,9 @@ Generative AI:
   - https://iask.ai/
   - https://www.perplexity.ai/
   - https://www.chatpdf.com/
+  - https://elicit.org/
+  - https://talk.truthgpt.one/
+  - https://cloud.google.com/dialogflow
 
 News, blogs and content sources:
   - More frequently accessed sources:
