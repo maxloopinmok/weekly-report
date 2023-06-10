@@ -10,6 +10,7 @@ Generative AI:
   - https://www.perplexity.ai/
   - https://www.chatpdf.com/
   - https://elicit.org/
+  - https://flowgpt.com/
   - https://talk.truthgpt.one/
   - https://cloud.google.com/dialogflow
 
