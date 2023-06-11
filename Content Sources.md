@@ -22,6 +22,7 @@ News, blogs and content sources:
     - https://www.technologyreview.com/
     - https://www.science.org/
     - https://www.nature.com/natmachintell/
+    - https://substack.com/
     - https://www.platformer.news/
     - https://theconversation.com/us/technology
   - https://news.ycombinator.com/
