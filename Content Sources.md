@@ -25,6 +25,7 @@ News, blogs and content sources:
     - https://substack.com/
     - https://www.platformer.news/
     - https://theconversation.com/us/technology
+    - https://siliconangle.com/category/ai/
   - https://news.ycombinator.com/
   - https://www.theverge.com
   - https://hackernoon.com/
