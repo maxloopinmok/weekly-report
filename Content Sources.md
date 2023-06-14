@@ -62,6 +62,7 @@ News, blogs and content sources:
   - https://www.quantamagazine.org/computer-science/
   - https://jack-clark.net/
   - https://spectrum.ieee.org/topic/artificial-intelligence/
+  - https://calnewport.com/blog/
   - Mirdin related:
     - https://www.pathsensitive.com/
     - https://advanced-software-design.disco.co/p/advanced-software-design-feb-2023/dashboard
