@@ -100,8 +100,7 @@ Actions:
     - https://github.com/maxloosmu/weekly-report/blob/main/Content%20Sources.md
 
 # Upcoming Leave and Medical Appointments:
-- Tuesday 30 May 2023 9.40am/10.40am CGH Urology Clinic
-- Thursday 1 June 2023 3.10pm CGH Digestive Diseases Centre
 - Friday 8 September 2023 11am IMH Clinic B
+- Thursday 16 November 2023 3pm CGH Digestive Diseases Centre
 - Friday 24 November 2023 10.15am SNEC Eye Clinic @ CGH
 - Friday 7 June 2024 9.40am CGH-NNI Spine Centre
