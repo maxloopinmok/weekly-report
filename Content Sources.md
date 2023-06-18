@@ -25,7 +25,9 @@ News, blogs and content sources:
     - https://substack.com/
     - https://www.platformer.news/
     - https://theconversation.com/us/technology
+    - https://siliconangle.com/category/ai/
   - https://news.ycombinator.com/
+  - https://www.facebook.com/groups/DeepNetGroup/permalink/1773531039706437/
   - https://www.theverge.com
   - https://hackernoon.com/
   - https://techcrunch.com/category/artificial-intelligence/
@@ -62,6 +64,7 @@ News, blogs and content sources:
   - https://www.quantamagazine.org/computer-science/
   - https://jack-clark.net/
   - https://spectrum.ieee.org/topic/artificial-intelligence/
+  - https://calnewport.com/blog/
   - Mirdin related:
     - https://www.pathsensitive.com/
     - https://advanced-software-design.disco.co/p/advanced-software-design-feb-2023/dashboard
