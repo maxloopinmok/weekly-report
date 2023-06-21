@@ -26,8 +26,10 @@ News, blogs and content sources:
     - https://www.platformer.news/
     - https://theconversation.com/us/technology
     - https://siliconangle.com/category/ai/
+    - https://www.therundown.ai/
   - https://news.ycombinator.com/
   - https://www.facebook.com/groups/DeepNetGroup/permalink/1773531039706437/
+  - https://www.springer.com/journal/10485
   - https://www.theverge.com
   - https://hackernoon.com/
   - https://techcrunch.com/category/artificial-intelligence/
