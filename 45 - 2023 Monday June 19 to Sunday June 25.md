@@ -1,4 +1,4 @@
-As of Sunday 3pm this week, I have worked on the following:
+As of Sunday 5pm this week, I have worked on the following:
 
 # Primary Task:
 - To learn how to do better programming and researching to support and contribute to our projects.
