@@ -3,6 +3,7 @@ Generative AI:
   - https://github.com/features/copilot
   - https://bard.google.com/
   - https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat
+  - https://pi.ai/talk?utm_source=inflection.ai
   - https://chat.lmsys.org/
   - https://chat.lmsys.org/?arena
   - https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming
