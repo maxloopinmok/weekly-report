@@ -9,3 +9,6 @@ As of Sunday 11.59pm this week, I've accomplished these tasks:
     - Ultimate CV : master the art of creating a winning CV with over 100 samples to help you get the job 
     - How to write an impressive CV and cover letter : a comprehensive guide for job seeker 
     - Linked : Conquer linkedin. get your dream job. own your future
+- tried 2 langchains:
+    - this langchain requires an openAI subscription to work: https://github.com/maxloosmu/llm
+    - this langchain requires a Mac to run and cannot run on WSL: https://github.com/maxloosmu/falcon-langchain
