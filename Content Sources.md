@@ -1,3 +1,13 @@
+Selected Sources for Focus:
+- https://chat.openai.com/.
+- https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat
+- https://www.businesstimes.com.sg/
+- https://www.technologyreview.com/
+- https://www.science.org/
+- https://www.nature.com/natmachintell/
+- https://www.therundown.ai/
+- Sunghyun Cho's emailed newsletters
+
 Generative AI:
   - https://chat.openai.com/.
   - https://github.com/features/copilot
@@ -16,7 +26,7 @@ Generative AI:
   - https://cloud.google.com/dialogflow
 
 News, blogs and content sources:
-  - More frequently accessed sources:
+- More frequently accessed sources:
     - https://www.businesstimes.com.sg/
     - https://www.channelnewsasia.com/search?q=artificial%20intelligence
     - https://www.todayonline.com/search?q=artificial%20intelligence  
@@ -28,47 +38,47 @@ News, blogs and content sources:
     - https://theconversation.com/us/technology
     - https://siliconangle.com/category/ai/
     - https://www.therundown.ai/
-  - https://news.ycombinator.com/
-  - https://www.facebook.com/groups/DeepNetGroup/permalink/1773531039706437/
-  - https://www.springer.com/journal/10485
-  - https://www.theverge.com
-  - https://hackernoon.com/
-  - https://techcrunch.com/category/artificial-intelligence/
-  - https://slashdot.org/
-  - https://dev.to/
-  - https://www.zdnet.com/
-  - https://www.computerworld.com/
-  - https://www.kdnuggets.com/
-  - https://www.sciencealert.com/
-  - https://towardsdatascience.com/
-  - https://betterprogramming.pub/
-  - https://pub.towardsai.net/
-  - https://www.deeplearningbook.org/
-  - https://www.fast.ai/
-  - http://jalammar.github.io/
-  - https://colah.github.io/
-  - https://www.ruder.io/
-  - http://karpathy.github.io/
-  - https://distill.pub/
-  - https://dennybritz.com/
-  - https://www.codecademy.com/resources/blog/
-  - https://alistapart.com/
-  - https://blog.codinghorror.com/
-  - https://thenewstack.io/
-  - https://www.smashingmagazine.com/
-  - https://ocw.mit.edu/
-  - https://online.stanford.edu/free-courses
-  - https://bair.berkeley.edu/blog/
-  - https://blog.acolyer.org/
-  - https://ai.googleblog.com/
-  - https://cacm.acm.org/
-  - https://thenextweb.com/
-  - http://www.offconvex.org/
-  - https://www.quantamagazine.org/computer-science/
-  - https://jack-clark.net/
-  - https://spectrum.ieee.org/topic/artificial-intelligence/
-  - https://calnewport.com/blog/
-  - Mirdin related:
+- https://news.ycombinator.com/
+- https://www.facebook.com/groups/DeepNetGroup/permalink/1773531039706437/
+- https://www.springer.com/journal/10485
+- https://www.theverge.com
+- https://hackernoon.com/
+- https://techcrunch.com/category/artificial-intelligence/
+- https://slashdot.org/
+- https://dev.to/
+- https://www.zdnet.com/
+- https://www.computerworld.com/
+- https://www.kdnuggets.com/
+- https://www.sciencealert.com/
+- https://towardsdatascience.com/
+- https://betterprogramming.pub/
+- https://pub.towardsai.net/
+- https://www.deeplearningbook.org/
+- https://www.fast.ai/
+- http://jalammar.github.io/
+- https://colah.github.io/
+- https://www.ruder.io/
+- http://karpathy.github.io/
+- https://distill.pub/
+- https://dennybritz.com/
+- https://www.codecademy.com/resources/blog/
+- https://alistapart.com/
+- https://blog.codinghorror.com/
+- https://thenewstack.io/
+- https://www.smashingmagazine.com/
+- https://ocw.mit.edu/
+- https://online.stanford.edu/free-courses
+- https://bair.berkeley.edu/blog/
+- https://blog.acolyer.org/
+- https://ai.googleblog.com/
+- https://cacm.acm.org/
+- https://thenextweb.com/
+- http://www.offconvex.org/
+- https://www.quantamagazine.org/computer-science/
+- https://jack-clark.net/
+- https://spectrum.ieee.org/topic/artificial-intelligence/
+- https://calnewport.com/blog/
+- Mirdin related:
     - https://www.pathsensitive.com/
     - https://advanced-software-design.disco.co/p/advanced-software-design-feb-2023/dashboard
     - https://app.slack.com/client/T9F5D6U4R/C04MPE8AULX
