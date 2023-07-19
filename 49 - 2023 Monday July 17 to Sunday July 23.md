@@ -10,9 +10,13 @@ This report is updated as of Monday 1am this week.  I'm on medical leave on Mond
 ### 3) Try a few langchains.  
 
 ### 4) Read the news to understand the economic and business context behind the tech.  
+- primarily reviewed articles from https://github.com/maxloosmu/weekly-report/blob/main/Content%20Sources.md#selected-sources-for-focus
 
 ### 5) Try to review and clear my printed notes.  
+- read https://astralcodexten.substack.com/p/the-canal-papers
 
 ### 6) Attend more events, both online and in person.  
+- attended https://www.meetup.com/meetup-group-aimeetupsingapore/events/294759412/
 
 ### 7) Assess possible courses to take and taking them.  
+- in progress.  
