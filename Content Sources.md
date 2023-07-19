@@ -1,4 +1,4 @@
-Selected Sources for Focus:
+### Selected Sources for Focus:
 - https://chat.openai.com/.
 - https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat
 - https://www.businesstimes.com.sg/
@@ -8,7 +8,7 @@ Selected Sources for Focus:
 - https://www.therundown.ai/
 - Sunghyun Cho's emailed newsletters
 
-Generative AI:
+### Generative AI:
   - https://chat.openai.com/.
   - https://github.com/features/copilot
   - https://bard.google.com/
@@ -25,7 +25,7 @@ Generative AI:
   - https://talk.truthgpt.one/
   - https://cloud.google.com/dialogflow
 
-News, blogs and content sources:
+### News, blogs and content sources:
 - More frequently accessed sources:
     - https://www.businesstimes.com.sg/
     - https://www.channelnewsasia.com/search?q=artificial%20intelligence

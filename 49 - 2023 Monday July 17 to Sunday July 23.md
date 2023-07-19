@@ -4,6 +4,8 @@ This report is updated as of Monday 1am this week.  I'm on medical leave on Mond
 - My job search and job applications focus on data, AI, GPT and bioinformatics related jobs.  
 
 ### 2) Search for and read langchain or AI/LLM related content.
+- completed watching https://www.linkedin.com/learning/gpt-4-foundations-building-ai-powered-apps/welcome-to-gpt-4-foundations?u=21102035
+- watched parts of https://nlbsg.udemy.com/course/langchain-develop-ai-web-apps-with-javascript-and-langchain/learn/lecture/38093174
 
 ### 3) Try a few langchains.  
 
