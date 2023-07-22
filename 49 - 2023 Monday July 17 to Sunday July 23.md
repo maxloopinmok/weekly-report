@@ -1,4 +1,4 @@
-This report is updated as of Saturday 11.45pm this week.  I was on medical leave on Monday and Tuesday due to a persistent sore throat, cough and running nose.  This is a layout of the tasks I've done or planned to do:
+This report is updated as of Sunday 1.40am this week.  I was on medical leave on Monday and Tuesday due to a persistent sore throat, cough and running nose.  This is a layout of the tasks I've done or planned to do:
 
 ### 1) Apply for jobs.
 - My job search and job applications focus on data, AI, GPT and bioinformatics related jobs.  
@@ -29,4 +29,4 @@ This report is updated as of Saturday 11.45pm this week.  I was on medical leave
 - in progress.  
 
 ### 8) Read books to improve job search, contextual awareness, and tech skills
-- read parts of the book "No Job?  No Sweat!"
+- read parts of the book "No Job?  No Sweat!  Turn Your Know-How into Income!"
