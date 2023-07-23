@@ -1,4 +1,4 @@
-This report is updated as of Sunday 1.40am this week.  I was on medical leave on Monday and Tuesday due to a persistent sore throat, cough and running nose.  This is a layout of the tasks I've done or planned to do:
+This report is updated as of Sunday 11.59pm this week.  I was on medical leave on Monday and Tuesday due to a persistent sore throat, cough and running nose.  This is a layout of the tasks I've done or planned to do:
 
 ### 1) Apply for jobs.
 - My job search and job applications focus on data, AI, GPT and bioinformatics related jobs.  
@@ -19,6 +19,7 @@ This report is updated as of Sunday 1.40am this week.  I was on medical leave on
 - read https://astralcodexten.substack.com/p/the-canal-papers
 - read https://pub.towardsai.net/harnessing-the-power-of-llms-code-generation-unleashed-cdacb6c827de
 - read https://github.blog/2023-06-13-survey-reveals-ais-impact-on-the-developer-experience/
+- https://www.vox.com/policy/2023/7/7/23784663/alzheimers-drug-lecanemab-leqembi-full-fda-approval
 
 ### 6) Attend more events, both online and in person.  
 - attended an online event "Unleash the power of ChatGPT - Masterclass"
@@ -30,3 +31,5 @@ This report is updated as of Sunday 1.40am this week.  I was on medical leave on
 
 ### 8) Read books to improve job search, contextual awareness, and tech skills
 - read parts of the book "No Job?  No Sweat!  Turn Your Know-How into Income!"
+- read parts of the book "Futureproof: 9 Rules for Humans in the Age of Automation"
+- read parts of the book "The Future of the Professions: How Technology Will Transform the Work of Human Experts, Updated Edition"
