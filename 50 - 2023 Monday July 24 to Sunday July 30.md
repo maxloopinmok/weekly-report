@@ -21,9 +21,9 @@ This report is updated as of Saturday 11.59pm this week.  I took half day aftern
 ### 5) Read the news to understand the economic and business context behind the tech.  
 - primarily reviewed a few sources from https://github.com/maxloosmu/weekly-report/blob/main/Content%20Sources.md#selected-sources-for-focus
 
-### 5) Try to review and clear my printed notes.  
+### 6) Try to review and clear my printed notes.  
 - read a little of https://arxiv.org/abs/2302.06100
 - read a little of https://platform.openai.com/docs/guides/gpt-best-practices
 
-### 5) Other readings
+### 7) Other readings
 - read chapters 1 and 2 of the book "How to Talk about Data: Build your data fluency"
