@@ -6,7 +6,7 @@ This report is updated as of Sunday 11.59pm this week.  I was mainly preoccupied
     - https://sg.linkedin.com/
     - https://www.jobstreet.com.sg/
 
-### 2) Victim of a Job Scam
+### 2) Nearly Became Victim of a Job Scam
 - Applied for this job:
     - https://www.linkedin.com/jobs/view/3688275230/
 - Attended training to use this website, which is now unavailable:
