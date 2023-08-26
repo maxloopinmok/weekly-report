@@ -1,4 +1,4 @@
-This report is updated as of Saturday 11.59pm this week.  I was again having bowels moving problems.  In addition, I fell sick on Tuesday and Wednesday, so I slept my Wednesday away.  However, I had also spent some time listening to the speeches of Singapore's Presidential Hopefuls and sharing my views on Facebook.  
+This report is updated as of Saturday 11.59pm this week.  I had bowels moving problems at the start of the week.  In addition, I fell sick on Tuesday and Wednesday, so I slept my Wednesday away.  However, I had also spent some time listening to the speeches of Singapore's Presidential Hopefuls and sharing my views on Facebook.  
 
 # Primary Task:
 - To learn more about data science and AI, and get a relevant job.  
