@@ -3,20 +3,27 @@ This report is updated as of Saturday 11.59pm this week.  I had bowels moving pr
 # Primary Task:
 - To learn more about data science and AI, and get a relevant job.  
 
+## 4 Sub-Tasks:
 ### 1) Attended AIAP Open House on 26 August 2023 (Saturday) inside NUS
 - https://aisingapore.org/innovation/aiap/
 
-### 2) Kept updated by briefly and selectively reading The Straits Times, and The Business Times for jobs and relevant news
-- https://eresources.nlb.gov.sg/main/sphnewspapers
+### 2) Apply for jobs.
+- I updated my resume, LinkedIn profile, and applied for a few jobs: 
+    - https://www.mycareersfuture.gov.sg/
 
-### 3) Kept updated by briefly reading newsletters and other news
-- The Rundown AI
-- Today's Hacker News
-- MIT Technology Review
+### 3) Kept updated by briefly and selectively reading online content
+- The Straits Times, and The Business Times for jobs and relevant news
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- online newsletters and other news
+    - The Rundown AI
+    - Today's Hacker News
+    - MIT Technology Review
 
 ### 4) Continue learning from Udemy
 - The Data Analyst Course: Complete Data Analyst Bootcamp
     - Finished Section 8: Pandas Basics
+- Break out of Excel and into Tableau in 90 Minutes
+    - Finished course: https://github.com/maxloosmu/tableau-public
 
 # Upcoming Schedule
 - Thursday 31 August 2023 3.30pm MSS 13, Medical Social Services @ IB, CGH
