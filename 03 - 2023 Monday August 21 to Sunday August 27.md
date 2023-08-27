@@ -1,4 +1,4 @@
-This report is updated as of Saturday 11.59pm this week.  I had bowels moving problems at the start of the week.  In addition, I fell sick on Tuesday and Wednesday, so I slept my Wednesday away.  However, I had also spent some time listening to the speeches of Singapore's Presidential Hopefuls and sharing my views on Facebook.  
+This report is updated as of Sunday 11.59pm this week.  I had more bowels moving problems at the start of the week.  In addition, I fell sick on Tuesday and Wednesday, so I slept my Wednesday away.  However, I had also spent some time listening to the speeches of Singapore's Presidential Hopefuls and sharing my views on Facebook.  
 
 # Primary Task:
 - To learn more about data science and AI, and get a relevant job.  
@@ -24,6 +24,11 @@ This report is updated as of Saturday 11.59pm this week.  I had bowels moving pr
     - Finished Section 8: Pandas Basics
 - Break out of Excel and into Tableau in 90 Minutes
     - Finished course: https://github.com/maxloosmu/tableau-public
+- Machine Learning 101 with Scikit-learn and StatsModels
+    - Completed until Section 3: Linear Regression with StatsModels, Quiz 5: Correlation vs Regression
+- Deep Learning A-Z™ 2023: Neural Networks, AI & ChatGPT Bonus
+    - Completed until Section 1: Welcome to the course!
+    - Watched https://www.youtube.com/watch?v=Bw7pAYv6iaM
 
 # Upcoming Schedule
 - Thursday 31 August 2023 3.30pm MSS 13, Medical Social Services @ IB, CGH
