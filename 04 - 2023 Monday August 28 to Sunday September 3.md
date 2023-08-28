@@ -4,9 +4,10 @@ This report is updated as of Monday 11.59pm this week.
 - briefly and selectively covered past 3 to 4 days of news from The Straits Times and The Business Times
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - sorted through some books, papers and notes in my room at home and disposed of some of them.  
-- continue learning: 
+- continued learning: 
     - Machine Learning 101 with Scikit-learn and StatsModels
         - Completed until Section 3: Linear Regression with StatsModels - 18. What is Seaborn?
+        - https://github.com/maxloosmu/ML101
 
 
 # Upcoming Schedule
