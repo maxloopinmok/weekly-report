@@ -13,6 +13,7 @@ This report is updated as of Monday 11.59pm this week.
 - I felt unwell for most of today due to inability of bowels to move for two days.  I managed to move a little bit of bowels at night, but it's not enough.  
 - I visited SkillsFuture Singapore at Lifelong Learning Institute for a Skills and Training Advisory Session, and was introduced to this:
     - https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/SFC_For_Learning_Subscription.html.html
+    - https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/SkillsFuture_Credit.html
 - I briefly visited Kinokuniya Book Store at Orchard Road and found a couple of the latest available books relevant for me:
     - The PARA Method: Simplify, Organize, and Master Your Digital Life
     - Killer ChatGPT Prompts: Harness the Power of AI for Success and Profit
