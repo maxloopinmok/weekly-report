@@ -31,7 +31,7 @@ This report is updated as of Monday 11.59pm this week.
 - I continued learning from Udemy:
     - The Data Analyst Course: Complete Data Analyst Bootcamp
         - Completed until Section 9: Working with Text Files - 93. File vs File Object, Read vs Parse
-
+- I spent a few hours at the library troubleshooting GIT for my ASUS laptop.  I finally got GIT working from my ASUS laptop at home.
 
 
 
