@@ -1,4 +1,4 @@
-This report is updated as of Monday 11.59pm this week.
+This report is updated as of Friday 11.59pm this week.
 
 ### Monday (28 Aug)
 - I briefly and selectively covered past 3 to 4 days of news from The Straits Times and The Business Times
