@@ -25,7 +25,7 @@ This report is updated as of Monday 11.59pm this week.
 - I read the day's news from The Straits Times and The Business Times
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 
-### Wednesday
+### Wednesday (30 Aug)
 - I read the day's news from The Straits Times and The Business Times
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I continued learning from Udemy:
@@ -33,7 +33,7 @@ This report is updated as of Monday 11.59pm this week.
         - Completed until Section 9: Working with Text Files - 93. File vs File Object, Read vs Parse
 - I spent a few hours at the library troubleshooting GIT for my ASUS laptop.  I finally got GIT working from my ASUS laptop at home.
 
-### Thursday
+### Thursday (31 Aug)
 -  I read the day's news from The Straits Times and The Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I read the week's news from The Economist:
@@ -42,13 +42,22 @@ This report is updated as of Monday 11.59pm this week.
     - Thursday 31 August 2023 3.30pm MSS 13, Medical Social Services @ IB, CGH
 - Due to a lack of bowels movement today, I felt slightly unwell towards evening, and had naps while watching the news on CNA and Channel 5 at night.  
 
-### Friday (planning)
-- Vote in the Presidential Election before going for lunch.  
+### Friday (1 Sep)
+- I voted in the Singapore Presidential Election before going for lunch.  
+    - Friday 1 September 2023 Presidential Election Voting Day
+- I visited Kinokuniya Book Store at Orchard Road and found a few of the latest available books relevant for me:
+    - The Age of Prediction: Algorithms, AI, and the Shifting Shadows of Risk
+    - The AI Dilemma: 7 Principles for Responsible Technology
+    - The Good Enough Job: Reclaiming Life from Work
+    - Machine Learning: Theory to Applications
+- I spent some time reading the book: "Die With Zero: Getting All You Can from Your Money and Your Life" until Chapter 3: "Why Die with Zero?"
+- I listened to the news about the Singapore Presidential Election results.  
 
+### Saturday (planning)
+- Work in the library from 2pm to 5pm.  
 
 
 # Upcoming Schedule
-- Friday 1 September 2023 Presidential Election Voting Day
 - Wednesday 6 September 2023 10am CCP Career Fair at Lifelong Learning Institute
 
 # Upcoming Medical Appointments
