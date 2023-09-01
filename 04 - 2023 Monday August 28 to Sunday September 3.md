@@ -54,11 +54,14 @@ This report is updated as of Monday 11.59pm this week.
 - I listened to the news about the Singapore Presidential Election results.  
 
 ### Saturday (planning)
-- Work in the library from 2pm to 5pm.  
+- Do readings and learnings with a laptop in the library from 2pm to 5pm.  
+
 
 
 # Upcoming Schedule
 - Wednesday 6 September 2023 10am CCP Career Fair at Lifelong Learning Institute
+- Wednesday 13 September 2.30 pm Job placement assessment at Enabling Village: 
+    - 20 Lengkok Bahru, #02-01 Block NEST, S(159053). Near to Redhill MRT Station.
 
 # Upcoming Medical Appointments
 - Thursday 7 September 2023 3.40pm CGH Digestive Diseases Centre
