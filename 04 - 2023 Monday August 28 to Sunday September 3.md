@@ -1,4 +1,4 @@
-This report is updated as of Friday 11.59pm this week.
+This report is updated as of Saturday 11.59pm this week.
 
 ### Monday (28 Aug)
 - I briefly and selectively covered past 3 to 4 days of news from The Straits Times and The Business Times
@@ -53,8 +53,13 @@ This report is updated as of Friday 11.59pm this week.
 - I spent some time reading the book: "Die With Zero: Getting All You Can from Your Money and Your Life" until Chapter 3: "Why Die with Zero?"
 - I listened to the news about the Singapore Presidential Election results.  
 
-### Saturday (planning)
-- Do readings and learnings with a laptop in the library from 2pm to 5pm.  
+### Saturday (2 Sep)
+- I spent my lunch time with an Anglican brother from SACC, and my afternoon with my cell group from Riverlife.  
+- I spent my evening reviewing some church videos, some Facebook videos and then doing a writeup on Medium that is quite unrelated to the videos I watched:
+    - https://medium.com/@maxloopinmok/climate-change-and-the-future-of-low-lying-countries-like-singapore-3f74aca4daeb
+
+### Sunday (planning)
+- Do readings and video watching using my laptop at the library.  
 
 
 
