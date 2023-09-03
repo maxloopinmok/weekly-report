@@ -1,4 +1,4 @@
-This report is updated as of Saturday 11.59pm this week.
+This report is updated as of Sunday 11.59pm this week.
 
 ### Monday (28 Aug)
 - I briefly and selectively covered past 3 to 4 days of news from The Straits Times and The Business Times
@@ -58,10 +58,19 @@ This report is updated as of Saturday 11.59pm this week.
 - I spent my evening reviewing some church videos, some Facebook videos and then doing a writeup on Medium that is quite unrelated to the videos I watched:
     - https://medium.com/@maxloopinmok/climate-change-and-the-future-of-low-lying-countries-like-singapore-3f74aca4daeb
 
-### Sunday (planning)
-- Do readings and video watching using my laptop at the library.  
-
-
+### Sunday (3 Sep)
+- I did readings using my laptop at the library.  
+    - I read the past 3 to 4 days' news from The Straits Times and The Business Times
+        - https://eresources.nlb.gov.sg/main/sphnewspapers
+    - I read newsletters and articles from MIT Technology Review:
+        - https://www.technologyreview.com/
+- In the evening, I did the following:
+    - I read parts of the book: "Same God, Different Stories" by Stephen Ng.  
+    - I watched some church videos:
+        - https://www.youtube.com/watch?v=DFgWzO3gA_s
+        - https://www.youtube.com/watch?v=nk_ujP3ar68
+    - I watched a video from Google and Dr Michio Kaku:
+        - https://www.youtube.com/watch?v=_OjRClPzU6Y
 
 # Upcoming Schedule
 - Wednesday 6 September 2023 10am CCP Career Fair at Lifelong Learning Institute
