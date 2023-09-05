@@ -10,6 +10,10 @@ This report is updated as of Tuesday 11.59pm this week.
 ### Tuesday (5 Sep)
 I read the day's news from The Straits Times and The Business Times
     - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I continued learning from Udemy:
+    - The Data Analyst Course: Complete Data Analyst Bootcamp
+        - Completed until Section 9: Working with Text Files - 101. Importing Text Files in Python ( with open() )
+        - https://github.com/maxloosmu/data-analyst-course
 
 
 
