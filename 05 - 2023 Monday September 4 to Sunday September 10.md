@@ -14,7 +14,15 @@ This report is updated as of Tuesday 11.59pm this week.
     - The Data Analyst Course: Complete Data Analyst Bootcamp
         - Completed until Section 9: Working with Text Files - 101. Importing Text Files in Python ( with open() )
         - https://github.com/maxloosmu/data-analyst-course
-
+- I watched the Andrew Ng's video on AI:
+    - https://www.youtube.com/watch?v=5p248yoa3oE
+- I watched parts of an LLM applications video:
+    - https://www.youtube.com/watch?v=Pft04KLw5Lk
+- I briefly read: 
+    - https://a16z.com/emerging-architectures-for-llm-applications/
+    - https://a16z.com/news-content/
+    - https://a16z.com/bio-health/
+- I watched the news on CNA and Channel 5.  
 
 
 ### Wednesday (plans)
