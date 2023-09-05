@@ -8,7 +8,7 @@ This report is updated as of Tuesday 11.59pm this week.
 - I sort through some of my Yahoo emails.
 
 ### Tuesday (5 Sep)
-I read the day's news from The Straits Times and The Business Times
+- I read the day's news from The Straits Times and The Business Times
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I continued learning from Udemy:
     - The Data Analyst Course: Complete Data Analyst Bootcamp
