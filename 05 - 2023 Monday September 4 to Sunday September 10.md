@@ -1,4 +1,4 @@
-This report is updated as of Wednesday 11.59pm this week.
+This report is updated as of Thursday 11.59pm this week.
 
 ### Monday (4 Sep)
 - Today, I changed my afternoon plan to read and study in the library, into a visit to United Medicare Centre, which is a nursing home at Lorong 6 Toa Payoh.  My father who has dementia, is residing there, and my mother had arranged for a visit there.
