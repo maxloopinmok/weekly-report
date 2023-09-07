@@ -35,9 +35,18 @@ This report is updated as of Wednesday 11.59pm this week.
         - https://github.com/maxloosmu/data-analyst-course
 - I watched the news on CNA and Channel 5.  
 
-### Thursday (planning)
-- visit NTUC Income to resolve questions about my annuity.  
+### Thursday (7 Sep)
+- I rested more during the morning period until lunch due to fatigue after taking bowel medications.  I typed and printed out a summary of my bowel problems.  
 - Thursday 7 September 2023 3.40pm CGH Digestive Diseases Centre
+    - Presented my bowel problems to the specialist, who claims that an overdose of laxatives will not lead to liver toxicity.  
+- I continued working on this:
+    - https://github.com/maxloosmu/data-analyst-course
+    - https://stackoverflow.com/questions/77053670/in-numpy-genfromtxt-missing-values-filling-values-excludelist-deletechars-an
+    - https://stackoverflow.com/questions/77059654/in-numpy-genfromtxt-how-to-use-names-true
+- I typed and printed out a summary of my mental health update, which is essentially about my current state of joblessness and medical problems.
+
+### Friday (planning)
+- Friday 8 September 2023 11am IMH Clinic B
 
 
 
@@ -46,6 +55,5 @@ This report is updated as of Wednesday 11.59pm this week.
     - 20 Lengkok Bahru, #02-01 Block NEST, S(159053). Near to Redhill MRT Station.
 
 # Upcoming Medical Appointments
-- Friday 8 September 2023 11am IMH Clinic B
 - Friday 24 November 2023 10.15am SNEC Eye Clinic @ CGH
 - Friday 7 June 2024 9.40am CGH-NNI Spine Centre
