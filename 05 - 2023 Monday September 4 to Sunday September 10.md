@@ -58,6 +58,7 @@ This report is updated as of Friday 11.59pm this week.
     - 2023 The Career Change Guide: Five Steps to Finding Your Dream Job 
 - I read some news:
     - https://www.jom.media/singapore-this-week-080923/
+    - read various news and research articles about climate change and the rising sea levels.  
 - I watched and reviewed some CNA and Channel 5 news.  
 
 # Upcoming Schedule
