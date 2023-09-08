@@ -1,4 +1,4 @@
-This report is updated as of Thursday 11.59pm this week.
+This report is updated as of Friday 11.59pm this week.
 
 ### Monday (4 Sep)
 - Today, I changed my afternoon plan to read and study in the library, into a visit to United Medicare Centre, which is a nursing home at Lorong 6 Toa Payoh.  My father who has dementia, is residing there, and my mother had arranged for a visit there.
@@ -45,14 +45,26 @@ This report is updated as of Thursday 11.59pm this week.
     - https://stackoverflow.com/questions/77059654/in-numpy-genfromtxt-how-to-use-names-true
 - I typed and printed out a summary of my mental health update, which is essentially about my current state of joblessness and medical problems.
 
-### Friday (planning)
-- Friday 8 September 2023 11am IMH Clinic B
-
-
+### Friday (8 Sep)
+- I went for a medical appointment:
+    - Friday 8 September 2023 11am IMH Clinic B
+- I visited Kinokuniya Book Store at Orchard Road and found several books relevant for me:
+    - 2014 Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company 
+    - 2022 The Careers Handbook: The Ultimate Guide to Planning Your Future 
+    - 2023 Autonomous Transformation: Creating a More Human Future in the Era of Artificial Intelligence 
+    - 2021 Graph Machine Learning: Take graph data to the next level by applying machine learning techniques and algorithms
+    - 2023 Causal Artificial Intelligence: The Next Step in Effective Business AI 
+    - 2017 Taking Charge of Your Career: The Essential Guide to Finding the Job That's Right for You 
+    - 2023 The Career Change Guide: Five Steps to Finding Your Dream Job 
+- I read some news:
+    - https://www.jom.media/singapore-this-week-080923/
+- I watched and reviewed some CNA and Channel 5 news.  
 
 # Upcoming Schedule
 - Wednesday 13 September 2.30 pm Job placement assessment at Enabling Village:
     - 20 Lengkok Bahru, #02-01 Block NEST, S(159053). Near to Redhill MRT Station.
+- Wednesday 20 September 2.30pm In-person mediation session with TADM:
+    - M9, Level 3, Devan Nair Institute for Employment and Employability, 80 Jurong East Street 21, Singapore 609607
 
 # Upcoming Medical Appointments
 - Friday 24 November 2023 10.15am SNEC Eye Clinic @ CGH
