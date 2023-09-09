@@ -1,4 +1,4 @@
-This report is updated as of Friday 11.59pm this week.
+This report is updated as of Saturday 11.59pm this week.
 
 ### Monday (4 Sep)
 - Today, I changed my afternoon plan to read and study in the library, into a visit to United Medicare Centre, which is a nursing home at Lorong 6 Toa Payoh.  My father who has dementia, is residing there, and my mother had arranged for a visit there.
@@ -60,6 +60,20 @@ This report is updated as of Friday 11.59pm this week.
     - https://www.jom.media/singapore-this-week-080923/
     - read various news and research articles about climate change and the rising sea levels.  
 - I watched and reviewed some CNA and Channel 5 news.  
+
+### Saturday (9 Sep)
+- I slept until about 2pm due to an overnight and morning disturbances of sleep from bowel movements where I had to wear diapers for safety and cleanliness.
+- I read the past 3 to 4 days of news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I scanned the week's news from The Economist:
+    - https://eresources.nlb.gov.sg/main/Browse?browseBy=type&filter=14
+- I finished reading the book "Take Charge!: A Practical Guide to Designing Your Career".
+- I watched the CNA and Channel 5 news.  
+
+### Sunday (planning)
+- read and study in the library from 2pm to 5pm.  
+- reflect on and blog about the book "Take Charge!: A Practical Guide to Designing Your Career".
+
 
 # Upcoming Schedule
 - Wednesday 13 September 2.30 pm Job placement assessment at Enabling Village:
