@@ -69,6 +69,10 @@ This report is updated as of Saturday 11.59pm this week.
     - https://eresources.nlb.gov.sg/main/Browse?browseBy=type&filter=14
 - I finished reading the book "Take Charge!: A Practical Guide to Designing Your Career".
 - I watched the CNA and Channel 5 news.  
+- I watched 3 September Sunday's video sermons from Riverlife and SACC.
+- I watched PE2023 RESULTS ANALYSIS with Prof Tommy Koh:
+    - https://www.youtube.com/watch?v=QEPKctj2yc4
+
 
 ### Sunday (planning)
 - read and study in the library from 2pm to 5pm.  
