@@ -79,7 +79,8 @@ This report is updated as of Sunday 11.59pm this week.
     - I read the day's news from The Straits Times:
         - https://eresources.nlb.gov.sg/main/sphnewspapers
     - I sorted through my Yahoo and Gmail emails.
-    - I reflected on the book "Take Charge!: A Practical Guide to Designing Your Career".
+    - I reflected on and wrote some notes on the book "Take Charge!: A Practical Guide to Designing Your Career".
+    - I reflected upon my past 3 years of work, and wrote some notes for TADM.  
 
 
 # Upcoming Schedule
