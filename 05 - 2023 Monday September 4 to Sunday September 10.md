@@ -1,4 +1,4 @@
-This report is updated as of Saturday 11.59pm this week.
+This report is updated as of Sunday 11.59pm this week.
 
 ### Monday (4 Sep)
 - Today, I changed my afternoon plan to read and study in the library, into a visit to United Medicare Centre, which is a nursing home at Lorong 6 Toa Payoh.  My father who has dementia, is residing there, and my mother had arranged for a visit there.
@@ -18,27 +18,27 @@ This report is updated as of Saturday 11.59pm this week.
     - https://www.youtube.com/watch?v=5p248yoa3oE
 - I watched parts of an LLM applications video:
     - https://www.youtube.com/watch?v=Pft04KLw5Lk
-- I briefly read: 
+- I briefly read:
     - https://a16z.com/emerging-architectures-for-llm-applications/
     - https://a16z.com/news-content/
     - https://a16z.com/bio-health/
-- I watched the news on CNA and Channel 5.  
+- I watched the news on CNA and Channel 5.
 
 
 ### Wednesday (6 Sep)
-- I attended interviews at the CCP Career Fair at Lifelong Learning Institute at 10am.  
+- I attended interviews at the CCP Career Fair at Lifelong Learning Institute at 10am.
 - I read the day's news from The Straits Times and The Business Times
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I continued learning from Udemy:
     - The Data Analyst Course: Complete Data Analyst Bootcamp
         - Completed until Section 9: Working with Text Files - 108. Importing Data with NumPy - Exercise
         - https://github.com/maxloosmu/data-analyst-course
-- I watched the news on CNA and Channel 5.  
+- I watched the news on CNA and Channel 5.
 
 ### Thursday (7 Sep)
-- I rested more during the morning period until lunch due to fatigue after taking bowel medications.  I typed and printed out a summary of my bowel problems.  
+- I rested more during the morning period until lunch due to fatigue after taking bowel medications.  I typed and printed out a summary of my bowel problems.
 - Thursday 7 September 2023 3.40pm CGH Digestive Diseases Centre
-    - Presented my bowel problems to the specialist, who claims that an overdose of laxatives will not lead to liver toxicity.  
+    - Presented my bowel problems to the specialist, who claims that an overdose of laxatives will not lead to liver toxicity.
 - I continued working on this:
     - https://github.com/maxloosmu/data-analyst-course
     - https://stackoverflow.com/questions/77053670/in-numpy-genfromtxt-missing-values-filling-values-excludelist-deletechars-an
@@ -49,17 +49,17 @@ This report is updated as of Saturday 11.59pm this week.
 - I went for a medical appointment:
     - Friday 8 September 2023 11am IMH Clinic B
 - I visited Kinokuniya Book Store at Orchard Road and found several books relevant for me:
-    - 2014 Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company 
-    - 2022 The Careers Handbook: The Ultimate Guide to Planning Your Future 
-    - 2023 Autonomous Transformation: Creating a More Human Future in the Era of Artificial Intelligence 
+    - 2014 Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company
+    - 2022 The Careers Handbook: The Ultimate Guide to Planning Your Future
+    - 2023 Autonomous Transformation: Creating a More Human Future in the Era of Artificial Intelligence
     - 2021 Graph Machine Learning: Take graph data to the next level by applying machine learning techniques and algorithms
-    - 2023 Causal Artificial Intelligence: The Next Step in Effective Business AI 
-    - 2017 Taking Charge of Your Career: The Essential Guide to Finding the Job That's Right for You 
-    - 2023 The Career Change Guide: Five Steps to Finding Your Dream Job 
+    - 2023 Causal Artificial Intelligence: The Next Step in Effective Business AI
+    - 2017 Taking Charge of Your Career: The Essential Guide to Finding the Job That's Right for You
+    - 2023 The Career Change Guide: Five Steps to Finding Your Dream Job
 - I read some news:
     - https://www.jom.media/singapore-this-week-080923/
-    - read various news and research articles about climate change and the rising sea levels.  
-- I watched and reviewed some CNA and Channel 5 news.  
+    - read various news and research articles about climate change and the rising sea levels.
+- I watched and reviewed some CNA and Channel 5 news.
 
 ### Saturday (9 Sep)
 - I slept until about 2pm due to an overnight and morning disturbances of sleep from bowel movements where I had to wear diapers for safety and cleanliness.
@@ -68,15 +68,18 @@ This report is updated as of Saturday 11.59pm this week.
 - I scanned the week's news from The Economist:
     - https://eresources.nlb.gov.sg/main/Browse?browseBy=type&filter=14
 - I finished reading the book "Take Charge!: A Practical Guide to Designing Your Career".
-- I watched the CNA and Channel 5 news.  
+- I watched the CNA and Channel 5 news.
 - I watched 3 September Sunday's video sermons from Riverlife and SACC.
 - I watched PE2023 RESULTS ANALYSIS with Prof Tommy Koh:
     - https://www.youtube.com/watch?v=QEPKctj2yc4
+- slept at about 3am.
 
-
-### Sunday (planning)
-- read and study in the library from 2pm to 5pm.  
-- reflect on and blog about the book "Take Charge!: A Practical Guide to Designing Your Career".
+### Sunday (10 Sep)
+- I read and studied in the library from 2pm to 5pm.
+    - I read the day's news from The Straits Times:
+        - https://eresources.nlb.gov.sg/main/sphnewspapers
+    - I sorted through my Yahoo and Gmail emails.
+    - I reflected on the book "Take Charge!: A Practical Guide to Designing Your Career".
 
 
 # Upcoming Schedule
