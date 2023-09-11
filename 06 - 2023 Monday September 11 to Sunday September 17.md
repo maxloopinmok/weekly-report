@@ -9,12 +9,16 @@ This report is updated as of Monday 11.59pm this week.
         - https://www.channelnewsasia.com/topic/ai
     - I read AI, Biotech and Climate Tech news from:
         - https://www.technologyreview.com/
+        - I continued reading these news until midnight at home.  
+
+### Tuesday (planning)
+- read and study in the library from 2pm to 5pm.  
 
 
 # Upcoming Schedule
 - Wednesday 13 September 2.30 pm Job placement assessment at Enabling Village:
     - 20 Lengkok Bahru, #02-01 Block NEST, S(159053). Near to Redhill MRT Station.
-- Tuesdsay 19 September 2pm-5pm
+- Tuesday 19 September 2pm-5pm
     - Ministry of Manpower (MOM), Workforce Singapore (WSG), and SkillsFuture Singapore (SSG) are planning to conduct Focus Group Discussions (FGDs) to seek inputs on ideas on career health
     - Mindspace Room, MOM’s Headquarters (18 Havelock Road Singapore 059764)
 - Wednesday 20 September 2.30pm In-person mediation session with TADM:
