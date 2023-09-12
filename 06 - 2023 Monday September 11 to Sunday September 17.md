@@ -1,4 +1,4 @@
-This report is updated as of Monday 11.59pm this week.
+This report is updated as of Tuesday 11.59pm this week.
 
 ### Monday (11 Sep)
 - I sorted out part of the bookshelves in my room in the morning.
@@ -9,10 +9,14 @@ This report is updated as of Monday 11.59pm this week.
         - https://www.channelnewsasia.com/topic/ai
     - I read AI, Biotech and Climate Tech news from:
         - https://www.technologyreview.com/
-        - I continued reading these news until midnight at home.  
+        - I continued reading these news until midnight at home.
 
 ### Tuesday (planning)
-- read and study in the library from 2pm to 5pm.  
+- I read and studied in library from 1pm to 5pm:
+    - I read the day's news from The Straits Times and The Business Times
+        - https://eresources.nlb.gov.sg/main/sphnewspapers
+    - I read the past couple of weeks' of newsletters from Today's Hacker News, Rundown AI and Rundown Tech.
+        - I selectively read several of the articles from the newsletters.
 
 
 # Upcoming Schedule
