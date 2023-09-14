@@ -32,11 +32,11 @@ This report is updated as of Thursday 11.59pm this week.
 - I watched the day's news on Channel 5.
 
 ### Thursday (14 Sep)
-- I read and studied in library from 12.30pm to 5pm:
-    - I read the day's news from The Straits Times and The Business Times
+- I read and studied in library from 12.30pm to 5pm, and 5.30pm to 8pm:
+    - I read the day's news and Wednesday's news from The Straits Times and The Business Times
         - https://eresources.nlb.gov.sg/main/sphnewspapers
     - I replied to WhatsApp messages and emails during this time too.
-
+- I made preparations for the TADM discussion next week, and also briefly listened to the day's news and relistened to parts of yesterday's news.  
 
 
 # Upcoming Schedule
@@ -49,5 +49,5 @@ This report is updated as of Thursday 11.59pm this week.
 # Upcoming Medical Appointments
 - Thursday 5 October 2023 4pm CGH Digestive Diseases Centre
 - Friday 24 November 2023 10.15am SNEC Eye Clinic @ CGH
-- Friday  January 2023 11am IMH Clinic B
+- Friday 12 January 2023 11am IMH Clinic B
 - Friday 7 June 2024 9.40am CGH-NNI Spine Centre
