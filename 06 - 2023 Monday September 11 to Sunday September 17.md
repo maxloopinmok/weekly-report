@@ -1,4 +1,4 @@
-This report is updated as of Thursday 11.59pm this week.
+This report is updated as of Friday 11.59pm this week.
 
 ### Monday (11 Sep)
 - I sorted out part of the bookshelves in my room in the morning.
@@ -36,7 +36,17 @@ This report is updated as of Thursday 11.59pm this week.
     - I read the day's news and Wednesday's news from The Straits Times and The Business Times
         - https://eresources.nlb.gov.sg/main/sphnewspapers
     - I replied to WhatsApp messages and emails during this time too.
-- I made preparations for the TADM discussion next week, and also briefly listened to the day's news and relistened to parts of yesterday's news.  
+- I made preparations for the TADM discussion next week, and also briefly listened to the day's news and relistened to parts of yesterday's news.
+
+### Friday (15 Sep)
+- I applied for jobs at:
+    - https://www.mycareersfuture.gov.sg/
+- I read and studied in library from 12.30pm to 5pm:
+    - I read the day's news from The Straits Times and The Business Times
+        - https://eresources.nlb.gov.sg/main/sphnewspapers
+    - I watched and tried the code for the Udemy course "PyTorch for Deep Learning and Computer Vision" until "Section 4: Linear Regression - PyTorch" 13. Intro
+        - I updated https://github.com/maxloosmu/pytorch
+
 
 
 # Upcoming Schedule
