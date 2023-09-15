@@ -36,7 +36,7 @@ This report is updated as of Friday 11.59pm this week.
     - I read the day's news and Wednesday's news from The Straits Times and The Business Times
         - https://eresources.nlb.gov.sg/main/sphnewspapers
     - I replied to WhatsApp messages and emails during this time too.
-- I made preparations for the TADM discussion next week, and also briefly listened to the day's news and relistened to parts of yesterday's news.
+- I made preparations for the TADM discussion next week, and also briefly listened to the day's news and rewatched parts of yesterday's news.
 
 ### Friday (15 Sep)
 - I applied for jobs at:
@@ -46,7 +46,9 @@ This report is updated as of Friday 11.59pm this week.
         - https://eresources.nlb.gov.sg/main/sphnewspapers
     - I watched and tried the code for the Udemy course "PyTorch for Deep Learning and Computer Vision" until "Section 4: Linear Regression - PyTorch" 13. Intro
         - I updated https://github.com/maxloosmu/pytorch
-
+    - I updated my reflections on the principles stated in the book "Take Charge!: A Practical Guide to Designing Your Career".
+- I watched the day's news on CNA and Channel 5, and rewatched parts of yesterday's news.
+- I also watched https://www.channelnewsasia.com/watch/lee-kuan-yew-in-his-own-words.  
 
 
 # Upcoming Schedule
