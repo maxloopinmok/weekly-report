@@ -57,7 +57,8 @@ This report is updated as of Saturday 11.59pm this week.
         - I read a little of https://whatsenough.sg/.
     - I watched and tried the code for the Udemy course "PyTorch for Deep Learning and Computer Vision" until "Section 4: Linear Regression - PyTorch" "15. Linear Class"
         - I updated https://github.com/maxloosmu/pytorch
-
+- I made preparations for the TADM discussion next week, and also briefly listened to the day's news and rewatched parts of yesterday's news.
+- I listened to parts of last Sunday's sermons from RiverLife Church, and from SACC.  
 
 
 
