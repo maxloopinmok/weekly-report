@@ -1,4 +1,4 @@
-This report is updated as of Friday 11.59pm this week.
+This report is updated as of Saturday 11.59pm this week.
 
 ### Monday (11 Sep)
 - I sorted out part of the bookshelves in my room in the morning.
@@ -48,7 +48,17 @@ This report is updated as of Friday 11.59pm this week.
         - I updated https://github.com/maxloosmu/pytorch
     - I updated my reflections on the principles stated in the book "Take Charge!: A Practical Guide to Designing Your Career".
 - I watched the day's news on CNA and Channel 5, and rewatched parts of yesterday's news.
-- I also watched https://www.channelnewsasia.com/watch/lee-kuan-yew-in-his-own-words.  
+- I also watched https://www.channelnewsasia.com/watch/lee-kuan-yew-in-his-own-words.
+
+### Saturday (16 Sep)
+- I read and studied in library from 1.30pm to 5pm:
+    - I read the day's news from The Straits Times and The Business Times
+        - https://eresources.nlb.gov.sg/main/sphnewspapers
+        - I read a little of https://whatsenough.sg/.
+    - I watched and tried the code for the Udemy course "PyTorch for Deep Learning and Computer Vision" until "Section 4: Linear Regression - PyTorch" "15. Linear Class"
+        - I updated https://github.com/maxloosmu/pytorch
+
+
 
 
 # Upcoming Schedule
