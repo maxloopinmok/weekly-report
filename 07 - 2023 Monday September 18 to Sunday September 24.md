@@ -5,7 +5,9 @@ This report is updated as of Monday 11.59pm this week.
     - I read the day's news from The Straits Times and The Business Times
         - https://eresources.nlb.gov.sg/main/sphnewspapers
     - I sorted through parts of my Yahoo and Gmail emails
-- I made preparations for the TADM discussion next week, and also briefly listened to the day's news and rewatched parts of yesterday's news.
+- I made preparations for the TADM discussion on Wednesday this week, and also briefly listened to the day's news and rewatched parts of yesterday's news.
+- I read parts of the book "Artificial Intelligence and the Future of Humanity (Current Controversies)"
+
 
 
 # Upcoming Schedule
