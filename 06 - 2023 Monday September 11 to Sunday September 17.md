@@ -1,4 +1,4 @@
-This report is updated as of Saturday 11.59pm this week.
+This report is updated as of Sunday 11.59pm this week.
 
 ### Monday (11 Sep)
 - I sorted out part of the bookshelves in my room in the morning.
@@ -58,7 +58,24 @@ This report is updated as of Saturday 11.59pm this week.
     - I watched and tried the code for the Udemy course "PyTorch for Deep Learning and Computer Vision" until "Section 4: Linear Regression - PyTorch" "15. Linear Class"
         - I updated https://github.com/maxloosmu/pytorch
 - I made preparations for the TADM discussion next week, and also briefly listened to the day's news and rewatched parts of yesterday's news.
-- I listened to parts of last Sunday's sermons from RiverLife Church, and from SACC.  
+- I listened to parts of last Sunday's sermons from RiverLife Church, and from SACC.
+
+### Sunday (17 Sep)
+- I took a trip to the Kinokuniya bookstore at Orchard Road today, and found some relevant books:
+    - 2018 Confident Data Skills: Master the Fundamentals of Working with Data and Supercharge Your Career
+    - 2016 The Self-taught Programmer: The Definitive Guide to Programming Professionally
+    - 2019 Own the A.I. Revolution: Unlock Your Artificial Intelligence Strategy to Disrupt Your Competition
+    - 2019 The Creativity Code: Art and Innovation in the Age of AI
+    - 2020 AI and Machine Learning For Coders: A Programmer's Guide to Artificial Intelligence
+    - 2020 The Coevolution: The Entwined Futures of Humans and Machines
+    - 2022 Power and Prediction: The Disruptive Economics of Artificial Intelligence
+    - 2023 Confident Data Science: Discover the Essential Skills of Data Science
+    - 2023 The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma
+    - 2023 The Datapreneurs: The Promise of AI and the Creators Building Our Future
+    - 2023 Artificial Intelligence and the Future of Humanity (Current Controversies)
+- I read the book "The Future of Work, The Right Job for You" by Dennis Mark and Michael Dam, Chapter "How to Handle Interviews with Confidence".
+- I listened to Pastor Joseph Prince's sermon: https://www.youtube.com/live/w_XbOV1omCQ?si=Uf9aR8EQvyD3gcBz
+- I made preparations for the TADM discussion next week, and also briefly listened to the day's news and rewatched parts of yesterday's news.
 
 
 
