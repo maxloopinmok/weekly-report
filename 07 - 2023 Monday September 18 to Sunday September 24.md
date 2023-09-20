@@ -1,4 +1,4 @@
-This report is updated as of Tuesday 11.59pm this week.
+This report is updated as of Wednesday 11.59pm this week.
 
 ### Monday (18 Sep)
 - I read and studied in library from 2pm to 5pm, 6pm to 7pm:
