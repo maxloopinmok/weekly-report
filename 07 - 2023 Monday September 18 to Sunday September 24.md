@@ -19,6 +19,7 @@ This report is updated as of Wednesday 11.59pm this week.
     - M9, Level 3, Devan Nair Institute for Employment and Employability, 80 Jurong East Street 21, Singapore 609607
 - I briefly listened to the day's news and watched this:
     - https://www.channelnewsasia.com/watch/i-remember-lee-kuan-yew
+- I completed reading the book "Artificial Intelligence and the Future of Humanity (Current Controversies)" until "Chapter 1: Does Artificial Intelligence Pose A Threat To Humanity?"
 
 
 
