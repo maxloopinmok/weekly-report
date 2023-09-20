@@ -14,11 +14,25 @@ This report is updated as of Tuesday 11.59pm this week.
     - Mindspace Room, MOM’s Headquarters (18 Havelock Road Singapore 059764)
 - I made preparations for the TADM discussion on Wednesday this week, and also briefly listened to the day's news and rewatched parts of yesterday's news.
 
+### Wednesday (20 Sep)
+- Wednesday 20 September 2.30pm-5pm In-person mediation session with TADM:
+    - M9, Level 3, Devan Nair Institute for Employment and Employability, 80 Jurong East Street 21, Singapore 609607
+- I briefly listened to the day's news and watched this:
+    - https://www.channelnewsasia.com/watch/i-remember-lee-kuan-yew
+
 
 
 # Upcoming Schedule
-- Wednesday 20 September 2.30pm In-person mediation session with TADM:
-    - M9, Level 3, Devan Nair Institute for Employment and Employability, 80 Jurong East Street 21, Singapore 609607
+- Wednesday September 27th from 03:00 PM to 04:00 PM Interview for AI Engineer role at Alvisual Pte Ltd
+    - Technical Assessment (25 mins)
+    - One-on-One Interview (25 mins)
+    - Q&A Session (10 mins)
+    - Please note that this interview will be conducted on-site at our office located at:
+    - 7 Jln Kilang #04-01
+    - Singapore 159407
+    - Regarding the technical assessment, it consists of written questions related to Python syntax and basic OpenCV operations. 
+
+
 
 # Upcoming Medical Appointments
 - Thursday 5 October 2023 4pm CGH Digestive Diseases Centre
