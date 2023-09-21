@@ -21,6 +21,12 @@ This report is updated as of Wednesday 11.59pm this week.
     - https://www.channelnewsasia.com/watch/i-remember-lee-kuan-yew
 - I completed reading the book "Artificial Intelligence and the Future of Humanity (Current Controversies)" until "Chapter 1: Does Artificial Intelligence Pose A Threat To Humanity?"
 
+### Thursday (21 Sep)
+- I read and studied in library from 1pm to 5pm:
+    - I read the past 3 days' news from The Straits Times and The Business Times
+        - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I visited a doctor after dinner due to a persistent running nose and sore throat.
+
 
 
 # Upcoming Schedule
@@ -31,7 +37,7 @@ This report is updated as of Wednesday 11.59pm this week.
     - Please note that this interview will be conducted on-site at our office located at:
     - 7 Jln Kilang #04-01
     - Singapore 159407
-    - Regarding the technical assessment, it consists of written questions related to Python syntax and basic OpenCV operations. 
+    - Regarding the technical assessment, it consists of written questions related to Python syntax and basic OpenCV operations.
 
 
 
