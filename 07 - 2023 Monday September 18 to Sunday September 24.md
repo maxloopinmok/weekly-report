@@ -26,18 +26,24 @@ This report is updated as of Friday 11.59pm this week.
     - I read the past 3 days' news from The Straits Times and The Business Times
         - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I visited a doctor after dinner due to a persistent running nose and sore throat.
-- I read the book "The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma" until "Chapter 2: Endless Proliferation".  
-- I listened to the day's news on CNA and Channel 5.  
+- I read the book "The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma" until "Chapter 2: Endless Proliferation".
+- I listened to the day's news on CNA and Channel 5.
 
 ### Friday (22 Sep)
 - I read and studied in library from 2pm to 5pm:
-    - I read the past 3 days' news from The Straits Times and The Business Times
+    - I read the day's news from The Straits Times and The Business Times
         - https://eresources.nlb.gov.sg/main/sphnewspapers
-    - I sorted through my Yahoo emails.  
-- I listened to the day's news on CNA and Channel 5.  
+    - I sorted through my Yahoo emails.
+- I listened to the day's news on CNA and Channel 5.
 - I watched and tried the code for the Udemy course "PyTorch for Deep Learning and Computer Vision" until "Section 4: Linear Regression - PyTorch" "20. Mean Squared Error"
     - I updated https://github.com/maxloosmu/pytorch
     - I updated ChatGPT: https://chat.openai.com/c/efc45334-ab81-47d4-8438-bf35f8f3df73
+
+### Saturday (23 Sep)
+- I read and studied in library from 2pm to 5pm:
+    - I read part of the day's news from The Straits Times and The Business Times
+        - https://eresources.nlb.gov.sg/main/sphnewspapers
+    - I sorted through my Gmail emails and read the MIT Technology Review newsletters.
 
 
 
