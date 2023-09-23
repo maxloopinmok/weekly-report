@@ -1,4 +1,4 @@
-This report is updated as of Friday 11.59pm this week.
+This report is updated as of Saturday 11.59pm this week.
 
 ### Monday (18 Sep)
 - I read and studied in library from 2pm to 5pm, 6pm to 7pm:
@@ -40,10 +40,17 @@ This report is updated as of Friday 11.59pm this week.
     - I updated ChatGPT: https://chat.openai.com/c/efc45334-ab81-47d4-8438-bf35f8f3df73
 
 ### Saturday (23 Sep)
-- I read and studied in library from 2pm to 5pm:
-    - I read part of the day's news from The Straits Times and The Business Times
+- I read and studied in library from 2pm to 5pm, 5.30pm to 7.30pm:
+    - I read parts of the day's news from The Straits Times and The Business Times
         - https://eresources.nlb.gov.sg/main/sphnewspapers
+    - I read the AI parts of the past 2 weeks' The Economist magazine:
+        - https://eresources.nlb.gov.sg/main/browse/resource/1323
     - I sorted through my Gmail emails and read the MIT Technology Review newsletters.
+- I continued finishing the day's news from The Straits Times and The Business Times when I got home.  
+- I listened to the day's news on CNA and Channel 5.
+- I completed watching and testing the code for the Udemy course "PyTorch for Deep Learning and Computer Vision" until "Section 4: Linear Regression - PyTorch"
+- I watched the Udemy course "Python for Computer Vision with OpenCV and Deep Learning" until "Section 2: NumPy and Image Basics" "5. Introduction to Numpy and Image Section"
+
 
 
 
