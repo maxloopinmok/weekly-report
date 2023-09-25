@@ -1,11 +1,12 @@
 This report is updated as of Monday 11.59pm this week.
 
 ### Monday (25 Sep)
-- I read and studied in library from 1.30pm to 5pm:
+- I read and studied in library from 1.30pm to 5pm, 6pm to 8pm:
     - I read the day's news from The Straits Times:
         - https://eresources.nlb.gov.sg/main/sphnewspapers
     - I watched and tried the Udemy course "Python for Computer Vision with OpenCV and Deep Learning" until "Section 3: Image Basics with OpenCV" "15. Drawing on Images Part Two - Text and Polygons"
         - I updated https://github.com/maxloosmu/CVPython/tree/main.
+    - I watched the Udemy course "PyTorch Ultimate 2023: From Basics to Cutting-Edge" until "Section 1: Course Overview & System Setup" "8. How to work with the course"
 
 
 
