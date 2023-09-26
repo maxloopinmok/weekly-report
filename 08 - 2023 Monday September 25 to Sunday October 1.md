@@ -22,6 +22,7 @@ This report is updated as of Tuesday 11.59pm this week.
         - https://eresources.nlb.gov.sg/main/sphnewspapers
     - I watched the Udemy course "PyTorch Ultimate 2023: From Basics to Cutting-Edge" until "Section 7: PyTorch Modeling Introduction" "38. Section Overview"
 - I updated the HTML files comparison web app: https://github.com/maxloosmu/pytorch/tree/main/torch
+- I listened to the day's news on CNA and Channel 5.
 
 
 
