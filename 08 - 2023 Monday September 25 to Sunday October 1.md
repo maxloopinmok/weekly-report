@@ -1,4 +1,4 @@
-This report is updated as of Tuesday 11.59pm this week.
+This report is updated as of Thursday 11.59pm this week.
 
 ### Monday (25 Sep)
 - I read and studied in library from 1.30pm to 5pm, 6pm to 8pm:
@@ -24,9 +24,7 @@ This report is updated as of Tuesday 11.59pm this week.
 - I updated the HTML files comparison web app: https://github.com/maxloosmu/pytorch/tree/main/torch
 - I listened to the day's news on CNA and Channel 5.
 
-
-
-# Upcoming Schedule
+### Wednesday (27 Sep)
 - Wednesday September 27th from 03:00 PM to 04:00 PM Interview for AI Engineer role at Alvisual Pte Ltd
     - Technical Assessment (25 mins)
     - One-on-One Interview (25 mins)
@@ -35,6 +33,27 @@ This report is updated as of Tuesday 11.59pm this week.
     - 7 Jln Kilang #04-01
     - Singapore 159407
     - Regarding the technical assessment, it consists of written questions related to Python syntax and basic OpenCV operations.
+- I read the day's news from The Straits Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I listened to the day's news on CNA and Channel 5.
+- I read the book "Still Room for Humans: Career Planning in an AI World" until "Chapter 2: Artificial Intelligence".  
+
+### Thursday (28 Sep)
+- I sorted parts of my printed reading materials in my home.  
+- I sorted through a wrong interview with SBS Transit over phone and messaging.  
+- I discussed future possibilities firstly with SPD personnel over telephone, and then visited Simei Care Centre to talk to a Rehab Counsellor.  
+- I briefly visited Kinokuniya bookstore at Orchard Road, and identified a useful book:
+    - 2015 Cracking the Coding Interview: 189 Programming Questions and Solutions 
+- I watched the Udemy course "PyTorch Ultimate 2023: From Basics to Cutting-Edge" until "Section 7: PyTorch Modeling Introduction" "40. Linear Regression from Scratch (Coding, Model Evaluation)".  
+- I listened to the day's news on CNA and Channel 5.
+- I read the day's news from The Straits Times and the past 4 days from Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I read the newsletters from Today's Hacker News, MIT Technology Review, and Rundown.  
+
+
+
+
+# Upcoming Schedule
 
 # Upcoming Medical Appointments
 - Thursday 5 October 2023 4pm CGH Digestive Diseases Centre
