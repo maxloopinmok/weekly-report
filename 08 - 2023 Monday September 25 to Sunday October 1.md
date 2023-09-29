@@ -1,5 +1,3 @@
-This report is updated as of Thursday 11.59pm this week.
-
 ### Monday (25 Sep)
 - I read and studied in library from 1.30pm to 5pm, 6pm to 8pm:
     - I read the day's news from The Straits Times:
@@ -50,13 +48,18 @@ This report is updated as of Thursday 11.59pm this week.
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I read the newsletters from Today's Hacker News, MIT Technology Review, and Rundown.  
 
-
+### Friday (29 Sep)
+- I slept more today due to the pressure sore on my buttocks, and my neck pain.
+- I packed and sorted through parts of my room to prepare for Saturday's aircon installation.  
+- I listened to the day's news on CNA.  
+- I read the day's news from The Straits Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
 
 
 # Upcoming Schedule
 
 # Upcoming Medical Appointments
 - Thursday 5 October 2023 4pm CGH Digestive Diseases Centre
+- Thursday 12 October 2023 2.30pm CGH-NNI Spine Centre
 - Friday 24 November 2023 10.15am SNEC Eye Clinic @ CGH
 - Friday 12 January 2023 11am IMH Clinic B
-- Friday 7 June 2024 9.40am CGH-NNI Spine Centre
