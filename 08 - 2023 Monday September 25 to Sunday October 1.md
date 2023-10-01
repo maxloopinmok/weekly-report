@@ -55,6 +55,18 @@
 - I read the day's news from The Straits Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 
+### Saturday (30 Sep)
+- I helped with the oversight of the aircon installation works at my home.  
+- I selectively read several chapters from the book "Still Room for Humans: Career Planning in an AI World", from chapters 9 to 13.  
+- I read the day's news from The Straits Times and the past couple of days of Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I listened to the day's news on Channel 5.  
+- I listened to last Sunday's sermons from Riverlife Church and SACC.  
+- I listened to a few YouTube videos, such as:
+    - https://www.youtube.com/watch?v=TY1a00j5YAk
+    - https://www.youtube.com/watch?v=98kMSEkPiLo
+
+
 
 # Upcoming Schedule
 
