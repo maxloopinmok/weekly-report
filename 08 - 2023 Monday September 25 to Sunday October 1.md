@@ -57,7 +57,7 @@
 
 ### Saturday (30 Sep)
 - I helped with the oversight of the aircon installation works at my home.  
-- I selectively read several chapters from the book "Still Room for Humans: Career Planning in an AI World", from chapters 9 to 13.  
+- I selectively read from several chapters from the book "Still Room for Humans: Career Planning in an AI World", from chapters 9 to 13.  
 - I read the day's news from The Straits Times and the past couple of days of Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I listened to the day's news on Channel 5.  
@@ -66,6 +66,12 @@
     - https://www.youtube.com/watch?v=TY1a00j5YAk
     - https://www.youtube.com/watch?v=98kMSEkPiLo
 
+### Sunday (1 Oct)
+- I read the book "The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma" chapter "Prologue", chapters 1-8, and parts of chapter 14, and chapter "Life After the Anthropocene".  
+- I briefly read https://www.frontiersin.org/articles/10.3389/fmed.2021.751649/full.  
+- I read the day's news from The Straits Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I listened to the day's news on Channel 5.  
 
 
 # Upcoming Schedule
