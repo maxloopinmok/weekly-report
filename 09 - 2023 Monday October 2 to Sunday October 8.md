@@ -6,6 +6,9 @@
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I watched the day's news on Channel 5 and CNA.  
 - I reviewed and sorted my Yahoo emails.  
+- I read:
+    - https://platform.openai.com/docs/guides/gpt-best-practices
+    - https://arxiv.org/abs/2302.06100
 
 
 
