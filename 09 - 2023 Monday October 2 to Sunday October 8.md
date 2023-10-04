@@ -20,6 +20,16 @@
     - Rundown AI
     - Rundown Tech
 
+### Wednesday (4 Oct)
+- I read the book "Hands-On ML Projects with OpenCV" until parts of Chapter 3: "Image Processing 1 Using OpenCV".  
+- I tested and updated https://github.com/maxloosmu/CVPython/tree/main.  
+- I watched the day's news on Channel 5.
+- I read the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I read the day's newsletter from:
+    - MIT Technology Review
+    - The Rundown AI
+
 
 
 # Upcoming Medical Appointments
