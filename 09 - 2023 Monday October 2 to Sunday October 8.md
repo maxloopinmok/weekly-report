@@ -44,6 +44,7 @@
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I applied for jobs at:
     - https://www.mycareersfuture.gov.sg/
+    - https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers
 
 
 
