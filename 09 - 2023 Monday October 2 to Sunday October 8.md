@@ -42,6 +42,8 @@
 - I watched the day's news on Channel 5.
 - I read the day's news from The Straits Times and The Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I applied for jobs at:
+    - https://www.mycareersfuture.gov.sg/
 
 
 
