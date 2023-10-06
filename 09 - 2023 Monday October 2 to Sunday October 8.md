@@ -46,10 +46,21 @@
     - https://www.mycareersfuture.gov.sg/
     - https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers
 
+### Friday (6 Oct)
+- I read the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I read the book "The PARA Method: Simplify, Organize, and Master Your Digital Life" until "I: The Fundamentals of PARA" "Chapter 5 How to Maintain Your PARA System".
+- I read the book "Hands-On ML Projects with OpenCV" until I completed Chapter 3: "Image Processing 1 Using OpenCV".  
+- I watched the day's news on Channel 5 and CNA.
+- I learnt the Udemy course "NLP – Natural Language Processing with Python" until "Section 3: Natural Language Processing Basics" "13. Introduction to Natural Language Processing"
+
+### Saturday (7 Oct)
+
+
 
 
 # Tasks to do:
-- Read more from the book "Hands-On ML Projects with OpenCV"
+- Learn more from the Udemy course "NLP – Natural Language Processing with Python"
 - Learn more from the Udemy course "Python for Computer Vision with OpenCV and Deep Learning"
 - Learn more from the Udemy course "PyTorch Ultimate 2023: From Basics to Cutting-Edge"
 - Review selected books for further readings
