@@ -55,7 +55,11 @@
 - I learnt the Udemy course "NLP – Natural Language Processing with Python" until "Section 3: Natural Language Processing Basics" "13. Introduction to Natural Language Processing"
 
 ### Saturday (7 Oct)
-
+- I read the book "AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence" until Chapter 3: "Going Beyond the Basics: Detecting Features in Images".
+- I read the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I learnt the Udemy course "NLP – Natural Language Processing with Python" until "Section 4: Part of Speech Tagging and Named Entity Recognition" "26. Introduction to Section on POS and NER".  
+- I watched the day's news on Channel 5.
 
 
 
