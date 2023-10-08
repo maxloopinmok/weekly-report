@@ -61,6 +61,13 @@
 - I learnt the Udemy course "NLP – Natural Language Processing with Python" until "Section 4: Part of Speech Tagging and Named Entity Recognition" "26. Introduction to Section on POS and NER".  
 - I watched the day's news on Channel 5.
 
+### Sunday (8 Oct)
+- I read the book "AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence" until Chapter 4: "Using Public Datasets with TensorFlow Datasets".
+- I read the day's news from The Straits Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched the day's news on Channel 5 and CNA, and parts of yesterday's news.
+- I read the book "No-Code Artificial Intelligence: The new way to build AI powered applications" until Chapter 1: "What is AI?" "Supervised Learning"
+- I sorted through my Yahoo emails.
 
 
 # Tasks to do:
