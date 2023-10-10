@@ -14,6 +14,17 @@
 - I read the day's news from The Straits Times and The Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 
+### Tuesday (10 Oct)
+- I completed reading the 2019 paper "Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead".  
+- I read https://www.analyticsvidhya.com/blog/2023/09/gpt-4-and-explainable-ai-xai/.  
+- I read the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched the day's news on Channel 5 and CNA, and reviewed yesterday's news on CNA.
+- I sorted my Gmail emails and read these newsletters:
+    - The Rundown AI
+    - The Rundown Tech
+- I watched: https://www.cbsnews.com/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/
+
 
 
 # Tasks to do:
