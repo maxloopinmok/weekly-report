@@ -25,6 +25,18 @@
     - The Rundown Tech
 - I watched: https://www.cbsnews.com/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/
 
+### Wednesday (11 Oct)
+- I read the paper "FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation"
+- I read the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched the day's news on Channel 5 and CNA
+- I sorted my Gmail emails and read articles from:
+    - https://www.technologyreview.com/
+- I applied for jobs at:
+    - https://www.mycareersfuture.gov.sg/
+
+### Thursday (12 Oct)
+
 
 
 # Tasks to do:
