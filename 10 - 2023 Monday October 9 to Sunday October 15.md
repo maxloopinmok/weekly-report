@@ -32,6 +32,8 @@
 - I watched the day's news on Channel 5 and CNA
 - I sorted my Gmail emails and read articles from:
     - https://www.technologyreview.com/
+- I also read newsletters from:
+    - Today's Hacker News
 - I applied for jobs at:
     - https://www.mycareersfuture.gov.sg/
 
