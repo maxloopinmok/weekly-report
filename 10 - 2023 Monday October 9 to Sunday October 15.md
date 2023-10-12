@@ -47,7 +47,6 @@
 
 
 
-
 # Tasks to do:
 - Learn more from the Udemy course "NLP – Natural Language Processing with Python"
 - Learn more from the Udemy course "Python for Computer Vision with OpenCV and Deep Learning"
@@ -55,5 +54,9 @@
 - Review selected books for further readings
 
 # Upcoming Medical Appointments
+- Wednesday 01 November 2023 11.15am Rehabilitative Services @ CGH
 - Friday 24 November 2023 10.15am SNEC Eye Clinic @ CGH
-- Friday 12 January 2023 11am IMH Clinic B
+- Friday 12 January 2024 11am IMH Clinic B
+- Tuesday 23 January 2024 10.30am CGH Digestive Diseases Centre
+- Tuesday 26 March 2024 10.50am CGH Digestive Diseases Centre
+- Thursday 10 October 2024 2.20pm CGH-NNI Spine Centre
