@@ -38,6 +38,12 @@
     - https://www.mycareersfuture.gov.sg/
 
 ### Thursday (12 Oct)
+- Thursday 12 October 2023 2.30pm CGH-NNI Spine Centre Medical Appointment
+- I answered emails and messages from hiring companies, and reviewed the website of one company.  
+- I read the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched the day's news on Channel 5 and CNA, as well as the documentary "Talking Point".  
+- I updated https://github.com/maxloosmu/NLP/tree/main/UPDATED_NLP_COURSE.  
 
 
 
@@ -48,6 +54,5 @@
 - Review selected books for further readings
 
 # Upcoming Medical Appointments
-- Thursday 12 October 2023 2.30pm CGH-NNI Spine Centre
 - Friday 24 November 2023 10.15am SNEC Eye Clinic @ CGH
 - Friday 12 January 2023 11am IMH Clinic B
