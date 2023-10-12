@@ -47,6 +47,7 @@
 
 
 
+
 # Tasks to do:
 - Learn more from the Udemy course "NLP – Natural Language Processing with Python"
 - Learn more from the Udemy course "Python for Computer Vision with OpenCV and Deep Learning"
