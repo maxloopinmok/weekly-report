@@ -45,6 +45,15 @@
 - I watched the day's news on Channel 5 and CNA, as well as the documentary "Talking Point".  
 - I updated https://github.com/maxloosmu/NLP/tree/main/UPDATED_NLP_COURSE.  
 
+### Friday (13 Oct)
+- I read the book "Artificial Intelligence For Dummies" Chapter 1 "Introducing AI", Chapter 9 "Performing Data Analysis for AI" and Chapter 10 "Employing Machine Learning in AI".  
+- I read the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched the day's news on Channel 5.  
+- I read some news about the Israel-Hamas War, Climate Change and Aging Reversal.  
+
+### Saturday (14 Oct)
+- 
 
 
 # Tasks to do:
