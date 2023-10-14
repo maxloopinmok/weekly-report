@@ -53,7 +53,14 @@
 - I read some news about the Israel-Hamas War, Climate Change and Aging Reversal.  
 
 ### Saturday (14 Oct)
-- 
+- I met a fellow brother in Christ for lunch.  
+- I briefly read through parts of the book "Out of the Jaws of Death" by Stephen Ng.
+- I read the book "Artificial Intelligence For Dummies" Chapter 11 "Improving AI with Deep Learning" until "Understanding the role of backpropagation".  
+- I read the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched the day's news on Channel 5 and CNA.  
+- I updated https://github.com/maxloosmu/NLP/tree/main/UPDATED_NLP_COURSE.  
+
 
 
 # Tasks to do:
@@ -61,6 +68,9 @@
 - Learn more from the Udemy course "Python for Computer Vision with OpenCV and Deep Learning"
 - Learn more from the Udemy course "PyTorch Ultimate 2023: From Basics to Cutting-Edge"
 - Review selected books for further readings
+
+# Upcoming Schedule
+- TADM Level 3 DNI on 16 Oct 2023 (Mon) at 2.30 pm
 
 # Upcoming Medical Appointments
 - Wednesday 01 November 2023 11.15am Rehabilitative Services @ CGH
