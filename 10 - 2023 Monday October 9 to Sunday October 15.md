@@ -79,6 +79,9 @@
     - 2015 Getting a Big Data Job For Dummies
     - 2014 Data mining for dummies
 - I made preparations for the trip to e2i's TADM office in Jurong East tomorrow Monday afternoon for my ECT registration.  
+- I read the day's news from The Straits Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched the day's news on Channel 5.
 
 
 
