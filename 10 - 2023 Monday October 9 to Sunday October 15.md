@@ -61,6 +61,25 @@
 - I watched the day's news on Channel 5 and CNA.  
 - I updated https://github.com/maxloosmu/NLP/tree/main/UPDATED_NLP_COURSE.  
 
+### Sunday (15 Oct)
+- I read parts of Chapter 4 "Pioneering Specialised Hardware" from the book "Artificial Intelligence For Dummies", namely:
+    - "Relying on new computational techniques"
+    - "CONSIDERING ALAN TURING’S BOMBE MACHINE"
+    - "Using GPUs"
+    - "Working with Deep Learning Processors (DLPs)"
+    - "Creating a Specialized Processing Environment"
+    - "Increasing Hardware Capabilities"
+- I read the book "Artificial Intelligence For Dummies" Chapter 11 "Improving AI with Deep Learning" until "Advancing using image challenges".  
+- I identified various "for Dummies" books to review in future:
+    - 2021 Machine Learning For Dummies
+    - 2019 Deep Learning for Dummies
+    - 2022 Algorithms For Dummies
+    - 2021 Data Lakes For Dummies
+    - 2016 Predictive Analytics For Dummies
+    - 2015 Getting a Big Data Job For Dummies
+    - 2014 Data mining for dummies
+- I made preparations for the trip to e2i's TADM office in Jurong East tomorrow Monday afternoon for my ECT registration.  
+
 
 
 # Tasks to do:
