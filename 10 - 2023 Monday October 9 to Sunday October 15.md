@@ -82,6 +82,7 @@
 - I read the day's news from The Straits Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I watched the day's news on Channel 5.
+- I listened to the past 2 Sundays' sermons from SACC and last Sunday's sermon from Riverlife Church.  
 
 
 
