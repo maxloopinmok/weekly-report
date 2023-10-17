@@ -7,13 +7,22 @@
     - Wired magazine Nov/Dec 2023
     - Harvard Business Review Sep/Oct 2023
 - I read the book "Getting a Big Data Job For Dummies" chapters 1, 4, 5, 6, 7.  
+- I watched the day's news on Channel 5.
 
 ### Tuesday (23 Oct)
 - I read the book "The Age of Prediction: Algorithms, AI, and the Shifting Shadows of Risk" chapters 1, 11, Afterword, and parts of chapters 5, 6.  
 - I read parts of these magazines:
     - Wired magazine Nov/Dec 2023
     - Harvard Business Review Sep/Oct 2023
-
+- I watched the day's news on Channel 5 and yesterday's and today's CNA.
+- I spent the afternoon travelling on the MRT searching for suitable places to have lunch and dinner at.  From my home:
+    - if bus 15, take downtown line to Kaki Bukit or Tampines West.  
+    - if buses 403 or 3, take bus to Elias Mall.  
+    - if other buses, take east west line to Tampines, Simei, Bedok or Changi City Point.  
+- I read the book "Data Mining for Dummies" until Chapter 1 "Catching the Data-Mining Train".  
+- I read the past 2 days' news from The Straits Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I briefly skim through CNA news
 
 
 
