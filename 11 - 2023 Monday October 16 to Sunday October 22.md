@@ -24,6 +24,13 @@
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I briefly skim through CNA news
 
+### Wednesday (24 Oct)
+- I saw a doctor today for a suspect cancerous lump on my chest.  
+- I read the book "Data Mining for Dummies" Chapters 2 and 4.  
+- I watched the day's news on CNA.
+- I read the day's news from The Straits Times and the past 3 days news on Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+
 
 
 # Tasks to do:
