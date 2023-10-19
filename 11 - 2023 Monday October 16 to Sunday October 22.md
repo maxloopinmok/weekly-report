@@ -32,7 +32,7 @@
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 
 ### Thursday (25 Oct)
-- I read the day's news from The Straits Times and the past 3 days news on Business Times:
+- I read the day's news from The Straits Times and Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I watched today's news on CNA, and yesterday's and today's news on Channel 5, and "Talking Point".  
 - I read the book "Harnessing the Nine Hallmarks of Aging" Introduction and Chapters 1, 5, 6, 7.  
