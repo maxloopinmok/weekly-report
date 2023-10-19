@@ -31,6 +31,14 @@
 - I read the day's news from The Straits Times and the past 3 days news on Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 
+### Thursday (25 Oct)
+- I read the day's news from The Straits Times and the past 3 days news on Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched today's news on CNA, and yesterday's and today's news on Channel 5, and "Talking Point".  
+- I read the book "Harnessing the Nine Hallmarks of Aging" Introduction and Chapters 1, 5, 6, 7.  
+- I learnt the Udemy course "NLP – Natural Language Processing with Python" until "Section 5: Text Classification" "45. Text Classification Code Along Project".
+    - I updated https://github.com/maxloosmu/NLP/tree/main/UPDATED_NLP_COURSE.  
+
 
 
 # Tasks to do:
@@ -44,5 +52,6 @@
 - Friday 24 November 2023 10.15am SNEC Eye Clinic @ CGH
 - Friday 12 January 2024 11am IMH Clinic B
 - Tuesday 23 January 2024 10.30am CGH Digestive Diseases Centre
+- Monday 19 February 2024 11.10am CGH, General Surgery and Plastic Surgery Clinic
 - Tuesday 26 March 2024 10.50am CGH Digestive Diseases Centre
 - Thursday 10 October 2024 2.20pm CGH-NNI Spine Centre
