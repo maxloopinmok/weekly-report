@@ -1,4 +1,4 @@
-### Monday (22 Oct)
+### Monday (16 Oct)
 - ECT Registration Appointment at TADM Level 3 DNI on 16 Oct 2023 (Mon) at 2.30 pm
 - I visited Kinokuniya bookstore after dinner and identified several useful books and magazines:
     - 2023 The Age of Prediction: Algorithms, AI, and the Shifting Shadows of Risk
@@ -9,7 +9,7 @@
 - I read the book "Getting a Big Data Job For Dummies" chapters 1, 4, 5, 6, 7.  
 - I watched the day's news on Channel 5.
 
-### Tuesday (23 Oct)
+### Tuesday (17 Oct)
 - I read the book "The Age of Prediction: Algorithms, AI, and the Shifting Shadows of Risk" chapters 1, 11, Afterword, and parts of chapters 5, 6.  
 - I read parts of these magazines:
     - Wired magazine Nov/Dec 2023
@@ -24,20 +24,34 @@
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I briefly skim through CNA news
 
-### Wednesday (24 Oct)
+### Wednesday (18 Oct)
 - I saw a doctor today for a suspect cancerous lump on my chest.  
 - I read the book "Data Mining for Dummies" Chapters 2 and 4.  
 - I watched the day's news on CNA.
 - I read the day's news from The Straits Times and the past 3 days news on Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 
-### Thursday (25 Oct)
+### Thursday (19 Oct)
 - I read the day's news from The Straits Times and Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I watched today's news on CNA, and yesterday's and today's news on Channel 5, and "Talking Point".  
 - I read the book "Harnessing the Nine Hallmarks of Aging" Introduction and Chapters 1, 5, 6, 7.  
 - I learnt the Udemy course "NLP – Natural Language Processing with Python" until "Section 5: Text Classification" "45. Text Classification Code Along Project".
     - I updated https://github.com/maxloosmu/NLP/tree/main/UPDATED_NLP_COURSE.  
+
+### Friday (20 Oct)
+- I visited Bras Basah Complex and Takashimaya today, primarily the Kinokuniya bookstore, and identified several useful or relevant books:
+    - Rewired: The McKinsey Guide to Outcompeting in the Age of Digital and AI
+    - Unsupervised: Navigating and Influencing a World Controlled by Powerful New Technologies
+    - Be Data Literate: The Data Literacy Skills Everyone Needs To Succeed
+    - Be Data Analytical: How to Use Analytics to Turn Data into Value
+    - All-in On AI: How Smart Companies Win Big with Artificial Intelligence
+    - Machine Vision: How Algorithms are Changing the Way We See the World
+    - Grasp: The Science Transforming How We Learn
+- I read the booklet "A Guide To Employment Claims"
+- I read the day's news from The Straits Times and Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched the day's news on Channel 5.  
 
 
 
