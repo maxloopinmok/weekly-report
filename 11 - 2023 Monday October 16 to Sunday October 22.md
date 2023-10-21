@@ -53,6 +53,14 @@
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I watched the day's news on Channel 5.  
 
+### Saturday (21 Oct)
+- I read the book "Grasp: The Science Transforming How We Learn" until "Introduction: The Adventure Begins", but found the style of writing overly complex.  
+- I read the book "Unsupervised: Navigating and Influencing a World Controlled by Powerful New Technologies" until the section "Part I: Important Technologies You Cannot Ignore".  
+- I read the day's news from The Straits Times and Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched the day's news on Channel 5 and CNA, and briefly watched "Money Mind".  
+- I watched last Sunday's sermon from Riverlife Church and SACC.  
+
 
 
 # Tasks to do:
