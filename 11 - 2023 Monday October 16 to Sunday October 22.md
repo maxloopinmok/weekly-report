@@ -61,6 +61,15 @@
 - I watched the day's news on Channel 5 and CNA, and briefly watched "Money Mind".  
 - I watched last Sunday's sermon from Riverlife Church and SACC.  
 
+### Sunday (22 Oct)
+- I read the book "Unsupervised: Navigating and Influencing a World Controlled by Powerful New Technologies" until Chapter 2 "Enabling Technology".
+- I read the day's news from The Straits Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched the day's news on CNA.
+- I learnt the Udemy course "NLP – Natural Language Processing with Python" until "Section 7: Topic Modeling" "57. Overview of Topic Modeling".
+    - I updated https://github.com/maxloosmu/NLP/tree/main/UPDATED_NLP_COURSE.
+- I updated https://github.com/maxloosmu/pytorch/blob/main/torch/server.py.
+
 
 
 # Tasks to do:
