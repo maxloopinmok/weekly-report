@@ -17,6 +17,7 @@ Cannot Ignore".
 
 
 # Upcoming Schedule
+- Thursday 26 October 2023 2.30pm Anglican Care Centre
 - Tuesday 7 November 2023 2.30pm State Courts, ChinaTown
 
 # Tasks to do:
