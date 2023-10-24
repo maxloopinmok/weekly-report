@@ -8,6 +8,12 @@ Cannot Ignore".
 - I learnt the Udemy course "NLP – Natural Language Processing with Python" until "Section 8: Deep Learning for NLP" "65. Introduction to Deep Learning for NLP".
     - I updated https://github.com/maxloosmu/NLP/tree/main/UPDATED_NLP_COURSE.
 
+### Tuesday (24 Oct)
+- I spent the afternoon and evening moving between Pasir Ris, Tampines, Simei and Bedok Challenger stores, before purchasing a low cost Samsung A05s mobile phone.
+- I updated my new mobile phone with various apps and transferred contacts to it.
+- I learnt the Udemy course "NLP – Natural Language Processing with Python" until "Section 8: Deep Learning for NLP" "75. Chat Bots Overview".
+    - I updated https://github.com/maxloosmu/NLP/tree/main/UPDATED_NLP_COURSE.
+
 
 
 # Upcoming Schedule
