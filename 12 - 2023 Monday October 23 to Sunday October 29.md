@@ -14,6 +14,17 @@ Cannot Ignore".
 - I learnt the Udemy course "NLP – Natural Language Processing with Python" until "Section 8: Deep Learning for NLP" "75. Chat Bots Overview".
     - I updated https://github.com/maxloosmu/NLP/tree/main/UPDATED_NLP_COURSE.
 
+### Wednesday (25 Oct)
+- I completed the Udemy course "NLP – Natural Language Processing with Python" and updated my LinkedIn profile.
+    - I updated https://github.com/maxloosmu/NLP/tree/main/UPDATED_NLP_COURSE.
+- I started on the course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp".
+    - I updated https://github.com/maxloosmu/tf-keras.
+- I spent the afternoon and evening travelling to Challenger at Bugis and stores at Sim Lim Square, and searching for and reviewing informational brochures about monitors and laptops.
+- I applied for jobs using https://www.mycareersfuture.gov.sg/ to search for NLP, GPT and machine learning jobs.
+- I watched the day's news on Channel 5 and parts of CNA.
+- I read the past two days' news from The Straits Times and Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+
 
 
 # Upcoming Schedule
@@ -21,7 +32,7 @@ Cannot Ignore".
 - Tuesday 7 November 2023 2.30pm State Courts, ChinaTown
 
 # Tasks to do:
-- Learn more from the Udemy course "NLP – Natural Language Processing with Python"
+- Learn more from the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp"
 - Learn more from the Udemy course "PyTorch Ultimate 2023: From Basics to Cutting-Edge"
 - Learn more from the Udemy course "Python for Computer Vision with OpenCV and Deep Learning"
 - Review selected books for further readings
