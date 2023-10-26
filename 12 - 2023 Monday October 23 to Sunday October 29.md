@@ -25,15 +25,24 @@ Cannot Ignore".
 - I read the past two days' news from The Straits Times and Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 
+### Thursday (26 Oct)
+- Thursday 26 October 2023 2.30pm Anglican Care Centre meeting appointment with Case Manager/Counsellor
+- Thursday 26 October 2023 4pm Job Interview:
+    - https://www.mycareersfuture.gov.sg/job/information-technology/large-language-model-engineer-gpt-desk-038f8f9233f80d3d56a30633c053aac9?source=MCF&event=Search
+- I wasted more than 3 hours in the evening trying to travel from my home, but failed to do so because I kept having bowels problems.
+- I watched the day's news on Channel 5 and CNA, and "Talking Point".
+- I read the day's news from The Straits Times and Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp" until "Section 4: Pandas Crash Course" "12. Pandas Series".
+
 
 
 # Upcoming Schedule
-- Thursday 26 October 2023 2.30pm Anglican Care Centre
-- Tuesday 7 November 2023 2.30pm State Courts, ChinaTown
+- Tuesday 07 November 2023 2.30pm State Courts, ChinaTown
 
 # Tasks to do:
-- Learn more from the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp"
-- Learn more from the Udemy course "PyTorch Ultimate 2023: From Basics to Cutting-Edge"
+- November 2023: Learn more from the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp"
+- December 2023: Learn more from the Udemy course "PyTorch Ultimate 2023: From Basics to Cutting-Edge"
 - Learn more from the Udemy course "Python for Computer Vision with OpenCV and Deep Learning"
 - Review selected books for further readings
 
