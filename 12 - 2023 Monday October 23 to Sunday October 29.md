@@ -47,6 +47,15 @@ Cannot Ignore".
 - I read the day's news from The Straits Times and Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 
+### Saturday (28 Oct)
+- I spent the afternoon and evening troubleshooting the fading graphics of my Samsung monitor, and the loss of mobile connection of my redONE mobile plan.  
+- I spent some time testing and sorting out relevant shortcuts from my old Lenovo laptop.
+- I watched the day's news on Channel 5 and yesterday's news on CNA.  
+- I did some google search to better understand and compare the 2 laptops:
+    - https://nanoreview.net/en/laptop-compare/lenovo-legion-slim-5i-gen-8-2023-vs-asus-tuf-gaming-f15-2023?m=b.2_c.4_d.3_g.3_r.2-and-c.2_d.2_g.2_r.2
+- I read the paper "Cramming: Training a Language Model on a Single GPU in One Day"
+- I watched last Sunday's sermon videos from Riverlife Church and SACC.  
+
 
 
 # Upcoming Schedule
