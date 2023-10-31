@@ -10,8 +10,11 @@
 
 ### Tuesday (31 Oct)
 - I spent some time on job opportunities' replies.
-- I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp" until "Section 5: Visualisation Crash Course" "24. Data Visualisation Exercises".
+- I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp" until "Section 6: Machine Learning Concepts Overview" "29. Evaluating Performance - Classification Error Metrics".
     - I updated https://github.com/maxloosmu/tf-keras/tree/main/TF_2_Notebooks_and_Data.
+- I watched the day's news on Channel 5.
+- I read the day's news from The Straits Times and Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
 
 
 
