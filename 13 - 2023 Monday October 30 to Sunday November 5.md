@@ -5,12 +5,23 @@
 - I read the day's news from The Straits Times and Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp" until "Section 5: Visualisation Crash Course" "22. Matplotlib Basics".
+    - I updated https://github.com/maxloosmu/tf-keras/tree/main/TF_2_Notebooks_and_Data.
 - I watched the day's news on Channel 5.
+
+### Tuesday (31 Oct)
+- I spent some time on job opportunities' replies.
+- I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp" until "Section 5: Visualisation Crash Course" "24. Data Visualisation Exercises".
+    - I updated https://github.com/maxloosmu/tf-keras/tree/main/TF_2_Notebooks_and_Data.
 
 
 
 # Upcoming Schedule
 - Tuesday 07 November 2023 2.30pm State Courts, ChinaTown
+- Wednesday 01 November 2023 1.30pm to 4.30pm Aircon repair works at home
+- Friday 03 November 2023 Afternoon delivery of Samsung monitor that I purchased last Sunday 29 Oct 2023.
+- Thursday 09 November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
+- Thursday 23 November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
+- Thursday 07 December 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
 
 # Tasks to do:
 - November 2023: Learn more from the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp"
