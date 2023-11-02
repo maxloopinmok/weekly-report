@@ -48,9 +48,10 @@
 
 
 # Upcoming Schedule
+- Friday 03 November 2023 Afternoon delivery of Samsung monitor that I purchased on Sunday 29 Oct 2023.
 - Tuesday 07 November 2023 2.30pm State Courts, ChinaTown
-- Friday 03 November 2023 Afternoon delivery of Samsung monitor that I purchased last Sunday 29 Oct 2023.
 - Thursday 09 November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
+- Saturday 18 November 2023 11.30am Meeting SACC Raymond at White Sands.
 - Thursday 23 November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
 - Thursday 07 December 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
 
