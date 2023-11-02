@@ -25,6 +25,26 @@
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp" until "Section 7: Basic Artificial Neural Networks - ANNs" "36. Multi-Class Classification Considerations".
 
+### Thursday (2 Nov)
+- I visited the Kinokuniya bookstore in Takashimaya in the afternoon and identified several relevant books:
+    - 2019 AI Crash Course
+    - 2022 Cheating Death
+    - 2020 The Art of Feature Engineering - Essentials for Machine Learning
+    - 2020 Transhumanism - A Realistic Future
+    - 2021 Math for Deep Learning - What You Need to Know to Understand Neural Networks
+    - 2021 Neil Wilkins - Artificial Intelligence
+    - 2021 Neil Wilkins - Robotics
+    - 2021 Real-World Natural Language Processing - Practical applications with deep learning
+    - 2022 The Digital Mindset - What It Really Takes to Thrive in the Age of Data, Algorithms, and AI
+    - 2023 Design Thinking for Tech - Solving Problems and Realizing Value in 24 Hours
+    - 2023 HBR's 10 Must Reads on AI
+    - 2023 Reaching Your New Digital Heights - 32 Pivotal Mindset Leaps of Digital Transformation
+    - 2023 Clear Thinking - Turning Ordinary Moments into Extraordinary Results
+    - 2023 The Year in Tech, 2024 - The Insights You Need from Harvard Business Review
+- I watched the day's news on Channel 5 and CNA, and "Talking Point".
+- I read the day's news from The Straits Times and Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+
 
 
 # Upcoming Schedule
@@ -42,5 +62,6 @@
 
 # Upcoming Medical Appointments
 - Friday 24 November 2023 10.15am SNEC Eye Clinic @ CGH
+- Wednesday 13 December 2023 11.45am Rehabilitative Services @ CGH
 - Friday 12 January 2024 11am IMH Clinic B
 - Tuesday 23 January 2024 10.30am CGH Digestive Diseases Centre
