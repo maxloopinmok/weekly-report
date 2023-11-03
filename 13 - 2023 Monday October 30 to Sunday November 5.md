@@ -45,10 +45,19 @@
 - I read the day's news from The Straits Times and Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 
+### Friday (3 Nov)
+- I read Chapters 5, 6, 7 of the book "Unsupervised: Navigating and Influencing a World Controlled by Powerful New Technologies"
+- I applied for jobs using https://www.mycareersfuture.gov.sg/ to search for NLP and ChatGPT jobs.
+- I applied for jobs using LinkedIn.
+- Friday 03 November 2023 Afternoon delivery of Samsung monitor that I purchased on Sunday 29 Oct 2023.
+- I read the day's news from The Straits Times and Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched the day's news on Channel 5 and CNA.
+- I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp" until "Section 7: Basic Artificial Neural Networks - ANNs" "49. TensorFlow 2.0 Keras Project Options Overview".
+
 
 
 # Upcoming Schedule
-- Friday 03 November 2023 Afternoon delivery of Samsung monitor that I purchased on Sunday 29 Oct 2023.
 - Tuesday 07 November 2023 2.30pm State Courts, ChinaTown
 - Thursday 09 November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
 - Saturday 18 November 2023 11.30am Meeting SACC Raymond at White Sands.
