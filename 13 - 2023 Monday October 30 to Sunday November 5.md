@@ -55,6 +55,17 @@
 - I watched the day's news on Channel 5 and CNA.
 - I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp" until "Section 7: Basic Artificial Neural Networks - ANNs" "49. TensorFlow 2.0 Keras Project Options Overview".
 
+### Saturday (4 Nov)
+- I read the day's news from The Straits Times and Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I selectively read the week's news from The Economist:
+    - https://eresources.nlb.gov.sg/main/browse/resource/1323
+- I arranged and submitted my warranty registrations to Samsung for my recently purchased mobile phone, tablet, and monitor.
+- I watched last Sunday's sermon videos from Riverlife Church and SACC.
+- I watched parts of the day's news on Channel 5 and CNA.
+- I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp":
+    - I updated https://github.com/maxloosmu/tf-keras/tree/main/TF_2_Notebooks_and_Data.
+
 
 
 # Upcoming Schedule
@@ -66,6 +77,7 @@
 
 # Tasks to do:
 - November 2023: Learn more from the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp"
+- November 2023: Learn more from the Udemy course "PyTorch for Deep Learning with Python Bootcamp"
 - December 2023: Learn more from the Udemy course "PyTorch Ultimate 2023: From Basics to Cutting-Edge"
 - Learn more from the Udemy course "Python for Computer Vision with OpenCV and Deep Learning"
 - Review selected books for further readings
