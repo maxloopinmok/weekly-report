@@ -66,6 +66,17 @@
 - I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp":
     - I updated https://github.com/maxloosmu/tf-keras/tree/main/TF_2_Notebooks_and_Data.
 
+### Sunday (5 Nov)
+- I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp":
+    - I updated https://github.com/maxloosmu/tf-keras/tree/main/TF_2_Notebooks_and_Data.
+- I selectively read the month's news from PCWorld, PC Pro, and Maximum PC:
+    - https://eresources.nlb.gov.sg/main/browse/resource/1323
+- I did some research and purchased a Lenovo laptop:
+    - https://www.lenovo.com/sg/en/c/laptops/legion-laptops/legion-pro-series/
+- I watched the day's news on CNA.
+- I read the day's news from The Straits Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+
 
 
 # Upcoming Schedule
