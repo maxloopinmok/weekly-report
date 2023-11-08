@@ -7,15 +7,27 @@
 
 ### Tuesday (7 Nov)
 - Tuesday 07 November 2023 2.30pm State Courts @ ChinaTown Appointment
+- I read the day's news from The Straits Times and Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched the day's news on Channel 5.
+- I applied for jobs using https://www.mycareersfuture.gov.sg/ to search for NLP, ChatGPT and data scientist jobs.
 
+### Wednesday (8 Nov)
+- I took delivery of a new Lenovo gaming laptop, which comes with a Nvidia RTX 4060 video card and 32GB RAM.
+- I visited my mother at CGH A&E.
+- I watched the day's news on Channel 5.
+- I installed programs and tested the setup on my new Lenovo gaming laptop.
+-  I read the day's news from The Straits Times and Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
 
 
 
 # Upcoming Schedule
-- Thursday 09 November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
+- Undetermined November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
 - Friday 17 November 2023 2.30pm Meeting SPD counsellor at White Sands.
 - Saturday 18 November 2023 11.30am Meeting SACC Raymond at White Sands.
 - Thursday 23 November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
+- Wednesday 29 November 2023 4pm State Courts @ ChinaTown
 - Thursday 07 December 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
 
 # Tasks to do:
