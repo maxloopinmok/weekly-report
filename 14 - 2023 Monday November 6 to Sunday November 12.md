@@ -1,18 +1,18 @@
-### Monday (6 Nov)
+### Monday (6 Nov) (bowels moving day)
 - I reread my statement for TADM and ECT.
 - I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp" until "Section 7: Basic Artificial Neural Networks - ANNs" "58. Tensorboard".
 - I read the day's news from The Straits Times and Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I watched the day's news on Channel 5 and CNA.
 
-### Tuesday (7 Nov)
+### Tuesday (7 Nov) (non bowels moving day)
 - Tuesday 07 November 2023 2.30pm State Courts @ ChinaTown Appointment
 - I read the day's news from The Straits Times and Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I watched the day's news on Channel 5.
 - I applied for jobs using https://www.mycareersfuture.gov.sg/ to search for NLP, ChatGPT and data scientist jobs.
 
-### Wednesday (8 Nov)
+### Wednesday (8 Nov) (bowels moving day)
 - I took delivery of a new Lenovo gaming laptop, which comes with a Nvidia RTX 4060 video card and 32GB RAM.
 - I visited my mother at CGH A&E.
 - I watched the day's news on Channel 5.
@@ -20,10 +20,34 @@
 -  I read the day's news from The Straits Times and Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 
+### Thursday (9 Nov) (non bowels moving day)
+- I visited my mother at CGH Ward 16 Bed 10.
+- I visited the library at White Sands and took a trip to Kinokuniya Bookstore at Takashimaya Shopping Centre, as well as use Google Search, and identified a number of useful books:
+    - 50 Algorithms Every Programmer Should Know
+    - Machine Learning in Microservices
+    - Artificial Intelligence and Cybersecurity: Theory and Applications
+    - Algorithms of the Intelligent Web
+    - Cybersecurity for Artificial Intelligence
+    - Artificial Intelligence and Cybersecurity: Advances and Innovations (Green Engineering and Technology)
+    - Hands-On Artificial Intelligence for Cybersecurity
+    - AI for Everyone: Critical Perspectives
+    - Deep Learning Applications for Cyber Security
+    - Handbook of Research on Machine and Deep Learning Applications for Cyber Security
+    - Cyber Security Meets Machine Learning
+    - Machine Learning for Cyber Security
+    - Machine Learning for Cybersecurity: Innovative Deep Learning Solutions
+- I watched the day's news on Channel 5 and CNA.
+- I read the day's news from The Straits Times and Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+
+### Friday (10 Nov) (bowels moving day)
+- Fetch my mother from CGH back home.
+
 
 
 # Upcoming Schedule
-- Undetermined November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
+- Monday 13 November 2023 1.30pm Appointment at NUS Guild House at Suntec City
+- Wednesday 15 November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
 - Friday 17 November 2023 2.30pm Meeting SPD counsellor at White Sands.
 - Saturday 18 November 2023 11.30am Meeting SACC Raymond at White Sands.
 - Thursday 23 November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
