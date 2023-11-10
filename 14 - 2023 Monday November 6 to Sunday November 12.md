@@ -41,12 +41,21 @@
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 
 ### Friday (10 Nov) (bowels moving day)
-- Fetch my mother from CGH back home.
+- I visited my mother at CGH and helped carry her belongings home.
+- I applied for some government sponsored courses that come with salary.
+- I watched the day's news on Channel 5.
+- I read the day's news from The Straits Times and Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I retested the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp" `03-Keras-Project-Exercise.ipynb` on the new Lenovo gaming laptop:
+    - I updated https://github.com/maxloosmu/tf-keras/tree/main/TF_2_Notebooks_and_Data.
+    - I posted my problems running tensorflow at: https://stackoverflow.com/questions/77462052/windows-11-wsl2-bash-errors-when-running-python3-c-import-tensorflow-as-tf
+
+### Saturday (11 Nov) (non bowels moving day)
 
 
 
 # Upcoming Schedule
-- Monday 13 November 2023 1.30pm Appointment at NUS Guild House at Suntec City
+- Monday 13 November 2023 1.30pm Lunch appointment at NUS Guild House at Suntec City
 - Wednesday 15 November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
 - Friday 17 November 2023 2.30pm Meeting SPD counsellor at White Sands.
 - Saturday 18 November 2023 11.30am Meeting SACC Raymond at White Sands.
