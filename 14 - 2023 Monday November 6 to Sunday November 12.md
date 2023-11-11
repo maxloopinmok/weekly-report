@@ -40,7 +40,7 @@
 - I read the day's news from The Straits Times and Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 
-### Friday (10 Nov) (bowels moving day)
+### Friday (10 Nov) (bowels moving day, slept at about 4am)
 - I visited my mother at CGH and helped carry her belongings home.
 - I applied for some government sponsored courses that come with salary.
 - I watched the day's news on Channel 5.
@@ -50,7 +50,16 @@
     - I updated https://github.com/maxloosmu/tf-keras/tree/main/TF_2_Notebooks_and_Data.
     - I posted my problems running tensorflow at: https://stackoverflow.com/questions/77462052/windows-11-wsl2-bash-errors-when-running-python3-c-import-tensorflow-as-tf
 
-### Saturday (11 Nov) (non bowels moving day)
+### Saturday (11 Nov) (non bowels moving day, slept at about 2am)
+- I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp" until "Section 8: Convolutional Neural Networks - CNNs" "68. CNN on CIFAR-10 - Part Two - Evaluating the Model".
+    - I updated https://github.com/maxloosmu/tf-keras.
+- I watched the day's news on Channel 5.
+- I read the day's news from The Straits Times and Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I read the current news from Newsweek NEXT and The Walrus:
+    - https://eresources.nlb.gov.sg/main/browse/resource/1323
+
+### Sunday (12 Nov) (bowels moving day)
 
 
 
