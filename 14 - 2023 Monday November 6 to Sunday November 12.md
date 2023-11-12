@@ -59,7 +59,17 @@
 - I read the current news from Newsweek NEXT and The Walrus:
     - https://eresources.nlb.gov.sg/main/browse/resource/1323
 
-### Sunday (12 Nov) (bowels moving day)
+### Sunday (12 Nov) (bowels moving day, slept at about 1am)
+- I watched last Sunday's sermon videos from Riverlife Church and SACC.
+- I watched the day's news on CNA.
+- I watched these videos about AI:
+    - https://www.youtube.com/watch?v=x10964w00zk
+    - https://www.youtube.com/watch?v=XhLlRS2-BO8
+    - https://www.youtube.com/watch?v=NrQkdDVupQE
+    - https://www.youtube.com/watch?v=JhCl-GeT4jw
+    - https://www.youtube.com/watch?v=KDBq0GqKpqA
+- I read the day's news from The Straits Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
 
 
 
