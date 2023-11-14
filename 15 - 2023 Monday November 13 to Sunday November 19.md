@@ -1,17 +1,25 @@
 ### Monday (13 Nov) (non bowels moving day, slept after 4am)
-- Read past 4-5 weeks' newsletters from "MIT Technology Review".
+- I read the past 4-5 weeks' newsletters from "MIT Technology Review".
 - Monday 13 November 2023 1.30pm Lunch appointment at NUS Guild House at Suntec City
 - I watched the day's news on Channel 5 and CNA.
 - I read the day's news from The Straits Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I applied for jobs using https://www.mycareersfuture.gov.sg/ to search for NLP, ChatGPT and data analyst jobs.
 
-### Tuesday (14 Nov) (bowels moving day)
+### Tuesday (14 Nov) (bowels moving day, slept after 2am)
+- I read the past 4-5 weeks' newsletters from "Today's Hacker News".
+- I watched the day's news on Channel 5.
+- I read the day's news from The Straits Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I read last week's news from "The Economist":
+    - https://eresources.nlb.gov.sg/main/browse/resource/1323
+
+### Wednesday (15 Nov) (non bowels moving day)
+- Wednesday 15 November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
 
 
 
 # Upcoming Schedule
-- Wednesday 15 November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
 - Friday 17 November 2023 2.30pm Meeting SPD counsellor at White Sands.
 - Saturday 18 November 2023 11.30am Meeting SACC Raymond at White Sands.
 - Thursday 23 November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
