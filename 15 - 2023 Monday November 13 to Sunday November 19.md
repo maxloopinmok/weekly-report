@@ -15,13 +15,40 @@
     - https://eresources.nlb.gov.sg/main/browse/resource/1323
 
 ### Wednesday (15 Nov) (non bowels moving day)
-- Wednesday 15 November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
+- I visited Medical Social Workers at CGH to seek financial assistance for my elderly mother.
+- I visited the Kinokuniya bookstore at Takashimaya and googled about it, and identified several relevant books:
+    - Python for Cybersecurity: Using Python for Cyber Offense and Defense
+    - Artificial Intelligence for Robotics
+    - Automated Machine Learning in Action
+    - Natural Language Understanding with Python
+    - Quick Start Guide to Large Language Models
+    - Pretrain Vision and Large Language Models in Python
+    - Programming in Parallel with CUDA: A Practical Guide
+    - Parallel and High Performance Programming with Python
+    - Hands-On GPU Programming with Python and CUDA
+- I watched parts of the day's news on CNA and Channel 5.
+- I read the day's news from The Straits Times and Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I tested epub to pdf document conversion tools in Bash, such as mutools, pandoc and calibre.  
+- I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp" until "Section 8: Convolutional Neural Networks - CNNs" "74. CNN Exercise Overview".
+    - I updated https://github.com/maxloosmu/tf-keras.
+
+### Thursday (16 Nov) (bowels moving day)
+- Visit Jobs Fair at Pasir Ris Elias Mall.
+
+
+
+### Friday (17 Nov) (non bowels moving day)
+- Friday 17 November 2023 2.30pm Meeting SPD counsellor at White Sands.
+- Friday 17 November 2023 3.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
+
+
+### Saturday (18 Nov) (bowels moving day)
+- Saturday 18 November 2023 11.30am Meeting SACC Raymond at White Sands.
 
 
 
 # Upcoming Schedule
-- Friday 17 November 2023 2.30pm Meeting SPD counsellor at White Sands.
-- Saturday 18 November 2023 11.30am Meeting SACC Raymond at White Sands.
 - Thursday 23 November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
 - Wednesday 29 November 2023 4pm State Courts @ ChinaTown
 - Thursday 07 December 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
