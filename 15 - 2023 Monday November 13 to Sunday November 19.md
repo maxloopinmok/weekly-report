@@ -14,7 +14,7 @@
 - I read last week's news from "The Economist":
     - https://eresources.nlb.gov.sg/main/browse/resource/1323
 
-### Wednesday (15 Nov) (non bowels moving day)
+### Wednesday (15 Nov) (non bowels moving day, slept after 3am)
 - I visited Medical Social Workers at CGH to seek financial assistance for my elderly mother.
 - I visited the Kinokuniya bookstore at Takashimaya and googled about it, and identified several relevant books:
     - Python for Cybersecurity: Using Python for Cyber Offense and Defense
@@ -34,13 +34,18 @@
     - I updated https://github.com/maxloosmu/tf-keras.
 
 ### Thursday (16 Nov) (bowels moving day)
-- Visit Jobs Fair at Pasir Ris Elias Mall.
-
-
+- I applied for jobs, including taking tests: 
+    - https://www.dbs.com/careers/default.page
+    - https://www.linkedin.com/jobs/search/
+- I visited a Jobs Fair at Pasir Ris Elias CC, and got an interview by EduCare: https://ehc.sg/
+- I watched parts of the day's news on CNA and Channel 5.
+- I read the day's news from The Straits Times and Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
 
 ### Friday (17 Nov) (non bowels moving day)
 - Friday 17 November 2023 2.30pm Meeting SPD counsellor at White Sands.
 - Friday 17 November 2023 3.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
+
 
 
 ### Saturday (18 Nov) (bowels moving day)
