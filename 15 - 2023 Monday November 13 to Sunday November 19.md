@@ -33,7 +33,7 @@
 - I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp" until "Section 8: Convolutional Neural Networks - CNNs" "74. CNN Exercise Overview".
     - I updated https://github.com/maxloosmu/tf-keras.
 
-### Thursday (16 Nov) (bowels moving day)
+### Thursday (16 Nov) (bowels moving day, slept after 1am)
 - I applied for jobs, including taking tests: 
     - https://www.dbs.com/careers/default.page
     - https://www.linkedin.com/jobs/search/
@@ -42,11 +42,14 @@
 - I read the day's news from The Straits Times and Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 
-### Friday (17 Nov) (non bowels moving day)
-- Friday 17 November 2023 2.30pm Meeting SPD counsellor at White Sands.
-- Friday 17 November 2023 3.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
-
-
+### Friday (17 Nov) (non bowels moving day, slept after 2am)
+- Friday 17 November 2023 2pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
+- Friday 17 November 2023 3pm Meeting SPD counsellor at White Sands.
+- I watched parts of the day's news on Channel 5.
+- I read the day's news from The Straits Times and Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I read some of the latest news from CNA and using Google about artificial intelligence, Nvidia, and CUDA
+- I unsuccessfully tried to run: https://github.com/ortegaalfredo/ChristGPT
 
 ### Saturday (18 Nov) (bowels moving day)
 - Saturday 18 November 2023 11.30am Meeting SACC Raymond at White Sands.
@@ -54,6 +57,7 @@
 
 
 # Upcoming Schedule
+- Tuesday 21 November 2023 10.30am Meeting with SMU for ECT @ Raffles City
 - Thursday 23 November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
 - Wednesday 29 November 2023 4pm State Courts @ ChinaTown
 - Thursday 07 December 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
