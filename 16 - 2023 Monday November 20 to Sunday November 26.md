@@ -1,4 +1,8 @@
 ### Monday (20 Nov) (bowels moving day)
+- I continued preparing for ECT.
+- I read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I read updates about Sam Altman's firing from OpenAI from internet's news.
 
 
 ### Tuesday (21 Nov) (non bowels moving day)
