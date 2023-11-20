@@ -51,8 +51,23 @@
 - I read some of the latest news from CNA and using Google about artificial intelligence, Nvidia, and CUDA
 - I unsuccessfully tried to run: https://github.com/ortegaalfredo/ChristGPT
 
-### Saturday (18 Nov) (bowels moving day)
+### Saturday (18 Nov) (bowels moving day, slept about 2am)
+- I continued trying to install and run: https://huggingface.co/meta-llama/Llama-2-13b-hf: the final status is that Windows 11 and WSL2 uses about 16GB of my 32GB RAM, and not enough is left for AI inference.
 - Saturday 18 November 2023 11.30am Meeting SACC Raymond at White Sands.
+- I prepared some documents for ECT.
+- I watched parts of the day's news on Channel 5 and CNA.
+- I read the day's news from The Straits Times and Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+
+### Sunday (19 Nov) (non bowels moving day, slept about midnight)
+- I continued preparing for ECT.
+- I read parts of the day's news from The Straits Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I read the science and technology parts of the week's news from The Economist:
+    - https://eresources.nlb.gov.sg/main/browse/resource/1323
+- I read news about AI and Sam Altman from various news sources.
+- I watched parts of the day's news on CNA.
+- I finished reading the book "Math for Deep Learning: What You Need to Know to Understand Neural Networks" Chapter 2 "Probability".
 
 
 
