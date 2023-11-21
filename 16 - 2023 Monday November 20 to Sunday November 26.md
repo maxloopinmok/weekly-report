@@ -2,12 +2,24 @@
 - I continued preparing for ECT.
 - I read parts of the day's news from The Straits Times and The Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
-- I read updates about Sam Altman's firing from OpenAI from internet's news.
+- I read updates that Sam Altman has been fired from OpenAI from internet's news.
 
 
 ### Tuesday (21 Nov) (non bowels moving day)
 - Tuesday 21 November 2023 10.30am Meeting with SMU for ECT @ Raffles City
-
+- I visited Kinokuniya at Takashimaya, and identified a few relevant books:
+    - Edge-AI in Healthcare: Trends and Future Perspectives
+    - The Geek Way: The Radical Mindset that Drives Extraordinary Results
+    - Ultimate Gig: Flexibility, Freedom, Rewards
+- I read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I read updates about Sam Altman from internet's news.
+- I tested and posted issues on GitHub:
+    - https://github.com/huggingface/optimum/issues/1551
+    - https://github.com/facebookresearch/llama/issues/936
+- I created: 
+    - https://github.com/maxloosmu/pastoring.  
+- I watched parts of the day's news on CNA.
 
 ### Wednesday (22 Nov) (bowels moving day)
 
