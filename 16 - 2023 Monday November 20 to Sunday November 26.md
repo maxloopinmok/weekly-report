@@ -1,11 +1,10 @@
-### Monday (20 Nov) (bowels moving day)
+### Monday (20 Nov) (bowels moving day, slept about 11pm)
 - I continued preparing for ECT.
 - I read parts of the day's news from The Straits Times and The Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I read updates that Sam Altman has been fired from OpenAI from internet's news.
 
-
-### Tuesday (21 Nov) (non bowels moving day)
+### Tuesday (21 Nov) (non bowels moving day, slept about 12am)
 - Tuesday 21 November 2023 10.30am Meeting with SMU for ECT @ Raffles City
 - I visited Kinokuniya at Takashimaya, and identified a few relevant books:
     - Edge-AI in Healthcare: Trends and Future Perspectives
@@ -18,14 +17,22 @@
     - https://github.com/huggingface/optimum/issues/1551
     - https://github.com/facebookresearch/llama/issues/936
 - I created: 
-    - https://github.com/maxloosmu/pastoring.  
+    - https://github.com/maxloosmu/pastoring
 - I watched parts of the day's news on CNA.
 
-### Wednesday (22 Nov) (bowels moving day)
-
+### Wednesday (22 Nov) (bowels moving day, slept after 1am)
+- I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp" until "Section 9: Recurrent Neural Networks - RNNs" "76. RNN Section Overview".
+    - I updated: https://github.com/maxloosmu/tf-keras
+- I read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched parts of the day's news on CNA and Channel 5.
+- I learnt the Udemy course "Learn LangChain: Build #22 LLM Apps using OpenAI & Llama 2" "Section 4: Llama 2":
+    - 14. Introduction to Llama 2
+    - 15. Run Llama 2 on Google Colab
+    - I updated: https://github.com/maxloosmu/llama_2
 
 ### Thursday (23 Nov) (non bowels moving day)
-- Thursday 23 November 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
+- Thursday 23 November 2023 12pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
 - Thursday 23 November 2023 4.30pm MS Teams Interview organised by SPD with Rezemon
 
 ### Friday (24 Nov) (bowels moving day)
