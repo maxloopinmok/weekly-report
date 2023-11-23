@@ -33,7 +33,15 @@
 
 ### Thursday (23 Nov) (non bowels moving day)
 - Thursday 23 November 2023 12pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
+- I visited the Pasir Ris SSO to look for help with my unemployment situation.
 - Thursday 23 November 2023 4.30pm MS Teams Interview organised by SPD with Rezemon
+- I read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched parts of the day's news on CNA and Channel 5, and watched "Talking Point".
+- I watched a series of videos on the latest news from OpenAI.  A few of the videos:
+    - https://www.youtube.com/watch?v=LT-tLOdzDHA
+    - https://www.youtube.com/watch?v=T1RuUw019vA
+    - https://www.youtube.com/watch?v=nJQulJ_gBjo
 
 ### Friday (24 Nov) (bowels moving day)
 - Friday 24 November 2023 10.15am SNEC Eye Clinic @ CGH medical appointment
