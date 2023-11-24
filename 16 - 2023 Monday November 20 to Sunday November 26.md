@@ -31,7 +31,7 @@
     - 15. Run Llama 2 on Google Colab
     - I updated: https://github.com/maxloosmu/llama_2
 
-### Thursday (23 Nov) (non bowels moving day)
+### Thursday (23 Nov) (non bowels moving day, slept after 12am)
 - Thursday 23 November 2023 12pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
 - I visited the Pasir Ris SSO to look for help with my unemployment situation.
 - Thursday 23 November 2023 4.30pm MS Teams Interview organised by SPD with Rezemon
@@ -43,12 +43,18 @@
     - https://www.youtube.com/watch?v=T1RuUw019vA
     - https://www.youtube.com/watch?v=nJQulJ_gBjo
 
-### Friday (24 Nov) (bowels moving day)
+### Friday (24 Nov) (bowels moving day, slept after 1am)
 - Friday 24 November 2023 10.15am SNEC Eye Clinic @ CGH medical appointment
-
+- I visited Project Success at Elias CC to look for help with my unemployment situation.
+- I applied for jobs at:
+    - https://www.mycareersfuture.gov.sg/
+- I read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I read the past 2 weeks' newsletters from Rundown and MIT Technology Review.
+- I continued preparing for ECT.
 
 ### Saturday (25 Nov) (non bowels moving day)
-- Meeting with Riverlife fellow believers for dinner
+- Meeting with Riverlife fellow believers for dinner at 6pm.
 
 ### Sunday (26 Nov) (bowels moving day)
 
