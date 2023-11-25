@@ -50,11 +50,19 @@
     - https://www.mycareersfuture.gov.sg/
 - I read parts of the day's news from The Straits Times and The Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched parts of the day's news on Channel 5.  
 - I read the past 2 weeks' newsletters from Rundown and MIT Technology Review.
 - I continued preparing for ECT.
 
-### Saturday (25 Nov) (non bowels moving day)
+### Saturday (25 Nov) (non bowels moving day, slept after 1am)
+- I read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
 - Meeting with Riverlife fellow believers for dinner at 6pm.
+- I watched parts of the day's news on Channel 5.  
+- I continued preparing for ECT.
+- I watched last Sunday's sermons from SACC and Riverlife:
+    - https://www.riverlife.org.sg/sermons/the-life-of-hezekiah-reformation-rescue-regret
+    - https://www.youtube.com/watch?v=NwwHStqf9KU
 
 ### Sunday (26 Nov) (bowels moving day)
 
