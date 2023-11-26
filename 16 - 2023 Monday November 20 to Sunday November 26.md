@@ -57,6 +57,8 @@
 ### Saturday (25 Nov) (non bowels moving day, slept after 1am)
 - I read parts of the day's news from The Straits Times and The Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I read the science and technology parts of the week's news from The Economist:
+    - https://eresources.nlb.gov.sg/main/browse/resource/1323
 - Meeting with Riverlife fellow believers for dinner at 6pm.
 - I watched parts of the day's news on Channel 5.  
 - I continued preparing for ECT.
@@ -64,7 +66,13 @@
     - https://www.riverlife.org.sg/sermons/the-life-of-hezekiah-reformation-rescue-regret
     - https://www.youtube.com/watch?v=NwwHStqf9KU
 
-### Sunday (26 Nov) (bowels moving day)
+### Sunday (26 Nov) (bowels moving day, slept about 12am)
+- I read parts of the day's news from The Straits Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp" until "Section 9: Recurrent Neural Networks - RNNs" "82. RNN on a Sine Wave - Batch Generator".
+- I read the parts of these:
+    - https://karpathy.github.io/2015/05/21/rnn-effectiveness/
+    - https://blog.echen.me/2017/05/30/exploring-lstms/
 
 
 
@@ -84,3 +92,7 @@
 - Wednesday 13 December 2023 11.45am Rehabilitative Services @ CGH
 - Friday 12 January 2024 11am IMH Clinic B
 - Tuesday 23 January 2024 10.30am CGH Digestive Diseases Centre
+- Monday 19 February 2024 11.10am CGH General Surgery
+- Tuesday 26 March 2024 10.50am CGH Digestive Diseases Centre
+- Thursday 10 October 2024 2.20pm CGH-NNI Spine Centre
+- Friday 10 January 2025 10.15am SNEC Eye Clinic @ CGH
