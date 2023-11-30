@@ -5,14 +5,28 @@
 - I watched parts of the day's news on Channel 5.
 - I read the past 2 weeks' newsletters from "Today's Hacker News".
 
-### Tuesday (Nov 28) (bowels moving day)
+### Tuesday (Nov 28) (bowels moving day, slept after 2am)
+- I prepared for ECT.
+- I read parts of the past 2 days' news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I applied for the COVID Recovery Grant online:
+    - https://supportgowhere.life.gov.sg/grants/crg
+- I watched parts of the day's news on Channel 5.
+- I reviewed the latest proceedings for ECT.
 
+### Wednesday (Nov 29) (non bowels moving day, slept about 12am)
+- I briefly visited Kinokuniya bookstore at Takashimaya.
+- Wednesday 29 November 2023 4pm State Courts @ ChinaTown
+- I sent off my brother at Changi Airport at night.
 
-### Wednesday (Nov 29) (non bowels moving day)
-
-
-### Thursday (Nov 30) (bowels moving day)
-
+### Thursday (Nov 30) (bowels moving day, slept after 12am)
+- I prepared for ECT.
+- I read parts of the past 2 days' news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I read parts of the following chapters from the book "WFH (Working From Home): How to build a career you love when you're not in the office":
+    - Chapter 3: Building a Career Plan from Home
+    - Chapter 4: Building Your Network
+- I watched parts of the day's news on Channel 5 and CNA, and Talking Point.
 
 ### Friday (Dec 1) (non bowels moving day)
 
@@ -25,7 +39,6 @@
 
 
 # Upcoming Schedule
-- Wednesday 29 November 2023 4pm State Courts @ ChinaTown
 - Thursday 07 December 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
 - Saturday 09 December 2023 11.30am Meeting SACC Raymond at White Sands.
 
