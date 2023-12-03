@@ -47,7 +47,7 @@
     - Neural inference at the frontier of energy, space, and time
 - I briefly read parts of "Chapter 4: Building Your Network" from the book "WFH (Working From Home): How to build a career you love when you're not in the office".
 
-### Saturday (Dec 2) (bowels moving day)
+### Saturday (Dec 2) (bowels moving day, slept about 3am)
 - I briefly read parts of or GPT4 summaries of these papers from the Science Journal:
     - Edge learning using a fully integrated neuro-inspired memristor chip
     - Researchers propose test for AI sentience
@@ -73,7 +73,7 @@
     - https://www.scientificamerican.com/podcast/episode/should-we-care-about-ais-emergent-abilities/
     - https://www.scientificamerican.com/article/ways-to-extend-your-healthy-years-not-just-your-life/
 
-### Sunday (Dec 3) (non bowels moving day)
+### Sunday (Dec 3) (non bowels moving day, slept after 1am)
 - I briefly read parts of or GPT4 summaries of these papers from the Nature Machine Intelligence Journal:
     - From attribution maps to human-understandable explanations through Concept Relevance Propagation
     - A taxonomy and review of generalization research in NLP
