@@ -1,4 +1,4 @@
-### Monday (Dec 4) (bowels moving day, slept after 2am)
+### Monday (Dec 4) (bowels moving day, slept about 3am)
 - I applied for WFH, work from home, remote, hybrid, NLP, chatgpt jobs at:
     - https://www.mycareersfuture.gov.sg/
 - I read parts of the day's news from The Straits Times and The Business Times:
