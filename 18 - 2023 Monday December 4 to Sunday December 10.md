@@ -15,8 +15,11 @@
     - https://github.com/microsoft/WSL/issues/10869
 - Tuesday 05 December 2023 
     - 3pm Meeting Medical Social Worker at IMH.
-    - 6pm Webinar: Charting Your Course with the Open Pathways Apprenticeship Program
-
+    - Skipped 6pm Webinar: Charting Your Course with the Open Pathways Apprenticeship Program
+- I visited Kinokuniya bookstore at Takashimaya and identified several relevant books.
+- I read parts of the day's news from The Straits Times and The Business Times, as well as 2023-12-02 New Scientist:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched parts of the day's news on Channel 5.
 
 ### Wednesday (Dec 6) (bowels moving day, slept)
 
