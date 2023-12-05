@@ -9,6 +9,10 @@
     - https://github.com/microsoft/WSL/issues/10869
 
 ### Tuesday (Dec 5) (non bowels moving day, slept)
+- I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp" until "Section 9: Recurrent Neural Networks - RNNs" "87. RNN Exercise", and updated:
+    - https://github.com/maxloosmu/tf-keras
+- I also troubleshoot `jupyter notebook` startup with `strace`:
+    - https://github.com/microsoft/WSL/issues/10869
 - Tuesday 05 December 2023 
     - 3pm Meeting Medical Social Worker at IMH.
     - 6pm Webinar: Charting Your Course with the Open Pathways Apprenticeship Program
