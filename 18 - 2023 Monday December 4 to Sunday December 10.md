@@ -8,7 +8,7 @@
     - https://github.com/maxloosmu/tf-keras
     - https://github.com/microsoft/WSL/issues/10869
 
-### Tuesday (Dec 5) (non bowels moving day, slept)
+### Tuesday (Dec 5) (non bowels moving day, slept about 2am)
 - I learnt the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp" until "Section 9: Recurrent Neural Networks - RNNs" "87. RNN Exercise", and updated:
     - https://github.com/maxloosmu/tf-keras
 - I also troubleshoot `jupyter notebook` startup with `strace`:
@@ -21,8 +21,15 @@
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I watched parts of the day's news on Channel 5.
 
-### Wednesday (Dec 6) (bowels moving day, slept)
-
+### Wednesday (Dec 6) (bowels moving day, slept after 12am)
+- I troubleshoot the setting up of git for powershell, so that I can access git files from a conda jupyter that's installed on windows.  I tried mounting a WSL2 network drive, but WSL2 and Windows cannot be connected.  Troubleshooting with help from ChatGPT4:
+    - https://chat.openai.com/c/a0abffbb-2ef6-4631-a590-eba60835cc01
+- I moved these repos from my WSL2 root to my windows root:
+    - https://github.com/maxloosmu/tf-keras
+    - https://github.com/maxloosmu/weekly-report
+- I read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched parts of the day's news on Channel 5 and CNA.
 
 ### Thursday (Dec 7) (non bowels moving day, slept)
 - Thursday 07 December 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
