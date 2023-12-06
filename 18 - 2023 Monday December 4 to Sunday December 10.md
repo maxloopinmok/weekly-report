@@ -21,12 +21,17 @@
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I watched parts of the day's news on Channel 5.
 
-### Wednesday (Dec 6) (bowels moving day, slept after 12am)
-- I troubleshoot the setting up of git for powershell, so that I can access git files from a conda jupyter that's installed on windows.  I tried mounting a WSL2 network drive, but WSL2 and Windows cannot be connected.  Troubleshooting with help from ChatGPT4:
-    - https://chat.openai.com/c/a0abffbb-2ef6-4631-a590-eba60835cc01
+### Wednesday (Dec 6) (bowels moving day, slept about 2am)
+- After troubleshooting, I updated https://github.com/maxloosmu/tf-keras/blob/main/README.md:
+    - Troubleshooting with help from ChatGPT4:
+        - https://chat.openai.com/c/a0abffbb-2ef6-4631-a590-eba60835cc01
+    - Troubleshooting help from Microsoft:
+        - https://github.com/microsoft/WSL/issues/10869
 - I moved these repos from my WSL2 root to my windows root:
     - https://github.com/maxloosmu/tf-keras
     - https://github.com/maxloosmu/weekly-report
+    - the first problem faced was the presence of files with names ending in or with extensions `:Zone.Identifier`, which Windows do not accept.
+    - the second problem was that some filenames from github were too long for Windows to accept.
 - I read parts of the day's news from The Straits Times and The Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I watched parts of the day's news on Channel 5 and CNA.
