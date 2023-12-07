@@ -36,9 +36,15 @@
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I watched parts of the day's news on Channel 5 and CNA.
 
-### Thursday (Dec 7) (non bowels moving day, slept)
-- Thursday 07 December 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
-
+### Thursday (Dec 7) (non bowels moving day, slept after 1am)
+- Cancelled Thursday 07 December 2023 2.30pm Meeting with ACC (Anglican Care Centre) Case Manager at White Sands.
+- I attended the job fair at Elias CC, which is organised by Project Success.
+- I visited the polyclinic to see a doctor about pre dementia.
+- I read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched parts of the day's news on Channel 5 and CNA, as well as Talking Point.
+- As a thought leader, I posted this: https://www.linkedin.com/pulse/robots-our-children-max-loo-pin-mok-vd1qc/
+    - I also read various news updates about Google's Gemini.
 
 ### Friday (Dec 8) (bowels moving day, slept)
 
