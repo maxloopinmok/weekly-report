@@ -46,14 +46,27 @@
 - As a thought leader, I posted this: https://www.linkedin.com/pulse/robots-our-children-max-loo-pin-mok-vd1qc/
     - I also read various news updates about Google's Gemini.
 
-### Friday (Dec 8) (bowels moving day, slept)
+### Friday (Dec 8) (bowels moving day, failed to move bowels, slept after 4am)
+- I read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched parts of the day's news on Channel 5.
+- I read parts of the past two weeks' newsletters and news from Rundown about AI and Tech.
+- As a thought leader, I posted this: https://www.linkedin.com/pulse/work-contracts-our-future-ai-robots-max-loo-pin-mok-jhz3c/
 
+### Saturday (Dec 9) (non bowels moving day, slept about 3am)
+- Saturday 09 December 2023 11.45am Met SACC Raymond at White Sands.
+- I saw a doctor at CGH A&E due to vomitting because of my bowel problems.  This took the entire afternoon.
+- I watched parts of the day's news on Channel 5.
+- I read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I read parts of the past two weeks' newsletters and news from MIT Technology Review
 
-### Saturday (Dec 9) (non bowels moving day, slept)
-- Saturday 09 December 2023 11.30am Meeting SACC Raymond at White Sands.
-
-
-### Sunday (Dec 10) (bowels moving day, slept)
+### Sunday (Dec 10) (bowels moving day, slept after 4am)
+- I watched parts of the day's news on Channel 5.
+- I read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I read parts of the week's news from The Economist and New Scientist.
+- I read parts of the past 2 weeks' news and newsletters from Today's Hacker News and Scientific America.
 
 
 
