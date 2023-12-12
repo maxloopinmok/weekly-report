@@ -1,7 +1,7 @@
 ### Monday (Dec 11) (non bowels moving day, slept)
 - I read parts of the day's news from The Straits Times and The Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
-- I watched parts of the day's news on Channel 5.
+- I watched parts of the day's news on Channel 5 and CNA.
 - I read parts of selections of the past month's Nature Machine Intelligence papers:
     - AI reality check
     - A social network for AI
@@ -17,10 +17,20 @@
     - https://www.science.org/content/article/scientists-face-flood-papers-ai-developers-aim-help
     - https://www.science.org/content/article/base-editing-a-new-form-of-gene-therapy-sharply-lowers-bad-cholesterol
     - https://www.science.org/content/article/carbon-free-fuels-could-have-dark-side
-    - 
 
-### Tuesday (Dec 12) (non bowels moving day, slept)
-
+### Tuesday (Dec 12) (unsuccessful bowels moving day, slept after 4am)
+- I visited CGH without appointment, consulted Digestive Diseases specialist, obtained medications.
+- I spent the afternoon at Career Grit Online Job Fair: 4 online conversations.
+- I read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched parts of the day's news on Channel 5 and CNA.
+- I read:
+    - https://www.nature.com/articles/d41586-023-03931-5
+- I read some relevant Hacker News in more detail, and proceeded with testing llamafile:
+    - https://github.com/Mozilla-Ocho/llamafile
+    - https://wizardlm.github.io/WizardCoder/
+    - https://huggingface.co/TheBloke/WizardCoder-Python-34B-V1.0-GGUF/blob/main/wizardcoder-python-34b-v1.0.Q5_K_M.gguf
+    - https://pytorch.org/blog/accelerating-generative-ai-2/
 
 ### Wednesday (Dec 13) (non bowels moving day, slept)
 
