@@ -1,4 +1,4 @@
-### Monday (Dec 11) (non bowels moving day, slept)
+### Monday (Dec 11) (non bowels moving day, slept about 4am)
 - I read parts of the day's news from The Straits Times and The Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I watched parts of the day's news on Channel 5 and CNA.
@@ -32,17 +32,44 @@
     - https://huggingface.co/TheBloke/WizardCoder-Python-34B-V1.0-GGUF/blob/main/wizardcoder-python-34b-v1.0.Q5_K_M.gguf
     - https://pytorch.org/blog/accelerating-generative-ai-2/
 
-### Wednesday (Dec 13) (non bowels moving day, slept)
+### Wednesday (Dec 13) (successful bowels moving day, slept about 5am)
+- Wednesday 13 December 2023 11.45am Rehabilitative Services @ CGH
+- I briefly read through parts of 3 articles about my Neurogenic Bowels medical condition:
+    - https://emedicine.medscape.com/article/321172-print
+    - https://www.nature.com/articles/s41393-022-00786-x
+    - https://www.mdpi.com/2077-0383/10/4/882
+- I applied for a couple of jobs as suggested by Project Success.
+- I watched parts of the day's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=MjiIyyZZFPg
+    - https://www.youtube.com/watch?v=e1cf58VWzt8
+    - https://www.youtube.com/watch?v=8e36Y_pdMcw
+    - https://www.youtube.com/watch?v=FRikw-dAvDQ
+    - https://www.youtube.com/watch?v=dLfJuhGTmpE
+    - https://www.youtube.com/watch?v=Dv4yBH5dwtY
+    - https://www.youtube.com/watch?v=iEp3CzKtsyg
+    - https://www.youtube.com/watch?v=fAlFgmEaj-I
+    - https://www.youtube.com/watch?v=ntEln1a4ywQ
+- I read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
 
-
-### Thursday (Dec 14) (non bowels moving day, slept)
-
+### Thursday (Dec 14) (non bowels moving day, slept about 1am)
+- I went for COVID vaccination.
+- I read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched parts of the day's news on Channel 5 and CNA.
+- I did some research on setting up a new business in Singapore, web hosting, and payment services.
+- I learnt the following parts of the online Udemy course: "React JS Masterclass: Zero To Job Ready With 10 Projects"
+    - "Section 1: Introduction & Resources"
+    - "Section 2: React Basics & Setup" until "6. Environment Setup"
+    - "Section 18: Firebase Crash Course" until "176. Webpack Setup / 252"
 
 ### Friday (Dec 15) (non bowels moving day, slept)
 
 
 
 # Upcoming Schedule
+- Thursday 25 January 2024 9.30am ECT, ChinaTown
 
 # Tasks to do:
 - December 2023: Learn more from the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp"
@@ -52,9 +79,9 @@
 - Review selected books for further readings
 
 # Upcoming Medical Appointments
-- Wednesday 13 December 2023 11.45am Rehabilitative Services @ CGH
 - Friday 12 January 2024 11am IMH Clinic B
 - Tuesday 23 January 2024 10.30am CGH Digestive Diseases Centre
+- Monday 29 January 2024 9.35am Neuroscience Clinic @ CGH
 - Monday 19 February 2024 11.10am CGH General Surgery
 - Tuesday 26 March 2024 10.50am CGH Digestive Diseases Centre
 - Thursday 10 October 2024 2.20pm CGH-NNI Spine Centre
