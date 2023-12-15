@@ -64,16 +64,22 @@
     - "Section 2: React Basics & Setup" until "6. Environment Setup"
     - "Section 18: Firebase Crash Course" until "176. Webpack Setup / 252"
 
-### Friday (Dec 15) (non bowels moving day, slept)
-
-
+### Friday (Dec 15) (non bowels moving day, slept after 2am)
+- I read "Data Science" by Timothy Cooper, until Chapter 2.
+- I read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched parts of the day's news on Channel 5.
+- I successfully tested the code from "Learn LangChain: Build #22 LLM Apps using OpenAI & Llama 2" "Section 11: Project # 5: Summarize PDF Using LangChain, OpenAI and Gradio":
+    - https://github.com/maxloosmu/learn-langchain
 
 # Upcoming Schedule
 - Thursday 25 January 2024 9.30am ECT, ChinaTown
 
 # Tasks to do:
-- December 2023: Learn more from the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp"
-- December 2023: Learn more from the Udemy course "PyTorch for Deep Learning with Python Bootcamp"
+- December 2023: Learn more from the Udemy course "React JS Masterclass: Zero To Job Ready With 10 Projects"
+- December 2023: Learn more from the Udemy course "Learn LangChain: Build #22 LLM Apps using OpenAI & Llama 2"
+- Learn more from the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp"
+- Learn more from the Udemy course "PyTorch for Deep Learning with Python Bootcamp"
 - Learn more from the Udemy course "PyTorch Ultimate 2023: From Basics to Cutting-Edge"
 - Learn more from the Udemy course "Python for Computer Vision with OpenCV and Deep Learning"
 - Review selected books for further readings
