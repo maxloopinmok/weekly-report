@@ -64,13 +64,29 @@
     - "Section 2: React Basics & Setup" until "6. Environment Setup"
     - "Section 18: Firebase Crash Course" until "176. Webpack Setup / 252"
 
-### Friday (Dec 15) (non bowels moving day, slept after 2am)
+### Friday (Dec 15) (non bowels moving day, slept about 9am)
 - I read "Data Science" by Timothy Cooper, until Chapter 2.
 - I read parts of the day's news from The Straits Times and The Business Times:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I watched parts of the day's news on Channel 5.
 - I successfully tested the code from "Learn LangChain: Build #22 LLM Apps using OpenAI & Llama 2" "Section 11: Project # 5: Summarize PDF Using LangChain, OpenAI and Gradio":
     - https://github.com/maxloosmu/learn-langchain
+
+### Saturday (Dec 16) (successful bowels moving day, slept about 2am)
+- I read parts of the past week's news from The Economist and New Scientist.
+- I watched parts of the day's news on Channel 5 and CNA.
+- I read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I continued testing the code from the Udemy course "Learn LangChain: Build #22 LLM Apps using OpenAI & Llama 2":
+    - "Section 11: Project # 5: Summarize PDF Using LangChain, OpenAI and Gradio":
+        - https://github.com/maxloosmu/learn-langchain
+    - "Section 12: Project # 6: Chat with Multiple PDF Documents | Streamlit Application"
+    - "Section 16: Project 10: Chat with Books and PDF Files with LangChain, Llama 2 and Pinecone"
+- I continued learning from the Udemy course "React JS Masterclass: Zero To Job Ready With 10 Projects"
+    - "Section 2: React Basics & Setup" "12. Practice: Basic Template Structure / 008"
+        - https://github.com/maxloosmu/flask-react
+
+### Sunday (Dec 17) (non bowels moving day, slept)
 
 # Upcoming Schedule
 - Thursday 25 January 2024 9.30am ECT, ChinaTown
