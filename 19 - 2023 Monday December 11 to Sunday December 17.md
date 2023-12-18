@@ -86,7 +86,10 @@
     - "Section 2: React Basics & Setup" "12. Practice: Basic Template Structure / 008"
         - https://github.com/maxloosmu/flask-react
 
-### Sunday (Dec 17) (non bowels moving day, slept)
+### Sunday (Dec 17) (non bowels moving day, slept after 5am)
+- For the whole day, I tried developing Flask, React and PostgreSQL for https://www.someaitools.com.
+
+
 
 # Upcoming Schedule
 - Thursday 25 January 2024 9.30am ECT, ChinaTown
