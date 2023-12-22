@@ -16,14 +16,35 @@
 - I learnt from the Udemy course "Build Web Apps with React & Firebase":
     - "Section 1: Introduction & Setup"
 
-### Wednesday (Dec 20) (non bowels moving day, slept )
+### Wednesday (Dec 20) (non bowels moving day, slept after 3am)
+- I briefly read through parts of the book "Full-Stack Flask and React":
+    - Chapter 11: "Fetching and Displaying Data in a React-Flask Application"
+    - Chapter 12: "Authentication and Authorization"
+- I read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched bits of today's and yesterday's news on Channel 5 and CNA.
+- I learnt from the Udemy course "Build Web Apps with React & Firebase" until "Section 4: Intro to State & useState" "18. Using the useState Hook".
 
+### Thursday (Dec 21) (bowels moving day, slept after 1am)
+- I briefly read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched parts of this:
+    - https://www.youtube.com/watch?v=jJdG5J8VbWM
+    - https://www.youtube.com/watch?v=ie8l3SmtBpU
+    - https://www.youtube.com/watch?v=Pkj-BLHs6dE
+    - https://www.youtube.com/watch?v=SEkGLj0bwAU
+- I watched bits of today's and yesterday's news on Channel 5 and CNA.
+- I read the past week's newsletters from Today's Hacker News.
 
-### Thursday (Dec 21) (bowels moving day, slept )
-
-
-### Friday (Dec 22) (non bowels moving day, slept )
-
+### Friday (Dec 22) (non bowels moving day, slept after 2am)
+- I briefly read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- Rezemon Meeting @ 3.30pm at White Sands
+- I visited the Kinokuniya bookstore at Takashimaya.
+- I watched parts of today's news on Channel 5 and CNA.
+- I troubleshooted:
+    - https://discourse.ubuntu.com/t/enabling-gpu-acceleration-on-ubuntu-on-wsl2-with-the-nvidia-cuda-platform/26604/13?u=maxloo
+    - https://github.com/facebookresearch/llama/issues/936
 
 ### Saturday (Dec 23) (non bowels moving day, slept )
 
@@ -38,7 +59,6 @@
 
 # Tasks to do:
 - December 2023: Learn more from the Udemy course "Build Web Apps with React & Firebase"
-- December 2023: Learn more from the Udemy course "React JS Masterclass: Zero To Job Ready With 10 Projects"
 - December 2023: Learn more from the Udemy course "Learn LangChain: Build #22 LLM Apps using OpenAI & Llama 2"
 - Learn more from the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp"
 - Learn more from the Udemy course "PyTorch for Deep Learning with Python Bootcamp"
