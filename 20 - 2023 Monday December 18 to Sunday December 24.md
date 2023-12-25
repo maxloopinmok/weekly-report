@@ -46,13 +46,19 @@
     - https://discourse.ubuntu.com/t/enabling-gpu-acceleration-on-ubuntu-on-wsl2-with-the-nvidia-cuda-platform/26604/13?u=maxloo
     - https://github.com/facebookresearch/llama/issues/936
 
-### Saturday (Dec 23) (non bowels moving day, slept )
+### Saturday (Dec 23) (non bowels moving day, slept after 2am)
+- I celebrated Christmas with my Riverlife Cell Group in the afternoon.
+- I briefly read parts of the day's news from The Straits Times and The Business Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I briefly read parts of a few magazines (New Scientist, Wired, Science Focus, Time) online in the library.
+- I tried to merge two photos that have the same background, seven similar persons, and two different persons, such that the same nine persons can be seen in the final photo with the same background.  My attempts with free online tools failed.
+- I briefly watched parts of today's and yesterday's news on Channel 5 and CNA.
 
-
-### Sunday (Dec 24) (non bowels moving day, slept )
-
-
-
+### Sunday (Dec 24) (bowels moving day, slept after 4am)
+- I read parts of the day's news from The Straits Times:
+    - https://eresources.nlb.gov.sg/main/sphnewspapers
+- I watched today's news on Channel 5 and CNA.
+- I listened to the past 2 Sundays' sermons from Riverlife Church.
 
 # Upcoming Schedule
 - Thursday 25 January 2024 9.30am ECT, ChinaTown
