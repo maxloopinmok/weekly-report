@@ -1,6 +1,17 @@
-### Monday (Dec 25) (non bowels moving day, slept after )
-- 
-
+### Monday (Dec 25) (non bowels moving day, slept after 4am)
+- I read the book "Full-Stack Flask and React" Chapter 8 "SQL and Data Modeling" until "Sending data to the PostgreSQL database from a Flask app".
+- I watched parts of the day's news on Channel 5.
+- I briefly listened to the past 3 Sundays' sermons from SACC, while troubleshooting CUDA:
+    - https://forums.developer.nvidia.com/t/running-llama-2-13b-for-inferencing-in-windows-11-wsl2-resulted-in-killed-gpu-barely-used/277074
+- I watched parts of these:
+    - https://www.youtube.com/watch?v=k63-eElwz2k
+    - https://www.youtube.com/watch?v=ZV6Sz42l0hY
+    - https://www.youtube.com/watch?v=QsD-LV7y-HE
+    - https://modernwealthy.com/
+    - https://www.youtube.com/watch?v=rQEh7d-qa38
+    - https://www.youtube.com/watch?v=kCHdYpHwBDk
+    - https://www.automaticleads.ai/
+    - https://www.youtube.com/watch?v=b76gsOSkHB4
 
 
 
