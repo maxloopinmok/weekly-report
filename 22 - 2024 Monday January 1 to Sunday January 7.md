@@ -48,7 +48,7 @@
     - Brother, Nvidia, Lenovo, AWS, Exabytes, Zoho.
 - I updated https://github.com/maxloosmu/pastoring.
 
-### Sunday (Jan 7) (unsucessful bowels moving day, slept after 2am)
+### Sunday (Jan 7) (unsucessful bowels moving day, slept after 4am)
 I read parts of Sunday's news on Straits Times, and parts of the week's news from The Economist:
     - https://eresources.nlb.gov.sg/main/sphnewspapers
 - I tried to answer emails, resolve issues and updated things TO DO with:
