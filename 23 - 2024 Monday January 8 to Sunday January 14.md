@@ -1,11 +1,35 @@
-### Monday (Jan 8) (bowels moving day, slept after 10pm)
+### Monday (Jan 8) (non bowels moving day, slept after 3am)
 - Monday 8 January 2024 2.30pm Lung Clinic and Changi Sleep Centre Medical Appointment
+- I took a quick trip to review the latest books available at Kinokuniya bookstore at Takashimaya.
+- I tried to answer emails, and resolve issues:
+    - Brother, Nvidia, Lenovo, AWS, Exabytes, Zoho.
+    - I sorted my Yahoo emails along the way.
+- I watched today's news on CNA.
+
+### Tuesday (Jan 9) (bowels moving day, slept after 10pm)
+- Tencent Online Interview 4pm-5pm
+- SingTel Call Appointment 5pm-5.30pm
+
+### Wednesday (Jan 10) (non bowels moving day, slept after 10pm)
+
+
+### Thursday (Jan 11) (bowels moving day, slept after 10pm)
+
+
+### Friday (Jan 12) (non bowels moving day, slept after 10pm)
+- Friday 12 January 2024 11am IMH Clinic B Medical Appointment
+- Friday 12 January 2024 2.30pm Tah Chong Dental Appointment
+
+
+### Saturday (Jan 13) (non bowels moving day, slept after 10pm)
+
+
+### Sunday (Jan 14) (bowels moving day, slept after 10pm)
 
 
 
 
 # Upcoming Schedule
-- Friday 12 January 2024 Afternoon Dental appointment
 - Saturday 20 January 2024 11.30am Meetup with SACC brother
 - Thursday 25 January 2024 9.30am ECT, ChinaTown
 
@@ -19,7 +43,6 @@
 - Review selected books for further readings
 
 # Upcoming Medical Appointments
-- Friday 12 January 2024 11am IMH Clinic B
 - Tuesday 23 January 2024 10.30am CGH Digestive Diseases Centre
 - Monday 29 January 2024 9.35am Neuroscience Clinic @ CGH
 - Monday 19 February 2024 11.10am CGH General Surgery
