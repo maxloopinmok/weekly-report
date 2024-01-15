@@ -64,11 +64,21 @@
     - https://www.youtube.com/watch?v=K8cRnwZFBqY
     - https://www.youtube.com/watch?v=xPd8FFzIeOw
 
-### Saturday (Jan 13) (non bowels moving day, slept after 10pm)
+### Saturday (Jan 13) (bowels moving day, slept after 3am)
+- I tried to answer emails, and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo, AWS, Exabytes, Zoho.
+    - I sorted my Yahoo emails along the way.
+- I watched parts of today's news on CNA and Channel 5.
+- I prepared the week's Straits Times and Business Times readings.
+- I prepared some MIT Technology Review's readings.
 
-
-### Sunday (Jan 14) (bowels moving day, slept after 10pm)
-
+### Sunday (Jan 14) (non bowels moving day, slept after 3am)
+- I tried to answer emails, and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo, AWS, Exabytes, Zoho.
+    - I sorted my Yahoo emails along the way.
+- I watched parts of today's news on CNA and Channel 5.
+- I read the week's Straits Times and Business Times readings.
+- I read the MIT Technology Review's readings I prepared.
 
 
 

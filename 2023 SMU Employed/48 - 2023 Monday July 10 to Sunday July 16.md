@@ -1,0 +1,14 @@
+As of Sunday 11.59pm this week, I've accomplished these tasks:
+- attended 2 tech talks:
+    - https://www.eventbrite.sg/e/breaking-into-tech-a-life-changing-career-pivot-tickets-656538603637
+    - DSSG x Google: Building Generative AI applications with Langchain, Thu, Jul 13, 2023, 7:00 PM   | Meetup
+- searched and signed up for more tech talks
+- read books about improving my CV, meet up with a careers coach from Careers Connect, fine tuned my resume, and applied for jobs.  Books I've read parts from:
+    - Ultimate CV : over 100 winning CVs to help you get the interview and the job 
+    - The power formula for LinkedIn success : kick-start your business, brand, and job search 
+    - Ultimate CV : master the art of creating a winning CV with over 100 samples to help you get the job 
+    - How to write an impressive CV and cover letter : a comprehensive guide for job seeker 
+    - Linked : Conquer linkedin. get your dream job. own your future
+- tried 2 langchains:
+    - this langchain requires an openAI subscription to work: https://github.com/maxloosmu/llm
+    - this langchain requires a Mac to run and cannot run on WSL: https://github.com/maxloosmu/falcon-langchain
