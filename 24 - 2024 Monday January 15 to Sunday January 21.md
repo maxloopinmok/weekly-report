@@ -1,21 +1,41 @@
-### Monday (Jan 15) (non bowels moving day, slept after 3am)
+### Monday (Jan 15) (non bowels moving day, slept after 5am)
 - I tried to answer emails, and resolve issues:
     - Rezemon-Genexus, Brother, Nvidia, Lenovo, AWS, Exabytes, Zoho.
     - I sorted my Yahoo emails along the way.
 - I watched parts of today's news on Channel 5.
 - I read today's news on Straits Times and Business Times.
 
-### Tuesday (Jan 16) (bowels moving day, slept after 3am)
-
+### Tuesday (Jan 16) (bowels moving day, slept after 4am)
+- I tried to answer emails, and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo, AWS, Exabytes, Zoho.
+    - I sorted my Yahoo emails along the way.
+    - For Genexus, I studied until: 
+        - https://training.genexus.com/en/learning/courses/genexus/v18/core/content/using-patterns-6104753
+- I watched today's news and documentaries on CNA.
 
 ### Wednesday (Jan 17) (non bowels moving day, slept after 3am)
-
+- I tried to answer emails, and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo, AWS, Exabytes, Zoho.
+    - I sorted my Yahoo emails along the way.
+- I watched today's news on CNA and Channel 5.
+- I reviewed and packaged Monday to Wednesday's news from Straits Times and Business Times.
 
 ### Thursday (Jan 18) (bowels moving day, slept after 3am)
+- I tried to answer emails, and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo, AWS, Exabytes, Zoho, ECT.
+    - I sorted my Yahoo emails along the way.
+- I read parts of today's Straits Times and Business Times.
+- I watched today's news on Channel 5 and the documentary Talking Point.
+- I updated https://github.com/maxloosmu/someaitools.
 
-
-### Friday (Jan 19) (non bowels moving day, slept after 3am)
-
+### Friday (Jan 19) (non bowels moving day, slept after 12am)
+- I saw a doctor at Pasir Ris Polyclinic to resolve my pressure ulcer.
+- I tried to answer emails, and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo, AWS, Exabytes, Zoho, ECT.
+    - I sorted my Yahoo emails along the way.
+- I read briefly parts of today's Straits Times and Business Times.
+    - I compiled readable articles together.
+- I watched today's news on Channel 5.
 
 ### Saturday (Jan 20) (bowels moving day, slept after 3am)
 - Saturday 20 January 2024 11.30am Meetup with SACC brother
