@@ -1,5 +1,9 @@
-### Monday (Jan 22) (bowels moving day, slept after 5am)
-
+### Monday (Jan 22) (bowels moving day, slept after 12am)
+- I tried to answer emails, learn and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo, AWS, Exabytes, Zoho, ECT.
+    - I sorted my Yahoo emails along the way.
+- I watched today's news on Channel 5 and CNA.
+- I read today's news on Straits Times and Business Times.
 
 ### Tuesday (Jan 23) (non bowels moving day, slept after 5am)
 - Tuesday 23 January 2024 10.30am CGH Digestive Diseases Centre
