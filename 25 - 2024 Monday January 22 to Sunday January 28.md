@@ -5,20 +5,38 @@
 - I watched today's news on Channel 5 and CNA.
 - I read today's news on Straits Times and Business Times.
 
-### Tuesday (Jan 23) (non bowels moving day, slept after 5am)
+### Tuesday (Jan 23) (non bowels moving day, slept after 2am)
 - Tuesday 23 January 2024 10.30am CGH Digestive Diseases Centre
+- I visited Kinokuniya bookstore at Takashimaya.
+- I tried to answer emails, learn and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo, AWS, Exabytes, Zoho, ECT.
+    - I sorted my Yahoo emails along the way.
+- I watched today's news on Channel 5 and CNA.
+- I read today's news on Straits Times and Business Times.
 
+### Wednesday (Jan 24) (bowels moving day, slept after 12am)
+- I tried to answer emails, learn and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo, AWS, Exabytes, Zoho, ECT.
+    - I sorted my Yahoo emails along the way.
+- I watched today's news on Channel 5.
+- I read today's news on Straits Times and Business Times.
 
-### Wednesday (Jan 24) (non bowels moving day, slept after 5am)
-
-
-### Thursday (Jan 25) (non bowels moving day, slept after 5am)
-- Thursday 25 January 2024 11am ECT, ChinaTown
-
+### Thursday (Jan 25) (non bowels moving day, slept after 1am)
+- Thursday 25 January 2024 11am to 6pm ECT, ChinaTown
+- I tried to answer emails, learn and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo, AWS, Exabytes, Zoho, ECT, MPS.
+    - I sorted my Yahoo emails along the way.
+- I watched today's news on Channel 5.
+- I read today's news on Straits Times and Business Times.
 
 ### Friday (Jan 26) (non bowels moving day, slept after 5am)
 - Friday 26 January 2024 2.30pm IMH Jobs Club Meeting
-
+- I requested help from MPS to claim expenses spent on Rat catching from the Town Council.
+- I tried to answer emails, learn and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo, AWS, Exabytes, Zoho, ECT.
+    - I sorted my Yahoo emails along the way.
+- I watched today's news on Channel 5 and CNA.
+- I read today's news on Straits Times and Business Times.
 
 ### Saturday (Jan 27) (non bowels moving day, slept after 5am)
 
