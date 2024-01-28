@@ -29,20 +29,25 @@
 - I watched today's news on Channel 5.
 - I read today's news on Straits Times and Business Times.
 
-### Friday (Jan 26) (non bowels moving day, slept after 5am)
+### Friday (Jan 26) (bowels moving day, slept after 2am)
 - Friday 26 January 2024 2.30pm IMH Jobs Club Meeting
 - I requested help from MPS to claim expenses spent on Rat catching from the Town Council.
 - I tried to answer emails, learn and resolve issues:
     - Rezemon-Genexus, Brother, Nvidia, Lenovo, AWS, Exabytes, Zoho, ECT.
     - I sorted my Yahoo emails along the way.
 - I watched today's news on Channel 5 and CNA.
-- I read today's news on Straits Times and Business Times.
 
-### Saturday (Jan 27) (non bowels moving day, slept after 5am)
+### Saturday (Jan 27) (non bowels moving day, slept after 1am)
+- I briefly read today's and yesterday's news on Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA, and also Money Mind.
+- I selected and compiled the week's news for Business Times and read them.
+- I read Chapter 1 of the book "Limited Liability Companies For Dummies".
+- I read parts of Chapter 1 of the book "Developer Career Masterplan".
 
-
-### Sunday (Jan 28) (non bowels moving day, slept after 5am)
-
+### Sunday (Jan 28) (bowels moving day, slept after 12am)
+- I briefly watched parts of last Sunday's sermons at Riverlife and SACC.
+- I selected and compiled the week's news for Straits Times and read them.
+- I watched today's news on Channel 5.
 
 
 
