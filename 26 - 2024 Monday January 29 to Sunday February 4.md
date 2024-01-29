@@ -1,6 +1,13 @@
 ### Monday (Jan 29) (non bowels moving day, slept after 12am)
 - Monday 29 January 2024 9.35am Neuroscience Clinic @ CGH
-
+- I visited the Kinokuniya bookstore at Takashimaya.
+- I went for a 2.15pm Tah Chong Dental Appointment.
+- I read parts of today's news on Straits Times and Business Times.
+- I completed reading Chapter 1 "The Secret to Learning about Technology Quickly and Continuously" of the book "Developer Career Masterplan: Build your path to senior level and beyond with practical insights from industry experts".
+- I watched today's news on Channel 5.
+- I tried to answer emails, learn and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo, AWS, Exabytes, Zoho, ECT, MPS.
+    - I sorted my Yahoo emails along the way.
 
 ### Tuesday (Jan 30) (non bowels moving day, slept after 12am)
 
