@@ -39,7 +39,7 @@
     - https://www.mycareersfuture.gov.sg/job/consulting/software-analyst-search-index-4beac422548bc5c14cc0f144c69b21bc?source=MCF&event=Search
 - I watched today's news on CNA.
 - I tried to answer emails, learn and resolve issues:
-    - Rezemon-Genexus, Brother, Nvidia, Lenovo, AWS, Exabytes, Zoho, ECT, MPS.
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo-Microsoft, AWS, Exabytes, Zoho, ECT, MPS.
     - I sorted my Yahoo emails along the way.
 
 ### Friday (Feb 2) (non bowels moving day, slept after 12am)
