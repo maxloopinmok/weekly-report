@@ -43,7 +43,12 @@
     - I sorted my Yahoo emails along the way.
 
 ### Friday (Feb 2) (non bowels moving day, slept after 12am)
-
+- I read parts of today's news on Straits Times and Business Times, and the past two weeks' The Economist.
+- I watched today's news on Channel 5.
+- I tried to answer emails, learn and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo-Microsoft, AWS, Exabytes, Zoho, ECT, MPS, CCTP.
+    - I mostly attempted CCTP's red alpha challenge.
+    - I sorted my Yahoo emails along the way.
 
 ### Saturday (Feb 3) (bowels moving day, slept after 12am)
 
