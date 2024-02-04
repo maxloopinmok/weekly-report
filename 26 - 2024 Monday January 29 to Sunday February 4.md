@@ -42,7 +42,7 @@
     - Rezemon-Genexus, Brother, Nvidia, Lenovo-Microsoft, AWS, Exabytes, Zoho, ECT, MPS, CCTP.
     - I sorted my Yahoo emails along the way.
 
-### Friday (Feb 2) (non bowels moving day, slept after 12am)
+### Friday (Feb 2) (non bowels moving day, slept after 5am)
 - I read parts of today's news on Straits Times and Business Times, and the past two weeks' The Economist.
 - I watched today's news on Channel 5.
 - I tried to answer emails, learn and resolve issues:
@@ -50,14 +50,26 @@
     - I mostly attempted CCTP's red alpha challenge.
     - I sorted my Yahoo emails along the way.
 
-### Saturday (Feb 3) (bowels moving day, slept after 12am)
+### Saturday (Feb 3) (bowels moving day, slept after 2am)
+- I read parts of today's news on Straits Times and Business Times, and parts of this week's The Economist.
+- I watched today's news on Channel 5.
+- I tried to answer emails, learn and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo-Microsoft, AWS, Exabytes, Zoho, ECT, MPS, CCTP.
+    - I sorted my Yahoo emails along the way.
+- I listened to parts of SACC's and Riverlife's sermons last Sunday.
+- I listened to parts of this:
+    - https://www.youtube.com/watch?v=RYg5Mz4_tf8
+    - https://www.youtube.com/watch?v=EtRfEJ0B3mw
+    - https://www.youtube.com/watch?v=l0LW6djeeAk
+    - https://www.youtube.com/watch?v=K1i8Y55DRvQ
 
-
-### Sunday (Feb 4) (non bowels moving day, slept after 12am)
-
-
-
-
+### Sunday (Feb 4) (non bowels moving day, slept after 2am)
+- I read parts of today's news on Straits Times and Business Times, and parts of this week's The Economist.
+- I watched today's news on CNA.
+- I tried to answer emails, learn and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo-Microsoft, AWS, Exabytes, Zoho, ECT, MPS, CCTP.
+    - I sorted my Yahoo emails along the way.
+- I compiled some Straits Times, Business Times, and The Economist articles, and read some of them.
 
 # Upcoming Schedule
 - July 2024 2pm Tah Chong Dental Appointment
