@@ -69,7 +69,9 @@
 - I tried to answer emails, learn and resolve issues:
     - Rezemon-Genexus, Brother, Nvidia, Lenovo-Microsoft, AWS, Exabytes, Zoho, ECT, MPS, CCTP.
     - I sorted my Yahoo emails along the way.
-- I compiled some Straits Times, Business Times, and The Economist articles, and read some of them.
+- I compiled some Straits Times, Business Times, and The Economist articles for this past week, and read some of them.
+
+
 
 # Upcoming Schedule
 - July 2024 2pm Tah Chong Dental Appointment
