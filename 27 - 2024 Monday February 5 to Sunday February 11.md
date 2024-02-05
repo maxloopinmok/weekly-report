@@ -1,5 +1,11 @@
-### Monday (Feb 5) (bowels moving day, slept after 12am)
-
+### Monday (Feb 5) (bowels moving day, slept after 1am)
+- I briefly read parts of today's news on Straits Times and Business Times.
+- I watched today's news on Channel 5.
+- I tried to answer emails, learn and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo-Microsoft, AWS, Exabytes, Zoho, ECT, MPS, CCTP.
+    - I mostly tried Genexus.
+    - I sorted my Yahoo emails along the way.
+- I read parts of my last week's compilation of Straits Times, Business Times, and The Economist articles.
 
 ### Tuesday (Feb 6) (bowels moving day, slept after 12am)
 
