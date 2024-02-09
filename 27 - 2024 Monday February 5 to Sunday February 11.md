@@ -1,4 +1,4 @@
-### Monday (Feb 5) (bowels moving day, slept after 1am)
+### Monday (Feb 5) (bowels moving day, slept after 2am)
 - I briefly read parts of today's news on Straits Times and Business Times.
 - I watched today's news on Channel 5.
 - I tried to answer emails, learn and resolve issues:
@@ -7,17 +7,47 @@
     - I sorted my Yahoo emails along the way.
 - I read parts of my last week's compilation of Straits Times, Business Times, and The Economist articles.
 
-### Tuesday (Feb 6) (bowels moving day, slept after 12am)
-
+### Tuesday (Feb 6) (non bowels moving day, slept after 1am)
+- I visited my father at a nursing home.
+- I visited Kinokuniya bookstore at Takashimaya.
+- I briefly read parts of today's news on Straits Times and Business Times.
+- I watched today's news on Channel 5.
+- I tried to answer emails, learn and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo-Microsoft, AWS, Exabytes, Zoho, ECT, MPS, CCTP.
+    - I sorted my Yahoo emails along the way.
+- I read parts of my last week's compilation of Straits Times, Business Times, and The Economist articles.
 
 ### Wednesday (Feb 7) (bowels moving day, slept after 12am)
+- I briefly read parts of today's news on Straits Times and Business Times.
+- I briefly visited the Town Council about claiming the cost of catching a rat.
+- I tried to answer emails, learn and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo-Microsoft, AWS, Exabytes, Zoho, ECT, MPS, CCTP.
+    - I sorted my Yahoo emails along the way.
+    - I was dismissed after one month with Rezemon.
+- I read parts of my last week's compilation of Straits Times, Business Times, and The Economist articles.
+- I read the book "100 Things Productive People Do" until Chapter 33 and made productivity notes.
+- I watched today's news on Channel 5.
+- I watched bits of the presentations in parliament today.
 
+### Thursday (Feb 8) (non bowels moving day, slept after 2am)
+- I tried to answer emails, learn and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo-Microsoft, AWS, Exabytes, Zoho, ECT, MPS, CCTP.
+    - I sorted my Yahoo emails along the way.
+    - I completed the CCTP red alpha test.
+- I applied for Project Success recommended jobs.
+- I briefly read parts of today's news on Straits Times and Business Times.
+- I completed reading my last week's compilation of Straits Times, Business Times, and The Economist articles.
+- I watched today's news on Channel 5, and Talking Point.
+- I read the book "100 Things Productive People Do" until Chapter 50 and made productivity notes.
+- I read the book "Feel-Good Productivity: How to Do More of What Matters to You" until Chapter 1, and made productivity notes.
+- I briefly read the book "100 Things Millionaires Do: Little lessons in creating wealth" until Chapter 25.
 
-### Thursday (Feb 8) (bowels moving day, slept after 12am)
-
-
-### Friday (Feb 9) (bowels moving day, slept after 12am)
-
+### Friday (Feb 9) (non bowels moving day, slept after 12am)
+- I tried to answer emails, learn and resolve issues:
+    - Rezemon-Genexus, Brother, Nvidia, Lenovo-Microsoft, AWS, Exabytes, Zoho, ECT, MPS, CCTP.
+    - I sorted my Yahoo emails along the way.
+- I briefly read parts of today's news on Straits Times and Business Times.
+- I briefly read most of the book "100 Things Productive People Do" until Chapter 100, and made productivity notes.
 
 ### Saturday (Feb 10) (bowels moving day, slept after 12am)
 
@@ -27,6 +57,7 @@
 
 
 # Upcoming Schedule
+- 6 March 2024 3pm Father goes to CGH for dementia appointment
 - July 2024 2pm Tah Chong Dental Appointment
 
 # Tasks to do:
@@ -43,6 +74,7 @@
 - Monday 8 April 2024 2.40pm CGH Lung Clinic
 - Tuesday 16 April 2024 11.10am CGH Digestive Diseases Centre
 - Friday 17 May 2024 11am IMH Clinic B
+- Wednesday 29 May 2024 9am CGH Psychological Medicine Centre
 - Tuesday 11 June 2024 10.10am CGH Neurology
 - Tuesday 18 June 2024 5pm CGH Radiology
 - Monday 1 July 2024 10.15am CGH Neurology
