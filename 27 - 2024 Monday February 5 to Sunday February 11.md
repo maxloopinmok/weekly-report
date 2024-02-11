@@ -47,12 +47,22 @@
     - Rezemon-Genexus, Brother, Nvidia, Lenovo-Microsoft, AWS, Exabytes, Zoho, ECT, MPS, CCTP.
     - I sorted my Yahoo emails along the way.
 - I briefly read parts of today's news on Straits Times and Business Times.
+- I watched today's news on Channel 5.
 - I briefly read most of the book "100 Things Productive People Do" until Chapter 100, and made productivity notes.
 
-### Saturday (Feb 10) (bowels moving day, slept after 12am)
+### Saturday (Feb 10) (bowels moving day, slept after 1am)
+- I entertained guests at home for the Chinese New Year.
+- I read the book "Feel-Good Productivity: How to Do More of What Matters to You" until Chapter 3.
+- I reordered my Productivity Notes.
+- I watched today's news on CNA, and Money Mind.
 
-
-### Sunday (Feb 11) (bowels moving day, slept after 12am)
+### Sunday (Feb 11) (non bowels moving day, slept after 1am)
+- I briefly read parts of yesterday's news on Straits Times and Business Times.
+- I compiled some Straits Times, Business Times, and The Economist articles for this past week, and read some of them.
+- I watched parts of Riverlife's and SACC's sermons last Sunday.
+- I watched these videos:
+    - https://www.youtube.com/watch?v=8ra5bf1ujwo
+    - https://www.youtube.com/watch?v=0OR9ur43r1E
 
 
 
