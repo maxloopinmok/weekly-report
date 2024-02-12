@@ -1,5 +1,7 @@
-### Monday (Feb 12) (bowels moving day, slept after 2am)
-
+### Monday (Feb 12) (unsuccessful bowels moving day, slept after 1am)
+- I read some of my compiled Straits Times, Business Times, and The Economist articles for last week.
+- I watched the news on CNA and Channel 5.
+- I briefly read parts of today's news on Straits Times and Business Times.
 
 ### Tuesday (Feb 13) (bowels moving day, slept after 2am)
 - Tuesday 13 February 2024 2pm ECT @ Chinatown
