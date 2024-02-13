@@ -5,7 +5,11 @@
 
 ### Tuesday (Feb 13) (bowels moving day, slept after 2am)
 - Tuesday 13 February 2024 2pm ECT @ Chinatown
-
+- I had to resolve some outstanding ECT issues.
+- I visited the Kinokuniya bookstore to dwell on my status as an unemployed and also having just lost my ECT claim.
+- I read some of my compiled Straits Times, Business Times, and The Economist articles for last week.
+- I watched the news on CNA and Channel 5.
+- I briefly read parts of today's news on Straits Times and Business Times.
 
 ### Wednesday (Feb 14) (bowels moving day, slept after 2am)
 
