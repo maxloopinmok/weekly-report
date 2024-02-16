@@ -1,9 +1,9 @@
-### Monday (Feb 12) (unsuccessful bowels moving day, slept after 1am)
+### Monday (Feb 12) (bowels moving day, slept after 1am)
 - I read some of my compiled Straits Times, Business Times, and The Economist articles for last week.
 - I watched the news on CNA and Channel 5.
 - I briefly read parts of today's news on Straits Times and Business Times.
 
-### Tuesday (Feb 13) (bowels moving day, slept after 2am)
+### Tuesday (Feb 13) (non bowels moving day, slept after 2am)
 - Tuesday 13 February 2024 2pm ECT @ Chinatown
 - I had to resolve some outstanding ECT issues.
 - I visited the Kinokuniya bookstore to dwell on my status as an unemployed and also having just lost my ECT claim.
@@ -11,14 +11,26 @@
 - I watched the news on CNA and Channel 5.
 - I briefly read parts of today's news on Straits Times and Business Times.
 
-### Wednesday (Feb 14) (bowels moving day, slept after 2am)
-
+### Wednesday (Feb 14) (unsuccessful bowels moving day, slept after 2am)
+- I briefly read parts of today's news on Straits Times and Business Times.
+- I applied for jobs related to NLP at:
+    - https://www.mycareersfuture.gov.sg/
+- I saw a doctor at the Polyclinic for my persistent cough.
+- I read some of my compiled Straits Times, Business Times, and The Economist articles for last week.
+- I had to resolve some outstanding ECT issues.
+- I watched the news on CNA.
 
 ### Thursday (Feb 15) (bowels moving day, slept after 2am)
-
+- I read some of my compiled Straits Times, Business Times, and The Economist articles for last week.
+- I watched the news on Channel 5, and Talking Point.
+- I briefly read parts of today's news on Straits Times and Business Times.
+- I finished the third test in my application for a Red Alpha CCTP position.
 
 ### Friday (Feb 16) (bowels moving day, slept after 2am)
-
+- I read some of my compiled Straits Times, Business Times, and The Economist articles for last week.
+- I watched the news on Channel 5.
+- I briefly read parts of today's news on Straits Times and Business Times.
+- I read parts of Chapter 4 of the book "Feel-Good Productivity: How to Do More of What Matters to You".
 
 ### Saturday (Feb 17) (bowels moving day, slept after 2am)
 
