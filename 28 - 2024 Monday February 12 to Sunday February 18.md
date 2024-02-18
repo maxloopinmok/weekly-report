@@ -26,21 +26,28 @@
 - I briefly read parts of today's news on Straits Times and Business Times.
 - I finished the third test in my application for a Red Alpha CCTP position.
 
-### Friday (Feb 16) (bowels moving day, slept after 2am)
+### Friday (Feb 16) (non bowels moving day, slept after 2am)
 - I read some of my compiled Straits Times, Business Times, and The Economist articles for last week.
 - I watched the news on Channel 5.
 - I briefly read parts of today's news on Straits Times and Business Times.
 - I read parts of Chapter 4 of the book "Feel-Good Productivity: How to Do More of What Matters to You".
 
-### Saturday (Feb 17) (bowels moving day, slept after 2am)
+### Saturday (Feb 17) (unsuccessful bowels moving day, slept after 1am)
+- I joined a CNY celebration with my Riverlife cell group.
+- I read Chapters 4, 5 and 6 of the book "Feel-Good Productivity: How to Do More of What Matters to You".
+- I watched the news on Channel 5.
+- I briefly read parts of today's news on Straits Times and Business Times, and compiled this week's Business Times.
 
-
-### Sunday (Feb 18) (bowels moving day, slept after 2am)
+### Sunday (Feb 18) (unsuccessful bowels moving day, slept after 12am)
+- I read parts of this week's compiled Business Times.
+- I watched the news on Channel 5.
+- I read parts of today's news on Straits Times, and compiled this week's Straits Times.
 
 
 
 # Upcoming Schedule
-- 6 March 2024 3pm Father goes to CGH for dementia appointment
+- Friday 23 February 2024 12.30pm Meeting with SPD Brenden
+- Wednesday 6 March 2024 3pm Father goes to CGH for dementia appointment
 - July 2024 2pm Tah Chong Dental Appointment
 
 # Tasks to do:
