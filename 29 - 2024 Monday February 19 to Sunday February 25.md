@@ -1,9 +1,15 @@
 ### Monday (Feb 19) (bowels moving day, slept after 1am)
 - Monday 19 February 2024 11.10am CGH General Surgery
+- I visited Kinokuniya bookstore at Takashimaya.
+- I read parts of last week's compiled Straits Times.
+- I watched today's news on CNA.
 
-
-### Tuesday (Feb 20) (bowels moving day, slept after 1am)
-
+### Tuesday (Feb 20) (non bowels moving day, slept after 1am)
+- I read parts of last week's compiled Straits Times.
+- I read the book: "40-40 Vision: Clarifying Your Mission in Midlife" until Chapter 2.
+- I briefly read parts of this Monday's and Tuesday's Straits Times and Business Times, and compiled them.
+- I watched today's news on CNA.
+- I updated https://github.com/maxloosmu/MaxVault.
 
 ### Wednesday (Feb 21) (bowels moving day, slept after 1am)
 
