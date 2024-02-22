@@ -11,11 +11,21 @@
 - I watched today's news on CNA.
 - I updated https://github.com/maxloosmu/MaxVault.
 
-### Wednesday (Feb 21) (bowels moving day, slept after 1am)
-
+### Wednesday (Feb 21) (unsuccessful bowels moving day, slept after 2am)
+- I read the book "2062: the world AI made" until Chapter "0001. Homo Digitalis".
+- I briefly read today's Straits Times and Business Times, and compiled them.
+- I watched today's news on Channel 5, and "Ask the Finance Minister".
+- I updated my Productivity Notes until Chapter 4 of the book "Feel-Good Productivity: How to Do More of What Matters to You".
 
 ### Thursday (Feb 22) (bowels moving day, slept after 1am)
-
+- I briefly read the book "The AI Factor" until Introduction.
+- I briefly read the book "Work and AI 2030" until Preface.
+- I briefly read parts of Chapter 4 of the book "Alzheimer's Disease Decoded".
+- I read parts of the book "The Get Things Done Book".  
+- I applied for jobs related to NLP and work from home at:
+    - https://www.mycareersfuture.gov.sg/
+- I watched the news on Channel 5 and Talking Point's "Behind the Layoff".
+- I tried to resolve some NTU and NTUC issues over email.
 
 ### Friday (Feb 23) (bowels moving day, slept after 1am)
 - Friday 23 February 2024 12.30pm Meeting with SPD Brenden
