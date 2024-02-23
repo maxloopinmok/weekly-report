@@ -17,9 +17,9 @@
 - I watched today's news on Channel 5, and "Ask the Finance Minister".
 - I updated my Productivity Notes until Chapter 4 of the book "Feel-Good Productivity: How to Do More of What Matters to You".
 
-### Thursday (Feb 22) (bowels moving day, slept after 1am)
-- I briefly read the book "The AI Factor" until Introduction.
-- I briefly read the book "Work and AI 2030" until Preface.
+### Thursday (Feb 22) (bowels moving day, slept after 3am)
+- I briefly read the book "The AI Factor" until "Introduction".
+- I briefly read the book "Work and AI 2030" until "Preface".
 - I briefly read parts of Chapter 4 of the book "Alzheimer's Disease Decoded".
 - I read parts of the book "The Get Things Done Book".  
 - I applied for jobs related to NLP and work from home at:
@@ -28,8 +28,12 @@
 - I tried to resolve some NTU and NTUC issues over email.
 
 ### Friday (Feb 23) (bowels moving day, slept after 1am)
-- Friday 23 February 2024 12.30pm Meeting with SPD Brenden
-
+- I briefly read the book "The Decisive Moment" until "Introduction".
+- I briefly read Thursday's and Friday's Straits Times and Business Times, and compiled them.
+- I watched today's news on Channel 5.
+- I compiled a list of books that I should briefly read.
+- I updated my Productivity Notes until Chapter 6 of the book "Feel-Good Productivity: How to Do More of What Matters to You".
+    - I updated: https://github.com/maxloosmu/MaxVault.
 
 ### Saturday (Feb 24) (bowels moving day, slept after 1am)
 
@@ -41,6 +45,7 @@
 
 
 # Upcoming Schedule
+- Monday 26 February 2024 2pm Meeting with SPD Brenden
 - Wednesday 6 March 2024 3pm Father goes to CGH for dementia appointment
 - July 2024 2pm Tah Chong Dental Appointment
 
