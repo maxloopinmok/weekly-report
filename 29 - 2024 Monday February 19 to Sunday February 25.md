@@ -27,7 +27,7 @@
 - I watched the news on Channel 5 and Talking Point's "Behind the Layoff".
 - I tried to resolve some NTU and NTUC issues over email.
 
-### Friday (Feb 23) (bowels moving day, slept after 1am)
+### Friday (Feb 23) (bowels moving day, slept after 2am)
 - I briefly read the book "The Decisive Moment" until "Introduction".
 - I briefly read Thursday's and Friday's Straits Times and Business Times, and compiled them.
 - I watched today's news on Channel 5.
@@ -35,17 +35,27 @@
 - I updated my Productivity Notes until Chapter 6 of the book "Feel-Good Productivity: How to Do More of What Matters to You".
     - I updated: https://github.com/maxloosmu/MaxVault.
 
-### Saturday (Feb 24) (bowels moving day, slept after 1am)
-
+### Saturday (Feb 24) (bowels moving day, slept after 3am)
+- I had hair cut and then visited Kinokuniya Bookstore at Takashimaya.
+- I read the book "Feel-Good Productivity: How to Do More of What Matters to You" until Chapter 7.
+- I checked the availability of a list of books I wanted to download.
+- I watched today's news on Channel 5 and CNA, and Money Mind.
+- I briefly read today's Straits Times and Business Times, and compiled them.
 
 ### Sunday (Feb 25) (bowels moving day, slept after 1am)
-
-
+- I completed reading parts of this week's compiled Business Times.
+- I applied for jobs related to NLP and work from home at:
+    - https://www.mycareersfuture.gov.sg/
+- I read parts of today's Straits Times and compiled this week's Straits Times.
+- I briefly read parts of this week's The Economist.
+- I read the book "How To Decide: Simple Tools for Making Better Choices" until Chapter 1.
+- I submitted a letter to the Straits Times Forum about my ECT case.
+- I watched today's news on Channel 5 and CNA.
 
 
 
 # Upcoming Schedule
-- Monday 26 February 2024 2pm Meeting with SPD Brenden
+- Monday 26 February 2024 2pm Meeting with SPD Brenden at Tampines Interchange Koufu
 - Wednesday 6 March 2024 3pm Father goes to CGH for dementia appointment
 - July 2024 2pm Tah Chong Dental Appointment
 
