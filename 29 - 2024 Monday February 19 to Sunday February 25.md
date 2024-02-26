@@ -11,13 +11,13 @@
 - I watched today's news on CNA.
 - I updated https://github.com/maxloosmu/MaxVault.
 
-### Wednesday (Feb 21) (unsuccessful bowels moving day, slept after 2am)
+### Wednesday (Feb 21) (bowels moving day, slept after 2am)
 - I read the book "2062: the world AI made" until Chapter "0001. Homo Digitalis".
 - I briefly read today's Straits Times and Business Times, and compiled them.
 - I watched today's news on Channel 5, and "Ask the Finance Minister".
 - I updated my Productivity Notes until Chapter 4 of the book "Feel-Good Productivity: How to Do More of What Matters to You".
 
-### Thursday (Feb 22) (bowels moving day, slept after 3am)
+### Thursday (Feb 22) (non bowels moving day, slept after 3am)
 - I briefly read the book "The AI Factor" until "Introduction".
 - I briefly read the book "Work and AI 2030" until "Preface".
 - I briefly read parts of Chapter 4 of the book "Alzheimer's Disease Decoded".
@@ -35,7 +35,7 @@
 - I updated my Productivity Notes until Chapter 6 of the book "Feel-Good Productivity: How to Do More of What Matters to You".
     - I updated: https://github.com/maxloosmu/MaxVault.
 
-### Saturday (Feb 24) (bowels moving day, slept after 3am)
+### Saturday (Feb 24) (non bowels moving day, slept after 3am)
 - I had hair cut and then visited Kinokuniya Bookstore at Takashimaya.
 - I read the book "Feel-Good Productivity: How to Do More of What Matters to You" until Chapter 7.
 - I checked the availability of a list of books I wanted to download.
