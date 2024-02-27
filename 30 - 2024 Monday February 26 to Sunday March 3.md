@@ -4,31 +4,34 @@
 - I read parts of last week's compiled Straits Times.
 - I watched today's news on Channel 5 and CNA.
 
-### Monday (Feb 27) (bowels moving day, slept after 1am)
-- Visit DBS Bank to apply for fixed deposits.
-- Visit Bras Basah Complex and the Central Library.
+### Tuesday (Feb 27) (bowels moving day, slept after 1am)
+- I visited DBS Bank to enquire about fixed deposits.
+- I read parts of last week's compiled Straits Times.
+- I read parts of today's Straits Times.
+- I watched today's news on Channel 5 and CNA.
+- I sorted through my emails.
+
+### Wednesday (Feb 28) (non bowels moving day, slept after 1am)
 
 
-### Monday (Feb 28) (non bowels moving day, slept after 1am)
+### Thursday (Feb 29) (bowels moving day, slept after 1am)
 
 
-### Monday (Feb 29) (non bowels moving day, slept after 1am)
+### Friday (Mar 1) (non bowels moving day, slept after 1am)
 
 
-### Monday (Mar 1) (non bowels moving day, slept after 1am)
+### Saturday (Mar 2) (bowels moving day, slept after 1am)
 
 
-### Monday (Mar 2) (non bowels moving day, slept after 1am)
-
-
-### Monday (Mar 3) (non bowels moving day, slept after 1am)
+### Sunday (Mar 3) (non bowels moving day, slept after 1am)
+- Visit the Central Library.
 
 
 
 
 
 # Upcoming Schedule
-- Wednesday 6 March 2024 3pm Father goes to CGH for dementia appointment
+- Wednesday 6 March 2024 3pm Go with father to CGH for dementia appointment
 - July 2024 2pm Tah Chong Dental Appointment
 
 # Tasks to do:
