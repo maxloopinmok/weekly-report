@@ -11,11 +11,21 @@
 - I watched today's news on Channel 5 and CNA.
 - I sorted through my emails.
 
-### Wednesday (Feb 28) (non bowels moving day, slept after 1am)
-
+### Wednesday (Feb 28) (non bowels moving day, slept after 2am)
+- I visited the airport, the Central Library, and then the Kinokuniya bookstore at Takashimaya.
+- I watched last Sunday's sermon at SACC: https://www.youtube.com/watch?v=W2-PFdKE8y0
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=KzxR2Vcr9CM
+    - https://www.youtube.com/watch?v=_7eyDISEoK8
+    - https://www.youtube.com/watch?v=8GhUwSfgDo4
+    - https://www.youtube.com/watch?v=Q7s0C85Nbj4
+    - https://www.youtube.com/watch?v=M851mO7IYQ0
+- I watched today's news on CNA.
 
 ### Thursday (Feb 29) (bowels moving day, slept after 1am)
-
+- I read parts of last week's compiled Straits Times.
+- I read briefly parts of Monday to Thursday's Straits Times and Business Times, and compiled them.
+- I watched today's news on Channel 5, and Talking Point.
 
 ### Friday (Mar 1) (non bowels moving day, slept after 1am)
 
@@ -24,7 +34,6 @@
 
 
 ### Sunday (Mar 3) (non bowels moving day, slept after 1am)
-- Visit the Central Library.
 
 
 
@@ -32,6 +41,7 @@
 
 # Upcoming Schedule
 - Wednesday 6 March 2024 3pm Go with father to CGH for dementia appointment
+- Tuesday 19 March 2024 3.30pm e2i West - Devan Nair Institute for Employment and Employability
 - July 2024 2pm Tah Chong Dental Appointment
 
 # Tasks to do:
