@@ -22,20 +22,35 @@
     - https://www.youtube.com/watch?v=M851mO7IYQ0
 - I watched today's news on CNA.
 
-### Thursday (Feb 29) (bowels moving day, slept after 1am)
+### Thursday (Feb 29) (bowels moving day, slept after 2am)
 - I read parts of last week's compiled Straits Times.
 - I read briefly parts of Monday to Thursday's Straits Times and Business Times, and compiled them.
 - I watched today's news on Channel 5, and Talking Point.
 
 ### Friday (Mar 1) (non bowels moving day, slept after 1am)
+- I read parts of last week's compiled Straits Times.
+- I visited a doctor at Pasir Ris Polyclinic due to a possible inherited Patulous Eustachian tube dysfunction.
+- I briefly read parts of Friday's Straits Times and Business Times, and compiled them.
+- I watched parts of today's news on Channel 5 and CNA.
 
-
-### Saturday (Mar 2) (bowels moving day, slept after 1am)
-
+### Saturday (Mar 2) (bowels moving day, slept after 2am)
+- I read the book "How To Decide: Simple Tools for Making Better Choices" until Chapter 2.
+- I read the book "Feel-Good Productivity: How to Do More of What Matters to You" until parts of Chapter 9.
+- I watched today's news on Channel 5 and CNA, and Money Mind.
+- I briefly read parts of Saturday's Straits Times and Business Times, and compiled them.
+- I updated my "Productivity Notes" at https://github.com/maxloosmu/MaxVault.
 
 ### Sunday (Mar 3) (non bowels moving day, slept after 1am)
-
-
+- I visited Kinokuniya and Tampines Library.
+- I read this week's compilation of Business Times.
+- I briefly read parts of Sunday's Straits Times, and compiled them.
+- I watched parts of: https://www.youtube.com/watch?v=n_aLRB6UJ8g.
+- I watched today's news on Channel 5.
+- I closed down my AWS Lightsail instance, and updated: 
+    - https://github.com/maxloosmu/someaitools.
+    - https://maxlooresume.wordpress.com/.
+- I applied for jobs related to NLP at:
+    - https://www.mycareersfuture.gov.sg/.
 
 
 
@@ -45,18 +60,13 @@
 - July 2024 2pm Tah Chong Dental Appointment
 
 # Tasks to do:
-- Learn more from the Udemy course "Build Web Apps with React & Firebase"
-- Learn more from the Udemy course "Learn LangChain: Build #22 LLM Apps using OpenAI & Llama 2"
-- Learn more from the Udemy course "Complete Tensorflow 2 and Keras Deep Learning Bootcamp"
-- Learn more from the Udemy course "PyTorch for Deep Learning with Python Bootcamp"
-- Learn more from the Udemy course "PyTorch Ultimate 2023: From Basics to Cutting-Edge"
-- Learn more from the Udemy course "Python for Computer Vision with OpenCV and Deep Learning"
 - Review selected books for further readings
 
 # Upcoming Medical Appointments
 - Monday 8 April 2024 2.40pm CGH Lung Clinic
 - Tuesday 16 April 2024 11.10am CGH Digestive Diseases Centre
 - Friday 17 May 2024 11am IMH Clinic B
+- Monday 27 May 2024 3.10pm CGH 2B - ENT
 - Wednesday 29 May 2024 9am CGH Psychological Medicine Centre
 - Tuesday 11 June 2024 10.10am CGH Neurology
 - Tuesday 18 June 2024 5pm CGH Radiology
