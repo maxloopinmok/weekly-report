@@ -1,10 +1,15 @@
 ### Monday (Mar 4) (bowels moving day, slept after 1am)
-
+- I read parts of Chapters 4 and 5 of the book "Alzheimer's disease decoded".
+- I read the book "The Great Career Paradox" until Chapter 7: "Career Agility".
+- I watched the news on Channel 5.
+- I briefly read parts of Monday's Straits Times and Business Times, and compiled them.
 
 ### Tuesday (Mar 5) (non bowels moving day, slept after 1am)
+- 5pm to 6pm - UE Square, 83 Clemenceau Ave, #10-04, Level 10, West Wing, Singapore 239920
 
 
 ### Wednesday (Mar 6) (bowels moving day, slept after 1am)
+- Wednesday 6 March 2024 3pm Go with father to CGH for dementia appointment
 
 
 ### Thursday (Mar 7) (non bowels moving day, slept after 1am)
@@ -14,6 +19,7 @@
 
 
 ### Saturday (Mar 9) (non bowels moving day, slept after 1am)
+- 9.30am to 11.30am - CET807 Application 2: Introduction to Computer Vision Synchronous e-Learning
 
 
 ### Sunday (Mar 10) (bowels moving day, slept after 1am)
@@ -22,7 +28,6 @@
 
 
 # Upcoming Schedule
-- Wednesday 6 March 2024 3pm Go with father to CGH for dementia appointment
 - Tuesday 19 March 2024 3.30pm e2i West - Devan Nair Institute for Employment and Employability
 - July 2024 2pm Tah Chong Dental Appointment
 
