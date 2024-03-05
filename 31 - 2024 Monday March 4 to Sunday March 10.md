@@ -11,7 +11,7 @@
 - I watched the news on Channel 5.
 - I briefly read parts of these:
     - motorised electric wheelchairs and rollators websites
-    - MIT Technology Review
+    - MIT Technology Review (compiled for Feb and Mar)
 
 ### Wednesday (Mar 6) (bowels moving day, slept after 1am)
 - Wednesday 6 March 2024 3pm Go with father to CGH for dementia appointment
