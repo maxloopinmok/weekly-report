@@ -4,9 +4,14 @@
 - I watched the news on Channel 5.
 - I briefly read parts of Monday's Straits Times and Business Times, and compiled them.
 
-### Tuesday (Mar 5) (non bowels moving day, slept after 1am)
-- 5pm to 6pm - UE Square, 83 Clemenceau Ave, #10-04, Level 10, West Wing, Singapore 239920
-
+### Tuesday (Mar 5) (non bowels moving day, slept after 2am)
+- I read the book "The Great Career Paradox" until Chapter 9: "Self-Assessment".
+- I tried to access the NTULearn portal, but failed.
+- I briefly read parts of Monday's Straits Times and Business Times, and compiled them.
+- I watched the news on Channel 5.
+- I briefly read parts of these:
+    - motorised electric wheelchairs and rollators websites
+    - MIT Technology Review
 
 ### Wednesday (Mar 6) (bowels moving day, slept after 1am)
 - Wednesday 6 March 2024 3pm Go with father to CGH for dementia appointment
@@ -29,6 +34,7 @@
 
 # Upcoming Schedule
 - Tuesday 19 March 2024 3.30pm e2i West - Devan Nair Institute for Employment and Employability
+- 5pm to 6pm - UE Square, 83 Clemenceau Ave, #10-04, Level 10, West Wing, Singapore 239920
 - July 2024 2pm Tah Chong Dental Appointment
 
 # Tasks to do:
