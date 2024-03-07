@@ -7,18 +7,27 @@
 ### Tuesday (Mar 5) (non bowels moving day, slept after 2am)
 - I read the book "The Great Career Paradox" until Chapter 9: "Self-Assessment".
 - I tried to access the NTULearn portal, but failed.
-- I briefly read parts of Monday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of Tuesday's Straits Times and Business Times, and compiled them.
 - I watched the news on Channel 5.
 - I briefly read parts of these:
     - motorised electric wheelchairs and rollators websites
     - MIT Technology Review (compiled for Feb and Mar)
 
-### Wednesday (Mar 6) (bowels moving day, slept after 1am)
+### Wednesday (Mar 6) (bowels moving day, slept after 2am)
+- I sorted through my emails: 
+    - NTU, NLB
 - Wednesday 6 March 2024 3pm Go with father to CGH for dementia appointment
-
+- I completed reading the book "The Woke Salaryman Crash Course on Capitalism & Money: Lessons from the World's Most Expensive City"
+- I watched the news on Channel 5.
+- I briefly read parts of Wednesday's Straits Times and Business Times, and compiled them.
 
 ### Thursday (Mar 7) (non bowels moving day, slept after 1am)
-
+- 11am NTU Centre for IT Services (CITS) remote into my computer to troubleshoot login issue.
+- I read the MIT Technology Review March compilation.
+- I downloaded content from the NTULearn course "Application 2: Introduction to Computer Vision".
+- I sorted my emails.
+- I watched the news on Channel 5, and Talking Point.
+- I briefly read parts of Thursday's Straits Times and Business Times, and compiled them.
 
 ### Friday (Mar 8) (bowels moving day, slept after 1am)
 
