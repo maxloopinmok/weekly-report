@@ -30,7 +30,12 @@
 - I briefly read parts of Thursday's Straits Times and Business Times, and compiled them.
 
 ### Friday (Mar 8) (bowels moving day, slept after 1am)
-
+- I read parts of the content of the NTULearn course "Application 2: Introduction to Computer Vision": 
+    - 01 course introduction
+    - 02 computer vision applications
+    - 03 deep_learning basics feb 2024 (until page 30)
+- I briefly read parts of Friday's Straits Times and Business Times, and compiled them.
+- I watched the news on Channel 5.
 
 ### Saturday (Mar 9) (non bowels moving day, slept after 1am)
 - 9.30am to 11.30am - CET807 Application 2: Introduction to Computer Vision Synchronous e-Learning
@@ -50,6 +55,7 @@
 - Review selected books for further readings
 
 # Upcoming Medical Appointments
+- Monday 18 March 2024 12.20pm CGH-NNI Spine Centre
 - Monday 8 April 2024 2.40pm CGH Lung Clinic
 - Tuesday 16 April 2024 11.10am CGH Digestive Diseases Centre
 - Friday 17 May 2024 11am IMH Clinic B
@@ -58,5 +64,4 @@
 - Tuesday 11 June 2024 10.10am CGH Neurology
 - Tuesday 18 June 2024 5pm CGH Radiology
 - Monday 1 July 2024 10.15am CGH Neurology
-- Thursday 10 October 2024 2.20pm CGH-NNI Spine Centre
 - Friday 10 January 2025 10.15am SNEC Eye Clinic @ CGH
