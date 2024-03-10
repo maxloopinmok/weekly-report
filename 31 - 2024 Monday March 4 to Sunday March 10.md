@@ -38,17 +38,30 @@
 - I watched the news on Channel 5.
 
 ### Saturday (Mar 9) (non bowels moving day, slept after 1am)
-- 9.30am to 11.30am - CET807 Application 2: Introduction to Computer Vision Synchronous e-Learning
+- 9.30am to 12.30pm - NTU CET807 Application 2: Introduction to Computer Vision Synchronous e-Learning; Lecturer: Lin Guosheng
+- I tried to resolve my Samsung phone's camera failed issue, which led to a complete factory reset problem.
+- I read parts of the content of the NTULearn course "Application 2: Introduction to Computer Vision": 
+    - 03 deep_learning basics feb 2024
+    - 04 network training
+- I watched the news on CNA, and Money Mind.
+- I briefly read parts of Saturday's Straits Times and Business Times, and compiled them.
 
-
-### Sunday (Mar 10) (bowels moving day, slept after 1am)
-
+### Sunday (Mar 10) (bowels moving day, slept after 2am)
+- I tried to resolve my Samsung phone's factory reset problem, which led to an APN problem, which my mobile provider redONE has to get back to me about.
+- I read NTU Prof Lin Guosheng's "attention methods Transformers.pdf".
+- I watched the news on CNA and Channel 5.
+- I read this week's compiled Business Times.
+- I briefly read parts of Sunday's Straits Times, and compiled them.
+- I applied for jobs related to web developer at:
+    - https://www.mycareersfuture.gov.sg/.
 
 
 
 # Upcoming Schedule
+- Time: 7:30 pm – 8:30 pm, Wed, 13 Mar Online Q&A session for the first half, Lecturer: Lin Guosheng
+- Online class for the second half+QA. Time: 9:30am – 12:00pm, Sat, 16 Mar, Lecturer: Zhang Hanwang
 - Tuesday 19 March 2024 3.30pm e2i West - Devan Nair Institute for Employment and Employability
-- 5pm to 6pm - UE Square, 83 Clemenceau Ave, #10-04, Level 10, West Wing, Singapore 239920
+- 5pm to 6pm - redAlpha - UE Square, 83 Clemenceau Ave, #10-04, Level 10, West Wing, Singapore 239920
 - July 2024 2pm Tah Chong Dental Appointment
 
 # Tasks to do:
