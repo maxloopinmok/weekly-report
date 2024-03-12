@@ -1,6 +1,6 @@
-### Monday (Mar 11) (non bowels moving day, slept after 2am)
+### Monday (Mar 11) (non bowels moving day, slept after 3am)
 - I visited Kinokuniya.
-- I read last week's compiled Straits Times.
+- I read parts of last week's compiled Straits Times.
 - I sorted my emails, primarily writing to NTU.
 - I read NTU Prof Lin Guosheng's lecture notes:
     - 05 segmentation_introduction(1)
@@ -9,8 +9,18 @@
 - I watched today's news on Channel 5.
 - I briefly read parts of Monday's Straits Times and Business Times, and compiled them.
 
-### Tuesday (Mar 12) (bowels moving day, slept after 1am)
-
+### Tuesday (Mar 12) (bowels moving day, slept after 3am)
+- I read parts of last week's compiled Straits Times.
+- I searched the internet for a better e reader than my current Kobo Nia.
+- I searched and applied for jobs related to data analyst:
+    - https://www.mycareersfuture.gov.sg/.
+- I watched today's news on Channel 5.
+- I briefly read parts of Tuesday's Straits Times and Business Times, and compiled them.
+- I read NTU Prof Lin Guosheng's lecture notes:
+    - 06 semantic segmentation_FCN&UNet(3)
+    - 08 object detection(4) (briefly read until page 26 while watching video recording)
+    - I answered questions 1 to 3 in Assignment 1.
+- I sorted my emails, primarily writing to NTU.
 
 ### Wednesday (Mar 13) (non bowels moving day, slept after 1am)
 
