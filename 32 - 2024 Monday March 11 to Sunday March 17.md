@@ -12,7 +12,7 @@
 ### Tuesday (Mar 12) (bowels moving day, slept after 3am)
 - I read parts of last week's compiled Straits Times.
 - I searched the internet for a better e reader than my current Kobo Nia.
-- I searched and applied for jobs related to data analyst:
+- I searched and applied for jobs related to "data analyst", and had a look at "work from home":
     - https://www.mycareersfuture.gov.sg/.
 - I watched today's news on Channel 5.
 - I briefly read parts of Tuesday's Straits Times and Business Times, and compiled them.
@@ -23,10 +23,23 @@
 - I sorted my emails, primarily writing to NTU.
 
 ### Wednesday (Mar 13) (non bowels moving day, slept after 1am)
+- I read parts of last week's compiled Straits Times.
+- Time: 7:30 pm – 8:30 pm, Wed, 13 Mar Online Q&A session for the first half, Lecturer: Lin Guosheng
+- I watched today's news on Channel 5.
+- I sorted my emails, and applied for jobs at Indeed and LinkedIn as suggested by Project Success.
+- I briefly read parts of Wednesday's Straits Times and Business Times, and compiled them.
 
-
-### Thursday (Mar 14) (bowels moving day, slept after 1am)
-
+### Thursday (Mar 14) (bowels moving day, slept after 2am)
+- I read parts of this week's compiled Straits Times.
+- I briefly reviewed parts of these articles:
+    - https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
+    - https://yang-song.net/blog/2021/score/
+    - https://theaisummer.com/diffusion-models/
+    - I submitted Assignment 1 for NTU's Application 2 - Introduction to Computer Vision.
+- I watched today's news on Channel 5, and Talking Point.
+- I sorted my emails, taking action mostly on Indeed job emails.
+    - I applied for a few more jobs on Indeed.
+- I briefly read parts of Thursday's Straits Times and Business Times, and compiled them.
 
 ### Friday (Mar 15) (non bowels moving day, slept after 1am)
 
@@ -40,7 +53,6 @@
 
 
 # Upcoming Schedule
-- Time: 7:30 pm – 8:30 pm, Wed, 13 Mar Online Q&A session for the first half, Lecturer: Lin Guosheng
 - Online class for the second half+QA. Time: 9:30am – 12:00pm, Sat, 16 Mar, Lecturer: Zhang Hanwang
 - Tuesday 19 March 2024 3.30pm e2i West - Devan Nair Institute for Employment and Employability
 - 5pm to 6pm - redAlpha - UE Square, 83 Clemenceau Ave, #10-04, Level 10, West Wing, Singapore 239920
