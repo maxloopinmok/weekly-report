@@ -42,7 +42,14 @@
 - I briefly read parts of Thursday's Straits Times and Business Times, and compiled them.
 
 ### Friday (Mar 15) (non bowels moving day, slept after 1am)
-
+- I briefly read parts of Friday's Straits Times and Business Times, and compiled them.
+- I sorted my emails, especially the emails from Indeed.
+- I briefly visited Kinokuniya.
+- I briefly read parts of NTU Prof Zhang Hanwang's lecture notes:
+    - 01 Visual Captioning - Image Captioning Slides (Self-learning)
+    - 02 Visual Question Answering - Visual QA Slides (Self-learning)
+    - I tried to do Assignment 2, but ended up doing a lot of research.
+- I watched today's news on Channel 5.
 
 ### Saturday (Mar 16) (non bowels moving day, slept after 1am)
 
