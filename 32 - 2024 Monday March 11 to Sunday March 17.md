@@ -51,16 +51,28 @@
     - I tried to do Assignment 2, but ended up doing a lot of research.
 - I watched today's news on Channel 5.
 
-### Saturday (Mar 16) (non bowels moving day, slept after 1am)
+### Saturday (Mar 16) (non bowels moving day, slept after 2am)
+- NTU's Application 2 - Introduction to Computer Vision: Online class for the second half+QA. Time: 9:30am – 12:00pm, Sat, 16 Mar, Lecturer: Zhang Hanwang
+- I visited Rehab Mart at Paya Lebar Square to look at Rollators.
+- I read parts of this week's The Economist.
+- I read parts of this week's compiled Straits Times.
+- I watched today's news on Channel 5, and Money Mind.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=xQlnqTMC9xA
+    - https://www.youtube.com/watch?v=iVbN95ica_k
+    - https://www.youtube.com/watch?v=A9RWMtU672M
+    - https://www.youtube.com/watch?v=2zqlpiiJRiY
+    - https://www.youtube.com/watch?v=M2XOrA1AKjQ
+- I briefly read parts of Saturday's Straits Times and Business Times, and compiled them.
 
-
-### Sunday (Mar 17) (bowels moving day, slept after 1am)
-
+### Sunday (Mar 17) (bowels moving day, slept after 12am)
+- I read this week's compiled Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I briefly read parts of Sunday's Straits Times, and compiled them.
 
 
 
 # Upcoming Schedule
-- Online class for the second half+QA. Time: 9:30am – 12:00pm, Sat, 16 Mar, Lecturer: Zhang Hanwang
 - Tuesday 19 March 2024 3.30pm e2i West - Devan Nair Institute for Employment and Employability
 - 5pm to 6pm - redAlpha - UE Square, 83 Clemenceau Ave, #10-04, Level 10, West Wing, Singapore 239920
 - July 2024 2pm Tah Chong Dental Appointment
