@@ -9,13 +9,39 @@
 
 ### Tuesday (Mar 19) (bowels moving day, slept after 1am)
 - Tuesday 19 March 2024 3.30pm e2i online interview
+- briefly reviewed parts of these websites:
+    - https://www.techtarget.com/searchnetworking/definition/domain-name-system
+    - https://www.spiceworks.com/tech/networking/articles/what-is-dhcp/
+    - https://efficientip.com/glossary/what-is-dhcp-and-why-is-it-important/
+- I briefly read parts of Tuesday's Straits Times and Business Times, and compiled them.
+- I watched today's news on Channel 5.
+- I sorted out my emails.
 
+### Wednesday (Mar 20) (non bowels moving day, slept after 3am)
+- I searched and applied for jobs at:
+    - https://www.mycareersfuture.gov.sg/
+        - "remote software developer"
+        - "remote web developer"
+        - "work from home software developer"
+        - "work from home web developer"
+    - https://www.linkedin.com/jobs/
+        - "remote developer"
+    - https://sg.indeed.com/
+        - "remote software developer"
+- I briefly read parts of Wednesday's Straits Times and Business Times, and compiled them.
+- I sorted my Yahoo and Gmail emails.
+- I watched today's news on CNA.
 
-### Wednesday (Mar 20) (non bowels moving day, slept after 1am)
-
-
-### Thursday (Mar 21) (non bowels moving day, slept after 1am)
-
+### Thursday (Mar 21) (non bowels moving day, slept after 2am)
+- Thursday 21 March 2024 2pm to 3pm - Red Alpha Cyber - UE Square, 83 Clemenceau Ave, #10-04, Level 10, West Wing, Singapore 239920 
+    - CANCELLED
+- I visited Kinokuniya, and spent time downloading some books, and responding to WhatsApp messages.
+- I read parts of this week's compiled Straits Times.
+- I watched today's news on CNA and Channel 5.
+- I sorted my Yahoo emails.
+- I searched and applied for jobs at:
+    - https://www.workatastartup.com/
+- I briefly read parts of Thursday's Straits Times and Business Times, and compiled them.
 
 ### Friday (Mar 22) (non bowels moving day, slept after 1am)
 
@@ -30,7 +56,6 @@
 
 
 # Upcoming Schedule
-- 5pm to 6pm - redAlpha - UE Square, 83 Clemenceau Ave, #10-04, Level 10, West Wing, Singapore 239920
 - July 2024 2pm Tah Chong Dental Appointment
 
 # Tasks to do:
