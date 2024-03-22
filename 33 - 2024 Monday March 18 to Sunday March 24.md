@@ -32,7 +32,7 @@
 - I sorted my Yahoo and Gmail emails.
 - I watched today's news on CNA.
 
-### Thursday (Mar 21) (non bowels moving day, slept after 2am)
+### Thursday (Mar 21) (bowels moving day, slept after 2am)
 - Thursday 21 March 2024 2pm to 3pm - Red Alpha Cyber - UE Square, 83 Clemenceau Ave, #10-04, Level 10, West Wing, Singapore 239920 
     - CANCELLED
 - I visited Kinokuniya, and spent time downloading some books, and responding to WhatsApp messages.
@@ -43,13 +43,25 @@
     - https://www.workatastartup.com/
 - I briefly read parts of Thursday's Straits Times and Business Times, and compiled them.
 
-### Friday (Mar 22) (non bowels moving day, slept after 1am)
+### Friday (Mar 22) (non bowels moving day, slept after 3am)
+- I reviewed the research study protocols:
+    - https://blog.nus.edu.sg/sphs/mec3-earc/
+    - https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/4/6173/files/2023/12/LH-19-004-Annex-E-PIS-Interview-Visit-V19-2023-11-28_OpsV2.pdf
+    - https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/4/6173/files/2024/03/Map-to-MD1-version-02-Mar-2024-Walk-5950ea52f33dc2af.pdf
+- I spent some time checking out and downloading books.
+- I reread parts of the book "The Woke Salaryman Crash Course on Capitalism & Money: Lessons from the World's Most Expensive City" and compiled notes.
+- I sorted out my Yahoo emails.
+- I watched today's news on CNA.
+- I briefly read parts of Friday's Straits Times and Business Times, and compiled them.
 
+### Saturday (Mar 23) (bowels moving day, slept after 1am)
+- Step into the future of work at Career Forward 2024!
+    - https://www.careerforward.sg/home/p/1
+    - Venue: SANDS EXPO HALL D
+    - Date: 23 – 24 Mar 2024
+    - Time: 10am – 6pm
 
-### Saturday (Mar 23) (non bowels moving day, slept after 1am)
-
-
-### Sunday (Mar 24) (non bowels moving day, slept after 1am)
+### Sunday (Mar 24) (bowels moving day, slept after 1am)
 
 
 
@@ -57,6 +69,11 @@
 
 # Upcoming Schedule
 - July 2024 2pm Tah Chong Dental Appointment
+- EA Research & Consulting Internal:
+    - Your interview and study visit is confirmed on
+    - Date: Monday, Apr 01 2024
+    - Time: 12:00
+    - Location: NUS TAHIR FOUNDATION BUILDING - MD1, 12 Science Drive 2, #11-03, Singapore 117549 
 
 # Tasks to do:
 - Review selected books for further readings
