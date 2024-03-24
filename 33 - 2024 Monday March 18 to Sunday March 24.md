@@ -54,17 +54,27 @@
 - I watched today's news on CNA.
 - I briefly read parts of Friday's Straits Times and Business Times, and compiled them.
 
-### Saturday (Mar 23) (bowels moving day, slept after 1am)
+### Saturday (Mar 23) (bowels moving day, slept after 2am)
 - Step into the future of work at Career Forward 2024!
     - https://www.careerforward.sg/home/p/1
     - Venue: SANDS EXPO HALL D
     - Date: 23 – 24 Mar 2024
     - Time: 10am – 6pm
+- I reviewed the research study protocols:
+    - https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/4/6173/files/2023/12/LH-19-004-Annex-E-PIS-Interview-Visit-V19-2023-11-28_OpsV2.pdf
+- I searched and applied for jobs:
+    - https://www.jobslah.com/
+- I watched today's news on Channel 5, CNA, and Money Mind.
+- I briefly read parts of Saturday's Straits Times and Business Times, and compiled them.
+- I sorted out my Yahoo emails.
 
-### Sunday (Mar 24) (bowels moving day, slept after 1am)
-
-
-
+### Sunday (Mar 24) (non bowels moving day, slept after 12am)
+- I briefly read parts of Sunday's Straits Times, and compiled them.
+- I briefly read parts of this week's The Economist, and compiled them.
+- I completed reading most of the book "The Great Career Paradox", leaving out most parts of Chapter 11 "Accelerating Your Career", and briefly reading parts of Chapter 13 "Common Career Questions".
+- I watched today's news on Channel 5.
+- I sorted out my Yahoo emails.
+- I updated my resume's "Work Requirements" section.
 
 
 # Upcoming Schedule
@@ -76,7 +86,8 @@
     - Location: NUS TAHIR FOUNDATION BUILDING - MD1, 12 Science Drive 2, #11-03, Singapore 117549 
 
 # Tasks to do:
-- Review selected books for further readings
+- Take notes from the books "The Great Career Paradox" and "The Woke Salaryman Crash Course on Capitalism & Money: Lessons from the World's Most Expensive City".
+- Review selected books for further readings.
 
 # Upcoming Medical Appointments
 - Monday 8 April 2024 2.40pm CGH Lung Clinic
@@ -88,3 +99,4 @@
 - Tuesday 18 June 2024 5pm CGH Radiology
 - Monday 1 July 2024 10.15am CGH Neurology
 - Friday 10 January 2025 10.15am SNEC Eye Clinic @ CGH
+- Monday 17 March 2025 9.50am CGH-NNI Spine Centre
