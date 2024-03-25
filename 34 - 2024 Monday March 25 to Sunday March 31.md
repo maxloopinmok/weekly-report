@@ -1,7 +1,23 @@
 ### Monday (Mar 25) (non bowels moving day, slept after 12am)
-
+- I updated:
+    - https://www.linkedin.com/in/max-loo-pin-mok/
+- I applied for a job:
+    - AI Training for Simplified Chinese Writers
+    - from Remotasks (likely SCAM JOB)
+- I finished compiling notes:
+    - "The Woke Salaryman Crash Course on Capitalism & Money: Lessons from the World's Most Expensive City"
+    - https://github.com/maxloosmu/MaxVault
+- I briefly read parts of Monday's Straits Times and Business Times, and compiled them.
+- I visited Kinokuniya and bought a book which doesn't have a ebook version.
+- I read parts of last week's compiled Business Times.
+- I arranged a ACC meetup for Tuesday.
+- I watched today's news on Channel 5.
+- I reread parts of Chapters 3 to 9 of the book "The Great Career Paradox" and compiled notes:
+    - I updated https://github.com/maxloosmu/MaxVault.
+- I sorted my Yahoo email.
 
 ### Tuesday (Mar 26) (bowels moving day, slept after 12am)
+- 4pm ACC meetup with Joseph.
 
 
 ### Wednesday (Mar 27) (non bowels moving day, slept after 12am)
@@ -20,6 +36,12 @@
 
 
 
+# Routines
+- I briefly read parts of today's Straits Times and Business Times, and compiled them.
+- I read parts of last week's compiled Business Times or Straits Times.
+- I watched today's news on Channel 5.
+- I sorted my emails.
+
 
 # Upcoming Schedule
 - July 2024 2pm Tah Chong Dental Appointment
@@ -31,6 +53,7 @@
 
 # Tasks to do:
 - Take notes from the books "The Great Career Paradox" and "The Woke Salaryman Crash Course on Capitalism & Money: Lessons from the World's Most Expensive City".
+- Read the books "How To Decide: Simple Tools for Making Better Choices" after Chapter 2, "Feel-Good Productivity: How to Do More of What Matters to You" after parts of Chapter 9.
 - Review selected books for further readings.
 
 # Upcoming Medical Appointments
