@@ -17,11 +17,16 @@
 - I sorted my Yahoo email.
 
 ### Tuesday (Mar 26) (bowels moving day, slept after 12am)
-- 4pm ACC meetup with Joseph.
-
+- I sorted my Yahoo emails.
+- I briefly read parts of Tuesday's Straits Times and Business Times, and compiled them.
+- 2.30pm ACC meetup with Joseph at White Sands Koufu.
+- I read parts of last week's compiled Business Times.
+- I sorted my Gmail emails:
+    - I downloaded pdfs from Nature NMI and AAAS Science.
+- I watched today's news on Channel 5.
 
 ### Wednesday (Mar 27) (non bowels moving day, slept after 12am)
-
+- Visit Pasir Ris Polyclinic for Healthier SG.
 
 ### Thursday (Mar 28) (bowels moving day, slept after 12am)
 
@@ -36,7 +41,7 @@
 
 
 
-# Routines
+## Routines
 - I briefly read parts of today's Straits Times and Business Times, and compiled them.
 - I read parts of last week's compiled Business Times or Straits Times.
 - I watched today's news on Channel 5.
