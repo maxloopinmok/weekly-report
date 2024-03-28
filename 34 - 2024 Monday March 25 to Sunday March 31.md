@@ -25,11 +25,26 @@
     - I downloaded pdfs from Nature NMI and AAAS Science.
 - I watched today's news on Channel 5.
 
-### Wednesday (Mar 27) (non bowels moving day, slept after 12am)
-- Visit Pasir Ris Polyclinic for Healthier SG.
+### Wednesday (Mar 27) (non bowels moving day, slept after 4am)
+- I completed reading the book "Feel-Good Productivity: How to Do More of What Matters to You", and compiled notes. 
+- I briefly read parts of Wednesday's Straits Times and Business Times, and compiled them.
+- I sorted my Yahoo emails.
+- I briefly visited Pasir Ris Polyclinic for Healthier SG, and OCBC about unit trusts.
+- I visited NUS to scout out the pathway to the EA Research & Consulting Tahir Foundation Building.
+- I read the book "How to Decide: Simple Tools for Making Better Choices" until Chapter 3 "The Decision Multiverse".
+- I watched today's news on Channel 5.
+- I read parts of last week's compiled Straits Times.
+- I completed a Udacity Python test recommended by TP:
+    - https://emc.udacity.com/c/knowitgetit-courses/me
+- I cleaned up my room, and disposed some books and files after downloading the requisite ebooks.
 
 ### Thursday (Mar 28) (bowels moving day, slept after 12am)
-
+- I had a hair cut, and visited OCBC about unit trusts.
+- I sorted my Yahoo emails.
+- I briefly read parts of Thursday's Straits Times and Business Times, and compiled them.
+- I read parts of last week's compiled Straits Times.
+- I watched today's news on Channel 5, and Talking Point.
+- I read parts of this week's compiled Business Times.
 
 ### Friday (Mar 29) (non bowels moving day, slept after 12am)
 
@@ -63,7 +78,7 @@
 
 # Upcoming Medical Appointments
 - Monday 8 April 2024 2.40pm CGH Lung Clinic
-- Tuesday 16 April 2024 11.10am CGH Digestive Diseases Centre
+- Wednesday 24 April 2024 11.10am CGH Digestive Diseases Centre
 - Friday 17 May 2024 11am IMH Clinic B
 - Monday 27 May 2024 3.10pm CGH 2B - ENT
 - Wednesday 29 May 2024 9am CGH Psychological Medicine Centre
