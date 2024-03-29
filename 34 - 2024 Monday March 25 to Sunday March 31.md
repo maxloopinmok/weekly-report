@@ -46,8 +46,14 @@
 - I watched today's news on Channel 5, and Talking Point.
 - I read parts of this week's compiled Business Times.
 
-### Friday (Mar 29) (non bowels moving day, slept after 12am)
-
+### Friday (Mar 29) (non bowels moving day, slept after 2am)
+- I disposed some filed documents from my room.
+- I visited Kinokuniya.
+- I read parts of this week's compiled Business Times.
+- I read parts of this week's compiled Straits Times.
+- I watched today's news on Channel 5.
+- I sorted my Yahoo emails.
+- I briefly read parts of Friday's Straits Times and Business Times, and compiled them.
 
 ### Saturday (Mar 30) (non bowels moving day, slept after 12am)
 
@@ -61,7 +67,6 @@
 - I read parts of last week's compiled Business Times or Straits Times.
 - I watched today's news on Channel 5.
 - I sorted my emails.
-
 
 # Upcoming Schedule
 - July 2024 2pm Tah Chong Dental Appointment
