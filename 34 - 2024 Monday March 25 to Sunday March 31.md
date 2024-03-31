@@ -55,18 +55,34 @@
 - I sorted my Yahoo emails.
 - I briefly read parts of Friday's Straits Times and Business Times, and compiled them.
 
-### Saturday (Mar 30) (non bowels moving day, slept after 12am)
+### Saturday (Mar 30) (bowels moving day, slept after 2am)
+- I read parts of this week's compiled Straits Times.
+- I briefly read parts of Saturday's Straits Times and Business Times, and compiled them.
+- I updated: https://github.com/maxloosmu/MaxVault.
+- I watched today's news on Channel 5, CNA, and Money Mind.
+- I watched these:
+    - https://www.youtube.com/watch?v=DBEOdw9woBM
+    - https://www.youtube.com/watch?v=4Qz4GfvjGLY
+    - https://www.youtube.com/watch?v=wM5837pVh1g
+- I sorted my Yahoo emails.
 
-
-### Sunday (Mar 31) (bowels moving day, slept after 12am)
+### Sunday (Mar 31) (bowels moving day, slept after 1am)
+- I briefly read parts of Sunday's Straits Times, and compiled them.
+- I sorted my Yahoo and Gmail emails.
+- I read parts of this week's compiled Straits Times.
+- I briefly read parts of MIT Technology Review's newsletters and webpages for almost the whole of March 2024, and compiled them.
+    - https://www.technologyreview.com/
+- I read parts of the March news compilation of MIT Technology Review.
+- I watched today's news on Channel 5, CNA, and Talking Point.
 
 
 
 ## Routines
+- I do note taking, and/or tasks recording and planning.
+- I sorted my emails.
 - I briefly read parts of today's Straits Times and Business Times, and compiled them.
 - I read parts of last week's compiled Business Times or Straits Times.
 - I watched today's news on Channel 5.
-- I sorted my emails.
 
 # Upcoming Schedule
 - July 2024 2pm Tah Chong Dental Appointment
