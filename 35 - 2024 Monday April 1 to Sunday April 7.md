@@ -2,9 +2,12 @@
 - EA Research & Consulting Internal:
     - Your interview and study visit is confirmed on
     - Date: Monday, Apr 01 2024
-    - Time: 12:00
+    - Time: 12:00 to 18:00
     - Location: NUS TAHIR FOUNDATION BUILDING - MD1, 12 Science Drive 2, #11-03, Singapore 117549 
-
+- I read parts of this week's compiled Straits Times.
+- I read parts of the March news compilation of MIT Technology Review.
+- I watched today's news on CNA, and "Debt Bomb: A Deluge of Defaults".
+- I sorted my Yahoo emails.
 
 ### Tuesday (Apr 2) (bowels moving day, slept after 12am)
 
