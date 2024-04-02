@@ -1,4 +1,5 @@
-### Monday (Apr 1) (non bowels moving day, slept after 12am)
+### Monday (Apr 1) (non bowels moving day, slept after 1am)
+- I briefly read parts of Monday's Straits Times and Business Times, and compiled them.
 - EA Research & Consulting Internal:
     - Your interview and study visit is confirmed on
     - Date: Monday, Apr 01 2024
@@ -9,8 +10,12 @@
 - I watched today's news on CNA, and "Debt Bomb: A Deluge of Defaults".
 - I sorted my Yahoo emails.
 
-### Tuesday (Apr 2) (bowels moving day, slept after 12am)
-
+### Tuesday (Apr 2) (bowels moving day, slept after 3am)
+- I read parts of this week's compiled Straits Times.
+- I read parts of the March news compilation of MIT Technology Review.
+- I watched today's news on CNA, and "Debt Bomb".
+- I sorted my Yahoo emails.
+- I read parts of Tuesday's Straits Times and Business Times, and compiled them.
 
 ### Wednesday (Apr 3) (non bowels moving day, slept after 12am)
 
@@ -33,7 +38,7 @@
 - I sorted my emails.
 - I briefly read parts of today's Straits Times and Business Times, and compiled them.
 - I read parts of last week's compiled Business Times or Straits Times.
-- I watched today's news on Channel 5.
+- I watched today's news on CNA.
 
 # Upcoming Schedule
 - July 2024 2pm Tah Chong Dental Appointment
