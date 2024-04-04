@@ -17,11 +17,36 @@
 - I sorted my Yahoo emails.
 - I read parts of Tuesday's Straits Times and Business Times, and compiled them.
 
-### Wednesday (Apr 3) (non bowels moving day, slept after 12am)
-
+### Wednesday (Apr 3) (non bowels moving day, slept after 3am)
+- I visited CGH to bring forward my medical appointment.
+- I visited Kinokuniya, and when I got home, I sorted through my books list, identifying:
+    - NLB books
+    - ebooks
+- I read parts of the March news compilation of MIT Technology Review.
+- I watched today's news on CNA.
+- I sorted my Yahoo emails.
+- I briefly read parts of Wednesday's Straits Times and Business Times, and compiled them.
 
 ### Thursday (Apr 4) (bowels moving day, slept after 12am)
-
+- I sorted through my ebooks.
+- I read parts of this week's compiled Business Times.
+- I briefly read parts of Thursday's Straits Times and Business Times, and compiled them.
+- I watched parts of these:
+    - https://www.riverlife.org.sg/sermons/living-in-the-resurrection-power
+    - https://www.youtube.com/watch?v=Pl_CRZBW2Wc
+    - https://www.youtube.com/watch?v=nAz34kv77e8
+        - https://notebooklm.google/
+    - https://www.youtube.com/watch?v=Hh2YG7Lxzbc
+    - https://www.youtube.com/watch?v=rYH381pZIBc
+    - https://www.youtube.com/watch?v=KX6-yiJjLuM
+    - https://www.youtube.com/watch?v=Ix_R6WTX04I
+    - https://www.youtube.com/watch?v=3EE51JOOEtE
+- I watched today's news on CNA.
+- I sorted my Yahoo emails.
+- I applied for jobs at:
+    - https://www.mycareersfuture.gov.sg
+        - "remote web developer", "remote software developer", "work from home developer"
+    - https://www.careergrit.sg/virtual-career-fair-details
 
 ### Friday (Apr 5) (non bowels moving day, slept after 12am)
 
@@ -49,12 +74,14 @@
 
 # Upcoming Medical Appointments
 - Monday 8 April 2024 2.40pm CGH Lung Clinic
-- Wednesday 24 April 2024 11.10am CGH Digestive Diseases Centre
+- Tuesday 9 April 2024 11.50am CGH Digestive Diseases Centre
+- Wednesday 8 May 2024 3pm Pasir Ris Polyclinic RM 211-PR
 - Friday 17 May 2024 11am IMH Clinic B
 - Monday 27 May 2024 3.10pm CGH 2B - ENT
 - Wednesday 29 May 2024 9am CGH Psychological Medicine Centre
 - Tuesday 11 June 2024 10.10am CGH Neurology
+- Friday 14 June 2024 9.55am 4E - CGH-NNI Spine Centre
 - Tuesday 18 June 2024 5pm CGH Radiology
 - Monday 1 July 2024 10.15am CGH Neurology
-- Friday 10 January 2025 10.15am SNEC Eye Clinic @ CGH
-- Monday 17 March 2025 9.50am CGH-NNI Spine Centre
+- Friday 10 January 2025 10.15am 1A - SNEC Eye Clinic @ CGH
+- Monday 17 March 2025 9.50am 4E - CGH-NNI Spine Centre
