@@ -27,7 +27,7 @@
 - I sorted my Yahoo emails.
 - I briefly read parts of Wednesday's Straits Times and Business Times, and compiled them.
 
-### Thursday (Apr 4) (bowels moving day, slept after 12am)
+### Thursday (Apr 4) (bowels moving day, slept after 1am)
 - I sorted through my ebooks.
 - I read parts of this week's compiled Business Times.
 - I briefly read parts of Thursday's Straits Times and Business Times, and compiled them.
@@ -48,8 +48,17 @@
         - "remote web developer", "remote software developer", "work from home developer"
     - https://www.careergrit.sg/virtual-career-fair-details
 
-### Friday (Apr 5) (non bowels moving day, slept after 12am)
-
+### Friday (Apr 5) (non bowels moving day, slept after 1am)
+- I applied for jobs at:
+    - https://www.mycareersfuture.gov.sg
+        - "hybrid web developer", "hybrid software developer"
+- I briefly read parts of Friday's Straits Times and Business Times, and compiled them.
+- I observed the cleaning of my aircon unit by aircon technicians.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I attended the Meet the People Session at Pasir Ris West to look for help with employment.
+- I read the book "How To Decide: Simple Tools for Making Better Choices" until Chapter 4 "The Three Ps: Preferences, Payoffs, and Probabilities"
+- I watched today's news on CNA.
+- I sorted my Yahoo emails.
 
 ### Saturday (Apr 6) (bowels moving day, slept after 12am)
 
