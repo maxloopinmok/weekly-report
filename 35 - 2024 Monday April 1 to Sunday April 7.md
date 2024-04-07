@@ -56,14 +56,24 @@
 - I observed the cleaning of my aircon unit by aircon technicians.
 - I read parts of this week's compiled Straits Times and Business Times.
 - I attended the Meet the People Session at Pasir Ris West to look for help with employment.
-- I read the book "How To Decide: Simple Tools for Making Better Choices" until Chapter 4 "The Three Ps: Preferences, Payoffs, and Probabilities"
+- I read the book "How To Decide: Simple Tools for Making Better Choices" until Chapter 4 "The Three Ps: Preferences, Payoffs, and Probabilities".
 - I watched today's news on CNA.
 - I sorted my Yahoo emails.
 
-### Saturday (Apr 6) (bowels moving day, slept after 12am)
+### Saturday (Apr 6) (bowels moving day, slept after 3am)
+- I briefly read parts of this week's The Economist.
+    - https://eresources.nlb.gov.sg/main/Browse?browseBy=type&filter=14
+- I read the book "How To Decide: Simple Tools for Making Better Choices" until Chapter 5 "Taking Dead Aim at the Future: The Power of Precision".
+- I watched today's news on CNA, and Money Mind.
+- I briefly read parts of Saturday's Straits Times and Business Times, and compiled them.
+- I sorted my Yahoo emails.
 
-
-### Sunday (Apr 7) (bowels moving day, slept after 12am)
+### Sunday (Apr 7) (bowels moving day, slept after 2am)
+- I read parts of this week's compiled Straits Times and Business Times.
+- I read the book "How To Decide: Simple Tools for Making Better Choices" until Chapter 6 "Turning Decisions Outside In".
+- I sorted my Yahoo emails.
+- I briefly read parts of Sunday's Straits Times, and compiled them.
+- I watched today's news on CNA, and Talking Point.
 
 
 
