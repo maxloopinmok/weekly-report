@@ -1,6 +1,19 @@
-### Monday (Apr 8) (non bowels moving day, slept after 1am)
+### Monday (Apr 8) (non bowels moving day, slept after 2am)
+- I briefly read parts of Monday's Straits Times and Business Times, and compiled them.
+- I updated my CPF.
+- I watched parts of these:
+    - https://www.youtube.com/watch?v=NufAlqQvTYI
+    - https://www.youtube.com/watch?v=tsr-7-oIUbk
+    - https://www.youtube.com/watch?v=YtqTfa57-_Y
+    - https://www.youtube.com/watch?v=vEd-LqBCONg
+    - https://www.youtube.com/watch?v=cEg8cOx7UZk
+- I visited SSO to ask about financial assistance.
+- I read parts of this week's compiled Straits Times, and Business Times.
 - Monday 8 April 2024 2.40pm CGH Lung Clinic
-
+- I visited OCBC Pasir Ris to ask about unit trusts.
+- I sorted my Yahoo emails.
+- I watched today's news on CNA.
+- I made notes for the book "How To Decide: Simple Tools for Making Better Choices" until Chapter 2.
 
 ### Tuesday (Apr 9) (non bowels moving day, slept after 1am)
 - Tuesday 9 April 2024 11.50am CGH Digestive Diseases Centre
@@ -31,6 +44,7 @@
 
 # Upcoming Schedule
 - July 2024 2pm Tah Chong Dental Appointment
+- Wednesday 15 May 2024 Mother's Eye Medical Appointment
 
 # Tasks to do:
 - Read the book "How To Decide: Simple Tools for Making Better Choices" after Chapter 6 "Turning Decisions Outside In", and do notes taking.
