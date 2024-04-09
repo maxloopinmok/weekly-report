@@ -16,8 +16,13 @@
 - I made notes for the book "How To Decide: Simple Tools for Making Better Choices" until Chapter 2.
 
 ### Tuesday (Apr 9) (non bowels moving day, slept after 1am)
+- I briefly read parts of Tuesday's Straits Times and Business Times, and compiled them.
 - Tuesday 9 April 2024 11.50am CGH Digestive Diseases Centre
-
+- I read parts of this week's compiled Straits Times, and Business Times.
+- I sorted my Yahoo emails.
+- I made notes for the book "How To Decide: Simple Tools for Making Better Choices" until Chapter 6.
+- I read the book "How To Decide: Simple Tools for Making Better Choices" until Chapter 7 "Breaking Free from Analysis Paralysis".
+- I watched today's news on CNA.
 
 ### Wednesday (Apr 10) (non bowels moving day, slept after 1am)
 
