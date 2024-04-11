@@ -15,7 +15,7 @@
 - I watched today's news on CNA.
 - I made notes for the book "How To Decide: Simple Tools for Making Better Choices" until Chapter 2.
 
-### Tuesday (Apr 9) (non bowels moving day, slept after 1am)
+### Tuesday (Apr 9) (bowels moving day, slept after 1am)
 - I briefly read parts of Tuesday's Straits Times and Business Times, and compiled them.
 - Tuesday 9 April 2024 11.50am CGH Digestive Diseases Centre
 - I read parts of this week's compiled Straits Times, and Business Times.
@@ -25,18 +25,33 @@
 - I watched today's news on CNA.
 
 ### Wednesday (Apr 10) (non bowels moving day, slept after 1am)
+- I visited my father at his nursing home.
+- I briefly visited Kinokuniya.
+- I sorted my Yahoo emails.
+- I made notes for the book "How To Decide: Simple Tools for Making Better Choices" until Chapter 7.
+- I briefly read parts of Wednesday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times, and Business Times.
+- I watched today's news on CNA.
 
-
-### Thursday (Apr 11) (non bowels moving day, slept after 1am)
-
+### Thursday (Apr 11) (bowels moving day, slept after 1am)
+- I sorted out my calls:
+    - call CGH to change Tuesday 24 September 2024 appointment, and increase medicine dosage.
+    - whatsapp message EA Research & Consulting about delivery date of medical documents and receipt of accelerometer.
+    - contact aircon supplier about problem with aircon.
+- I read parts of Chapter 8 of the book "How To Decide: Simple Tools for Making Better Choices".
+- I briefly read parts of the book "The Art of Decision Making: How to make effective decisions under pressure", and made notes.
+- I briefly read parts of Thursday's Straits Times and Business Times, and compiled them.
+- I sorted my Yahoo emails, and applied for another NTU course:
+    - https://www.ntu.edu.sg/pace/programmes/detail/cet790-ai-3-computational-game-theory
+- I watched today's news on CNA.
 
 ### Friday (Apr 12) (non bowels moving day, slept after 1am)
 
 
-### Saturday (Apr 13) (non bowels moving day, slept after 1am)
+### Saturday (Apr 13) (bowels moving day, slept after 1am)
 
 
-### Sunday (Apr 14) (non bowels moving day, slept after 1am)
+### Sunday (Apr 14) (bowels moving day, slept after 1am)
 
 
 
@@ -48,8 +63,9 @@
 - I watched today's news on CNA.
 
 # Upcoming Schedule
-- July 2024 2pm Tah Chong Dental Appointment
+- Monday 15 April 2024 City Hall meeting with SPD
 - Wednesday 15 May 2024 Mother's Eye Medical Appointment
+- July 2024 2pm Tah Chong Dental Appointment
 
 # Tasks to do:
 - Read the book "How To Decide: Simple Tools for Making Better Choices" after Chapter 6 "Turning Decisions Outside In", and do notes taking.
@@ -64,5 +80,6 @@
 - Friday 14 June 2024 9.55am 4E - CGH-NNI Spine Centre
 - Tuesday 18 June 2024 5pm CGH Radiology
 - Monday 1 July 2024 10.15am CGH Neurology
+- Tuesday 24 September 2024 11.20am CGH Digestive Diseases Centre
 - Friday 10 January 2025 10.15am 1A - SNEC Eye Clinic @ CGH
 - Monday 17 March 2025 9.50am 4E - CGH-NNI Spine Centre
