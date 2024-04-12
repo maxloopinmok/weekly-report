@@ -33,7 +33,7 @@
 - I read parts of this week's compiled Straits Times, and Business Times.
 - I watched today's news on CNA.
 
-### Thursday (Apr 11) (bowels moving day, slept after 1am)
+### Thursday (Apr 11) (bowels moving day, slept after 2am)
 - I sorted out my calls:
     - call CGH to change Tuesday 24 September 2024 appointment, and increase medicine dosage.
     - whatsapp message EA Research & Consulting about delivery date of medical documents and receipt of accelerometer.
@@ -45,8 +45,13 @@
     - https://www.ntu.edu.sg/pace/programmes/detail/cet790-ai-3-computational-game-theory
 - I watched today's news on CNA.
 
-### Friday (Apr 12) (non bowels moving day, slept after 1am)
-
+### Friday (Apr 12) (non bowels moving day, slept after 2am)
+- I visited BOC to assess their fix deposits.
+- I briefly read parts of Friday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times, and Business Times.
+- I sorted my Yahoo emails.
+- I watched parts of today's news on Channel 5 and CNA.
+- I briefly read the book "The Decisive Mind: How to Make the Right Choice Every Time" until Chapter 1 "... Introducing the Decisive Framework".
 
 ### Saturday (Apr 13) (bowels moving day, slept after 1am)
 
