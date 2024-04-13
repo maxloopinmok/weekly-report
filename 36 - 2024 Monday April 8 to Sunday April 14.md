@@ -52,9 +52,17 @@
 - I sorted my Yahoo emails.
 - I watched parts of today's news on Channel 5 and CNA.
 - I briefly read the book "The Decisive Mind: How to Make the Right Choice Every Time" until Chapter 1 "... Introducing the Decisive Framework".
+- I tried to handle some aircon related WhatsApp messages.
 
-### Saturday (Apr 13) (bowels moving day, slept after 1am)
-
+### Saturday (Apr 13) (bowels moving day, slept after 2am)
+- I pondered about how to make decisions, before finally deciding that as a beggar, I do not make decisions, I take what I'm given.
+- I applied for jobs at:
+    - https://www.mycareersfuture.gov.sg
+        - "gig", "remote web developer", "remote software developer", "work from home developer", "remote ai developer"
+    - https://sg.indeed.com
+- I briefly read parts of Saturday's Straits Times and Business Times, and compiled them.
+- I sorted my Yahoo emails, and completed a Turing Work Experience Survey.
+- I watched parts of today's news CNA, and Money Mind.
 
 ### Sunday (Apr 14) (bowels moving day, slept after 1am)
 
