@@ -58,13 +58,22 @@
 - I pondered about how to make decisions, before finally deciding that as a beggar, I do not make decisions, I take what I'm given.
 - I applied for jobs at:
     - https://www.mycareersfuture.gov.sg
-        - "gig", "remote web developer", "remote software developer", "work from home developer", "remote ai developer"
+        - "gig", "remote web developer", "remote software developer", "work from home developer", "remote ai developer", "remote data analyst"
     - https://sg.indeed.com
 - I briefly read parts of Saturday's Straits Times and Business Times, and compiled them.
 - I sorted my Yahoo emails, and completed a Turing Work Experience Survey.
 - I watched parts of today's news CNA, and Money Mind.
 
 ### Sunday (Apr 14) (bowels moving day, slept after 1am)
+- I applied for jobs at:
+    - https://www.mycareersfuture.gov.sg
+        - "web developer"
+- I briefly read parts of Sunday's Straits Times, and compiled them.
+- I borrowed and read bits from the book "Manage Your Mind: The Mental Fitness Guide".
+- I briefly read the book "The Decisive Mind: How to Make the Right Choice Every Time" Chapter 11 "Let's Do This!  Building and Implementing Your Plan", and made notes.
+- I watched today's news on Channel 5.
+- I sorted my Yahoo emails.
+- I prepared and wrote to the press again.
 
 
 
