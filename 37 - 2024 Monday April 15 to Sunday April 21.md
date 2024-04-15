@@ -1,6 +1,12 @@
 ### Monday (Apr 15) (non bowels moving day, slept after 2am)
+- I updated https://github.com/maxloosmu/MaxVault.
+- I briefly read parts of Monday's Straits Times and Business Times, and compiled them.
+- I visited Kinokuniya.
 - Monday 15 April 2024 3pm City Hall meeting with SPD
-
+- I read parts of last week's and this week's compiled Straits Times, and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I read parts of Chapter 8 of the book "Managing Your Mind: The Mental Fitness Guide"
+    - Chapter 8: "Using your head: thinking and deciding".
 
 ### Tuesday (Apr 16) (bowels moving day, slept after 2am)
 

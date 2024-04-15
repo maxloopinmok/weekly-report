@@ -64,7 +64,7 @@
 - I sorted my Yahoo emails, and completed a Turing Work Experience Survey.
 - I watched parts of today's news CNA, and Money Mind.
 
-### Sunday (Apr 14) (bowels moving day, slept after 1am)
+### Sunday (Apr 14) (bowels moving day, slept after 3am)
 - I applied for jobs at:
     - https://www.mycareersfuture.gov.sg
         - "web developer"
