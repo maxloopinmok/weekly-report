@@ -8,11 +8,21 @@
 - I read parts of Chapter 8 of the book "Managing Your Mind: The Mental Fitness Guide"
     - Chapter 8: "Using your head: thinking and deciding".
 
-### Tuesday (Apr 16) (bowels moving day, slept after 2am)
-
+### Tuesday (Apr 16) (bowels moving day, slept after 6am)
+- I resolved my aircon warranty application issue.
+- I applied for jobs at:
+    - https://www.mycareersfuture.gov.sg
+        - "flexible"
+    - I obtained an interview for Admin Assistant (Finance Industry / Flexible Hours):
+        - https://www.mycareersfuture.gov.sg/job/admin/admin-assistant-recruit-now-singapore-2ddd4c8bedc88612858490c7a996ab9b
+- I briefly read parts of Tuesday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of these and compiled them:
+    - MIT Technology Review newsletters and articles (2 weeks)
+    - Rundown newsletters (2 months plus)
+- I watched parts of this:
+    - https://www.youtube.com/watch?v=jvqFAi7vkBc
 
 ### Wednesday (Apr 17) (non bowels moving day, slept after 2am)
-
 
 ### Thursday (Apr 18) (bowels moving day, slept after 2am)
 
@@ -35,6 +45,7 @@
 - I watched today's news on CNA.
 
 # Upcoming Schedule
+- April 2024 (1 Pemimpin Dr, #12-04, Singapore 576151) Interview with Recruit Now Celine and Prudential Director Eugene.
 - Wednesday 15 May 2024 Mother's Eye Medical Appointment
 - July 2024 2pm Tah Chong Dental Appointment
 
