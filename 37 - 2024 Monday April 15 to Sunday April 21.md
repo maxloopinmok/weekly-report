@@ -37,11 +37,17 @@
 - I briefly read parts of Thursday's Straits Times and Business Times, and compiled them.
 - I sorted my Yahoo emails.
 
-### Friday (Apr 19) (non bowels moving day, slept after 2am)
-- Contact CGH about my "Tuesday 24 September 2024 11.20am CGH Digestive Diseases Centre" appointment.
+### Friday (Apr 19) (non bowels moving day, slept after 3am)
+- I visited CGH about changing my "Tuesday 24 September 2024 11.20am CGH Digestive Diseases Centre" appointment.
+- I visited Kinokuniya.
+- I read some parts of my compiled Rundown articles.
+- I worked on QoreNext paid tasks, clocking 14 tasks in less than 2 hours.
+- I watched today's news on Channel 5, and On The Red Dot.
+- I briefly read parts of Friday's Straits Times and Business Times, and compiled them.
+- I sorted my Yahoo emails.
 
 ### Saturday (Apr 20) (bowels moving day, slept after 2am)
-- Saturday 20 April 2024 White Sands meeting with SACC brother
+- Saturday 20 April 2024 12pm White Sands meeting with SACC brother
 
 
 ### Sunday (Apr 21) (bowels moving day, slept after 2am)
