@@ -46,11 +46,18 @@
 - I briefly read parts of Friday's Straits Times and Business Times, and compiled them.
 - I sorted my Yahoo emails.
 
-### Saturday (Apr 20) (bowels moving day, slept after 2am)
-- Saturday 20 April 2024 12pm White Sands meeting with SACC brother
-
+### Saturday (Apr 20) (bowels moving day, slept after 3am)
+- I briefly read parts of Saturday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times, and Business Times.
+- I sorted my Yahoo emails.
+- I read Chapter 8 "Using your head: thinking and deciding" of the book "Manage Your Mind: The Mental Fitness Guide", wrote notes, and updated: https://github.com/maxloosmu/MaxVault.
+- I watched today's news on CNA, Money Mind, and the Power Scramble documentary.
 
 ### Sunday (Apr 21) (bowels moving day, slept after 2am)
+- I read parts of this week's compiled Straits Times, and Business Times.
+- I sorted my Yahoo emails.
+- I prepared a letter to my MP about my difficulties in finding work.
+- I watched today's news on Channel 5, CNA, and the Power Scramble documentary.
 
 
 ## Routines
@@ -62,6 +69,7 @@
 
 # Upcoming Schedule
 - 22 April 2024 2pm Visit my demented father at nursing home
+- 22 April 2024 8pm Meeting MP at Punggol Shore
 - April 2024 (1 Pemimpin Dr, #12-04, Singapore 576151) Interview with Recruit Now Celine and Prudential Director Eugene
 - Wednesday 15 May 2024 Mother's Eye Medical Appointment
 - July 2024 2pm Tah Chong Dental Appointment
