@@ -1,7 +1,10 @@
 ### Monday (Apr 22) (non bowels moving day, slept after 2am)
 - 22 April 2024 2pm Visit my demented father at nursing home
+- I took a trip to Kinokuniya, and visited Punggol Library.
 - 22 April 2024 8pm Meeting MP at Punggol Shore
-
+- I downloaded a list of books.
+- I sorted my Yahoo emails.
+- I watched today's news on CNA.
 
 ### Tuesday (Apr 23) (non bowels moving day, slept after 2am)
 
