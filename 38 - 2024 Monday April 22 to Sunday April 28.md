@@ -7,6 +7,21 @@
 - I watched today's news on CNA.
 
 ### Tuesday (Apr 23) (non bowels moving day, slept after 2am)
+- I sorted my Yahoo emails and WhatsApp messages, and received a call.
+- I read parts of my compiled Rundown articles.
+- I read parts of my compiled MIT articles.
+- I briefly read parts of Monday's and Tuesday's Straits Times and Business Times, and compiled them.
+- I applied for jobs at:
+    - https://www.mycareersfuture.gov.sg
+        - "remote web developer", "remote frontend developer", "remote backend developer", "work from home", "remote software developer", "web developer"
+    - https://www.linkedin.com/jobs/view/3895098868/
+- I watched today's news on CNA.
+- I watched parts of these:
+    - https://www.youtube.com/watch?v=0AaNT7XO41I
+    - https://www.youtube.com/watch?v=yF_J5lS1LyQ
+    - https://www.youtube.com/watch?v=MPrIRaPkI6g
+    - https://www.youtube.com/watch?v=KKNCiRWd_j0
+    - https://www.youtube.com/watch?v=QOCZYRXL0AQ
 
 
 ### Wednesday (Apr 24) (non bowels moving day, slept after 2am)
@@ -35,6 +50,7 @@
 - I watched today's news on CNA.
 
 # Upcoming Schedule
+- 26 April 2024 2pm-5pm Mitsubishi meeting at home about aircon
 - April 2024 (1 Pemimpin Dr, #12-04, Singapore 576151) Interview with Recruit Now Celine and Prudential Director Eugene
 - Wednesday 15 May 2024 Mother's Eye Medical Appointment
 - July 2024 2pm Tah Chong Dental Appointment
