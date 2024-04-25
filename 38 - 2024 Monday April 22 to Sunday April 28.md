@@ -23,14 +23,29 @@
     - https://www.youtube.com/watch?v=KKNCiRWd_j0
     - https://www.youtube.com/watch?v=QOCZYRXL0AQ
 
-
 ### Wednesday (Apr 24) (non bowels moving day, slept after 2am)
-
+- I sorted my Yahoo emails.
+- I worked on 4 QoreNext paid tasks.
+- I communicated with e2i and finetuned my resume.
+- I briefly read parts of Wednesday's Straits Times and Business Times, and compiled them.
+- I read parts of my compiled MIT articles.
+- I watched today's news on Channel 5.
+- I briefly read parts of last week's The Economist and compiled them.
+- I read articles using Google about:
+    - "aging reversal", "longevity", "David Sinclair"
+- I sorted my Gmail emails, and troubleshoot my mum's SingTel account.
 
 ### Thursday (Apr 25) (non bowels moving day, slept after 2am)
-
+- I read parts of my compiled MIT articles.
+- I reformatted my resume with the help of e2i.
+- I read parts of my compiled Straits Times and Business Times articles for this week.
+- I briefly read parts of Thursday's Straits Times and Business Times, and compiled them.
+- I watched today's news on Channel 5, CNA, and Talking Point.
+- I worked on 6 QoreNext paid tasks.
+- I sorted my Yahoo emails.
 
 ### Friday (Apr 26) (non bowels moving day, slept after 2am)
+- 26 April 2024 2pm-5pm Mitsubishi meeting at home about aircon
 
 
 ### Saturday (Apr 27) (non bowels moving day, slept after 2am)
@@ -50,7 +65,7 @@
 - I watched today's news on CNA.
 
 # Upcoming Schedule
-- 26 April 2024 2pm-5pm Mitsubishi meeting at home about aircon
+- 29 April 2024 2pm Visit my demented father at nursing home
 - April 2024 (1 Pemimpin Dr, #12-04, Singapore 576151) Interview with Recruit Now Celine and Prudential Director Eugene
 - Wednesday 15 May 2024 Mother's Eye Medical Appointment
 - July 2024 2pm Tah Chong Dental Appointment
