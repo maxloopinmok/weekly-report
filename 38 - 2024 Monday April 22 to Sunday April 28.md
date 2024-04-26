@@ -45,8 +45,23 @@
 - I sorted my Yahoo emails.
 
 ### Friday (Apr 26) (non bowels moving day, slept after 2am)
-- 26 April 2024 2pm-5pm Mitsubishi meeting at home about aircon
-
+- 26 April 2024 2pm Mitsubishi meeting at home about aircon
+- I applied for jobs and updated my profile at:
+    - https://www.efinancialcareers.sg/myefc/profile
+    - https://www.charterhouseme.ae/dashboard/jobs
+    - https://career012.successfactors.eu/portalcareer?company=C0004534147P&career_job_req_id=10001&career_ns=job_listing&navBarLevel=JOB_SEARCH&_s.crb=IbsvCr9S2MIQ5ZVTG8fFQr3yPKAD4epK5sljfRizWBc%253d
+    - For Turing jobs, I passed the "Pass your first Quiz from My Tech Stacks" involving NodeJS at:
+        - https://developers.turing.com/dashboard/home?utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply
+    - I signed up for Google One:
+        - https://one.google.com/terms-of-service
+        - https://one.google.com/offer/freetrial
+        - https://policies.google.com/privacy?hl=en
+    - I tried the Web FrontEnd Basics quiz using Gemini, but failed.
+    - So, I cannot apply for Turing jobs yet.
+- I applied for fixed deposits at POSB.
+- I read the book "Basic AI: A Human Guide to Artificial Intelligence" until Part I "AI Changes Everything" Chapter 1 "Rise of the bots and AI hallucinations".
+- I watched today's news on Channel 5.
+- I briefly read parts of Friday's Straits Times and Business Times, and compiled them.
 
 ### Saturday (Apr 27) (non bowels moving day, slept after 2am)
 
