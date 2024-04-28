@@ -6,7 +6,7 @@
 - I sorted my Yahoo emails.
 - I watched today's news on CNA.
 
-### Tuesday (Apr 23) (non bowels moving day, slept after 2am)
+### Tuesday (Apr 23) (bowels moving day, slept after 2am)
 - I sorted my Yahoo emails and WhatsApp messages, and received a call.
 - I read parts of my compiled Rundown articles.
 - I read parts of my compiled MIT articles.
@@ -35,7 +35,7 @@
     - "aging reversal", "longevity", "David Sinclair"
 - I sorted my Gmail emails, and troubleshoot my mum's SingTel account.
 
-### Thursday (Apr 25) (non bowels moving day, slept after 2am)
+### Thursday (Apr 25) (bowels moving day, slept after 2am)
 - I read parts of my compiled MIT articles.
 - I reformatted my resume with the help of e2i.
 - I read parts of my compiled Straits Times and Business Times articles for this week.
@@ -63,12 +63,30 @@
 - I watched today's news on Channel 5.
 - I briefly read parts of Friday's Straits Times and Business Times, and compiled them.
 
-### Saturday (Apr 27) (non bowels moving day, slept after 2am)
+### Saturday (Apr 27) (bowels moving day, slept after 2am)
+- I read parts of Chapter 2 of the book "Basic AI: A Human Guide to Artificial Intelligence".
+- I briefly read parts of Saturday's Straits Times and Business Times, and compiled them.
+- I watched today's news on Channel 5, CNA, and Money Mind.
+- I watched parts of these:
+    - https://www.youtube.com/watch?v=I3yut-ndr2M
+    - https://www.youtube.com/watch?v=e5JKqVrHrUw
+    - https://www.youtube.com/watch?v=NJXGIMa45sQ
+    - https://www.youtube.com/watch?v=GtveKYXYo_0
+    - https://www.youtube.com/watch?v=90LaNaNFYh0
+    - https://www.youtube.com/watch?v=Enp70Kkjb8k
+- I applied for jobs at:
+    - https://www.linkedin.com/jobs/
+    - https://www.efinancialcareers.co.uk/jobs-United_Arab_Emirates-Dubai-Backend_Developer_Remote.id20725764?stlt=&apply=true&utm_source=APAC_SG_ENG&utm_medium=EM_NOWHIRE&utm_campaign=JS_BEST_JOB_NOW_TOP_RECOMMENDED&mi_ecmp=GLOBAL_ENG_BEST_JOB_NOW_PLUS_TOP_RECOMMENDED
 
-
-### Sunday (Apr 28) (non bowels moving day, slept after 2am)
-
-
+### Sunday (Apr 28) (bowels moving day, slept after 2am)
+- I amended my resume:
+    - https://maxlooresume.wordpress.com/
+- I read parts of the this week's compiled Straits Times and Business Times articles.
+- I watched today's news on Channel 5.
+- I briefly read parts of Sunday's Straits Times and Business Times, and compiled them.
+- I applied for a job:
+    - https://www.linkedin.com/jobs/view/3908360816/
+- I sorted my Yahoo emails.
 
 
 
