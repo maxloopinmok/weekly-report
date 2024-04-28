@@ -64,7 +64,7 @@
 - I briefly read parts of Friday's Straits Times and Business Times, and compiled them.
 
 ### Saturday (Apr 27) (bowels moving day, slept after 2am)
-- I read parts of Chapter 2 of the book "Basic AI: A Human Guide to Artificial Intelligence".
+- I read Chapter 2 "Defining AI: Understanding Terminology" of the book "Basic AI: A Human Guide to Artificial Intelligence".
 - I briefly read parts of Saturday's Straits Times and Business Times, and compiled them.
 - I watched today's news on Channel 5, CNA, and Money Mind.
 - I watched parts of these:
@@ -83,7 +83,7 @@
     - https://maxlooresume.wordpress.com/
 - I read parts of the this week's compiled Straits Times and Business Times articles.
 - I watched today's news on Channel 5.
-- I briefly read parts of Sunday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of Sunday's Straits Times, and compiled them.
 - I applied for a job:
     - https://www.linkedin.com/jobs/view/3908360816/
 - I sorted my Yahoo emails.
