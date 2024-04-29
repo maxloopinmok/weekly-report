@@ -1,12 +1,20 @@
 ### Monday (Apr 29) (non bowels moving day, slept after 2am)
-- 29 April 2024 2pm Visit my demented father at nursing home
-
+- I briefly read parts of Monday's Straits Times and Business Times, and compiled them.
+- 29 April 2024 2pm Visit my demented father at nursing home, who was subsequently sent to TTSH.
+- I visited Kinokuniya.
+- I read parts of last week's and this week's compiled Straits Times and Business Times articles.
+- I watched today's news on Channel 5.
+- I sorted my Yahoo emails.
+- I applied for jobs:
+    - https://app.usebraintrust.com/jobs/?work_from_anywhere=true&work_from_location=false
+    - I signed up for recruitment events.
 
 ### Tuesday (Apr 30) (bowels moving day, slept after 2am)
-
+- Possible webinar:
+    - https://event.e2i.com.sg/view-event/fintech-career-webinar-i-zoom-grow-your-career-in-fintech
 
 ### Wednesday (May 1) (non bowels moving day, slept after 2am)
-
+- Visit my hospitalised father at TTSH.
 
 ### Thursday (May 2) (bowels moving day, slept after 2am)
 
@@ -31,6 +39,8 @@
 # Upcoming Schedule
 - April 2024 (1 Pemimpin Dr, #12-04, Singapore 576151) Interview with Recruit Now Celine and Prudential Director Eugene
 - Wednesday 15 May 2024 Mother's Eye Medical Appointment
+- Thursday 16 May 2024 1.30pm-4pm SMRT Trains Recruitment
+    - https://event.e2i.com.sg/view-event/smrt16may2024
 - July 2024 2pm Tah Chong Dental Appointment
 
 # Tasks to do:
