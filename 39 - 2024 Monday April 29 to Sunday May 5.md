@@ -10,11 +10,17 @@
     - I signed up for recruitment events.
 
 ### Tuesday (Apr 30) (bowels moving day, slept after 2am)
-- Possible webinar:
-    - https://event.e2i.com.sg/view-event/fintech-career-webinar-i-zoom-grow-your-career-in-fintech
+- I updated my profile and applied for jobs at:
+    - https://app.usebraintrust.com/talent/dashboard/welcome/
+- I applied for jobs:
+    - https://www.linkedin.com/jobs/
+- I sorted my Yahoo emails.
+- I updated my resume and finished 2 Udemy courses.
+- I briefly read parts of Tuesday's Straits Times and Business Times, and compiled them.
+- I watched today's news on CNA.
 
 ### Wednesday (May 1) (non bowels moving day, slept after 2am)
-- Visit my hospitalised father at TTSH.
+- Visit my hospitalised father at TTSH at 5pm.
 
 ### Thursday (May 2) (bowels moving day, slept after 2am)
 
@@ -41,6 +47,7 @@
 - Wednesday 15 May 2024 Mother's Eye Medical Appointment
 - Thursday 16 May 2024 1.30pm-4pm SMRT Trains Recruitment
     - https://event.e2i.com.sg/view-event/smrt16may2024
+    - Most likely cannot attend due to Thursday bowels movement.
 - July 2024 2pm Tah Chong Dental Appointment
 
 # Tasks to do:
