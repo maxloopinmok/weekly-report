@@ -20,16 +20,43 @@
 - I watched today's news on CNA.
 
 ### Wednesday (May 1) (non bowels moving day, slept after 2am)
-- Visit my hospitalised father at TTSH at 5pm.
+- I briefly read parts of Wednesday's Straits Times and Business Times, and compiled them.
+- I visited my hospitalised father at TTSH at 5pm.
+- I read parts of this week's compiled Business Times.
+- I updated my resume based on a referee's comments.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=2TonwOvizkA
+    - https://www.youtube.com/watch?v=Alv0VwUik8g
+    - https://www.youtube.com/watch?v=3BDboYfjWE8
+    - https://www.youtube.com/watch?v=oNwoA5akBlg
+    - https://www.youtube.com/watch?v=BbYv7-7LvlQ
+    - https://www.youtube.com/watch?v=8BlRT7Ktw1c
+- I watched today's news on CNA.
 
-### Thursday (May 2) (bowels moving day, slept after 2am)
-
+### Thursday (May 2) (bowels moving day, slept after 3am)
+- I read parts of this week's compiled Straits Times.
+- I scanned several chapters of the book "Basic AI".
+- I sorted my Yahoo emails.
+- I applied for jobs:
+    - from e2i's email: https://pro.betalented.ai/
+    - https://sg.indeed.com/
+- I made some online purchases from NTUC.
+- I learnt from NTU's "AI 3 - Computational Game Theory":
+    - I downloaded some documents and watched parts of:
+        - "Computational Game theory - Session 1" from "Pre-recorded Lectures for self-study"
+    - I identified a few videos to briefly watch:
+        - https://www.youtube.com/watch?v=q3Ld-MxlXmA
+        - https://www.youtube.com/watch?v=ozoPja1TkFg
+- I watched today's news on Channel 5, and watched Talking Point.
+- I briefly read parts of Thursday's Straits Times and Business Times, and compiled them.
+- I completed my recorded interview at:
+    - https://app.usebraintrust.com/talent/dashboard/welcome/
 
 ### Friday (May 3) (non bowels moving day, slept after 2am)
 
 
 ### Saturday (May 4) (bowels moving day, slept after 2am)
-
+- 9.30 to 11.30am AI 3: Computational Game Theory
 
 ### Sunday (May 5) (bowels moving day, slept after 2am)
 
