@@ -16,6 +16,8 @@
     - https://www.linkedin.com/jobs/
 - I sorted my Yahoo emails.
 - I updated my resume and finished 2 Udemy courses.
+    - AWS Essentials
+    - DNS Deep Dive
 - I briefly read parts of Tuesday's Straits Times and Business Times, and compiled them.
 - I watched today's news on CNA.
 
@@ -53,7 +55,20 @@
     - https://app.usebraintrust.com/talent/dashboard/welcome/
 
 ### Friday (May 3) (non bowels moving day, slept after 2am)
-
+- I read parts of this week's compiled Straits Times.
+- I completed scanning most of the book "Basic AI".
+- I responded to my WhatsApp messages from SPD about QoreNext.
+- I sorted my Yahoo emails.
+- I briefly read parts of Friday's Straits Times and Business Times, and compiled them.
+- I applied for jobs:
+    - https://www.linkedin.com/jobs/view/3912015433/
+    - https://www.linkedin.com/jobs/view/3909771019/
+- I signed up with Upwork:
+    - https://www.upwork.com/freelancers/~016bfc55002b3a706b
+    - https://www.upwork.com/nx/find-work/best-matches/details/~01d39198c8f72cb71a?pageTitle=Job%20Details&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Job%20Details%22,%22modalId%22%3A%221714747034161%22%7D%5D
+    - I tried to apply for one job:
+        - https://www.upwork.com/jobs/~014025eab76f9f2ec3
+- I watched today's news on Channel 5.
 
 ### Saturday (May 4) (bowels moving day, slept after 2am)
 - 9.30 to 11.30am AI 3: Computational Game Theory
