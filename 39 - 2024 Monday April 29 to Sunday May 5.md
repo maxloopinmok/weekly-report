@@ -70,12 +70,33 @@
         - https://www.upwork.com/jobs/~014025eab76f9f2ec3
 - I watched today's news on Channel 5.
 
-### Saturday (May 4) (bowels moving day, slept after 2am)
+### Saturday (May 4) (bowels moving day, slept after 3am)
 - 9.30 to 11.30am AI 3: Computational Game Theory
+- I applied for these jobs:
+    - https://www.linkedin.com/jobs/view/3899048472/
+    - I did up a comprehensive job application for MarketPsych:
+        - https://www.linkedin.com/jobs/view/3908360816/
+- I read the slides for "AI 3: Computational Game Theory":
+    - Module 1 - Game theory foundation
+    - Module 2 - Auction
+- I watched today's news on CNA, Money Mind, and a documentary about Cannabis in Thailand called "Undercover Asia 10: Cannabis Cowboy Country".
 
 ### Sunday (May 5) (bowels moving day, slept after 2am)
-
-
+- I troubleshoot https://github.com/maxloosmu/pytorch/tree/main/torch with the help of ChatGPT:
+    - https://chat.openai.com/share/0e9fcc50-8e0a-449f-8d93-e35c5a5409cb
+    - I added comments to server.py.
+- I read Chapter 3 of the scanned book "Basic AI".
+- I sorted my Yahoo emails.
+- I applied for jobs:
+    - I emailed Project Success about a 16 May Job Fair at Elias CC.
+    - https://www.mycareersfuture.gov.sg/job/education-training/part-time-work-home-materials-math-physics-ib-math-physics-2e4304ee8551ef7edadf03581fd50fb5
+    - https://www.mycareersfuture.gov.sg/job/education-training/english-writing-teacher-write-connection-1ebd9ee3e9ce3b1fb5d8e3b5343d3363
+    - https://www.mycareersfuture.gov.sg/job/legal/paralegal-dentons-rodyk-davidson-1a78dfe7eb4304110e2f1b30d1be3cec
+    - https://www.mycareersfuture.gov.sg/job/information-technology/data-scientist-whizmeal-e555a805e53ec4eb7ac0db680cddd0e9
+    - https://www.mycareersfuture.gov.sg/job/customer-service/hiring-part-time-clinic-assistants-gp-family-clinic-c3-care-connect-consultancy-7751ba61fdf588488eba2b708c0fa601
+    - https://www.mycareersfuture.gov.sg/job/education-training/part-time-tutorhome-tutor-primary-student-tuition2u-da12d1c3c387fed76580b8a46273aed0
+    - I searched https://www.mycareersfuture.gov.sg/ for "flexi", "work from home", and selected "flexi-work" employment option.
+- I watched today's news on CNA.
 
 ## Routines
 - I do note taking, and/or tasks recording and planning.
@@ -86,6 +107,8 @@
 
 # Upcoming Schedule
 - April 2024 (1 Pemimpin Dr, #12-04, Singapore 576151) Interview with Recruit Now Celine and Prudential Director Eugene
+- Wednesday 8 May 2024 7.30pm – 9.30pm AI 3: Computational Game Theory
+- Saturday 11 May 2024 2.30 to 4.30pm AI 3: Computational Game Theory
 - Wednesday 15 May 2024 Mother's Eye Medical Appointment
 - Thursday 16 May 2024 1.30pm-4pm SMRT Trains Recruitment
     - https://event.e2i.com.sg/view-event/smrt16may2024
