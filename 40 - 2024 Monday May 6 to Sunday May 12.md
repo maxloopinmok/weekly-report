@@ -10,10 +10,20 @@
 - I watched today's news on Channel 5 and CNA.
 
 ### Tuesday (May 7) (bowels moving day, slept after 2am)
-
+- I sorted and responded to my Yahoo emails and WhatsApp messages.
+- I applied for a job:
+    - https://www.linkedin.com/jobs/view/3915773968/
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I briefly read the slides for "AI 3: Computational Game Theory":
+    - Module 3 - Voting
+    - Module 4 - Coalition formation
+    - Module 5 - Security Game
+- I watched today's news on CNA, and a documentary about mercury poisoning in Lombok due to Gold Mining under "Undercover Asia 10".
 
 ### Wednesday (May 8) (non bowels moving day, slept after 2am)
-
+- Wednesday 8 May 2024 3pm Pasir Ris Polyclinic RM 211-PR
+- I reported this job scam to the police:
+    - https://quickcruit.com/?gad_source=1&gclid=EAIaIQobChMIkYrAhLD4hQMVHKhmAh0x2gdiEAAYASAAEgKApPD_BwE
 
 ### Thursday (May 9) (bowels moving day, slept after 2am)
 
@@ -49,7 +59,6 @@
 - Review selected books for further readings.
 
 # Upcoming Medical Appointments
-- Wednesday 8 May 2024 3pm Pasir Ris Polyclinic RM 211-PR
 - Friday 17 May 2024 11am IMH Clinic B
 - Monday 27 May 2024 3.10pm CGH 2B - ENT
 - Wednesday 29 May 2024 9am CGH Psychological Medicine Centre
