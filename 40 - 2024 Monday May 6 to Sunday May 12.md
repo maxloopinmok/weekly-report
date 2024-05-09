@@ -1,4 +1,4 @@
-### Monday (May 6) (non bowels moving day, slept after 2am)
+### Monday (May 6) (non bowels moving day, slept after 3am)
 - I briefly read parts of last Saturday's, Sunday's, and today Monday's Straits Times and Business Times, and compiled them.
 - I visited my hospitalised father at Tan Tock Seng Hospital.
 - I visited Kinokuniya.
@@ -20,18 +20,39 @@
     - Module 5 - Security Game
 - I watched today's news on CNA, and a documentary about mercury poisoning in Lombok due to Gold Mining under "Undercover Asia 10".
 
-### Wednesday (May 8) (non bowels moving day, slept after 2am)
-- Wednesday 8 May 2024 3pm Pasir Ris Polyclinic RM 211-PR
+### Wednesday (May 8) (non bowels moving day, slept after 3am)
+- I sorted and responded to my Yahoo emails and WhatsApp messages.
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
 - I reported this job scam to the police:
     - https://quickcruit.com/?gad_source=1&gclid=EAIaIQobChMIkYrAhLD4hQMVHKhmAh0x2gdiEAAYASAAEgKApPD_BwE
+- Wednesday 8 May 2024 3pm Pasir Ris Polyclinic RM 211-PR: Healthier SG
+- Wednesday 8 May 2024 7.30pm – 8.15pm AI 3: Computational Game Theory
+- I worked on 63 QoreNext paid tasks, getting 252 credits.
+- I watched today's news on Channel 5, and CNA.
+- I briefly watched parts of these videos:
+    - https://www.youtube.com/watch?v=GLKoDkbS1Cg
+    - https://www.youtube.com/watch?v=ONUypmMtXf4
+    - https://www.youtube.com/watch?v=i_6oSWlFtTk
+    - https://www.youtube.com/watch?v=JSRBesvBCtI
+    - https://www.youtube.com/watch?v=uyqujcyRZ90
 
 ### Thursday (May 9) (bowels moving day, slept after 2am)
-
+- I sorted and responded to my Yahoo emails and WhatsApp messages.
+- I applied for a few jobs.
+- I worked on 35 QoreNext paid tasks, getting 140 credits.
+- I watched today's news on Channel 5, Talking Point, CNA, and parts of Insight, where the focus is on Thailand growing old before becoming wealthy.
+- I briefly watched parts of these videos:
+    - https://www.youtube.com/watch?v=KUhPfeZdxHM
+    - https://www.youtube.com/watch?v=W4_xG9sxX7A
+    - https://www.youtube.com/watch?v=MMFawN5FZfk
+    - https://www.youtube.com/watch?v=uyqujcyRZ90
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
 
 ### Friday (May 10) (non bowels moving day, slept after 2am)
 
 
 ### Saturday (May 11) (bowels moving day, slept after 2am)
+- Saturday 11 May 2024 2.30 to 4.30pm AI 3: Computational Game Theory
 
 
 ### Sunday (May 12) (bowels moving day, slept after 2am)
@@ -47,12 +68,11 @@
 
 # Upcoming Schedule
 - June 2024 (1 Pemimpin Dr, #12-04, Singapore 576151) Interview with Recruit Now Celine and Prudential Director Eugene
-- Wednesday 8 May 2024 7.30pm – 9.30pm AI 3: Computational Game Theory
-- Saturday 11 May 2024 2.30 to 4.30pm AI 3: Computational Game Theory
 - Wednesday 15 May 2024 Mother's Eye Medical Appointment
 - Thursday 16 May 2024 1.30pm-4pm SMRT Trains Recruitment
     - https://event.e2i.com.sg/view-event/smrt16may2024
     - Most likely cannot attend due to Thursday bowels movement.
+- Monday 20 May 2024 5.30pm to 8.30pm NTUC Centre Auditorium, Level 7, One Marina Boulevard
 - July 2024 2pm Tah Chong Dental Appointment
 
 # Tasks to do:
