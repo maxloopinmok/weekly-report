@@ -36,7 +36,7 @@
     - https://www.youtube.com/watch?v=JSRBesvBCtI
     - https://www.youtube.com/watch?v=uyqujcyRZ90
 
-### Thursday (May 9) (bowels moving day, slept after 2am)
+### Thursday (May 9) (bowels moving day, slept after 3am)
 - I sorted and responded to my Yahoo emails and WhatsApp messages.
 - I applied for a few jobs.
 - I worked on 35 QoreNext paid tasks, getting 140 credits.
@@ -49,7 +49,14 @@
 - I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
 
 ### Friday (May 10) (non bowels moving day, slept after 2am)
-
+- I attended a interview at 3pm at Hy-Techlink International.
+- I visited Kinokuniya.
+- I sorted and responded to my Yahoo emails and WhatsApp messages.
+- I watched today's news on Channel 5 and CNA.
+- I briefly watched parts of these videos:
+    - https://www.youtube.com/watch?v=lQNEnVVv4OE
+    - https://www.youtube.com/watch?v=sbVYRwGqJsQ
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
 
 ### Saturday (May 11) (bowels moving day, slept after 2am)
 - Saturday 11 May 2024 2.30 to 4.30pm AI 3: Computational Game Theory
