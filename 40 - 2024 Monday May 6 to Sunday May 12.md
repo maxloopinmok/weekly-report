@@ -58,11 +58,28 @@
     - https://www.youtube.com/watch?v=sbVYRwGqJsQ
 - I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
 
-### Saturday (May 11) (bowels moving day, slept after 2am)
+### Saturday (May 11) (bowels moving day, slept after 3am)
 - Saturday 11 May 2024 2.30 to 4.30pm AI 3: Computational Game Theory
-
+    - skipped, replaced by emails to NTU about inadequacy of course, and requesting for refund.
+- I read parts of this week's compiled Business Times and Straits Times.
+- I sorted and responded to my Yahoo emails and WhatsApp messages.
+    - I applied for a job.
+- I watched today's news on Channel 5, CNA, and Money Mind.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=VBQSgSNDRNM
+    - https://www.youtube.com/watch?v=6tGyCYcoFYs
+- I worked on 15 QoreNext paid tasks, getting 60 credits.
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
 
 ### Sunday (May 12) (bowels moving day, slept after 2am)
+- I read parts of this week's compiled Business Times and Straits Times.
+- I watched today's news on Channel 5, CNA, and "Lee Hsien Loong: Reinventing Singapore".
+- I watched these video:
+    - https://www.youtube.com/watch?v=0NshnEP58HU
+    - https://www.youtube.com/watch?v=xbNDNEBuTgs
+    - https://www.youtube.com/watch?v=mvF_zvo5XEU
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I read parts of Chapter 4 of the scanned book "Basic AI".
 
 
 
