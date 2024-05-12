@@ -71,7 +71,7 @@
 - I worked on 15 QoreNext paid tasks, getting 60 credits.
 - I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
 
-### Sunday (May 12) (bowels moving day, slept after 2am)
+### Sunday (May 12) (bowels moving day, slept after 3am)
 - I read parts of this week's compiled Business Times and Straits Times.
 - I watched today's news on Channel 5, CNA, and "Lee Hsien Loong: Reinventing Singapore".
 - I watched these video:

@@ -1,5 +1,6 @@
 ### Monday (May 13) (non bowels moving day, slept after 2am)
 - Visit POSB bank to ask about setting up PayNow.
+- Visit White Sands Challenger to ask about Kobo charging without PC.
 - Visit Pasir Ris polyclinic to change 2 medical appointments to next year.
 
 ### Tuesday (May 14) (bowels moving day, slept after 2am)
