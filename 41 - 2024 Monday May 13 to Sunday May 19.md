@@ -1,19 +1,19 @@
 ### Monday (May 13) (non bowels moving day, slept after 2am)
+- I sent my brother off at the airport today with mum.
 - Visit POSB bank to ask about setting up PayNow.
 - Visit White Sands Challenger to ask about Kobo charging without PC.
 - Visit Pasir Ris polyclinic to change 2 medical appointments to next year.
+- I finished reading Chapter 4 of the scanned book "Basic AI".
+
 
 ### Tuesday (May 14) (bowels moving day, slept after 2am)
 
 
 ### Wednesday (May 15) (non bowels moving day, slept after 2am)
-- Wednesday 15 May 2024 Mother's Eye Medical Appointment
+- Wednesday 15 May 2024 3.45pm Meeting with ACC Case Manager
 
 
 ### Thursday (May 16) (bowels moving day, slept after 2am)
-- Thursday 16 May 2024 1.30pm-4pm SMRT Trains Recruitment
-    - https://event.e2i.com.sg/view-event/smrt16may2024
-    - Most likely cannot attend due to Thursday bowels movement.
 
 
 ### Friday (May 17) (non bowels moving day, slept after 2am)
@@ -35,7 +35,6 @@
 - I watched today's news on CNA.
 
 # Upcoming Schedule
-- June 2024 (1 Pemimpin Dr, #12-04, Singapore 576151) Interview with Recruit Now Celine and Prudential Director Eugene
 - Monday 20 May 2024 5.30pm to 8.30pm NTUC Centre Auditorium, Level 7, One Marina Boulevard
 - July 2024 2pm Tah Chong Dental Appointment
 
