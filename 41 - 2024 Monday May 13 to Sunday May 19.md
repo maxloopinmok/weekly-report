@@ -4,7 +4,10 @@
 - Visit White Sands Challenger to ask about Kobo charging without PC.
 - Visit Pasir Ris polyclinic to change 2 medical appointments to next year.
 - I finished reading Chapter 4 of the scanned book "Basic AI".
-
+- I sorted and responded to my Yahoo emails and WhatsApp messages.
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I watched this video:
+    - https://www.youtube.com/watch?v=ST_CORaFSw8
 
 ### Tuesday (May 14) (bowels moving day, slept after 2am)
 
