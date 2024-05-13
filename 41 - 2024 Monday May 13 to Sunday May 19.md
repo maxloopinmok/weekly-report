@@ -18,7 +18,7 @@
 
 ### Friday (May 17) (non bowels moving day, slept after 2am)
 - Friday 17 May 2024 11am IMH Clinic B
-    - get appointment with occupational therapist to look for part time jobs.
+
 
 ### Saturday (May 18) (bowels moving day, slept after 2am)
 
@@ -35,8 +35,7 @@
 - I watched today's news on CNA.
 
 # Upcoming Schedule
-- Monday 20 May 2024 5.30pm to 8.30pm NTUC Centre Auditorium, Level 7, One Marina Boulevard
-- July 2024 2pm Tah Chong Dental Appointment
+- 8 July 2024 2pm Tah Chong Dental Appointment
 
 # Tasks to do:
 - Review selected books for further readings.
