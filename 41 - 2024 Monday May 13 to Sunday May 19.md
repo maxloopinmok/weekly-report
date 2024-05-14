@@ -20,6 +20,7 @@
     - https://www.youtube.com/watch?v=2cmZVvebfYo
 
 ### Wednesday (May 15) (non bowels moving day, slept after 2am)
+- I did some data recording and events alerting for a stocks tracking job.
 - Wednesday 15 May 2024 3.45pm Meeting with ACC Case Manager
 
 
