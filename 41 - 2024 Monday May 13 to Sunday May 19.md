@@ -6,11 +6,18 @@
 - I finished reading Chapter 4 of the scanned book "Basic AI".
 - I sorted and responded to my Yahoo emails and WhatsApp messages.
 - I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I watched today's news on Channel 5 and CNA.
 - I watched this video:
     - https://www.youtube.com/watch?v=ST_CORaFSw8
 
 ### Tuesday (May 14) (bowels moving day, slept after 2am)
-
+- I did some data recording and events alerting for a stocks tracking job.
+- I sorted and responded to my Yahoo emails and WhatsApp messages.
+- I answered calls from Zilong.
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I watched today's news on CNA and Channel 5.
+- I watched this video:
+    - https://www.youtube.com/watch?v=2cmZVvebfYo
 
 ### Wednesday (May 15) (non bowels moving day, slept after 2am)
 - Wednesday 15 May 2024 3.45pm Meeting with ACC Case Manager
