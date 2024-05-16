@@ -11,7 +11,7 @@
     - https://www.youtube.com/watch?v=ST_CORaFSw8
 
 ### Tuesday (May 14) (bowels moving day, slept after 2am)
-- I did some data recording and events alerting for a stocks tracking job.
+- I did some data recording and events alerting for a stocks tracking task.
 - I sorted and responded to my Yahoo emails and WhatsApp messages.
 - I answered calls from Zilong.
 - I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
@@ -20,15 +20,32 @@
     - https://www.youtube.com/watch?v=2cmZVvebfYo
 
 ### Wednesday (May 15) (non bowels moving day, slept after 2am)
-- I did some data recording and events alerting for a stocks tracking job.
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I did some data recording and events alerting for a stocks tracking task.
 - Wednesday 15 May 2024 3.45pm Meeting with ACC Case Manager
-
+- I read Chapters 5 and 6 of the scanned book "Basic AI".
+- I read parts of this week's compiled Business Times and Straits Times.
+- I compiled parts of last week's The Economist.
+- I watched parts of today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=pco9XrbDp3s
+    - https://www.youtube.com/watch?v=fMtbrKhXMWc
+- I sorted and responded to my Yahoo emails and WhatsApp messages.
 
 ### Thursday (May 16) (bowels moving day, slept after 2am)
-
+- I did some data recording and events alerting for a stocks tracking task.
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I sorted and responded to my Yahoo emails and WhatsApp messages.
+- I watched parts of today's news on Channel 5 and CNA, and Talking Point.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=3NP_3CRMBdA
+    - https://www.youtube.com/watch?v=-DdGQ_u_MCo
+- I tested Lifelong Learning Institute's latest chatbot ELLA and submitted my feedback.
 
 ### Friday (May 17) (non bowels moving day, slept after 2am)
 - Friday 17 May 2024 11am IMH Clinic B
+- Download a few books
+- Visit Polyclinic to see doctor about scalded lips.
 
 
 ### Saturday (May 18) (bowels moving day, slept after 2am)
@@ -61,3 +78,5 @@
 - Tuesday 24 September 2024 11.20am CGH Digestive Diseases Centre
 - Friday 10 January 2025 10.15am 1A - SNEC Eye Clinic @ CGH
 - Monday 17 March 2025 9.50am 4E - CGH-NNI Spine Centre
+- Monday 5 May 2025 3pm Pasir Ris Polyclinic: Lab (NF)
+- Monday 12 May 2025 3pm Pasir Ris Polyclinic: NCC
