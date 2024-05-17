@@ -42,11 +42,24 @@
     - https://www.youtube.com/watch?v=-DdGQ_u_MCo
 - I tested Lifelong Learning Institute's latest chatbot ELLA and submitted my feedback.
 
-### Friday (May 17) (non bowels moving day, slept after 2am)
+### Friday (May 17) (non bowels moving day, slept after 3am)
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=JXDQV0wiits
+    - https://www.youtube.com/watch?v=WkB2bvYi73k
+    - https://www.youtube.com/watch?v=y8NtMZ7VGmU
+    - https://www.youtube.com/watch?v=yWlpNm1C5gw
+    - https://www.youtube.com/watch?v=TcKCQnaxRXY
+    - https://www.youtube.com/watch?v=vBIyMJQhCOE
+    - https://www.youtube.com/watch?v=xbNDNEBuTgs&t=2s
+    - https://www.youtube.com/watch?v=hp88f_EsVUM
 - Friday 17 May 2024 11am IMH Clinic B
-- Download a few books
+- Download several Kinokuniya books
 - Visit Polyclinic to see doctor about scalded lips.
-
+- I read parts of this week's compiled Business Times and Straits Times.
+- I read parts of last week's compiled The Economist.
+- I watched today's news on Channel 5 and CNA.
+- I sorted and responded to my Yahoo and Gmail emails, and WhatsApp messages, including downloading some Nature Machine Intelligence and Science papers, and reading a few newsletters.
 
 ### Saturday (May 18) (bowels moving day, slept after 2am)
 
