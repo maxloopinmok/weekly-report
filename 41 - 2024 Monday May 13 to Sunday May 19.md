@@ -62,9 +62,28 @@
 - I sorted and responded to my Yahoo and Gmail emails, and WhatsApp messages, including downloading some Nature Machine Intelligence and Science papers, and reading a few newsletters.
 
 ### Saturday (May 18) (bowels moving day, slept after 2am)
-
+- I read parts of last week's compiled The Economist.
+- I read parts of this week's The Economist and compiled them.
+- I created some python programs to merge and convert png files to pdf files, and rename the document title of pdf files.
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I watched parts of today's news on Channel 5 and CNA, Money Mind, and Walk the Line.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=370fXDRB5TI
+    - https://www.youtube.com/watch?v=gLU-pkwm6MA
+    - https://www.youtube.com/watch?v=oBMned-tvMQ
+    - https://www.youtube.com/watch?v=sO95nlo9MoA
+    - https://www.youtube.com/watch?v=-RBd-0bTpBY
 
 ### Sunday (May 19) (bowels moving day, slept after 2am)
+- I read parts of last week's compiled The Economist.
+- I worked on 5 QoreNext paid tasks, getting 20 credits.
+- I watched today's news on CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=PqOjZcQBsic
+    - https://www.youtube.com/watch?v=rQENjm_K2XA
+    - https://www.youtube.com/watch?v=eV7t1G5noig
+- I sorted and responded to my Yahoo emails and WhatsApp messages.
+- I briefly read parts of today Sunday's Straits Times, and compiled them. 
 
 
 
@@ -86,9 +105,11 @@
 - Wednesday 29 May 2024 9am CGH Psychological Medicine Centre
 - Tuesday 11 June 2024 10.10am CGH Neurology
 - Friday 14 June 2024 9.55am 4E - CGH-NNI Spine Centre
+- Friday 14 June 2024 2.30pm IMH Occupational Therapy
 - Tuesday 18 June 2024 5pm CGH Radiology
 - Monday 1 July 2024 10.15am CGH Neurology
 - Tuesday 24 September 2024 11.20am CGH Digestive Diseases Centre
+- Friday 15 November 2024 11.45am IMH Clinic B
 - Friday 10 January 2025 10.15am 1A - SNEC Eye Clinic @ CGH
 - Monday 17 March 2025 9.50am 4E - CGH-NNI Spine Centre
 - Monday 5 May 2025 3pm Pasir Ris Polyclinic: Lab (NF)
