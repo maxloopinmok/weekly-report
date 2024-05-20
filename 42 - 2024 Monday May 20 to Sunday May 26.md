@@ -1,5 +1,15 @@
 ### Monday (May 20) (non bowels moving day, slept after 2am)
-
+- I did some data recording and events alerting for a paid stocks tracking task.
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I tried to do a simple tesseract of the SGX Mainboard Stocks Listing from Business Times.
+- I read parts of last week's and this week's compiled Straits Times and Business Times.
+- I watched parts of today's news on CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=e-Cb6YWhtkA
+    - https://www.youtube.com/watch?v=N9XKz9RBxGU
+    - https://www.youtube.com/watch?v=vZMjvpWFQvk
+    - https://www.youtube.com/watch?v=fTuIm9jErR4
+    - https://www.youtube.com/watch?v=YOderS24Owg
 
 ### Tuesday (May 21) (bowels moving day, slept after 2am)
 
