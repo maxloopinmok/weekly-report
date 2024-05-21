@@ -12,7 +12,17 @@
     - https://www.youtube.com/watch?v=YOderS24Owg
 
 ### Tuesday (May 21) (bowels moving day, slept after 2am)
-
+- I did some data recording and events alerting for a paid stocks tracking task.
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=7EgwyHiHZ7I
+    - https://www.youtube.com/watch?v=AAm0M8XgFXg
+    - https://www.youtube.com/watch?v=99EsU_Kx24I
+    - https://www.youtube.com/watch?v=QLz4z_7yp6c
+    - https://www.youtube.com/watch?v=HcOhAvWF0cc
+    - https://www.youtube.com/watch?v=CCMJdAkzQE0
 
 ### Wednesday (May 22) (non bowels moving day, slept after 2am)
 
