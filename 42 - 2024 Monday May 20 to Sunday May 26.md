@@ -11,7 +11,7 @@
     - https://www.youtube.com/watch?v=fTuIm9jErR4
     - https://www.youtube.com/watch?v=YOderS24Owg
 
-### Tuesday (May 21) (bowels moving day, slept after 2am)
+### Tuesday (May 21) (bowels moving day, slept after 3am)
 - I did some data recording and events alerting for a paid stocks tracking task.
 - I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
 - I read parts of this week's compiled Straits Times and Business Times.
@@ -23,15 +23,44 @@
     - https://www.youtube.com/watch?v=QLz4z_7yp6c
     - https://www.youtube.com/watch?v=HcOhAvWF0cc
     - https://www.youtube.com/watch?v=CCMJdAkzQE0
+- I sorted my Yahoo emails and responded to WhatsApp messages.
 
-### Wednesday (May 22) (non bowels moving day, slept after 2am)
+### Wednesday (May 22) (non bowels moving day, slept after 3am)
+- I managed to code a web scraper to extract stocks data.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=rgF6nhRAZxI
+    - https://www.youtube.com/watch?v=zLw2jPKU0LI
+    - https://www.youtube.com/watch?v=8Pfa8kPjUio
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
 
+### Thursday (May 23) (bowels moving day, slept after 3am)
+- I amended my web scraper.
+- I created a parser for stocks data.
+- I did some data recording and events alerting for a paid stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I watched today's news on CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=UsXJhFeuwz0
+    - https://www.youtube.com/watch?v=DWZh9l8xUtY
+    - https://www.youtube.com/watch?v=UgmWp_Jn-2U
+    - https://www.youtube.com/watch?v=BPIj0xUZgjc
 
-### Thursday (May 23) (bowels moving day, slept after 2am)
-
-
-### Friday (May 24) (non bowels moving day, slept after 2am)
-
+### Friday (May 24) (non bowels moving day, slept after 3am)
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - I also bought 500 Frencken shares at 1.46 each, for a total of $730.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=Tv4X6M76Izc
+    - https://www.youtube.com/watch?v=eWM0U8VUqIM
+    - https://www.youtube.com/watch?v=pTMG30JP7MY
+    - https://www.youtube.com/watch?v=zZs447dgMjg
+    - https://www.youtube.com/watch?v=Bpgloy1dDn0
+    - https://www.youtube.com/watch?v=8OHe-4aYiKo
+    - https://www.youtube.com/watch?v=M5I9NaPVVhk
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
+- I sorted my Yahoo emails and responded to my WhatsApp messages.
 
 ### Saturday (May 25) (bowels moving day, slept after 2am)
 
