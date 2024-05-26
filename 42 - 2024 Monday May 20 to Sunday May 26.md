@@ -62,11 +62,28 @@
 - I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
 - I sorted my Yahoo emails and responded to my WhatsApp messages.
 
-### Saturday (May 25) (bowels moving day, slept after 2am)
-
+### Saturday (May 25) (bowels moving day, slept after 4am)
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of this week's The Economist.
+- I sorted my Yahoo emails.
+- I searched and applied for some "flexi" jobs at:
+    - https://www.mycareersfuture.gov.sg/
+- I watched today's news on CNA, and Money Mind.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=n4IQOBka8bc
+    - https://www.youtube.com/watch?v=I8IWQzkh_Ng
+    - https://www.youtube.com/watch?v=GZv89aXS0Rk
+- I read some "longevity" and "aging reversal" news.
 
 ### Sunday (May 26) (bowels moving day, slept after 2am)
-
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I briefly read parts of the book "Trading For Dummies" until Chapter 5.
+- I watched the news on Channel 5 and CNA, and Talking Point.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=F6TfKE5Hbtc
+    - https://www.youtube.com/watch?v=Y_bNGgNLKQY
+    - https://www.youtube.com/watch?v=MYIq-ggY90Y
+- I sorted my Yahoo emails.
 
 
 
