@@ -1,8 +1,15 @@
-### Monday (May 27) (non bowels moving day, slept after 2am)
+### Monday (May 27) (non bowels moving day, slept after 9pm)
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - I also sold 500 Frencken shares at 1.48 each, for a total of $740.
+    - stocks transactions include 0.08% commission and 9% GST per transaction.
+- I watched parts of QoreNext's 'Fix Address' training videos.
 - Monday 27 May 2024 3.10pm CGH 2B - ENT
-
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I sorted my Yahoo emails.
+- I ordered medicine from CGH online.
 
 ### Tuesday (May 28) (bowels moving day, slept after 2am)
+- ask Poems what is the 9% GST charged on?  
 
 
 ### Wednesday (May 29) (non bowels moving day, slept after 2am)
