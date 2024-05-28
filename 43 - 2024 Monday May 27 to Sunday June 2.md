@@ -1,4 +1,4 @@
-### Monday (May 27) (non bowels moving day, slept after 9pm)
+### Monday (May 27) (non bowels moving day, slept after 8pm)
 - I did some data recording and events alerting for a paid stocks tracking task.
     - I also sold 500 Frencken shares at 1.48 each, for a total of $740.
     - stocks transactions include 0.08% commission and 9% GST per transaction.
@@ -7,13 +7,23 @@
 - I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
 - I sorted my Yahoo emails.
 - I ordered medicine from CGH online.
+- I troubleshoot converting MS Word doc to pdf.
+- I read parts of this week's compiled Straits Times and Business Times.
 
-### Tuesday (May 28) (bowels moving day, slept after 2am)
-- ask Poems what is the 9% GST charged on?  
-
+### Tuesday (May 28) (bowels moving day, slept after 8pm)
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - 10am lunch
+    - 2pm dinner
+    - 7.30pm supper
+    - I answered calls from Zilong.
+- I sorted my Gmail emails and downloaded some AAAS Science pdfs.
+- I sorted my Yahoo emails.
 
 ### Wednesday (May 29) (non bowels moving day, slept after 2am)
 - Wednesday 29 May 2024 9am CGH Psychological Medicine Centre
+- ask Poems what is the 9% GST charged on?
+- download Kinokuniya books.
 
 
 ### Thursday (May 30) (bowels moving day, slept after 2am)
@@ -49,6 +59,7 @@
 - Friday 14 June 2024 2.30pm IMH Occupational Therapy
 - Tuesday 18 June 2024 5pm CGH Radiology
 - Monday 1 July 2024 10.15am CGH Neurology
+- Monday 16 September 2024 2.10pm CGH 2B - ENT
 - Tuesday 24 September 2024 11.20am CGH Digestive Diseases Centre
 - Friday 15 November 2024 11.45am IMH Clinic B
 - Friday 10 January 2025 10.15am 1A - SNEC Eye Clinic @ CGH
