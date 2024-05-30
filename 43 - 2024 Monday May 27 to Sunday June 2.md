@@ -20,14 +20,34 @@
 - I sorted my Gmail emails and downloaded some AAAS Science pdfs.
 - I sorted my Yahoo emails.
 
-### Wednesday (May 29) (non bowels moving day, slept after 2am)
+### Wednesday (May 29) (non bowels moving day, slept after 10pm)
 - Wednesday 29 May 2024 9am CGH Psychological Medicine Centre
-- ask Poems what is the 9% GST charged on?
-- download Kinokuniya books.
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - I answered calls from Zilong and whatsapp him.
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I sorted my Yahoo emails.
+- I uploaded this:
+    - https://github.com/maxloosmu/parse-scrape-etc-tools
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=q9_BY2QsK1Y
+    - https://www.youtube.com/watch?v=2Ug3C6HkMmo
+    - https://www.youtube.com/watch?v=tTtVzi20ejU
 
-
-### Thursday (May 30) (bowels moving day, slept after 2am)
-
+### Thursday (May 30) (bowels moving day, slept after 8pm)
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - I answered calls from Zilong and whatsapp him.
+    - Poems: 
+        - 0.08% brokerage fee
+        - 0.0325% clearing house fee
+        - 0.0075% SGX trading fee
+        - total 0.12%
+        - plus SGX settlement fee $0.35
+        - total 0.12% + $0.35
+        - plus GST on total
+- I downloaded Kinokuniya books.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
 
 ### Friday (May 31) (non bowels moving day, slept after 2am)
 
@@ -55,10 +75,10 @@
 
 # Upcoming Medical Appointments
 - Tuesday 11 June 2024 10.10am CGH Neurology
-- Friday 14 June 2024 9.55am 4E - CGH-NNI Spine Centre
 - Friday 14 June 2024 2.30pm IMH Occupational Therapy
 - Tuesday 18 June 2024 5pm CGH Radiology
 - Monday 1 July 2024 10.15am CGH Neurology
+- Friday 2 August 2024 9.40am 4E - CGH-NNI Spine Centre
 - Monday 16 September 2024 2.10pm CGH 2B - ENT
 - Tuesday 24 September 2024 11.20am CGH Digestive Diseases Centre
 - Friday 15 November 2024 11.45am IMH Clinic B
