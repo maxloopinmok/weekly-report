@@ -33,7 +33,7 @@
     - https://www.youtube.com/watch?v=2Ug3C6HkMmo
     - https://www.youtube.com/watch?v=tTtVzi20ejU
 
-### Thursday (May 30) (bowels moving day, slept after 8pm)
+### Thursday (May 30) (bowels moving day, slept after 9pm)
 - I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
 - I did some data recording and events alerting for a paid stocks tracking task.
     - I answered calls from Zilong and whatsapp him.
@@ -49,8 +49,15 @@
 - I read parts of this week's compiled Straits Times and Business Times.
 - I sorted my Yahoo emails.
 
-### Friday (May 31) (non bowels moving day, slept after 2am)
-
+### Friday (May 31) (non bowels moving day, slept after 12am)
+- I troubleshoot a PC intrusion and deletion of files in 2 folders.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - I whatsapp Zilong.
+    - I troubleshoot candlestick charts for the Excel data I collected.
+- I sorted my Yahoo emails.
+- I partly sorted my Gmail emails, and downloaded my last free subscriber AAAS Science and Nature NMI papers.
 
 ### Saturday (June 1) (bowels moving day, slept after 2am)
 
