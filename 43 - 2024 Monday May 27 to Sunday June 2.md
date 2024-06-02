@@ -50,20 +50,33 @@
 - I sorted my Yahoo emails.
 
 ### Friday (May 31) (non bowels moving day, slept after 12am)
-- I troubleshoot a PC intrusion and deletion of files in 2 folders.
+- I troubleshoot a PC "intrusion" and deletion of files in 1 folder.
 - I read parts of this week's compiled Straits Times and Business Times.
 - I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
 - I did some data recording and events alerting for a paid stocks tracking task.
     - I whatsapp Zilong.
-    - I troubleshoot candlestick charts for the Excel data I collected.
+    - I troubleshoot candlestick charts for the Excel data I collected using VBA.
 - I sorted my Yahoo emails.
 - I partly sorted my Gmail emails, and downloaded my last free subscriber AAAS Science and Nature NMI papers.
 
-### Saturday (June 1) (bowels moving day, slept after 2am)
+### Saturday (June 1) (non bowels moving day, slept after 12am)
+- I read parts of this week's compiled Straits Times and Business Times.
+- I troubleshoot the problematic fonts of my Kobo Nia E-Reader.
+- I briefly read parts of today Saturday's Business Times, and compiled them.
+- I watched today's news on Channel 5 and CNA, and "Lunch with Masters of Finance" and "Becoming Human: AI's Next Evolution".
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=0F6kKeEiOAw
+    - https://www.youtube.com/watch?v=XYOxU1ZGx7A
+    - https://www.youtube.com/watch?v=KSjl8UCg0_g
 
-
-### Sunday (June 2) (bowels moving day, slept after 2am)
-
+### Sunday (June 2) (bowels moving day, slept after 10pm)
+- I briefly read parts of Saturday and Sunday's Straits Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I finished watching QoreNext's 'Fix Address' training video.
+- I sorted my Yahoo emails.
+    - Outgoing Email: SkillsFuture Credit not received yet after 3 weeks.
+    - Outgoing Email: How to begin working on QoreNext's 'Fix Address' tasks?
+- I watched today's news on CNA and Channel 5.
 
 
 
