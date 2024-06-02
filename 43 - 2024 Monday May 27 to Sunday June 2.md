@@ -76,7 +76,7 @@
 - I sorted my Yahoo emails.
     - Outgoing Email: SkillsFuture Credit not received yet after 3 weeks.
     - Outgoing Email: How to begin working on QoreNext's 'Fix Address' tasks?
-- I watched today's news on CNA and Channel 5.
+- I watched today's news on CNA and Channel 5, and "Becoming Human: AI's Next Evolution".
 
 
 
