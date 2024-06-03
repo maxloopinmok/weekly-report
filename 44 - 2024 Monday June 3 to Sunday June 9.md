@@ -1,5 +1,20 @@
 ### Monday (June 3) (non bowels moving day, slept after 8pm)
-
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - 10.30am lunch
+    - 2.30pm dinner
+    - 7.30pm supper
+    - I whatsapp Zilong.
+- I finished watching QoreNext's second 'Fix Address' training video.
+    - I emailed Gary.
+- I updated my resume and applied for a job at SUSS.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=pmxKUq75Kwg
+    - https://www.youtube.com/watch?v=0SuvrbTn6fQ
+    - https://www.youtube.com/watch?v=04PmEJaYKd0
+    - https://www.youtube.com/watch?v=58rMMTJUp_U
+    - https://www.youtube.com/watch?v=kR7--yt3PRo
 
 ### Tuesday (June 4) (bowels moving day, slept after 8pm)
 
