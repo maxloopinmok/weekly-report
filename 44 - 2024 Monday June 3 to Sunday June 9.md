@@ -17,7 +17,19 @@
     - https://www.youtube.com/watch?v=kR7--yt3PRo
 
 ### Tuesday (June 4) (bowels moving day, slept after 8pm)
-
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - 11am lunch
+    - 2pm dinner
+    - 7.30pm supper
+    - I whatsapp and answered calls from Zilong.
+- I watched parts of today's news on CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=PM6dRb8ttzQ
+    - https://www.youtube.com/watch?v=ycfPF1gkNpE
+    - https://www.youtube.com/watch?v=qqijEATGnlA
+    - https://www.youtube.com/watch?v=j7_1rr2oKkc
+- I sorted my Yahoo emails.
 
 ### Wednesday (June 5) (non bowels moving day, slept after 8pm)
 
