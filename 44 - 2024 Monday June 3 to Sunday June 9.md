@@ -4,7 +4,7 @@
     - 10.30am lunch
     - 2.30pm dinner
     - 7.30pm supper
-    - I whatsapp Zilong.
+    - I whatsapp a friend.
 - I finished watching QoreNext's second 'Fix Address' training video.
     - I emailed Gary.
 - I updated my resume and applied for a job at SUSS.
@@ -22,7 +22,7 @@
     - 11am lunch
     - 2pm dinner
     - 7.30pm supper
-    - I whatsapp and answered calls from Zilong.
+    - I whatsapp and answered calls from a friend.
 - I watched parts of today's news on CNA.
 - I watched parts of these videos:
     - https://www.youtube.com/watch?v=PM6dRb8ttzQ
@@ -31,11 +31,33 @@
     - https://www.youtube.com/watch?v=j7_1rr2oKkc
 - I sorted my Yahoo emails.
 
-### Wednesday (June 5) (non bowels moving day, slept after 8pm)
+### Wednesday (June 5) (non bowels moving day, slept after 10pm)
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - 11.30am lunch
+    - 2.30pm dinner
+    - 7pm supper
+    - I whatsapp and answered calls from a friend.
+- I watched parts of today's news on CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=0XMlljUmLvo
+    - https://www.youtube.com/watch?v=mzn3pT35faw
+- I sorted my Yahoo emails.
 
-
-### Thursday (June 6) (bowels moving day, slept after 8pm)
-
+### Thursday (June 6) (bowels moving day, slept after 9pm)
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - 11.30am lunch
+    - 2.30pm dinner
+    - 8pm supper
+    - I whatsapp and answered calls from a friend.
+- I watched parts of today's news on CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=9IzAp4acajo
+    - https://www.youtube.com/watch?v=rvH38VNGqMg
+    - https://www.youtube.com/watch?v=F4ZFTRerMDI
+    - https://www.youtube.com/watch?v=67NwL2Wg0ME
+- I sorted my Yahoo emails.
 
 ### Friday (June 7) (non bowels moving day, slept after 8pm)
 
