@@ -45,7 +45,7 @@
 - I sorted my Yahoo emails.
 
 ### Thursday (June 6) (bowels moving day, slept after 9pm)
-- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
 - I did some data recording and events alerting for a paid stocks tracking task.
     - 11.30am lunch
     - 2.30pm dinner
@@ -59,8 +59,22 @@
     - https://www.youtube.com/watch?v=67NwL2Wg0ME
 - I sorted my Yahoo emails.
 
-### Friday (June 7) (non bowels moving day, slept after 8pm)
-
+### Friday (June 7) (non bowels moving day, slept after 11pm)
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - 11.30am lunch
+    - 2.30pm dinner
+    - 9pm supper
+    - I whatsapp and answered calls from a friend.
+- I read Chapter 1 "Economics and Social Networks" of the book "Economic Networks".
+- I watched parts of today's news on CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=EMvoVvuvgR4
+    - https://www.youtube.com/watch?v=brDCOQ5CUos
+    - https://www.youtube.com/watch?v=BQ23sgi_mgw
+    - https://www.youtube.com/watch?v=nSzbg-6UIRg
+    - https://www.youtube.com/watch?v=bVPbUcnJtC4
+- I sorted my Yahoo emails.
 
 ### Saturday (June 8) (bowels moving day, slept after 8pm)
 
