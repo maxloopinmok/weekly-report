@@ -75,12 +75,24 @@
     - https://www.youtube.com/watch?v=nSzbg-6UIRg
     - https://www.youtube.com/watch?v=bVPbUcnJtC4
 - I sorted my Yahoo emails.
+- I updated https://github.com/maxloosmu/parse-scrape-etc-tools.
 
-### Saturday (June 8) (bowels moving day, slept after 8pm)
-
+### Saturday (June 8) (bowels moving day, slept after 9pm)
+- I briefly read Chapter 2 "Markets and Networks" of the book "Economic Networks".
+- I read parts of this and last week's The Economist.
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I briefly read until Chapter 2 "Finding Ideas" of the book "The Smart Money Method".
+- I watched today's news on CNA, and "Lunch with Masters of Finance".
 
 ### Sunday (June 9) (bowels moving day, slept after 8pm)
-
+- I watched last Sunday's sermons from SACC and Riverlife.
+- I briefly read until parts of Chapter 3 "Testing the Hypothesis" of the book "The Smart Money Method".
+- I briefly read parts of the book "The Systematic Trader" until Chapter 10 "Insights from Systematic Trading". 
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I completed the QoreNext "Fix Address" Certification tasks.
+- I watched today's news on CNA and Channel 5.
+- I sorted my Yahoo emails.
 
 
 
