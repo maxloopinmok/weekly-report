@@ -16,9 +16,20 @@
 - I watched parts of this video:
     - https://www.youtube.com/watch?v=9bzgMtHdOh8
 
-### Tuesday (June 11) (bowels moving day, slept after 8pm)
+### Tuesday (June 11) (bowels moving day, slept after 9pm)
 - Tuesday 11 June 2024 10.10am CGH Neurology
-
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - 10.30am lunch
+    - 2pm dinner
+    - 7pm supper
+    - I whatsapp and received calls from a friend.
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Business Times and Straits Times.
+- I sorted my Yahoo emails.
+- I watched today's news on CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=wI4oBsZOmTk
+    - https://www.youtube.com/watch?v=om5KAKSSpNg
 
 ### Wednesday (June 12) (non bowels moving day, slept after 8pm)
 
