@@ -32,10 +32,36 @@
     - https://www.youtube.com/watch?v=om5KAKSSpNg
 
 ### Wednesday (June 12) (non bowels moving day, slept after 8pm)
-
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - 7am, 8.30am breakfast
+    - 12pm lunch
+    - 5pm dinner
+    - I whatsapp and received calls from a friend.
+- I read parts of this week's compiled Business Times and Straits Times.
+- I watched today's news on CNA.
+- I sorted my Yahoo emails.
+- I watched parts of this video:
+    - https://www.youtube.com/watch?v=UakqL6Pj9xo
 
 ### Thursday (June 13) (bowels moving day, slept after 8pm)
-
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - 1am bowels medicine
+    - 4am bowels medicine
+    - 7am bowels medicine
+    - 8.30am breakfast
+    - 1pm lunch
+    - 5pm dinner
+    - I whatsapp and received calls from a friend.
+- I read parts of this week's compiled Business Times and Straits Times.
+- I watched parts of today's news on CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=FWi-OV-VyXc
+    - https://www.youtube.com/watch?v=ko4GIkxSSxA
+    - https://www.youtube.com/watch?v=pgL0lPQrSVo
+- I sorted my Yahoo emails.
+- I briefly read the book "Building Wealth Through REITS" until Chapter 1 "An Overview of REITS".
 
 ### Friday (June 14) (non bowels moving day, slept after 8pm)
 - Friday 14 June 2024 2.30pm IMH Occupational Therapy
