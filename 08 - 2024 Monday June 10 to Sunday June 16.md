@@ -44,7 +44,7 @@
 - I watched parts of this video:
     - https://www.youtube.com/watch?v=UakqL6Pj9xo
 
-### Thursday (June 13) (bowels moving day, slept after 8pm)
+### Thursday (June 13) (bowels moving day, slept after 10pm)
 - I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
 - I did some data recording and events alerting for a paid stocks tracking task.
     - 1am bowels medicine
@@ -61,11 +61,19 @@
     - https://www.youtube.com/watch?v=ko4GIkxSSxA
     - https://www.youtube.com/watch?v=pgL0lPQrSVo
 - I sorted my Yahoo emails.
-- I briefly read the book "Building Wealth Through REITS" until Chapter 1 "An Overview of REITS".
+- I briefly read the book "Building Wealth Through REITS" until Chapter 1 "An Overview of REITs".
 
-### Friday (June 14) (non bowels moving day, slept after 8pm)
+### Friday (June 14) (non bowels moving day, slept after 10pm)
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
 - Friday 14 June 2024 2.30pm IMH Occupational Therapy
-
+- I read parts of this week's compiled Business Times and Straits Times.
+- I watched parts of today's news on CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=gIgCRUwZLbg
+    - https://www.youtube.com/watch?v=6dtuGyksOIM
+- I sorted my Yahoo emails.
+- I briefly read the book "Building Wealth Through REITS" until Chapter 2 "REITs versus Other Yield Investments".
+- I downloaded some Kinokuniya books.
 
 ### Saturday (June 15) (bowels moving day, slept after 8pm)
 
@@ -82,7 +90,6 @@
 - I watched today's news on CNA.
 
 # Upcoming Schedule
-- 8 July 2024 2pm Tah Chong Dental Appointment
 
 # Tasks to do:
 - Review selected books for further readings.
@@ -90,6 +97,7 @@
 # Upcoming Medical Appointments
 - Tuesday 18 June 2024 5pm CGH Radiology
 - Monday 1 July 2024 10.15am CGH Neurology
+- Monday 8 July 2024 2.30pm Tah Chong Dental Appointment
 - Friday 2 August 2024 9.40am 4E - CGH-NNI Spine Centre
 - Monday 16 September 2024 2.10pm CGH 2B - ENT
 - Tuesday 24 September 2024 11.20am CGH Digestive Diseases Centre
