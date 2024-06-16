@@ -64,7 +64,7 @@
 - I briefly read the book "Building Wealth Through REITS" until Chapter 1 "An Overview of REITs".
 
 ### Friday (June 14) (non bowels moving day, slept after 10pm)
-- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
 - Friday 14 June 2024 2.30pm IMH Occupational Therapy
 - I read parts of this week's compiled Business Times and Straits Times.
 - I watched parts of today's news on CNA.
@@ -75,10 +75,25 @@
 - I briefly read the book "Building Wealth Through REITS" until Chapter 2 "REITs versus Other Yield Investments".
 - I downloaded some Kinokuniya books.
 
-### Saturday (June 15) (bowels moving day, slept after 8pm)
+### Saturday (June 15) (bowels moving day, slept after 9pm)
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of this week's The Economist, and compiled them.
+- I read parts of this week's compiled Business Times and Straits Times.
+- I read parts of this week's compiled The Economist.
+- I briefly read parts of the book "Guide to Analysing Companies" until Chapter 1 "The annual report – and what underlies it".
+- I briefly read parts of the book "The Little Book of Picking Top Stocks" until "Foreword".
+- I watched today's news on CNA, and "Lunch with Masters of Finance".
+- I watched parts of this video:
+    - https://www.youtube.com/watch?v=f8I70yzBjjI
 
-
-### Sunday (June 16) (non bowels moving day, slept after 8pm)
+### Sunday (June 16) (non bowels moving day, slept after 12am)
+- I briefly read parts of today Sunday's Straits Times.
+- I visited Ikea Tampines and Courts to look for an armchair replacement.
+- I sorted my Yahoo emails.
+- I corresponded with Ikea over email and whatsapp.
+- I tested the FSMOne platform.
+- I watched parts of last Sunday's sermons from Riverlife and SACC.
+- I completed a second attempt at QoreNext's Fix Address Certification.
 
 
 
