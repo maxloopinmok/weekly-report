@@ -1,5 +1,14 @@
-### Monday (June 17) (bowels moving day, slept after 8pm)
-
+### Monday (June 17) (bowels moving day, slept after 9pm)
+- I applied for jobs at:
+    - https://www.mycareersfuture.gov.sg/
+    - "web developer", "data researcher"
+- I whatsapp Ikea to resolve my spoilt armchair problem.
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I watched yesterday's news on Channel 5.
+- I watched today's news on CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=VdbHS-s9mWY
+    - https://www.youtube.com/watch?v=aYp_PD_-iLc
 
 ### Tuesday (June 18) (non bowels moving day, slept after 8pm)
 - Tuesday 18 June 2024 5pm CGH Radiology
