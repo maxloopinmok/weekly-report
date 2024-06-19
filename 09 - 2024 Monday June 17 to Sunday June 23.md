@@ -5,19 +5,26 @@
 - I whatsapp Ikea to resolve my spoilt armchair problem.
 - I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
 - I watched yesterday's news on Channel 5.
-- I watched today's news on CNA.
+- I watched today's news on CNA and Channel 5.
 - I watched parts of these videos:
     - https://www.youtube.com/watch?v=VdbHS-s9mWY
     - https://www.youtube.com/watch?v=aYp_PD_-iLc
 
 ### Tuesday (June 18) (non bowels moving day, slept after 8pm)
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - I bought 10000 shares of Soilbuild ConstW240729 (SYYW) at $0.015.
 - Tuesday 18 June 2024 5pm CGH Radiology
 
-
 ### Wednesday (June 19) (bowels moving day, slept after 8pm)
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I did some data tracking and events alerting for a paid stocks tracking task.
+    - I sold 10000 shares of Soilbuild ConstW240729 (SYYW) at $0.011 using FSMOne.
+- I went to CGH A&E due to difficulties in moving bowels and pain in abdominals.
+    - X ray photos show that I have a lot of stool stuck in my descending colon.
+- I sorted my Yahoo emails.
 
-
-### Thursday (June 20) (non bowels moving day, slept after 8pm)
+### Thursday (June 20) (bowels moving day, slept after 8pm)
 
 
 ### Friday (June 21) (bowels moving day, slept after 8pm)
