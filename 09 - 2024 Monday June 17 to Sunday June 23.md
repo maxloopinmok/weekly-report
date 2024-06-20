@@ -16,16 +16,25 @@
     - I bought 10000 shares of Soilbuild ConstW240729 (SYYW) at $0.015.
 - Tuesday 18 June 2024 5pm CGH Radiology
 
-### Wednesday (June 19) (bowels moving day, slept after 8pm)
+### Wednesday (June 19) (bowels moving day, slept after 10pm)
 - I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
 - I did some data tracking and events alerting for a paid stocks tracking task.
     - I sold 10000 shares of Soilbuild ConstW240729 (SYYW) at $0.011 using FSMOne.
+    - I bought 10000 shares of Soilbuild ConstW240729 (SYYW) at $0.013 using Poems.
 - I went to CGH A&E due to difficulties in moving bowels and pain in abdominals.
     - X ray photos show that I have a lot of stool stuck in my descending colon.
 - I sorted my Yahoo emails.
 
-### Thursday (June 20) (bowels moving day, slept after 8pm)
-
+### Thursday (June 20) (bowels moving day, slept after 10pm)
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I did some data tracking and events alerting for a paid stocks tracking task.
+    - I sold 10000 shares of Soilbuild ConstW240729 (SYYW) at $0.008 using Poems.
+    - I bought 1000 shares of Top Glove (BVA) at $0.345 using Poems.
+- I visited CGH A&E again due to persistent difficulties with eating due to difficulties in moving bowels.
+- I sorted my Yahoo emails.
+- I prepared two documents for my SGH A&E visit tomorrow.
+    - 2024-06-20 Bowels Problems
+    - 2024-06-20 ChatGPT's solutions
 
 ### Friday (June 21) (bowels moving day, slept after 8pm)
 
