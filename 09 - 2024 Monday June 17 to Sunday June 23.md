@@ -37,7 +37,16 @@
     - 2024-06-20 ChatGPT's solutions
 
 ### Friday (June 21) (bowels moving day, slept after 8pm)
-
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
+- I visited CGH Digestive Diseases Centre to plead for an earlier appointment date.
+- I visited and stayed temporarily at SGH A&E for treatment and observation.
+- I had lunch-dinner with Jen.
+- I informed some of my friends with whatsapp messages about my partial success in resolving my bowels problem.
+- I planned a new schedule:
+    - take laxatives (Forlax, Bisacodyl) moderately every other day: Tues (2 Bis), Thurs (2 Bis), Sun (3 Bis if no fleet enema).
+    - take PEG as last resort.
+    - timing for (For, Bis): about (6-8am, 8-10am)
+    - sleep duration: 8pm to 8am
 
 ### Saturday (June 22) (non bowels moving day, slept after 8pm)
 
