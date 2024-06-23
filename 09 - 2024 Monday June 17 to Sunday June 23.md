@@ -47,12 +47,29 @@
     - take PEG as last resort.
     - timing for (For, Bis): about (6-8am, 8-10am)
     - sleep duration: 8pm to 8am
+- I sorted my Yahoo emails.
 
 ### Saturday (June 22) (non bowels moving day, slept after 8pm)
-
+- I watched last Sunday's sermon from Riverlife.
+- I attended Riverlife cell at Cindy's home.
+- I answered some whatsapp messages.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=MCs8BNPYtOA
+    - https://www.youtube.com/watch?v=Ov-PGZP0uvQ
+    - https://www.youtube.com/watch?v=KI3wIUDcIgM
+    - https://www.youtube.com/watch?v=QiKtetzLsk0
+    - https://www.youtube.com/watch?v=GihTPEneC-o
+    - https://www.youtube.com/watch?v=8VXlseU6iYM
+    - https://www.youtube.com/watch?v=exKLmUHxESA
+- I watched today's news on CNA, and "Lunch with Masters of Finance". 
+- I watched news on Channel 5 for Wednesday, Thursday, Friday, and Saturday.
 
 ### Sunday (June 23) (bowels moving day, slept after 8pm)
-
+- I briefly read parts of Saturday's and Sunday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of this week's The Economist.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I responded to whatsapp messages.
+- I sorted my Yahoo emails.
 
 
 
@@ -64,6 +81,9 @@
 - I watched today's news on CNA.
 
 # Upcoming Schedule
+- Monday 24 June 2024 1pm-5pm Repair of Sofa Chair at home
+- Monday 24 June 2024 Pasir Ris PolyClinic for getting Fleet Enema
+- Wednesday 26 June 2024 9am Meetup at SACS in Simei.
 
 # Tasks to do:
 - Review selected books for further readings.
@@ -71,9 +91,9 @@
 # Upcoming Medical Appointments
 - Monday 1 July 2024 10.15am CGH Neurology
 - Monday 8 July 2024 2.30pm Tah Chong Dental Appointment
+- Tuesday 30 July 2024 10.30am CGH Digestive Diseases Centre
 - Friday 2 August 2024 9.40am 4E - CGH-NNI Spine Centre
 - Monday 16 September 2024 2.10pm CGH 2B - ENT
-- Tuesday 24 September 2024 11.20am CGH Digestive Diseases Centre
 - Friday 15 November 2024 11.45am IMH Clinic B
 - Friday 10 January 2025 10.15am 1A - SNEC Eye Clinic @ CGH
 - Monday 17 March 2025 9.50am 4E - CGH-NNI Spine Centre
