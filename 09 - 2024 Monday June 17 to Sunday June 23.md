@@ -64,12 +64,13 @@
 - I watched today's news on CNA, and "Lunch with Masters of Finance". 
 - I watched news on Channel 5 for Wednesday, Thursday, Friday, and Saturday.
 
-### Sunday (June 23) (bowels moving day, slept after 8pm)
+### Sunday (June 23) (bowels moving day, slept after 11pm)
 - I briefly read parts of Saturday's and Sunday's Straits Times and Business Times, and compiled them.
 - I briefly read parts of this week's The Economist.
 - I read parts of this week's compiled Straits Times and Business Times.
 - I responded to whatsapp messages.
 - I sorted my Yahoo emails.
+- I watched today's news on Channel 5.
 
 
 
