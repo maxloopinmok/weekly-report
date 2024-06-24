@@ -1,5 +1,33 @@
+### Monday (June 24) (non bowels moving day, slept after 8pm)
+- I visited Pinnacle Family Clinic (Pasir Ris) to get a referral letter to a specialist for my bowels condition.
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - I sold 1000 shares of Top Glove (BVA) at $0.315 using Poems.
+    - I bought 500 shares of Seatrium Ltd (5E2) at $1.50 using Poems.
+    - I bought 1000 shares of Mapletree Log at $1.31 using Poems.
+    - I sold 1000 shares of Mapletree Log at $1.30 using Poems.
+    - I bought 3000 shares of Kimly at $0.325 using Poems.
+    - I did up a historical analysis of Kimly's price movements before and after ex-dividend.
+- Monday 24 June 2024 1pm-5pm Inspection of Sofa Chair at home by Ikea
+    - I tried to whatsapp Ikea.
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I sorted my Yahoo emails.
+
+### Tuesday (June 25) (bowels moving day, slept after 8pm)
 
 
+### Wednesday (June 26) (bowels moving day, slept after 8pm)
+
+
+### Thursday (June 27) (bowels moving day, slept after 8pm)
+
+
+### Friday (June 28) (bowels moving day, slept after 8pm)
+
+
+### Saturday (June 29) (bowels moving day, slept after 8pm)
+
+
+### Sunday (June 30) (bowels moving day, slept after 8pm)
 
 
 
@@ -11,8 +39,7 @@
 - I watched today's news on CNA.
 
 # Upcoming Schedule
-- Monday 24 June 2024 1pm-5pm Repair of Sofa Chair at home
-- Monday 24 June 2024 Pasir Ris PolyClinic for getting Fleet Enema
+- Wednesday 26 June 2024 Pasir Ris PolyClinic for getting Fleet Enema
 - Wednesday 26 June 2024 9am Meetup at SACS in Simei.
 
 # Tasks to do:
