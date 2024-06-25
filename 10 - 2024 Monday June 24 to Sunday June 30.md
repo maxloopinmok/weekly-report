@@ -1,4 +1,4 @@
-### Monday (June 24) (non bowels moving day, slept after 8pm)
+### Monday (June 24) (non bowels moving day, slept after 10pm)
 - I visited Pinnacle Family Clinic (Pasir Ris) to get a referral letter to a specialist for my bowels condition.
 - I did some data recording and events alerting for a paid stocks tracking task.
     - I sold 1000 shares of Top Glove (BVA) at $0.315 using Poems.
@@ -12,17 +12,25 @@
 - I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
 - I sorted my Yahoo emails.
 
-### Tuesday (June 25) (bowels moving day, slept after 8pm)
+### Tuesday (June 25) (bowels moving day, slept after 10pm)
+- I did some data recording and events alerting for a paid stocks tracking task.
+- I managed to successfully whatsapp Ikea and got a refund for the spoilt chair, as well as someone to come to take away the chair on Friday.
+- I managed to move my bowels:
+    - 8am Forlax one sachet
+    - 10am 2 Bisacodyl tablets
+    - 3.30pm Forlax one sachet
+    - 5pm bowels moved.
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I watched parts of yesterday Monday's and today's news on Channel 5, and CNA.
 
-
-### Wednesday (June 26) (bowels moving day, slept after 8pm)
+### Wednesday (June 26) (non bowels moving day, slept after 8pm)
 
 
 ### Thursday (June 27) (bowels moving day, slept after 8pm)
 
 
 ### Friday (June 28) (bowels moving day, slept after 8pm)
-
+- 1pm-5pm Ikea comes to collect spoilt sofa chair.
 
 ### Saturday (June 29) (bowels moving day, slept after 8pm)
 
