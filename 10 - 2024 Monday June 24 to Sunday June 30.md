@@ -23,11 +23,33 @@
 - I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
 - I watched parts of yesterday Monday's and today's news on Channel 5, and CNA.
 
-### Wednesday (June 26) (non bowels moving day, slept after 8pm)
+### Wednesday (June 26) (non bowels moving day, slept after 11pm)
+- I visited Pasir Ris polyclinic at 10.30am to be prescribed 2 bottles of Fleet Enema.
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - I bought 1000 shares of TJ Darentang at $2.45 using Poems, CD announced yesterday.
+    - I sold 3000 shares of Kimly at $0.315 using Poems.
+    - I whatsapp and spoke to a friend and discussed a better pay.
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I watched parts of yesterday Tuesday's news on Channel 5.
+- I sorted my Yahoo emails.
 
-
-### Thursday (June 27) (bowels moving day, slept after 8pm)
-
+### Thursday (June 27) (bowels moving day, slept after 11pm)
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - I sold 500 shares of Seatrium at $1.39 using Poems.
+    - I bought 2000 shares of SamuderaShipping at $1.07 using Poems.
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I try to move my bowels:
+    - 7am Forlax one sachet
+    - 9am 2 Bisacodyl tablets
+    - 2.30pm Forlax one sachet
+    - 3pm bowels moved a little.
+    - 3.30pm, 4pm bowels moved.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched parts of today's news on CNA, Channel 5, and Talking Point.
+- I reviewed these:
+    - https://www.businesstimes.com.sg/companies-markets?ref=header
+    - https://www.theedgesingapore.com/section/latest/1
+- I sorted my Yahoo emails.
 
 ### Friday (June 28) (bowels moving day, slept after 8pm)
 - 1pm-5pm Ikea comes to collect spoilt sofa chair.
@@ -55,7 +77,7 @@
 
 # Upcoming Medical Appointments
 - Monday 1 July 2024 10.15am CGH Neurology
-- Monday 8 July 2024 2.30pm Tah Chong Dental Appointment
+- Saturday 6 July 2024 2.30pm Tah Chong Dental Appointment
 - Tuesday 30 July 2024 10.30am CGH Digestive Diseases Centre
 - Friday 2 August 2024 9.40am 4E - CGH-NNI Spine Centre
 - Monday 16 September 2024 2.10pm CGH 2B - ENT
