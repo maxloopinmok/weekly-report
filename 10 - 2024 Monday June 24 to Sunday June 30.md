@@ -38,21 +38,33 @@
     - I sold 500 shares of Seatrium at $1.39 using Poems.
     - I bought 2000 shares of SamuderaShipping at $1.07 using Poems.
 - I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
-- I try to move my bowels:
+- I tried to move my bowels:
     - 7am Forlax one sachet
     - 9am 2 Bisacodyl tablets
     - 2.30pm Forlax one sachet
     - 3pm bowels moved a little.
     - 3.30pm, 4pm bowels moved.
 - I read parts of this week's compiled Straits Times and Business Times.
-- I watched parts of today's news on CNA, Channel 5, and Talking Point.
+- I watched parts of today's news on CNA, Channel 5, and Talking Point, and yesterday's news on Channel 5.
 - I reviewed these:
     - https://www.businesstimes.com.sg/companies-markets?ref=header
     - https://www.theedgesingapore.com/section/latest/1
 - I sorted my Yahoo emails.
 
-### Friday (June 28) (bowels moving day, slept after 8pm)
-- 1pm-5pm Ikea comes to collect spoilt sofa chair.
+### Friday (June 28) (bowels moving day, slept after 2am)
+- 11am Ikea comes to collect spoilt sofa chair.
+- I did some data recording and events alerting for a paid stocks tracking task.
+    - I sold 2000 shares of SamuderaShipping at $1.06 using Poems.
+    - I sold 500 shares of TJ DaRenTang at $2.40 using Poems.
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
+- I tried to move my bowels:
+    - 9am 2 Bisacodyl tablets
+    - 2pm Forlax one sachet
+    - 2.30pm bowels moved.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I briefly read parts of the book "Fundamental Analysis For Dummies":
+    - parts of Chapters 3, 4, 5, 6, 7
+- I watched parts of today's news on Channel 5.
 
 ### Saturday (June 29) (bowels moving day, slept after 8pm)
 
