@@ -67,9 +67,22 @@
 - I watched parts of today's news on Channel 5.
 
 ### Saturday (June 29) (bowels moving day, slept after 8pm)
-
+- I briefly read parts of the book "Fundamental Analysis For Dummies":
+    - parts of Chapters 8, 10, 11, 15, 16, 17, 18, 19
 
 ### Sunday (June 30) (bowels moving day, slept after 8pm)
+- I briefly read parts of Saturday's and Sunday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I briefly read parts of the book "The Little Book of Behavioral Investing" until Chapter 3 "Always look on the bright side of life".
+- I briefly read parts of the book "The Little Book of Valuation" until Chapter 1 "Value - More than a Number".
+- I watched Saturday's news on Channel 5, and today's news on CNA.
+- I briefly watched parts of these videos:
+    - https://www.youtube.com/watch?v=wZ1AKZC57jI
+    - https://www.youtube.com/watch?v=lPvqvt55l3A
+    - https://www.youtube.com/watch?v=jrTYdOEaiy0
+    - https://www.youtube.com/watch?v=NJl660hIVKo
+    - https://www.youtube.com/watch?v=z-msMeKhCWU
+    - https://www.youtube.com/watch?v=W98HO1Ntbg0
 
 
 
