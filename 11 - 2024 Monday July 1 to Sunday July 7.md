@@ -1,6 +1,11 @@
 ### Monday (July 1) (non bowels moving day, slept after 10pm)
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
 - Monday 1 July 2024 10.15am CGH Neurology
-
+- I read parts of this week's compiled Straits Times and Business Times.
+- I did some data recording, events alerting and news reading for a paid stocks tracking task.
+- I briefly read parts of the book "Technical analysis for dummies" until Chapter 1 "Introducing Technical Analysis".
+- I watched yesterday Sunday's news on Channel 5.
+- I sorted my Yahoo emails.
 
 ### Tuesday (July 2) (bowels moving day, slept after 10pm)
 
@@ -15,6 +20,7 @@
 
 
 ### Saturday (July 6) (non bowels moving day, slept after 10pm)
+- Saturday 6 July 2024 10.45am Tah Chong Dental Appointment
 
 
 ### Sunday (July 7) (bowels moving day, slept after 10pm)
@@ -37,7 +43,6 @@
 - Review selected books for further readings.
 
 # Upcoming Medical Appointments
-- Saturday 6 July 2024 2.30pm Tah Chong Dental Appointment
 - Tuesday 30 July 2024 10.30am CGH Digestive Diseases Centre
 - Friday 2 August 2024 9.40am 4E - CGH-NNI Spine Centre
 - Monday 16 September 2024 2.10pm CGH 2B - ENT
