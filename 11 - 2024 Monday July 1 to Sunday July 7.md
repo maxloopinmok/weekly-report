@@ -5,10 +5,22 @@
 - I did some data recording, events alerting and news reading for a paid stocks tracking task.
 - I briefly read parts of the book "Technical analysis for dummies" until Chapter 1 "Introducing Technical Analysis".
 - I watched yesterday Sunday's news on Channel 5.
+- I watched today's news on CNA.
 - I sorted my Yahoo emails.
 
 ### Tuesday (July 2) (bowels moving day, slept after 10pm)
-
+- I did some data recording, events alerting and news reading for a paid stocks tracking task.
+    - I sold 200 TJ Darentang shares at $2.34.
+    - I sold 500 TJ Darentang shares at $2.33.
+    - I bought 200 TJ Darentang shares at $2.36.
+    - I've cleared my TJ Darentang shares.
+    - I bought 2000 Samudera shares at $1.03.
+    - I bought 2000 Dyna-Mac shares at $0.405.
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5.
+- I sorted my Yahoo emails.
+- I briefly read parts of the book "Technical analysis for dummies".
 
 ### Wednesday (July 3) (non bowels moving day, slept after 10pm)
 
