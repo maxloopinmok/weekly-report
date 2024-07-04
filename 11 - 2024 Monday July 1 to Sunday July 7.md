@@ -23,10 +23,35 @@
 - I briefly read parts of the book "Technical analysis for dummies".
 
 ### Wednesday (July 3) (non bowels moving day, slept after 10pm)
-
+- I briefly read parts of the book "Technical analysis for dummies" until Chapter 4 "Gaining Critical Advantage from Indicators".
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting and news reading for a paid stocks tracking task.
+    - I sold 2000 Dyna-Mac shares at $0.4.
+    - I bought 5000 Yoma shares at $0.15.
+    - I sold 5000 Yoma shares at $0.152.
+    - I bought 5000 Yoma shares at $0.154.
+    - I sold 5000 Yoma shares at $0.157.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=HCX3-aQ7Gy0
+    - https://www.youtube.com/watch?v=AVKliIZsi90
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched parts of today's news on CNA and Channel 5.
 
 ### Thursday (July 4) (bowels moving day, slept after 10pm)
-
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting and news reading for a paid stocks tracking task.
+    - I bought 6000 Yoma shares at $0.166.
+    - I sold 6000 Yoma shares at $0.167.
+    - I bought 1000 Seatrium shares at $1.47.
+    - I sold 1000 Samudera shares at $1.03.
+    - I sold 1000 Seatrium shares at $1.43.
+    - I sold 1000 Samudera shares at $1.04.
+    - I'm now clear of all stocks.
+    - I bought 1000 Capland Ascott shares at $0.875.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched parts of today's news on Channel 5, and Talking Point.
 
 ### Friday (July 5) (bowels moving day, slept after 10pm)
 
