@@ -40,6 +40,7 @@
 
 ### Thursday (July 4) (bowels moving day, slept after 10pm)
 - I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of last week's The Economist, and compiled them.
 - I did some data recording, events alerting and news reading for a paid stocks tracking task.
     - I bought 6000 Yoma shares at $0.166.
     - I sold 6000 Yoma shares at $0.167.
@@ -50,11 +51,27 @@
     - I'm now clear of all stocks.
     - I bought 1000 Capland Ascott shares at $0.875.
 - I read parts of this week's compiled Straits Times and Business Times.
-- I sorted my Yahoo emails.
+- I sorted my Yahoo and Gmail emails.
 - I watched parts of today's news on Channel 5, and Talking Point.
 
 ### Friday (July 5) (bowels moving day, slept after 10pm)
-
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting and news reading for a paid stocks tracking task.
+    - I bought 5000 PetroGas shares at $0.146.
+    - I sold 5000 PetroGas shares at $0.146.
+    - I bought 5000 Rex shares at $0.126.
+    - I sold 5000 Rex shares at $0.125.
+    - I bought 10000 MarcoPolo shares at $0.065.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I read parts of this week's compiled The Economist.
+- I read news from these:
+    - https://www.theedgesingapore.com/section/latest/1
+    - https://www.businesstimes.com.sg/companies-markets
+    - https://www.businesstimes.com.sg/singapore
+    - https://www.sgx.com/securities/company-announcements?pagesize=100
+    - https://www.sgx.com/securities/securities-prices?code=favs
+- I watched parts of today's news on Channel 5.
+- I sorted my Yahoo emails.
 
 ### Saturday (July 6) (non bowels moving day, slept after 10pm)
 - Saturday 6 July 2024 10.45am Tah Chong Dental Appointment
