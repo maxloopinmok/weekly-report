@@ -63,7 +63,7 @@
     - I sold 5000 Rex shares at $0.125.
     - I bought 10000 MarcoPolo shares at $0.065.
 - I read parts of this week's compiled Straits Times and Business Times.
-- I read parts of this week's compiled The Economist.
+- I read parts of last week's compiled The Economist.
 - I read news from these:
     - https://www.theedgesingapore.com/section/latest/1
     - https://www.businesstimes.com.sg/companies-markets
@@ -75,10 +75,28 @@
 
 ### Saturday (July 6) (non bowels moving day, slept after 10pm)
 - Saturday 6 July 2024 10.45am Tah Chong Dental Appointment
+- I downloaded books from Kinokuniya.
+- I read parts of this week's The Economist, and compiled them.
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I read parts of this week's compiled The Economist.
+- I watched today's news on CNA, Channel 5, and Money Mind.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=hBcUtTpkv0k
+    - https://www.youtube.com/watch?v=GkgsvQ4qKeY
+    - https://www.youtube.com/watch?v=blokpPdLWXk
+    - https://www.youtube.com/watch?v=T8ByoAt5gCA
+    - https://www.youtube.com/watch?v=-PS_nP2fZ-c
+    - https://www.youtube.com/watch?v=O_1CgqAKlr0
+- I tried a few tasks at QoreNext.
+- I applied for a few jobs at:
+    - https://www.mycareersfuture.gov.sg/
 
-
-### Sunday (July 7) (bowels moving day, slept after 10pm)
-
+### Sunday (July 7) (failed bowels moving day, slept after 11pm)
+- I read parts of Chapter 18 "The Basics of Day Trading" from the book "Trading for Dummies".
+- I briefly read parts of Sunday's Straits Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5.
 
 
 
@@ -90,8 +108,6 @@
 - I watched today's news on CNA.
 
 # Upcoming Schedule
-- Wednesday 26 June 2024 Pasir Ris PolyClinic for getting Fleet Enema
-- Wednesday 26 June 2024 9am Meetup at SACS in Simei.
 
 # Tasks to do:
 - Review selected books for further readings.
