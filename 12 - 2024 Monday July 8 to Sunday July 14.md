@@ -1,5 +1,10 @@
-### Monday (July 8) (bowels moving day, slept after 10pm)
+### Monday (July 8) (non bowels moving day, slept after 10pm)
+- Yesterday's "failed bowels moving day" works because I moved my bowels at about 3am.
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news reading for a paid stocks tracking task.
+- I sorted my Yahoo emails.
 
+### Tuesday (July 9) (bowels moving day, slept after 10pm)
 
 
 
