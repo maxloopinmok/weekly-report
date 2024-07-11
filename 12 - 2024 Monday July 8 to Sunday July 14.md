@@ -9,6 +9,22 @@
 - I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
 - I sorted my Yahoo emails.
 
+### Wednesday (July 10) (non bowels moving day, slept after 11pm)
+- I did some data recording, events alerting, and news reading for a paid stocks tracking task.
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched parts of today's news on Channel 5 and CNA.
+
+### Thursday (July 11) (bowels moving day, slept after 11pm)
+- I did some data recording, events alerting, and news reading for a paid stocks tracking task.
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched parts of today's news on Channel 5 and Talking Point.
+
+
+
 ## Routines
 - I do note taking, and/or tasks recording and planning.
 - I sorted my emails.
