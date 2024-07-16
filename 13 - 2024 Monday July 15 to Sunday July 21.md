@@ -1,12 +1,18 @@
 ### Monday (July 15) (non bowels moving day, slept after 11pm)
 - I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
-- I did some data recording, events alerting, and news reading for a paid stocks tracking task.
+- I did some data recording, events alerting, and news reading for a stocks tracking task.
 - I read parts of this week's compiled Straits Times and Business Times.
 - I sorted my Yahoo emails.
 - I updated my resume.
+- I sorted parts of my PC's folders.
 
-### Tuesday (July 16) (bowels moving day, slept after 11pm)
-
+### Tuesday (July 16) (bowels moving day, slept after 9pm)
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news reading for a stocks tracking task.
+- I read parts of Chapters 2 and 3 of the book "Blueblack Chips and Growth Stocks".
+- I sorted my Yahoo emails.
+- I watched yesterday's news on Channel 5.
+- I read parts of this week's compiled Straits Times and Business Times.
 
 ### Wednesday (July 17) (non bowels moving day, slept after 11pm)
 
