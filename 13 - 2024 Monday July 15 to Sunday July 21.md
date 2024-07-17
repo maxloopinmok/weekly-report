@@ -14,8 +14,12 @@
 - I watched yesterday's news on Channel 5.
 - I read parts of this week's compiled Straits Times and Business Times.
 
-### Wednesday (July 17) (non bowels moving day, slept after 11pm)
-
+### Wednesday (July 17) (non bowels moving day, slept after 9pm)
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news reading for a stocks tracking task.
+- I sorted my Yahoo emails.
+- I watched yesterday's news on Channel 5.
+- I read parts of this week's compiled Straits Times and Business Times.
 
 ### Thursday (July 18) (bowels moving day, slept after 11pm)
 
