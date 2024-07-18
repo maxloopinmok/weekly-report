@@ -22,7 +22,11 @@
 - I read parts of this week's compiled Straits Times and Business Times.
 
 ### Thursday (July 18) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news reading for a stocks tracking task.
+- I watched yesterday's and today's news on Channel 5, and Talking Point.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
 
 ### Friday (July 19) (bowels moving day, slept after 11pm)
 
