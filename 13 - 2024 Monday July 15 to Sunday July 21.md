@@ -29,7 +29,17 @@
 - I sorted my Yahoo emails.
 
 ### Friday (July 19) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news reading for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=Q-X3tpOfZ10
+    - https://www.youtube.com/watch?v=oryup8RYQpg
+    - https://www.youtube.com/watch?v=YeMR89w1_jc
+    - https://www.youtube.com/watch?v=uhS8QPDcG-M
+    - https://www.youtube.com/watch?v=peSbHOnSIfk
+- I sorted my Yahoo emails.
 
 ### Saturday (July 20) (non bowels moving day, slept after 11pm)
 - Saturday 20 July 2024 Visit Kembangan Plaza and Paya Lebar Square to Search for Commode or chair that is safe for bathing use.
