@@ -44,12 +44,16 @@
 ### Saturday (July 20) (non bowels moving day, slept after 11pm)
 - Saturday 20 July 2024 Visit Kembangan Plaza, Paya Lebar Square and Orchard Point Hao Mart to Search for Commode or chair that is safe for bathing use.
 - I read the book "Building Wealth Through REITS" until CHAPTER 4 "Different Types of REITs" section "Hospitality REITS".
-- I reread parts of the Samudera and Cosco annual reports.
+- I reread parts of the Samudera and Cosco 2023 annual reports.
 - I watched today's news on Channel 5 and CNA, and Money Mind.
 - I sorted my Yahoo emails.
 
 ### Sunday (July 21) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of Saturday and Sunday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I briefly searched and read news about "longevity", "aging reversal", "dementia cure", "neurogenic bowel cure".
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5.
 
 
 ## Routines
