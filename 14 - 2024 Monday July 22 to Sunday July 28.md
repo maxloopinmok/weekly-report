@@ -11,7 +11,11 @@
     - https://www.youtube.com/watch?v=L1HY_cYvKP0
 
 ### Tuesday (July 23) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I joined the DHS 4D Class whatsapp group chat.
 
 ### Wednesday (July 24) (non bowels moving day, slept after 11pm)
 
