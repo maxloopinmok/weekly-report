@@ -18,10 +18,23 @@
 - I joined the DHS 4D Class whatsapp group chat.
 
 ### Wednesday (July 24) (non bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched parts of today's news on Channel 5 and CNA.
+- I briefly watched these videos:
+    - https://www.youtube.com/watch?v=t3SBDEKkQf4
+    - https://www.youtube.com/watch?v=UfqvIe0mkEk
+    - https://www.youtube.com/watch?v=9cXM49Iu6lM
+    - https://www.youtube.com/watch?v=TEzsBhJTgpc
 
 ### Thursday (July 25) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched parts of today's news on Channel 5 and CNA.
 
 ### Friday (July 26) (bowels moving day, slept after 11pm)
 
