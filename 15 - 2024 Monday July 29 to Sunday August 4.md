@@ -12,13 +12,26 @@
 
 ### Tuesday (July 30) (bowels moving day, slept after 11pm)
 - Tuesday 30 July 2024 10.30am CGH Digestive Diseases Centre
-
+- I visited Tampines and Bedok libraries.
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/writing for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched parts of yesterday's news on Channel 5, and parts of today's news on CNA.  
+- I sorted my Yahoo emails.
 
 ### Wednesday (July 31) (non bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/writing for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched parts of yesterday's news on Channel 5, and parts of today's news on CNA.  
+- I sorted my Yahoo emails.
 
 ### Thursday (August 1) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/writing for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched parts of today and yesterday's news on Channel 5.
+- I sorted my Yahoo emails.
 
 ### Friday (August 2) (non bowels moving day, slept after 11pm)
 - Friday 2 August 2024 9.40am 4E - CGH-NNI Spine Centre
