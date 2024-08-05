@@ -1,5 +1,12 @@
 ### Monday (August 5) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I made a reservation at the library for the book "The Predictive Edge".
+- I watched parts of today's news on Channel 5 and CNA.
+- I watched this video:
+    - https://www.youtube.com/watch?v=rwFiXs52ZK8
+- I sorted my Yahoo emails.
 
 ### Tuesday (August 6) (non bowels moving day, slept after 11pm)
 
