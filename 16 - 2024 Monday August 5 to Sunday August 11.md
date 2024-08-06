@@ -1,6 +1,6 @@
 ### Monday (August 5) (bowels moving day, slept after 11pm)
 - I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
-- I did some data recording, events alerting, and news and reports reading for a stocks tracking task.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
 - I read parts of this week's compiled Straits Times and Business Times.
 - I made a reservation at the library for the book "The Predictive Edge".
 - I watched parts of today's news on Channel 5 and CNA.
@@ -9,7 +9,13 @@
 - I sorted my Yahoo emails.
 
 ### Tuesday (August 6) (non bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I visited Bras Basah complex, Elias mall, and West Plaza to look for book scanning shops.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I did some book scanning and bought a book scanner online.
+- I watched today's news on Channel 5.
+- I sorted my Yahoo emails.
 
 ### Wednesday (August 7) (bowels moving day, slept after 11pm)
 
@@ -21,7 +27,7 @@
 
 
 ### Saturday (August 10) (non bowels moving day, slept after 11pm)
-
+- Meet DHS Caiyi for dinner at 6pm.
 
 ### Sunday (August 11) (bowels moving day, slept after 11pm)
 
@@ -36,6 +42,7 @@
 - I watched today's news on CNA.
 
 # Upcoming Schedule
+- 14, 15 August 2024 Take delivery of book scanner and accessory.
 
 # Tasks to do:
 - Review selected books for further readings.
