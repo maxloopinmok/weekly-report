@@ -17,11 +17,26 @@
 - I watched today's news on Channel 5.
 - I sorted my Yahoo emails.
 
-### Wednesday (August 7) (bowels moving day, slept after 11pm)
-
+### Wednesday (August 7) (bowels moving day, slept after 1am)
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
 
 ### Thursday (August 8) (non bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Wednesday and Thursday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I watched parts of today's news on Channel 5 and CNA.
+- I watched our Prime Minister's National Day message:
+    - https://www.youtube.com/watch?v=tppvH-gAPEE
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=bTxm49rHi68
+    - https://www.youtube.com/watch?v=Y8Ym7hMR100
+    - https://www.youtube.com/watch?v=IuO-1oeCMxA
+    - https://www.youtube.com/watch?v=PivqsoRDysA
+    - https://www.youtube.com/watch?v=npnY02-oCWo
+    - https://www.youtube.com/watch?v=jV8kyGsLsOU
+    - https://www.youtube.com/watch?v=4hUvyLgZOFM
 
 ### Friday (August 9) (bowels moving day, slept after 11pm)
 
