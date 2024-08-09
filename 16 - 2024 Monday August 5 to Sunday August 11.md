@@ -39,7 +39,11 @@
     - https://www.youtube.com/watch?v=4hUvyLgZOFM
 
 ### Friday (August 9) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I compiled and read The Edge articles.
+- I briefly read Chapter 6 "Can ChatGPT Forecast Stock Price Movements?" of the book "The Predictive Edge - Outsmart The Market Using Generative AI and ChatGPT in Financial Forecasting".
+- I watched parts of today's news on Channel 5 and CNA.
 
 ### Saturday (August 10) (non bowels moving day, slept after 11pm)
 - Meet DHS Caiyi for dinner at 6pm.
