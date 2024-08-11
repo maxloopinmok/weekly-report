@@ -54,6 +54,7 @@
 ### Sunday (August 11) (bowels moving day, slept after 11pm)
 - I read parts of this week's compiled Straits Times and Business Times, and this week and last week's compiled The Economist.
 - I briefly read parts of today Sunday's Straits Times.
+- I sorted my Yahoo emails.
 
 
 
