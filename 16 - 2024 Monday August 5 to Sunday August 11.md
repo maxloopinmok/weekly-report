@@ -46,10 +46,14 @@
 - I watched parts of today's news on Channel 5 and CNA.
 
 ### Saturday (August 10) (non bowels moving day, slept after 11pm)
-- Meet DHS Caiyi for dinner at 6pm.
+- I visited my elderly demented father at the United Medicare nursing home.
+- Meet DHS Caiyi for dinner at 5.30pm.
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of this week and last week's The Economist, and compiled them.
 
 ### Sunday (August 11) (bowels moving day, slept after 11pm)
-
+- I read parts of this week's compiled Straits Times and Business Times, and this week and last week's compiled The Economist.
+- I briefly read parts of today Sunday's Straits Times.
 
 
 
