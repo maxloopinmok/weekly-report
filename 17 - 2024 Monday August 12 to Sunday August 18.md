@@ -8,7 +8,10 @@
 - I briefly read parts of Chapter 7 "Implementing a ChatGPT Trading Strategy: A Step-by-Step Guide" of the book "The Predictive Edge - Outsmart The Market Using Generative AI and ChatGPT in Financial Forecasting".
 
 ### Tuesday (August 13) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I watched parts of today's news on CNA and Channel 5, and yesterday's news on Channel 5.
+- I obtained the 4 DHS annuals in softcopy, and shared with previous classmates.
 
 ### Wednesday (August 14) (non bowels moving day, slept after 11pm)
 
