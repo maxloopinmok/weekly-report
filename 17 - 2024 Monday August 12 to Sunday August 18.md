@@ -14,11 +14,29 @@
 - I obtained the 4 DHS annuals in softcopy, and shared with previous classmates.
 
 ### Wednesday (August 14) (non bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I watched parts of today's news on CNA and Channel 5.
+- I took delivery of book scanner from Amazon.
+- I scanned most of the book "The Predictive Edge".
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=-NQw6NIN4wU
+    - https://www.youtube.com/watch?v=fih6_aAanzU
+    - https://www.youtube.com/watch?v=8LRBhT3TLr8
 
 ### Thursday (August 15) (bowels moving day, slept after 11pm)
-- Thursday 15 August 2024 Take delivery of book scanner and accessory from Amazon.
-
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- Thursday 15 August 2024 Take delivery of book scanner accessory from Amazon.
+- I watched parts of today's news on CNA and Channel 5, and watched Talking Point.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=9ME4czrNun4
+    - https://www.youtube.com/watch?v=6LHjlZJnKJI
+    - https://www.youtube.com/watch?v=RvkmUEjsGys
+    - https://www.youtube.com/watch?v=smyZdtGD2ds
+    - https://www.youtube.com/watch?v=9_BigVVhtEU
 
 ### Friday (August 16) (non bowels moving day, slept after 11pm)
 
