@@ -39,7 +39,18 @@
     - https://www.youtube.com/watch?v=9_BigVVhtEU
 
 ### Friday (August 16) (non bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I scanned parts of the book "The Singapore Blue Chips".
+- I watched parts of today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=WOLrv-ypfXc
+    - https://www.youtube.com/watch?v=hfbQtnjEE4w
+    - https://start.learnsmt.com/winners-allvideos1?cf_uvid=cc752cb070d90f3c70359235901eadcb
+    - https://start.learnsmt.com/video-11712128986122
+    - https://start.learnsmt.com/video-21712128986448
+    - https://start.learnsmt.com/video-31712128986824
 
 ### Saturday (August 17) (bowels moving day, slept after 11pm)
 
