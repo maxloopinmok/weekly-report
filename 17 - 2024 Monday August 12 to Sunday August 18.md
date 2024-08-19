@@ -53,10 +53,23 @@
     - https://start.learnsmt.com/video-31712128986824
 
 ### Saturday (August 17) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched parts of today's news on CNA and Channel 5, and Money Mind.
+- I applied for jobs at:
+    - https://www.mycareersfuture.gov.sg/
+    - "web developer"
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=vOa8deBKBDs
+    - https://www.youtube.com/watch?v=Pfmphk_Ny1o
 
 ### Sunday (August 18) (non bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I scanned parts of the book "The Profitable Investor".
+- I watched today's news on CNA and Channel 5, including the National Day Rally.
+- I sorted my Yahoo emails.
 
 
 
