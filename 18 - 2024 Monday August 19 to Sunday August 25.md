@@ -2,7 +2,16 @@
 - I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
 - I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
 - I read parts of this week's compiled Straits Times and Business Times.
-
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=7PMUVqtXS0A
+    - https://www.youtube.com/watch?v=t4EJQPWjFj8
+    - https://www.youtube.com/watch?v=_CO3fCxB0DU
+    - https://www.youtube.com/watch?v=6g5SQ9C2PkE
+    - https://www.youtube.com/watch?v=He-zEGSwm_s
+    - https://www.youtube.com/watch?v=Zhi_QL7pPLA
+    - https://www.youtube.com/watch?v=fXI5y3o3-yc
+- I watched today's news on Channel 5 and CNA.
+- I read parts of the scanned book "The Predictive Edge".
 
 ### Tuesday (August 20) (non bowels moving day, slept after 11pm)
 
