@@ -14,7 +14,16 @@
 - I read parts of the scanned book "The Predictive Edge".
 
 ### Tuesday (August 20) (non bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I read parts of the scanned book "The Predictive Edge".
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=xgT4c1HdCmY
+    - https://www.youtube.com/watch?v=9pV0tDNwCdU
+    - https://www.youtube.com/watch?v=a6MLQmY0h2s
+    - https://www.youtube.com/watch?v=xK86-N2MnLU
 
 ### Wednesday (August 21) (bowels moving day, slept after 11pm)
 
