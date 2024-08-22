@@ -19,6 +19,7 @@
 - I read parts of this week's compiled Straits Times and Business Times.
 - I read parts of the scanned book "The Predictive Edge".
 - I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
 - I watched parts of these videos:
     - https://www.youtube.com/watch?v=xgT4c1HdCmY
     - https://www.youtube.com/watch?v=9pV0tDNwCdU
@@ -26,10 +27,27 @@
     - https://www.youtube.com/watch?v=xK86-N2MnLU
 
 ### Wednesday (August 21) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I briefly read parts of last week's The Economist, and compiled them.
+- I read parts of the scanned book "The Predictive Edge".
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=yGsXv15X3n8
+    - https://www.youtube.com/watch?v=08qjn26EwZw
+- I sorted my Yahoo emails.
 
 ### Thursday (August 22) (non bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I read parts of this week's compiled The Economist.
+- I watched today's news on Channel 5 and CNA, and Talking Point.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=Sus8d4Ardyk
+    - https://www.youtube.com/watch?v=XgNWtcuvD74
 
 ### Friday (August 23) (bowels moving day, slept after 11pm)
 
@@ -55,7 +73,7 @@
 - Review selected books for further readings.
 
 # Upcoming Medical Appointments
-- Wednesday 28 August 2024 03.45pm Rehabilitative Services
+- Wednesday 28 August 2024 3.45pm Rehabilitative Services
 - Friday 30 August 2024 9.40am 4E - CGH-NNI Spine Centre
 - Monday 2 September 2024 10.30am Medical Social Services @ IB
 - Thursday 5 September 2024 9.30am 4E - CGH-NNI Spine Centre
