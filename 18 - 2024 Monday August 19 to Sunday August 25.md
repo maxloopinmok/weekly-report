@@ -62,12 +62,28 @@
 - I downloaded some e-books.
 
 ### Saturday (August 24) (non bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA, and Money Mind.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=0m8E3el69S0
+    - https://www.youtube.com/watch?v=Bz-UbxiKre4
+    - https://www.youtube.com/watch?v=Rg4nVOC0BWc
+    - https://www.youtube.com/watch?v=r0mFqJ8VAIA
 
 ### Sunday (August 25) (bowels moving day, slept after 11pm)
-
-
-
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I scanned the book "The Complete Value Investing Guide That Works".
+- I read parts of the scanned book "The Predictive Edge".
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=ObDrrPx2P24
+    - https://www.youtube.com/watch?v=o1iZ4QOveLk
+    - https://www.youtube.com/watch?v=pIZc3gQlE3k
+    - https://www.youtube.com/watch?v=TWvIvHIlwQg
+    - https://www.youtube.com/watch?v=b4JpYF2TrZs
+    - https://www.youtube.com/watch?v=SXto_NiKRHg
 
 ## Routines
 - I do note taking, and/or tasks recording and planning.
