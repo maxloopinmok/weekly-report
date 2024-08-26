@@ -1,5 +1,12 @@
 ### Monday (August 26) (non bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I read parts of the e-book "The World of Work to 2030".
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of this video:
+    - https://www.youtube.com/watch?v=V_w7znC8u5s
+- I sorted my Yahoo emails.
 
 ### Tuesday (August 27) (bowels moving day, slept after 11pm)
 
@@ -30,10 +37,10 @@
 - I read parts of last week's compiled Business Times or Straits Times.
 - I watched today's news on CNA.
 
-# Upcoming Schedule
-
 # Tasks to do:
 - Review selected books for further readings.
+
+# Upcoming Schedule
 
 # Upcoming Medical Appointments
 - Monday 2 September 2024 10.30am Medical Social Services @ IB
