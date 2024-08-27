@@ -7,9 +7,19 @@
 - I watched parts of this video:
     - https://www.youtube.com/watch?v=V_w7znC8u5s
 - I sorted my Yahoo emails.
+- I sorted my Gmail emails.
+- I paid my SingTel bill, and troubleshoot the SingTel connection.
 
 ### Tuesday (August 27) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I read parts of the scanned book "The Complete Value Investing Guide That Works".
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of this video:
+    - https://www.youtube.com/watch?v=vwMmT00y4uU
+    - https://www.youtube.com/watch?v=GDGTk4mnxTM
+- I sorted my Yahoo emails.
 
 ### Wednesday (August 28) (non bowels moving day, slept after 11pm)
 - Wednesday 28 August 2024 3.45pm Rehabilitative Services
