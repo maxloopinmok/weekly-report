@@ -22,11 +22,29 @@
 - I sorted my Yahoo emails.
 
 ### Wednesday (August 28) (non bowels moving day, slept after 11pm)
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=dOqEK7Zl42Q
+    - https://www.youtube.com/watch?v=KgzfxSQ94Qk
+    - https://www.youtube.com/watch?v=foHjSo0kswU
 - Wednesday 28 August 2024 3.45pm Rehabilitative Services
-
+- I read parts of the scanned book "The Complete Value Investing Guide That Works".
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
 
 ### Thursday (August 29) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I read parts of the scanned book "The Complete Value Investing Guide That Works".
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=XFrj0lCODzY
+    - https://www.youtube.com/watch?v=IEwUPUxCIvA
+    - https://www.youtube.com/watch?v=NC5NZPrxbHk
 
 ### Friday (August 30) (non bowels moving day, slept after 11pm)
 - Friday 30 August 2024 9.40am 4E - CGH-NNI Spine Centre
