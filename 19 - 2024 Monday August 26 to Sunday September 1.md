@@ -48,7 +48,12 @@
 
 ### Friday (August 30) (non bowels moving day, slept after 11pm)
 - Friday 30 August 2024 9.40am 4E - CGH-NNI Spine Centre
-
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I read parts of the scanned book "The Complete Value Investing Guide That Works".
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
 
 ### Saturday (August 31) (bowels moving day, slept after 11pm)
 
