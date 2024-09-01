@@ -53,13 +53,38 @@
 - I read parts of this week's compiled Straits Times and Business Times.
 - I read parts of the scanned book "The Complete Value Investing Guide That Works".
 - I watched today's news on Channel 5 and CNA.
+- I briefly completed 3 Udemy courses.
 - I sorted my Yahoo emails.
 
 ### Saturday (August 31) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I submitted the claim for my 3 Udemy courses with SFC.
+- I listened briefly to last Sunday's sermons from Riverlife and SACC.
+    - https://www.riverlife.org.sg/sermons/anniversary-thanksgiving-service
+    - https://www.youtube.com/watch?v=D7uk_JmWDqM
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA, and Money Mind.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=wDUhZ7xj4Dk
+    - https://www.youtube.com/watch?v=iw-k5N3CHjo
+    - https://www.youtube.com/watch?v=BSHXAfv380w
+    - https://www.youtube.com/watch?v=z5lD3i-6Eng
+    - https://www.youtube.com/watch?v=OFpOOy2vAXc
+    - https://www.youtube.com/watch?v=dbmrMq9yi48
+    - https://www.youtube.com/watch?v=_TYuTid9a6k
 
 ### Sunday (September 1) (non bowels moving day, slept after 11pm)
-
+- I read parts of "Chapter 11: Finding a Right Price for a Stock Using Discounted Cash Flow" of the book "Fundamental Analysis for Dummies".
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I sorted my Yahoo emails.
+- I watched parts of today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=mXxMiOPsyjY
+    - https://www.youtube.com/watch?v=F0wJofBFWLI
+    - https://www.youtube.com/watch?v=RC_KUakUgoc
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg
+    - "web developer"
 
 
 
