@@ -1,6 +1,13 @@
 ### Monday (September 2) (bowels moving day, slept after 11pm)
 - Monday 2 September 2024 10.30am Medical Social Services @ IB
-
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=hqr8h1ZRY6Q
+    - https://www.youtube.com/watch?v=FXc9vbehUg0
 
 ### Tuesday (September 3) (non bowels moving day, slept after 11pm)
 
