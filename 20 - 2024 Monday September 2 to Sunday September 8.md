@@ -26,6 +26,7 @@
 
 ### Thursday (September 5) (non bowels moving day, slept after 11pm)
 - Thursday 5 September 2024 9.30am 4E - CGH-NNI Spine Centre
+- Thursday 5 September 2024 12pm-1pm Lifelong Learning Institute Careers Connect
 
 
 ### Friday (September 6) (bowels moving day, slept after 11pm)
