@@ -10,7 +10,16 @@
     - https://www.youtube.com/watch?v=FXc9vbehUg0
 
 ### Tuesday (September 3) (non bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=mSuVCVhtqFo
+    - https://www.youtube.com/watch?v=oidfHpomBkc
+    - https://www.youtube.com/watch?v=OnefoVQMuZQ
+    - https://www.youtube.com/watch?v=fXI5y3o3-yc
 
 ### Wednesday (September 4) (bowels moving day, slept after 11pm)
 
