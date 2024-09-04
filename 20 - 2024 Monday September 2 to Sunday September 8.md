@@ -22,11 +22,18 @@
     - https://www.youtube.com/watch?v=fXI5y3o3-yc
 
 ### Wednesday (September 4) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=dUophknB0pA
+    - https://www.youtube.com/watch?v=KJX6e9wI4ac
+- I watched today's news on Channel 5 and CNA.
 
 ### Thursday (September 5) (non bowels moving day, slept after 11pm)
 - Thursday 5 September 2024 9.30am 4E - CGH-NNI Spine Centre
-- Thursday 5 September 2024 12pm-1pm Lifelong Learning Institute Careers Connect
+- Thursday 5 September 2024 12pm-1pm Paya Lebar Lifelong Learning Institute Careers Connect
 
 
 ### Friday (September 6) (bowels moving day, slept after 11pm)
@@ -51,6 +58,7 @@
 - Review selected books for further readings.
 
 # Upcoming Schedule
+- Monday 16 September 2024 1.30pm CGH - SPD Brenden
 
 # Upcoming Medical Appointments
 - Monday 16 September 2024 2.10pm CGH 2B - ENT
