@@ -34,7 +34,15 @@
 ### Thursday (September 5) (non bowels moving day, slept after 11pm)
 - Thursday 5 September 2024 9.30am 4E - CGH-NNI Spine Centre
 - Thursday 5 September 2024 12pm-1pm Paya Lebar Lifelong Learning Institute Careers Connect
-
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=45rouvDVxcs
+    - https://www.youtube.com/watch?v=SLjhOfUTbvw
+    - https://www.youtube.com/watch?v=QCcJtTBvSKk
+- I sorted my Yahoo emails.
 
 ### Friday (September 6) (bowels moving day, slept after 11pm)
 
