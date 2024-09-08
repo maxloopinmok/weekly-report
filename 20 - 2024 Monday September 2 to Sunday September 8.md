@@ -57,10 +57,37 @@
 - I read a past collection of REITS news articles.
 
 ### Saturday (September 7) (non bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I visited the Kinokuniya bookstore.
+- I read parts of the book "The World of Work to 2030".
+- I watched today's news on Channel 5 and CNA, and Money Mind.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=L6MSU2lOuik
+    - https://www.youtube.com/watch?v=VygpwPpx2YE
+    - https://www.youtube.com/watch?v=FPJ8ED1YhxY
+    - https://www.youtube.com/watch?v=PBjUT9BKoAY
+    - https://www.youtube.com/watch?v=8lV8dE552M4
+    - https://www.youtube.com/watch?v=XZ7hoNwKobg
+    - https://www.youtube.com/watch?v=EoioWvnK9zU
+    - https://www.youtube.com/watch?v=EGKZrC4xnQQ
+    - https://www.youtube.com/watch?v=WneT0O04MkM
+    - https://www.youtube.com/watch?v=QQfJ2--1H34
+    - https://www.youtube.com/watch?v=apyfgXMR_so
 
 ### Sunday (September 8) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I downloaded some ebooks.
+- I read parts of the book "The World of Work to 2030".
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=FwtbXklEItc
+    - https://www.youtube.com/watch?v=Eqd0BTAS8_8
+    - https://www.youtube.com/watch?v=DEmwOcKiUU8
+- I briefly read parts of the past three weeks The Economist and compiled them.
 
 
 
