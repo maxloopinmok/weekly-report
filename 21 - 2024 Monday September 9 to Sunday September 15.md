@@ -1,14 +1,32 @@
 ### Monday (September 9) (bowels moving day, slept after 11pm)
-- Monday 2 September 2024 10.30am Medical Social Services @ IB
 - I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
 - I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
 - I read parts of this week's compiled Straits Times and Business Times.
 - I watched today's news on Channel 5 and CNA.
 - I sorted my Yahoo emails.
 - I sorted my medical appointments.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=ikkzsq5OCX8
+    - https://www.youtube.com/watch?v=w8S-SjeLiP8
+    - https://www.youtube.com/watch?v=48AdJgTYSFQ
+    - https://www.youtube.com/watch?v=cg3tg-BfLIs
+    - https://www.youtube.com/watch?v=6pOu604HbiM
+    - https://www.youtube.com/watch?v=CIrQdepL7GY
+    - https://www.youtube.com/watch?v=FEJaYqquDDk
 
 ### Tuesday (September 10) (non bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA, and:
+    - https://www.channelnewsasia.com/watch/adjournment-motion-reimagining-future-education-4596441
+- I sorted my Yahoo emails.
+- I submitted my SFC claim application.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=aR3ZsnqfQ6k
+    - https://www.youtube.com/watch?v=Alzjn_0ne1Y
+    - https://www.youtube.com/watch?v=Yzr1rlnZb0c
+    - https://www.youtube.com/watch?v=pmN23S8GmWk
 
 ### Wednesday (September 11) (bowels moving day, slept after 11pm)
 
