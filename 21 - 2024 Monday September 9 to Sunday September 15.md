@@ -29,10 +29,26 @@
     - https://www.youtube.com/watch?v=pmN23S8GmWk
 
 ### Wednesday (September 11) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=Agwp87B-n1Q
+    - https://www.youtube.com/watch?v=hkH-cfbzDeE
+    - https://www.youtube.com/watch?v=qRpOfKGbapk
+    - https://www.youtube.com/watch?v=WMcNqiFFzPY
+- I watched today's news on CNA.
+- I sorted my Yahoo emails.
 
 ### Thursday (September 12) (non bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA, and Talking Point.
+- I briefly read and used Claude AI to process parts of Chapters 12 and 17 of the book "Artificial Intelligence in Forecasting", and began testing in code.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=ANt0AQItZOs
 
 ### Friday (September 13) (bowels moving day, slept after 11pm)
 
