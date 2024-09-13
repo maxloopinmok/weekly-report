@@ -51,7 +51,17 @@
     - https://www.youtube.com/watch?v=ANt0AQItZOs
 
 ### Friday (September 13) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+- I tested and updated with the help of Claude AI:
+    - https://github.com/maxloosmu/predict
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=2mbM1wHwQhk
+    - https://www.youtube.com/watch?v=i4gzkye65LU
+    - https://www.youtube.com/watch?v=u0-uskWHw0Y
 
 ### Saturday (September 14) (non bowels moving day, slept after 11pm)
 
