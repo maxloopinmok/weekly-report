@@ -1,6 +1,17 @@
 ### Monday (September 16) (non bowels moving day, slept after 11pm)
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I updated:
+    - https://github.com/maxloosmu/predict
 - Monday 16 September 2024 2.10pm CGH 2B - ENT
-
+- I obtained a list of books to download from Kinokuniya.
+- I briefly read parts of the book "Ben Graham Was a Quant: Raising the IQ of the Intelligent Investor".
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA.
+- I read parts of these videos:
+    - https://www.youtube.com/watch?v=TeB7RwfaVH0
+    - https://www.youtube.com/watch?v=ucfaq2HtR4w
 
 ### Tuesday (September 17) (bowels moving day, slept after 11pm)
 
