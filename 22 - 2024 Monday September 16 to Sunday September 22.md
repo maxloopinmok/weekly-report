@@ -9,7 +9,7 @@
 - I briefly read parts of the book "Ben Graham Was a Quant: Raising the IQ of the Intelligent Investor".
 - I sorted my Yahoo emails.
 - I watched today's news on Channel 5 and CNA.
-- I read parts of these videos:
+- I watched parts of these videos:
     - https://www.youtube.com/watch?v=TeB7RwfaVH0
     - https://www.youtube.com/watch?v=ucfaq2HtR4w
 
@@ -19,7 +19,7 @@
 - I read parts of this week's compiled Straits Times and Business Times.
 - I sorted my Yahoo emails.
 - I watched today's news on Channel 5 and CNA.
-- I read parts of these videos:
+- I watched parts of these videos:
     - https://www.youtube.com/watch?v=zPFkUc0V5i4
     - https://www.youtube.com/watch?v=b7GJ45oKQww
     - https://www.youtube.com/watch?v=8WGQtHBikd0
@@ -27,10 +27,31 @@
     - https://www.youtube.com/watch?v=fYtQTQHozi0
 
 ### Wednesday (September 18) (non bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=X4IJZeBGmq8
+    - https://www.youtube.com/watch?v=0G-nRmxxOQA
+    - https://www.youtube.com/watch?v=WnyegI9EAF8
+- I downloaded some e-books.
 
 ### Thursday (September 19) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I briefly read parts of the book "Ben Graham Was a Quant: Raising the IQ of the Intelligent Investor".
+- I watched today's news on Channel 5 and CNA, and Talking Point.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=U8JmFRg5bLA
+    - https://www.youtube.com/watch?v=-1tPBqnEN5Y
+    - https://www.youtube.com/watch?v=KKF7kL0pGc4
+    - https://www.youtube.com/watch?v=1q20FmYR-7k
+    - https://www.youtube.com/watch?v=F_L9uhbIzK8
+    - https://www.youtube.com/watch?v=U_dvdcyZtNQ
 
 ### Friday (September 20) (non bowels moving day, slept after 11pm)
 
