@@ -54,7 +54,20 @@
     - https://www.youtube.com/watch?v=U_dvdcyZtNQ
 
 ### Friday (September 20) (non bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I updated:
+    - https://github.com/maxloosmu/predict
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=hJHfZ1PpBnY
+    - https://www.youtube.com/watch?v=-6ncIlHToaM
+    - https://www.youtube.com/watch?v=vPCsongcc94
+    - https://www.youtube.com/watch?v=tG064wgLTqc
+    - https://www.youtube.com/watch?v=-NstMjghRX0
+    - https://www.youtube.com/watch?v=xZDDD2sF_M8
 
 ### Saturday (September 21) (bowels moving day, slept after 11pm)
 
@@ -67,11 +80,12 @@
 - I do note taking, and/or tasks recording and planning.
 - I sorted my emails.
 - I briefly read parts of today's Straits Times and Business Times, and compiled them.
-- I read parts of last week's compiled Business Times or Straits Times.
-- I watched today's news on CNA.
+- I read parts of this week's compiled Business Times or Straits Times.
+- I watched today's news on CNA and Channel 5.
 
 # Tasks to do:
 - Review selected books for further readings.
+- Use ChatGPT for jobs recommendation.
 
 # Upcoming Schedule
 
