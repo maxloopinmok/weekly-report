@@ -70,9 +70,27 @@
     - https://www.youtube.com/watch?v=xZDDD2sF_M8
 
 ### Saturday (September 21) (bowels moving day, slept after 11pm)
-
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I updated:
+    - https://github.com/maxloosmu/predict
+- I watched today's news on Channel 5 and CNA, and Money Mind.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=9-vio5HjHms
+    - https://www.youtube.com/watch?v=5eBXlQy1EqM
 
 ### Sunday (September 22) (non bowels moving day, slept after 11pm)
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times.
+- I briefly read parts of this week's The Economist and compiled them.
+- I read parts of this week's compiled The Economist.
+- I watched parts of today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=T301T6H9l34
+    - https://www.youtube.com/watch?v=hFjAwTeZ60Y
+    - https://www.youtube.com/watch?v=KyOWTEwiRtk
+    - https://www.youtube.com/watch?v=pybd_1CsXJY
 
 
 
