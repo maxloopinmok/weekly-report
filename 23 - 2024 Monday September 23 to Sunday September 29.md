@@ -11,7 +11,21 @@
     - https://www.youtube.com/watch?v=-fnA-z8o5d8
 
 ### Tuesday (September 24) (non bowels moving day, slept after 11pm)
-
+- I updated:
+    - https://github.com/maxloosmu/predict
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=evDI1a6E8JY
+    - https://www.youtube.com/watch?v=_uMIt3GPcOQ
+    - https://www.youtube.com/watch?v=0eXf8rEHZME
+    - https://www.youtube.com/watch?v=ynypYCVDcQ8
+    - https://www.youtube.com/watch?v=KAvxp7Nb-YQ
+    - https://www.youtube.com/watch?v=vGTmE7GyQwc
+    - https://www.youtube.com/watch?v=GT7CKkrdvgs
 
 ### Wednesday (September 25) (bowels moving day, slept after 11pm)
 
