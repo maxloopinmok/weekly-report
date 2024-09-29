@@ -89,10 +89,41 @@
     - "web developer"
 
 ### Saturday (September 28) (non bowels moving day, slept after 11pm)
-
+- I updated:
+    - https://github.com/maxloosmu/predict
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I briefly read parts of this week's The Economist and compiled them.
+- I watched today's news on Channel 5 and CNA, and Money Mind.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=xRU3bYOelJs
+    - https://www.youtube.com/watch?v=ZTD9sQRwkbs
+    - https://www.youtube.com/watch?v=zZ_lZVVOMaw
+    - https://www.youtube.com/watch?v=2BrS_rMia00
+    - https://www.youtube.com/watch?v=fJgubyFa73w
+    - https://www.youtube.com/watch?v=VzohcUxl-QI
 
 ### Sunday (September 29) (bowels moving day, slept after 11pm)
-
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I updated:
+    - https://github.com/maxloosmu/predict
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I read parts of this week's compiled Straits Times.
+- I read parts of this week's compiled The Economist.
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=JAOnt2o-u-4
+    - https://www.youtube.com/watch?v=ydPVL0HGpJ4
+    - https://www.youtube.com/watch?v=aUjcEaygThI
+    - https://www.youtube.com/watch?v=t_5xsWph3z0
+    - https://www.youtube.com/watch?v=84e1cvjtzI4
+    - https://www.youtube.com/watch?v=oO_eNy7t4r4
+    - https://www.youtube.com/watch?v=heQsQ9bSafg
+    - https://www.youtube.com/watch?v=xPBowiWBiXk
+    - https://www.youtube.com/watch?v=pq_KqYKey5Q
+    - https://www.youtube.com/watch?v=0DjMt0QeV4U
 
 
 
