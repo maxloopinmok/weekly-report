@@ -1,23 +1,36 @@
-### Monday (September 30) (bowels moving day, slept after 11pm)
+### Monday (September 30) (bowels, slept after 11pm)
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I updated:
+    - https://github.com/maxloosmu/predict
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=gTSFBFmRJVs
+    - https://www.youtube.com/watch?v=JoFICKSeGvY
+    - https://www.youtube.com/watch?v=fY9T8iYHwuQ
+    - https://www.youtube.com/watch?v=SMnBnGQqlR4
+    - https://www.youtube.com/watch?v=_hOCIzNk9cA
+    - https://www.youtube.com/watch?v=OUYY_5D7c2I
 
-
-### Tuesday (October 1) (non bowels moving day, slept after 11pm)
+### Tuesday (October 1) (non bowels, slept after 11pm)
 - Tuesday 1 October 2024 11.45am Rehabilitative Services
 
 
-### Wednesday (October 2) (bowels moving day, slept after 11pm)
+### Wednesday (October 2) (bowels, slept after 11pm)
 
 
-### Thursday (October 3) (non bowels moving day, slept after 11pm)
+### Thursday (October 3) (non bowels, slept after 11pm)
 
 
-### Friday (October 4) (bowels moving day, slept after 11pm)
+### Friday (October 4) (bowels, slept after 11pm)
 
 
-### Saturday (October 5) (non bowels moving day, slept after 11pm)
+### Saturday (October 5) (non bowels, slept after 11pm)
 
 
-### Sunday (October 6) (bowels moving day, slept after 11pm)
+### Sunday (October 6) (bowels, slept after 11pm)
 
 
 
