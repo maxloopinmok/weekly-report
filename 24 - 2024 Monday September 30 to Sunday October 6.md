@@ -14,9 +14,20 @@
     - https://www.youtube.com/watch?v=_hOCIzNk9cA
     - https://www.youtube.com/watch?v=OUYY_5D7c2I
 
-### Tuesday (October 1) (non bowels, slept after 11pm)
+### Tuesday (October 1) (shave, nails, slept after 11pm)
 - Tuesday 1 October 2024 11.45am Rehabilitative Services
-
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I updated:
+    - https://github.com/maxloosmu/predict
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=mKYbEk-kAsA
+    - https://www.youtube.com/watch?v=ejVMXu-u1hs
+    - https://www.youtube.com/watch?v=cPVGs0_fu1U
+    - https://www.youtube.com/watch?v=gxRc1MXQ9wY
 
 ### Wednesday (October 2) (bowels, slept after 11pm)
 
