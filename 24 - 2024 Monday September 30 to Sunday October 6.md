@@ -29,16 +29,32 @@
     - https://www.youtube.com/watch?v=cPVGs0_fu1U
     - https://www.youtube.com/watch?v=gxRc1MXQ9wY
 
-### Wednesday (October 2) (bowels, slept after 11pm)
+### Wednesday (October 2) (bowels, aircon, remote, slept after 11pm)
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA, On The Pulse, and CNA Correspondent.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=40sxm_CLYn4
+    - https://www.youtube.com/watch?v=K5pbPZse0oI
+    - https://www.youtube.com/watch?v=HhVg1xhjtj0
+    - https://www.youtube.com/watch?v=PGd06JgzsIc
+    - https://www.youtube.com/watch?v=CJPJLzbpSK8
 
-
-### Thursday (October 3) (non bowels, slept after 11pm)
-
+### Thursday (October 3) (slept after 11pm)
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo and Gmail emails.
+- I watched today's news on CNA, and Talking Point.
+- I updated:
+    - https://github.com/maxloosmu/predict
 
 ### Friday (October 4) (bowels, slept after 11pm)
 
 
-### Saturday (October 5) (non bowels, slept after 11pm)
+### Saturday (October 5) (slept after 11pm)
 
 
 ### Sunday (October 6) (bowels, slept after 11pm)
