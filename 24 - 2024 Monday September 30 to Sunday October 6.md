@@ -47,12 +47,21 @@
 - I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
 - I read parts of this week's compiled Straits Times and Business Times.
 - I sorted my Yahoo and Gmail emails.
-- I watched today's news on CNA, and Talking Point.
+- I watched today's news on CNA and Channel 5, and Talking Point.
 - I updated:
     - https://github.com/maxloosmu/predict
 
 ### Friday (October 4) (bowels, slept after 11pm)
-
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched today's news on CNA and Channel 5.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=qaJJh8oTQtc
+    - https://www.youtube.com/watch?v=nOijnhuqL38
+- I updated:
+    - https://github.com/maxloosmu/predict
 
 ### Saturday (October 5) (slept after 11pm)
 
