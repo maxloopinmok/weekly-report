@@ -46,7 +46,16 @@
     - https://github.com/maxloosmu/predict
 
 ### Friday (October 11) (slept after 11pm)
-
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - "web developer", "work from home"
+- I watched today's news on Channel 5 and CNA.
+- I updated:
+    - https://github.com/maxloosmu/predict
+- I sorted my Yahoo emails.
 
 ### Saturday (October 12) (bowels, slept after 11pm)
 
