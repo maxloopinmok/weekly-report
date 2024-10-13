@@ -37,7 +37,7 @@
 - I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
 - I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
 - I read parts of this week's compiled Straits Times and Business Times.
-- I watched today's news on Channel 5 and CNA.
+- I watched today's news on Channel 5 and CNA, and Talking Point.
 - I watched parts of these videos:
     - https://www.youtube.com/watch?v=MNBa1RW0k_0
     - https://www.youtube.com/watch?v=MTK3wpzAPwY
@@ -45,7 +45,7 @@
 - I updated:
     - https://github.com/maxloosmu/predict
 
-### Friday (October 11) (slept after 11pm)
+### Friday (October 11) (barber, shave, nose, slept after 11pm)
 - I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
 - I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
 - I read parts of this week's compiled Straits Times and Business Times.
@@ -58,10 +58,34 @@
 - I sorted my Yahoo emails.
 
 ### Saturday (October 12) (bowels, slept after 11pm)
-
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA, and Money Mind.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=R5QTy1tHlhM
+    - https://www.youtube.com/watch?v=bpPWFtee3Kk
+    - https://www.youtube.com/watch?v=vsgA9rCce7I
+    - https://www.youtube.com/watch?v=tTG_a0KPJAc
+    - https://www.youtube.com/watch?v=GgOtFMyeMHs
 
 ### Sunday (October 13) (slept after 11pm)
-
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I spent 3 to 4 hours travelling between Tampines and Pasir Ris: 
+    - lunch, dinner, buy card holder
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=O-xt6BYRiJg
+    - https://www.youtube.com/watch?v=k5rgulp55tE
+    - https://www.youtube.com/watch?v=rqCe1VJ3FcA
+    - https://www.youtube.com/watch?v=WsvKPdctEu4
+    - https://www.youtube.com/watch?v=iWbgFgHgaT4
+    - https://www.youtube.com/watch?v=gAyir921HyE
+    - https://www.youtube.com/watch?v=XZDvvvNnIOw
+- I read parts of this week's The Economist.
+- I sorted my Yahoo emails.
 
 
 
