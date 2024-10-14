@@ -1,5 +1,14 @@
 ### Monday (October 14) (bowels, slept after 11pm)
-
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=O8GQyncW7GY
+    - https://www.youtube.com/watch?v=h6e0QjWG55U
+- I briefly read:
+    - https://darioamodei.com/machines-of-loving-grace
 
 ### Tuesday (October 15) (slept after 11pm)
 
