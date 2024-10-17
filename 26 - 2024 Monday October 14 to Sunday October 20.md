@@ -11,7 +11,7 @@
 - I briefly read:
     - https://darioamodei.com/machines-of-loving-grace
 
-### Tuesday (October 15) (slept after 11pm)
+### Tuesday (October 15) (nails, slept after 11pm)
 - I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
 - I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
 - I read parts of this week's compiled Straits Times and Business Times.
@@ -23,12 +23,32 @@
     - https://www.youtube.com/watch?v=CyOL_4K2Nyo
     - https://www.youtube.com/watch?v=9k1SRQaAyC8
     - https://www.youtube.com/watch?v=2oIoPx_LlPs
+- I briefly read parts of:
+    - https://www.stateof.ai/
 
-### Wednesday (October 16) (bowels, slept after 11pm)
-
+### Wednesday (October 16) (bowels, shave, slept after 11pm)
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=7Ni-urCpt-c
+    - https://www.youtube.com/watch?v=rxWi9-To8Qs
+    - https://www.youtube.com/watch?v=iTSK1428De8
+    - https://www.youtube.com/watch?v=waI6xJXfYJ4
+    - https://www.youtube.com/watch?v=Q4gKAWyq15A
 
 ### Thursday (October 17) (slept after 11pm)
-
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=dK-KizVRn4c
+    - https://www.youtube.com/watch?v=99f-zxeuSTs
+    - https://www.youtube.com/watch?v=AnrZktFfbUI
 
 ### Friday (October 18) (bowels, slept after 11pm)
 
