@@ -56,17 +56,32 @@
 - I read parts of this week's compiled Straits Times and Business Times.
 - I watched today's news on Channel 5 and CNA.
 - I sorted my Yahoo emails.
-- I did a few tasks:
+- I did a number of tasks:
     - https://qorenext-app.azurewebsites.net/login
 - I watched parts of these videos:
     - https://www.youtube.com/watch?v=HnpDxjxrIc0
     - https://www.youtube.com/watch?v=jbIQfoldLag
 
 ### Saturday (October 19) (slept after 11pm)
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I briefly read parts of this week's The Economist.
+- I watched today's news on Channel 5 and CNA, and Money Mind.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=613OQ4hJic4
+    - https://www.youtube.com/watch?v=wOD4DwGzMV8
+    - https://www.youtube.com/watch?v=mX3FriUX9aA
+    - https://www.youtube.com/watch?v=GTJlUs61s1U
 
-
-### Sunday (October 20) (bowels, slept after 11pm)
-
+### Sunday (October 20) (bowels, FBtoothbrush, slept after 11pm)
+- I briefly read parts of today Sunday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=xvnlHzvlsGo
+    - https://www.youtube.com/watch?v=2VSsfINqZf0
+    - https://www.youtube.com/watch?v=QsmY4RpHXjY
 
 
 
