@@ -1,5 +1,14 @@
 ### Monday (October 21) (shave, slept after 11pm)
-
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=IAcmXplu5qs
+    - https://www.youtube.com/watch?v=9cPcwmOZwOo
+    - https://www.youtube.com/watch?v=doyiAJWnFw0
+    - https://www.youtube.com/watch?v=K3XAYZAtd-I
 
 ### Tuesday (October 22) (bowels, slept after 11pm)
 
