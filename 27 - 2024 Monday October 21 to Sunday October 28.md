@@ -21,10 +21,28 @@
     - https://www.youtube.com/watch?v=rVjANY9UC9s
 
 ### Wednesday (October 23) (slept after 11pm)
-
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I consulted a doctor at Pasir Ris Polyclinic.
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=eAvlnQRRbXE
+    - https://www.youtube.com/watch?v=3jUd5OllC8M
+    - https://www.youtube.com/watch?v=pJFBEB3Fx64
+    - https://www.youtube.com/watch?v=-z5tdvtfG1g
 
 ### Thursday (October 24) (bowels, slept after 11pm)
-
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA, and Talking Point.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=dnUkkVMngsg
+    - https://www.youtube.com/watch?v=FsFvDHSgG_s
+    - https://www.youtube.com/watch?v=KngdLKv9RAc
+- I briefly read parts of:
+    - https://milesbrundage.substack.com/p/why-im-leaving-openai-and-what-im
 
 ### Friday (October 25) (slept after 11pm)
 
