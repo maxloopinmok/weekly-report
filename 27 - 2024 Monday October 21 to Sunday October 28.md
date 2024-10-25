@@ -21,7 +21,7 @@
     - https://www.youtube.com/watch?v=rVjANY9UC9s
 
 ### Wednesday (October 23) (slept after 11pm)
-- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
 - I read parts of this week's compiled Straits Times and Business Times.
 - I consulted a doctor at Pasir Ris Polyclinic.
 - I sorted my Yahoo emails.
@@ -33,7 +33,7 @@
     - https://www.youtube.com/watch?v=-z5tdvtfG1g
 
 ### Thursday (October 24) (bowels, slept after 11pm)
-- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
 - I read parts of this week's compiled Straits Times and Business Times.
 - I sorted my Yahoo emails.
 - I watched today's news on Channel 5 and CNA, and Talking Point.
@@ -44,8 +44,20 @@
 - I briefly read parts of:
     - https://milesbrundage.substack.com/p/why-im-leaving-openai-and-what-im
 
-### Friday (October 25) (slept after 11pm)
-
+### Friday (October 25) (shave, slept after 11pm)
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I updated:
+    - https://github.com/maxloosmu/predict
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=N3L-n393YDI
+    - https://www.youtube.com/watch?v=OiFwWHAVuJg
+    - https://www.youtube.com/watch?v=ZacDQRqP_kA
+    - https://www.youtube.com/watch?v=UJQeLLR9WOQ
+    - https://www.youtube.com/watch?v=aN-IbSyIw7Q
 
 ### Saturday (October 26) (bowels, slept after 11pm)
 
