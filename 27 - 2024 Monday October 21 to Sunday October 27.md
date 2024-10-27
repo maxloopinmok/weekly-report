@@ -44,7 +44,7 @@
 - I briefly read parts of:
     - https://milesbrundage.substack.com/p/why-im-leaving-openai-and-what-im
 
-### Friday (October 25) (shave, slept after 11pm)
+### Friday (October 25) (slept after 11pm)
 - I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
 - I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
 - I read parts of this week's compiled Straits Times and Business Times.
@@ -59,13 +59,32 @@
     - https://www.youtube.com/watch?v=UJQeLLR9WOQ
     - https://www.youtube.com/watch?v=aN-IbSyIw7Q
 
-### Saturday (October 26) (bowels, slept after 11pm)
+### Saturday (October 26) (bowels, shave, slept after 11pm)
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA, and Money Mind.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=q2F4mgy3vhQ
+    - https://www.youtube.com/watch?v=qpcK0T7PBdk
+    - https://www.youtube.com/watch?v=RySBJiJymKw
+    - https://www.youtube.com/watch?v=_1-kPcTr9rQ
 
-
-### Sunday (October 27) (slept after 11pm)
-
-
-
+### Sunday (October 27) (bowels, slept after 11pm)
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=xhCi20jbWq0
+    - https://www.youtube.com/watch?v=rwcvBAh3IRI
+    - https://www.youtube.com/watch?v=cCJFq3Ul0yI
+    - https://www.youtube.com/watch?v=hdXCT6sizYA
+    - https://www.youtube.com/watch?v=qaxqFP6e99g
+    - https://www.youtube.com/watch?v=ET_Y4E16P3c
+    - https://www.youtube.com/watch?v=1eD7ulSa2f0
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - "web developer"
 
 
 ## Routines
@@ -78,6 +97,8 @@
 # Tasks to do:
 - Review selected books for further readings.
 - Use ChatGPT for jobs recommendation.
+- I searched for e-books.
+- I searched for jobs.
 
 # Upcoming Schedule
 - Friday 1 November 2024 Dinner with DHS classmates
