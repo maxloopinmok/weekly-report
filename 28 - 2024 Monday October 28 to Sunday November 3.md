@@ -1,4 +1,4 @@
-### Monday (October 28) (waterbottle, slept after 11pm)
+### Monday (October 28) (waterbottle, bedsheet, slept after 11pm)
 - I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
 - I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
 - I read parts of this week's compiled Straits Times and Business Times.
@@ -10,8 +10,20 @@
     - https://www.youtube.com/watch?v=O-Pijae02oE
     - https://www.youtube.com/watch?v=6aS0Dlqarqo
 
-### Tuesday (October 29) (bowels, slept after 11pm)
-
+### Tuesday (October 29) (bowels, nails, slept after 11pm)
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=qo6fZrH52J8
+    - https://www.youtube.com/watch?v=13WkoB8RcJY
+    - https://www.youtube.com/watch?v=nmhjyQ5ffyE
+    - https://www.youtube.com/watch?v=m7DcS5Hocrc
+    - https://www.youtube.com/watch?v=JglZsN0HeqM
+    - https://www.youtube.com/watch?v=2HoUK9kYu4Q
+    - https://www.youtube.com/watch?v=9Qa2h1DcYKY
+    - https://www.youtube.com/watch?v=vmO7gtpTQFA
 
 ### Wednesday (October 30) (slept after 11pm)
 
