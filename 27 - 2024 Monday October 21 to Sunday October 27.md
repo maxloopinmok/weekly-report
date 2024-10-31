@@ -44,10 +44,11 @@
 - I briefly read parts of:
     - https://milesbrundage.substack.com/p/why-im-leaving-openai-and-what-im
 
-### Friday (October 25) (slept after 11pm)
+### Friday (October 25) (bedsheet, slept after 11pm)
 - I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
 - I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
 - I read parts of this week's compiled Straits Times and Business Times.
+- I consulted a doctor at Pasir Ris Polyclinic.
 - I updated:
     - https://github.com/maxloosmu/predict
 - I sorted my Yahoo emails.
