@@ -49,7 +49,16 @@
     - https://www.youtube.com/watch?v=XoR6gDpXoL0
 
 ### Friday (November 1) (slept after 11pm)
-
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails, and completed a Skills Future Credit survey.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=yy2k58th0Bc
+    - https://www.youtube.com/watch?v=RVZaE4431U8
+    - https://www.youtube.com/watch?v=SzeZ8ZYIKFY
+    - https://www.youtube.com/watch?v=eVjFee7C_hk
+    - https://www.youtube.com/watch?v=J1QDq5Ggz6s
 
 ### Saturday (November 2) (bowels, slept after 11pm)
 
