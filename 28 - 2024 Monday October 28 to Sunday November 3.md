@@ -61,10 +61,20 @@
     - https://www.youtube.com/watch?v=J1QDq5Ggz6s
 
 ### Saturday (November 2) (bowels, slept after 11pm)
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA, and Money Mind.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=5uk7pb8GTrE
+    - https://www.youtube.com/watch?v=jIhkgSN7vVU
 
-
-### Sunday (November 3) (slept after 11pm)
-
+### Sunday (November 3) (FBtoothbrush, slept after 11pm)
+- I briefly visited Kinokuniya to check the price of The Economist magazine.
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I briefly read parts of this week and last week's The Economist, and compiled them.
+- I sorted my Yahoo emails, and completed a Skills Future Credit survey.
+- I watched today's news on Channel 5 and CNA.
 
 
 
