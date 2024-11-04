@@ -1,5 +1,17 @@
 ### Monday (November 4) (bowels, slept after 11pm)
-
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=ljstxRAfVgA
+    - https://www.youtube.com/watch?v=8eo4NIwVYW8
+    - https://www.youtube.com/watch?v=CZEFrqa3FFA
+    - https://www.youtube.com/watch?v=G3xY3ub6drI
+    - https://www.youtube.com/watch?v=4veTNJ0Qgfc
+    - https://www.youtube.com/watch?v=Jvy6zBkP0sA
+    - https://www.youtube.com/watch?v=lXCZISVDycA
 
 ### Tuesday (November 5) (slept after 11pm)
 
