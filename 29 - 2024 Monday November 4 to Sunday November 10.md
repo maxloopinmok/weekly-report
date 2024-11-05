@@ -1,6 +1,5 @@
 ### Monday (November 4) (bowels, slept after 11pm)
 - I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
-- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
 - I read parts of this week's compiled Straits Times and Business Times.
 - I sorted my Yahoo emails.
 - I watched today's news on Channel 5 and CNA.
@@ -14,13 +13,28 @@
     - https://www.youtube.com/watch?v=lXCZISVDycA
 
 ### Tuesday (November 5) (slept after 11pm)
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=YKrNDLm4JQc
+    - https://www.youtube.com/watch?v=onFk3cSSECc
+    - https://www.youtube.com/watch?v=AYjnoU-fE5Q
+    - https://www.youtube.com/watch?v=wRLTfC_PMKU
+    - https://www.youtube.com/watch?v=P9YgtRHwZZM
+    - https://www.youtube.com/watch?v=3ofBREFeFJs
+    - https://www.youtube.com/watch?v=O3O-wzCfOYw
+    - https://www.youtube.com/watch?v=IifjfrUdTSc
+    - https://www.youtube.com/watch?v=h8dQ3plgUCE
+    - https://www.youtube.com/watch?v=GD_YbozFB0I
+    - https://www.youtube.com/watch?v=s1tzz8gXNzk
 
-
-### Wednesday (November 6) (bowels, slept after 11pm)
+### Wednesday (November 6) (bowels, shave, slept after 11pm)
 
 
 ### Thursday (November 7) (slept after 11pm)
-
+- I see doctor at Pasir Ris Polyclinic about last week's blood test results, my ADHD symptoms, and use of nasal spray.
 
 ### Friday (November 8) (bowels, slept after 11pm)
 
@@ -46,6 +60,7 @@
 - Use ChatGPT for jobs recommendation.
 - I searched for e-books.
 - I searched for jobs.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
 
 # Upcoming Schedule
 
