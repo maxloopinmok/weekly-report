@@ -31,10 +31,27 @@
     - https://www.youtube.com/watch?v=s1tzz8gXNzk
 
 ### Wednesday (November 6) (bowels, shave, slept after 11pm)
-
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA, and US Votes 2024.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=Ay9webRisSg
+    - https://www.youtube.com/watch?v=HQVF0Yu7X24
+    - https://www.youtube.com/watch?v=uoSvRujYDSk
 
 ### Thursday (November 7) (slept after 11pm)
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
 - I see doctor at Pasir Ris Polyclinic about last week's blood test results, my ADHD symptoms, and use of nasal spray.
+- I watched today's news on Channel 5 and CNA, Talking Point and Insight.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=ceIlHXeYVh8
+    - https://www.youtube.com/watch?v=izgJF9uJqys
+    - https://www.youtube.com/watch?v=A-t-FBA1WO0
+    - https://www.youtube.com/watch?v=a6bPt9oyoa8
+    - https://www.youtube.com/watch?v=k3AFckQLKnU
 
 ### Friday (November 8) (bowels, slept after 11pm)
 
@@ -54,13 +71,13 @@
 - I briefly read parts of today's Straits Times and Business Times, and compiled them.
 - I read parts of this week's compiled Business Times or Straits Times.
 - I watched today's news on CNA and Channel 5.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
 
 # Tasks to do:
 - Review selected books for further readings.
 - Use ChatGPT for jobs recommendation.
 - I searched for e-books.
 - I searched for jobs.
-- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
 
 # Upcoming Schedule
 
