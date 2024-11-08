@@ -41,7 +41,7 @@
     - https://www.youtube.com/watch?v=uoSvRujYDSk
 
 ### Thursday (November 7) (slept after 11pm)
-- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
 - I read parts of this week's compiled Straits Times and Business Times.
 - I see doctor at Pasir Ris Polyclinic about last week's blood test results, my ADHD symptoms, and use of nasal spray.
 - I watched today's news on Channel 5 and CNA, Talking Point and Insight.
@@ -54,7 +54,19 @@
     - https://www.youtube.com/watch?v=k3AFckQLKnU
 
 ### Friday (November 8) (bowels, slept after 11pm)
-
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=9O6a62Qqzwg
+    - https://www.youtube.com/watch?v=DAQi-OgRjBI
+    - https://www.youtube.com/watch?v=gMQushtoZcY
+    - https://www.youtube.com/watch?v=Q2jtTgsy-nQ
+    - https://www.youtube.com/watch?v=gE6nnDsh5Ck
+    - https://www.youtube.com/watch?v=9WB36_LN-q4
+    - https://www.youtube.com/watch?v=xqGEUnqB4m0
+    - https://www.youtube.com/watch?v=vdQhwK0xg7Y
 
 ### Saturday (November 9) (slept after 11pm)
 
