@@ -69,11 +69,30 @@
     - https://www.youtube.com/watch?v=vdQhwK0xg7Y
 
 ### Saturday (November 9) (slept after 11pm)
-
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I briefly read parts of this week's The Economist, and compiled them.
+- I watched today's news on Channel 5 and CNA, and Money Mind.
+- I briefly read parts of last year's Scientific American, and compiled them.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=Q_xzu46FuMk
+    - https://www.youtube.com/watch?v=DcqZLAlh9bk
+    - https://www.youtube.com/watch?v=m-b2tgJRswc
+    - https://www.youtube.com/watch?v=QT_gfGv1zYM
+    - https://www.youtube.com/watch?v=m-NiSCWd65g
+    - https://www.youtube.com/watch?v=COnWcqz6dCE
+    - https://www.youtube.com/watch?v=gNosLVgjcis
+    - https://www.youtube.com/watch?v=GPj7b2agofw
 
 ### Sunday (November 10) (bowels, slept after 11pm)
-
-
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=mofEOSUkMpA
+    - https://www.youtube.com/watch?v=FVonBLlluYg
+    - https://www.youtube.com/watch?v=mahv_T5W3nw
+    - https://www.youtube.com/watch?v=VuJbzKpbIVk
 
 
 
@@ -95,6 +114,7 @@
 
 # Upcoming Medical Appointments
 - Friday 15 November 2024 11.45am IMH Clinic B
+- Friday 13 December 2024 4pm Pasir Ris Polyclinic Flu Vaccination
 - Friday 10 January 2025 10.15am 1A - SNEC Eye Clinic @ CGH
 - Tuesday 14 January 2025 11am 3D - Digestive Diseases Centre
 - Monday 5 May 2025 3pm Pasir Ris Polyclinic: Lab (NF)
