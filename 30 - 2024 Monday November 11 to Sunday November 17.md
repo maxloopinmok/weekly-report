@@ -1,5 +1,16 @@
 ### Monday (November 11) (slept after 11pm)
-
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=ILTt1VwHLFE
+    - https://www.youtube.com/watch?v=jL-BIW5BCnw
+    - https://www.youtube.com/watch?v=eFHhGqLggNc
+    - https://www.youtube.com/watch?v=-bVRO1DwHLU
+    - https://www.youtube.com/watch?v=2CliGEWNtvg
+    - https://www.youtube.com/watch?v=oFbyolUrX2w
+- I created a summary for economic effects of Trump on SG
 
 ### Tuesday (November 12) (bowels, slept after 11pm)
 
