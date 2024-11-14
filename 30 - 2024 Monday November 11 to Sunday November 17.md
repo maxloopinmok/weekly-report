@@ -23,11 +23,30 @@
     - https://www.youtube.com/watch?v=ugvHCXCOmm4
     - https://www.youtube.com/watch?v=EuK1aa6u1Kc
 
-### Wednesday (November 13) (slept after 11pm)
-
+### Wednesday (November 13) (nose, slept after 11pm)
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=9zPOMURyqWE
+    - https://www.youtube.com/watch?v=3TKb6XrMsv8
+    - https://www.youtube.com/watch?v=BDEsI0VbHd4
+    - https://www.youtube.com/watch?v=Xt4cMYg43cA
+    - https://www.youtube.com/shorts/0p-2DfihGKc
 
 ### Thursday (November 14) (bowels, slept after 11pm)
-
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA, and Talking Point.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/live/eLI6dYmtmGo
+    - https://www.youtube.com/watch?v=CUwhk5C4bb0
+    - https://www.youtube.com/watch?v=pbkdof579fA
+    - https://www.youtube.com/watch?v=rHLxZ28vQ94
+    - https://www.youtube.com/watch?v=-jJlcS-gi7A
 
 ### Friday (November 15) (slept after 11pm)
 
