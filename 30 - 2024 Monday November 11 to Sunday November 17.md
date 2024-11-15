@@ -49,7 +49,16 @@
     - https://www.youtube.com/watch?v=-jJlcS-gi7A
 
 ### Friday (November 15) (slept after 11pm)
-
+- Friday 15 November 2024 11.45am IMH Clinic B
+- I visited Pasir Ris Polyclinic to make a medical appointment at SGH.
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=ExyUcMVztrA
+    - https://www.youtube.com/watch?v=-e77suMqZVQ
+- I briefly downloaded Kinokuniya books.
 
 ### Saturday (November 16) (bowels, slept after 11pm)
 
@@ -79,7 +88,6 @@
 - Sunday 17, 24 November 2024 4.30pm DHS Meetup @ White Sands
 
 # Upcoming Medical Appointments
-- Friday 15 November 2024 11.45am IMH Clinic B
 - Friday 13 December 2024 4pm Pasir Ris Polyclinic Flu Vaccination
 - Friday 10 January 2025 10.15am 1A - SNEC Eye Clinic @ CGH
 - Tuesday 14 January 2025 11am 3D - Digestive Diseases Centre
