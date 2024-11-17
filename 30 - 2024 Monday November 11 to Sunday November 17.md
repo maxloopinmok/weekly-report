@@ -60,13 +60,34 @@
     - https://www.youtube.com/watch?v=-e77suMqZVQ
 - I briefly downloaded Kinokuniya books.
 
-### Saturday (November 16) (bowels, slept after 11pm)
-
+### Saturday (November 16) (bowels, shave, slept after 11pm)
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA, and Money Mind.
+- I watched parts of these videos and other content:
+    - https://www.youtube.com/watch?v=oq0kWuYWX6I
+    - https://www.skool.com/postagiprepardness/about
+    - https://www.youtube.com/watch?v=-Ndn2WUhWqM
+    - https://www.youtube.com/watch?v=E_RErqD1kv8
+    - https://www.youtube.com/watch?v=BuyZIwQzC7g
+    - https://community.myaiadvantage.com/c/free-content/build-a-custom-ai-tutor-to-teach-you-anything
+    - https://highlightai.com/default?utm_campaign=igor
+- I updated:
+    - https://github.com/maxloosmu/predict
 
 ### Sunday (November 17) (slept after 11pm)
-
-
-
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- Sunday 17, 24 November 2024 4.30pm-7pm DHS Meetup @ White Sands Saizeriya
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos and some content:
+    - https://www.youtube.com/watch?v=LaKUfv1W4Jg
+    - https://www.youtube.com/watch?v=ZksvkuhereI
+    - https://www.youtube.com/watch?v=QtxjatbVb7M
+    - https://www.youtube.com/watch?v=92VXlWmI9qA
+    - https://www.investopedia.com/what-a-trump-presidency-could-mean-for-ai-8745345
+    - Who Is AI Replacing? The Impact of Generative AI on Online Freelancing Platforms
 
 
 
@@ -85,7 +106,6 @@
 - I searched for jobs.
 
 # Upcoming Schedule
-- Sunday 17, 24 November 2024 4.30pm DHS Meetup @ White Sands
 
 # Upcoming Medical Appointments
 - Friday 13 December 2024 4pm Pasir Ris Polyclinic Flu Vaccination
