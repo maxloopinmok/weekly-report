@@ -11,7 +11,6 @@
 ### Tuesday (November 19) (slept after 11pm)
 - I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
 - I read parts of this week's compiled Straits Times and Business Times.
-- I sorted my Yahoo emails.
 - I watched today's news on Channel 5 and CNA.
 - I watched parts of these videos:
     - https://www.youtube.com/watch?v=7OThBpFKSL4
@@ -20,11 +19,24 @@
     - https://www.youtube.com/watch?v=-GfpgLWll0E
     - https://www.youtube.com/watch?v=9k-uPSEGl-c
 
-### Wednesday (November 20) (bowels, slept after 11pm)
-
+### Wednesday (November 20) (bowels, shave, slept after 11pm)
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA.
 
 ### Thursday (November 21) (slept after 11pm)
-
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched today's news on CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=Rlm_Z7RmU0w
+    - https://www.youtube.com/watch?v=h_bpEZH4j4c
+    - https://www.youtube.com/watch?v=iBfjx9R3FP8
+    - https://www.youtube.com/watch?v=i7NA2hAitUQ
+    - https://www.youtube.com/watch?v=aJW0WSUgmmk
+    - https://www.youtube.com/watch?v=lF6EapKeQZw
 
 ### Friday (November 22) (bowels, slept after 11pm)
 
