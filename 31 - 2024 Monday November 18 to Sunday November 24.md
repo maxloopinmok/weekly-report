@@ -39,7 +39,10 @@
     - https://www.youtube.com/watch?v=lF6EapKeQZw
 
 ### Friday (November 22) (bowels, slept after 11pm)
-
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched today's news on CNA and Channel 5.
 
 ### Saturday (November 23) (slept after 11pm)
 
