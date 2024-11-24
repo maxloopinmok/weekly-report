@@ -45,11 +45,31 @@
 - I watched today's news on CNA and Channel 5.
 
 ### Saturday (November 23) (slept after 11pm)
-
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on CNA and Channel 5, and Money Mind.
+- I tried:
+    - https://www.youtube.com/watch?v=UmuYiJuw3uM
+    - https://console.anthropic.com/login?returnTo=%2F%3F
+    - https://github.com/anthropics/anthropic-quickstarts/blob/main/computer-use-demo/README.md
+    - https://docs.docker.com/desktop/setup/install/windows-install/
+    - 82636763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
+    - need to pay more money to try, so i stopped.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
+- I updated:
+    - https://github.com/maxloosmu/predict
 
 ### Sunday (November 24) (bowels, slept after 11pm)
-
-
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos and some content:
+    - https://www.youtube.com/watch?v=B-4sW4RqboI
+    - https://www.youtube.com/watch?v=EDyk49IRQcc
+    - https://www.youtube.com/watch?v=maex5swZZPs
+    - https://www.youtube.com/watch?v=IszSjZEvZZM
+    - https://www.youtube.com/watch?v=IgrvgNoWvMs
+    - https://www.youtube.com/watch?v=whrxrXbA3xM
 
 
 
