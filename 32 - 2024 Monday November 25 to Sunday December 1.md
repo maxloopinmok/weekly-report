@@ -1,5 +1,12 @@
 ### Monday (November 25) (slept after 11pm)
-
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA.
+- I compiled and read various news on the "russia ukraine war".
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - "web developer", "flexi hours", "telecommuting"
 
 ### Tuesday (November 26) (bowels, slept after 11pm)
 
