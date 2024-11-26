@@ -1,4 +1,4 @@
-### Monday (November 25) (slept after 11pm)
+### Monday (November 25) (shave, slept after 11pm)
 - I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
 - I read parts of this week's compiled Straits Times and Business Times.
 - I sorted my Yahoo emails.
@@ -9,7 +9,13 @@
     - "web developer", "flexi hours", "telecommuting"
 
 ### Tuesday (November 26) (bowels, slept after 11pm)
-
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of this week's compiled Straits Times and Business Times.
+- I briefly scanned news for:
+    - russia ukraine war, israel war, gold
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=rDooa0wJhhw
+    - https://www.youtube.com/watch?v=UgjJP8XURtY
 
 ### Wednesday (November 27) (slept after 11pm)
 
