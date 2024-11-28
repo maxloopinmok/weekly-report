@@ -8,20 +8,29 @@
     - https://www.mycareersfuture.gov.sg/
     - "web developer", "flexi hours", "telecommuting"
 
-### Tuesday (November 26) (bowels, slept after 11pm)
-- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+### Tuesday (November 26) (bowels, nails, Ftoothbrush, slept after 11pm)
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
 - I briefly read parts of this week's compiled Straits Times and Business Times.
 - I briefly scanned news for:
     - russia ukraine war, israel war, gold
 - I watched parts of these videos:
     - https://www.youtube.com/watch?v=rDooa0wJhhw
     - https://www.youtube.com/watch?v=UgjJP8XURtY
+- I watched today's news on Channel 5 and CNA.
 
 ### Wednesday (November 27) (slept after 11pm)
-
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=ddWuEUjo4u4
+    - https://www.youtube.com/watch?v=REjFL9hkkL4
 
 ### Thursday (November 28) (bowels, slept after 11pm)
-
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA, and Talking Point.
+- I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
 
 ### Friday (November 29) (slept after 11pm)
 
