@@ -27,13 +27,19 @@
     - https://www.youtube.com/watch?v=REjFL9hkkL4
 
 ### Thursday (November 28) (bowels, slept after 11pm)
-- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
 - I briefly read parts of this week's compiled Straits Times and Business Times.
 - I watched today's news on Channel 5 and CNA, and Talking Point.
 - I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
 
 ### Friday (November 29) (slept after 11pm)
-
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg
+    - "web developer", "developer", "research", "remote", "flexi", "logistics"
+- I briefly read parts of today Friday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
 
 ### Saturday (November 30) (bowels, slept after 11pm)
 
