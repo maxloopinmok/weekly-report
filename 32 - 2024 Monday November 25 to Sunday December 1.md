@@ -40,12 +40,33 @@
 - I briefly read parts of this week's compiled Straits Times and Business Times.
 - I watched today's news on Channel 5 and CNA.
 - I sorted my Yahoo emails.
+- I updated:
+    - https://github.com/maxloosmu/predict
 
-### Saturday (November 30) (bowels, slept after 11pm)
-
+### Saturday (November 30) (bowels, shave, slept after 11pm)
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I briefly read parts of this week's compiled Straits Times and Business Times.
+- I read parts of these books:
+    - The New World Economy in 5 Trends - Investing in times of superinflation, hyperinnovation & climate transition
+    - Why War?
+    - World on the Brink - How America Can Beat China in the Race for the Twenty-First Century
+- I watched today's news on Channel 5 and CNA, and Money Mind.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=kXinJMVbF2c
+    - https://www.youtube.com/watch?v=kBt-W8cvLQE
+    - https://www.youtube.com/watch?v=tgXd4TaaHI0
 
 ### Sunday (December 1) (slept after 11pm)
-
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I briefly read parts of this week's compiled Straits Times and Business Times.
+- I visited Kinokuniya and downloaded ebooks.
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA.
+- I watched two very important sermons:
+    - Riverlife:
+    - https://www.youtube.com/watch?v=mpMDYAgt-AQ&list=PLuupBCG9LUgGPSyrlpmZTTxfTyj4ge4rv&index=3
+    - SACC:
+    - https://www.youtube.com/watch?v=5F0Y3TSWUdc
 
 
 
