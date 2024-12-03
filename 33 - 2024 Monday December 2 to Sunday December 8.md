@@ -1,8 +1,42 @@
+### Monday (December 2) (bowels, slept after 11pm)
+- I read parts of these books:
+    - World on the Brink - How America Can Beat China in the Race for the Twenty-First Century
+    - Tune In - How to Make Smarter Decisions in a Noisy World
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg
+    - "logistics", "remote", "part time", "software engineer", (telecommuting)
+- I briefly read parts of today Monday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I called SG Enable Nurazlin from home.
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=qy238BmWt5A
+    - https://www.youtube.com/watch?v=sVVSGHOBF2c
+    - https://www.youtube.com/watch?v=QAUu7NUtK0Y
+    - https://www.youtube.com/watch?v=JfhERLOnFkE
+
+### Tuesday (December 3) (slept after 11pm)
+- I met CRSS/ACC Joseph at White Sands Koufu at 12.30pm.
+- I briefly read parts of today Tuesday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+
+### Wednesday (December 4) (bowels, slept after 11pm)
+- reply to joseph: GLP-1, immortality with OSK
+- reply to NTU: AI course, able to develop private LLM on own local PC?  
+- 
+
+### Thursday (December 5) (slept after 11pm)
 
 
+### Friday (December 6) (bowels, slept after 11pm)
 
 
+### Saturday (December 7) (slept after 11pm)
 
+
+### Sunday (December 8) (bowels, slept after 11pm)
 
 
 
