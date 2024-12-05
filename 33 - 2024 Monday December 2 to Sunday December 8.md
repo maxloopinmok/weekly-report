@@ -22,13 +22,22 @@
 - I watched today's news on Channel 5 and CNA.
 - I sorted my Yahoo emails.
 
-### Wednesday (December 4) (bowels, slept after 11pm)
-- reply to joseph: GLP-1, immortality with OSK
-- reply to NTU: AI course, able to develop private LLM on own local PC?  
-- 
+### Wednesday (December 4) (bowels, shave, slept after 11pm)
+- I replied to ACC Joseph about GLP-1, but not about possibility of immortality with OSK
+- I replied to NTU about AI course, about whether we are able to develop private LLM on own local PC?  
+- I replied to e2i about no replies from job applications.
+- I briefly read parts of today Wednesday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
 
 ### Thursday (December 5) (slept after 11pm)
-
+- I briefly read parts of today Thursday's Straits Times and Business Times, and compiled them.
+- I read parts of this week's compiled Straits Times and Business Times.
+- I downloaded some ebooks.
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA, and What's the Big Deal?
+    - https://www.mewatch.sg/show/Whats-The-Big-Deal-341483
 
 ### Friday (December 6) (bowels, slept after 11pm)
 
@@ -56,6 +65,7 @@
 - I searched for jobs.
 
 # Upcoming Schedule
+- Thursday 19 December 2024 10am CRSS/ACC Christmas Party
 
 # Upcoming Medical Appointments
 - Wednesday 11 December 2024 3.05pm SGH Neurology, Clinic L, BLK 3 L1 (Yellow Zone) (Shuttle Bus Orange Route - Outram MRT station)
