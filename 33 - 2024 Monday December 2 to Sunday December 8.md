@@ -40,7 +40,12 @@
     - https://www.mewatch.sg/show/Whats-The-Big-Deal-341483
 
 ### Friday (December 6) (bowels, slept after 11pm)
-
+- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- I read parts of this week's compiled news readings.
+- I read parts of this book:
+    - Tune In - How to Make Smarter Decisions in a Noisy World
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
 
 ### Saturday (December 7) (slept after 11pm)
 
@@ -53,8 +58,8 @@
 ## Routines
 - I do note taking, and/or tasks recording and planning.
 - I sorted my emails.
-- I briefly read parts of today's Straits Times and Business Times, and compiled them.
-- I read parts of this week's compiled Business Times or Straits Times.
+- I briefly read parts of today's Straits Times, Business Times and The Edge, and compiled them.
+- I read parts of this week's compiled news readings.
 - I watched today's news on CNA and Channel 5.
 - I did some data recording, events alerting, and news and reports reading/creating for a stocks tracking task.
 
