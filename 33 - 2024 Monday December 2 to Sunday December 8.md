@@ -40,7 +40,7 @@
     - https://www.mewatch.sg/show/Whats-The-Big-Deal-341483
 
 ### Friday (December 6) (bowels, slept after 11pm)
-- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
 - I read parts of this week's compiled news readings.
 - I read parts of this book:
     - Tune In - How to Make Smarter Decisions in a Noisy World
@@ -48,10 +48,23 @@
 - I sorted my Yahoo emails.
 
 ### Saturday (December 7) (slept after 11pm)
-
+- I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+- I briefly read parts of this week's The Economist, and compiled them.
+- I read parts of this week's compiled news readings.
+- I visited Kinokuniya, and downloaded some ebooks.
+- I watched today's news on Channel 5 and CNA.
 
 ### Sunday (December 8) (bowels, slept after 11pm)
-
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I read parts of this week's compiled news readings.
+- I read parts of this book:
+    - The New World Economy in 5 Trends
+- I watched today's news on Channel 5 and CNA.
+- I watched parts of these videos:
+    - https://www.youtube.com/watch?v=2_CTNXq9fo8
+    - https://www.youtube.com/watch?v=diuXUn0aqzM
+    - https://www.youtube.com/watch?v=4JOwtB9VsYc
+- I sorted my Yahoo emails.
 
 
 
