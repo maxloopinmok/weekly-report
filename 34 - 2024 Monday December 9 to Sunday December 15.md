@@ -1,5 +1,13 @@
 ### Monday (December 9) (shave, slept after 11pm)
-
+- I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+- I read parts of this week's compiled news readings.
+- I read parts of these books:
+    - Tune In - How to Make Smarter Decisions in a Noisy World
+    - The Complete Guide to Memory - The Science of Strengthening Your Mind
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - "web", "developer", "engineer", (telecommuting)
+- I watched today's news on Channel 5 and CNA.
 
 ### Tuesday (December 10) (bowels, slept after 11pm)
 
