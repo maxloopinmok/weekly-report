@@ -8,16 +8,48 @@
     - https://www.mycareersfuture.gov.sg/
     - "web", "developer", "engineer", (telecommuting)
 - I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
 
-### Tuesday (December 10) (bowels, slept after 11pm)
-
+### Tuesday (December 10) (bowels, nails, slept after 11pm)
+- I briefly read parts of today's Straits Times, Business Times and The Edge, and compiled them.
+- I read parts of this week's compiled news readings.
+- I read parts of these books:
+    - Upgrade Your Brain - Unlock Your Life’s Full Potential
+    - The Complete Guide to Memory - The Science of Strengthening Your Mind
+    - Healing with Copper
+    - The Brain (by New Scientist)
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+- I read or tried:
+    - https://www.datacamp.com/blog/llama-3-3-70b
+    - https://www.datacamp.com/tutorial/run-llms-locally-tutorial
+    - https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local
+    - https://www.reddit.com/r/LocalLLaMA/comments/1caal2v/llama_3_models_for_free_without_paying_whats/
 
 ### Wednesday (December 11) (slept after 11pm)
+- I read or tried these:
+    - C:\Users\maxlo\AppData\Roaming\Jan\data\models\huggingface.co\bartowski
+    - C:\Users\maxlo\AppData\Local\nomic.ai\GPT4All
+    - https://www.reddit.com/r/ClaudeAI/comments/1gnwufy/any_open_source_llms_you_use_that_rival_claude/
+    - https://huggingface.co/open-llm-leaderboard
+- I briefly read parts of today's Straits Times, Business Times and The Edge, and compiled them.
+- I read parts of this week's compiled news readings.
 - Wednesday 11 December 2024 3.05pm SGH Neurology, Clinic L, BLK 3 L1 (Yellow Zone) (Shuttle Bus Orange Route - Outram MRT station)
-
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA.
 
 ### Thursday (December 12) (bowels, slept after 11pm)
-
+- I briefly read parts of today's Straits Times, Business Times and The Edge, and compiled them.
+- I read parts of this week's compiled news readings.
+- I received some calls, messages, and emails, and answered them.
+- I updated:
+    - https://medium.com/@maxloopinmok/about
+    - https://somethinguseful.medium.com/
+    - stripe
+- I read:
+    - Make Money Online - The Sunday Times bestseller: Halve your hours, double your earnings & love your life
+- I sorted my Yahoo emails.
+- I watched today's news on Channel 5 and CNA.
 
 ### Friday (December 13) (slept after 11pm)
 - Friday 13 December 2024 4pm Pasir Ris Polyclinic Flu Vaccination
