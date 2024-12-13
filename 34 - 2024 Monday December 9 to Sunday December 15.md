@@ -52,8 +52,19 @@
 - I watched today's news on Channel 5 and CNA.
 
 ### Friday (December 13) (slept after 11pm)
+- I updated:
+    - https://somethinguseful.medium.com/
+    - https://affiliate-program.amazon.com/home/account
+- I briefly read parts of today's Straits Times, Business Times and The Edge, and compiled them.
+- I read parts of this week's compiled news readings.
+- I read:
+    - Make Money Online - The Sunday Times bestseller: Halve your hours, double your earnings & love your life
 - Friday 13 December 2024 4pm Pasir Ris Polyclinic Flu Vaccination
-
+- I watched today's news on Channel 5 and CNA.
+- I sorted my Yahoo emails.
+- I watched:
+    - https://www.youtube.com/watch?v=X_Ypa22Qppo
+    - https://www.youtube.com/watch?v=W08Jl6NzwiA
 
 ### Saturday (December 14) (bowels, slept after 11pm)
 
@@ -75,10 +86,13 @@
 - Use ChatGPT for jobs recommendation.
 - I searched for e-books.
 - I searched for jobs.
+- write about llama 3.3 8b when it arrives, using gpt4all and jan
 
 # Upcoming Schedule
+- Tuesday 17 December 2024 10am Call from NTU Pace
 - Tuesday 17 December 2024 2pm Father's Nursing Home Visit
 - Thursday 19 December 2024 10am CRSS/ACC Christmas Party
+- Thursday 16 January 2025 4pm White Sands Koufu ACC Joseph Meetup
 
 # Upcoming Medical Appointments
 - Friday 27 December 2024 4pm Raffles Medical White Sands Covid Vaccination
