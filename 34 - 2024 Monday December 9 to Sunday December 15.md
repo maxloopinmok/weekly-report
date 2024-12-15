@@ -66,10 +66,31 @@
     - https://www.youtube.com/watch?v=X_Ypa22Qppo
     - https://www.youtube.com/watch?v=W08Jl6NzwiA
 
-### Saturday (December 14) (bowels, slept after 11pm)
-
+### Saturday (December 14) (bowels, shave, FBtoothbrush, slept after 11pm)
+- I read:
+    - Make Money Online - The Sunday Times bestseller: Halve your hours, double your earnings & love your life
+    - E-Commerce Business - 3 Books in 1
+- I updated:
+    - https://somethinguseful.medium.com/
+- I briefly read parts of today's Straits Times, Business Times and The Edge, and compiled them.
+- I read parts of this week's compiled news readings.
+- I watched today's news on Channel 5 and CNA.
 
 ### Sunday (December 15) (slept after 11pm)
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I read parts of this week's compiled news readings.
+- I read parts of this week's The Economist, and compiled them.
+- I updated:
+    - https://somethinguseful.medium.com/
+    - https://medium.com/@maxloopinmok/
+- I read:
+    - Make Money Online - The Sunday Times bestseller: Halve your hours, double your earnings & love your life
+    - E-Commerce Business - 3 Books in 1
+- I watched today's news on CNA.
+- I watched:
+    - https://www.youtube.com/watch?v=8KL47xLD-yg
+    - https://www.youtube.com/watch?v=Fnt7ZfnVU_c
+    - https://www.youtube.com/watch?v=5i35VTo0RtE
 
 
 
@@ -87,9 +108,10 @@
 - I searched for e-books.
 - I searched for jobs.
 - write about llama 3.3 8b when it arrives, using gpt4all and jan
+- post at personal blog a newsletter when more news done at income blog.
 
 # Upcoming Schedule
-- Tuesday 17 December 2024 10am Call from NTU Pace
+- Tuesday 17 December 2024 10am Call from NTU Pace (Cancelled)
 - Tuesday 17 December 2024 2pm Father's Nursing Home Visit
 - Thursday 19 December 2024 10am CRSS/ACC Christmas Party
 - Thursday 16 January 2025 4pm White Sands Koufu ACC Joseph Meetup
