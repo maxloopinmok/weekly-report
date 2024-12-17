@@ -1,10 +1,24 @@
 ### Monday (December 16) (bowels, slept after 11pm)
-
+- I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+- I read parts of this week's compiled news readings.
+- I updated:
+    - https://somethinguseful.medium.com/
+- I read parts of these books:
+    - E-Commerce Business - 3 Books in 1
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - "web", "developer", "engineer", "logistics", (telecommuting)
+- I watched today's news on CNA.
 
 ### Tuesday (December 17) (slept after 11pm)
+- I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
+- I read parts of this week's compiled news readings.
 - Tuesday 17 December 2024 10am Call from NTU Pace (Cancelled)
 - Tuesday 17 December 2024 2pm Father's Nursing Home Visit
 - Visit Kinokuniya.
+- I read parts of these books:
+    - E-Commerce Business - 3 Books in 1
+- I watched today's news on CNA.
 
 ### Wednesday (December 18) (bowels, slept after 11pm)
 
