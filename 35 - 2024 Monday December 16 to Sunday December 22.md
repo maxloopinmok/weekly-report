@@ -15,17 +15,29 @@
 - I read parts of this week's compiled news readings.
 - Tuesday 17 December 2024 10am Call from NTU Pace (Cancelled)
 - Tuesday 17 December 2024 2pm Father's Nursing Home Visit
-- Visit Kinokuniya.
+- I visited Kinokuniya.
 - I read parts of these books:
     - E-Commerce Business - 3 Books in 1
 - I watched today's news on CNA.
 
-### Wednesday (December 18) (bowels, slept after 11pm)
-
+### Wednesday (December 18) (bowels, shave, slept after 11pm)
+- I sorted and answered my Yahoo emails and Whatsapp messages.  
+- I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- I read parts of these books:
+    - You Can't Cheat an Honest Man - How Ponzi Schemes and Pyramid Frauds Work
+    - Blogging All-in-One For Dummies
+    - How to Make Money Online with ChatGPT
+- I watched today's news on CNA and Channel 5.
+- I explored online business creation with Claude.
 
 ### Thursday (December 19) (slept after 11pm)
-- Thursday 19 December 2024 10am CRSS/ACC Christmas Party
-
+- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- I explored online business creation and wordpress with ChatGPT and Claude.
+- Thursday 19 December 2024 10am-4pm CRSS/ACC Christmas Party
+- I read:
+    - WordPress All-in-One For Dummies
+- I watched today's news on CNA and Channel 5.
+- I sorted my Yahoo emails and replied my WhatsApp messages.
 
 ### Friday (December 20) (bowels, slept after 11pm)
 
