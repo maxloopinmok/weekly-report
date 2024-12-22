@@ -53,11 +53,31 @@
 - I explored Google Adsense.
 
 ### Saturday (December 21) (slept after 11pm)
+- I attended my Riverlife cell group meeting at Cindy's home.
+- I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+- I read:
+    - WordPress All-in-One For Dummies
+- I watched today's news on CNA and Channel 5.
+- I watched:
+    - https://www.youtube.com/watch?v=CRuhyF3oj0c
+    - https://www.youtube.com/watch?v=uGOLYz2pgr8
+    - https://www.youtube.com/watch?v=rYcJAqGvBXE
+    - https://www.youtube.com/watch?v=cyrrfl0eNYc
+    - https://www.youtube.com/watch?v=tkK7uVPb29s
+    - https://www.youtube.com/watch?v=YlewPrqoYK0
+    - https://www.youtube.com/watch?v=0Nh6j6UnDsA
+    - https://www.youtube.com/watch?v=KELjtarJ2TY
 
-
-### Sunday (December 22) (bowels, slept after 11pm)
-
-
+### Sunday (December 22) (bowels, shave, slept after 11pm)
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I sorted my Yahoo emails.
+- I watched today's news on CNA and Channel 5.
+- I watched:
+    - https://www.youtube.com/watch?v=8okJfNNbx5s
+    - https://www.youtube.com/watch?v=2ZpK6BdEBNQ
+    - https://www.youtube.com/watch?v=_ivh810WHJo
+- I signed up with namecheap and updated:
+    - https://news-and-books.com/
 
 
 
@@ -121,6 +141,32 @@
     - You can get a free domain name with Stellar hosting as well, with certain TLDs.
     - Free TLDs available: .fun, .host, .online, .site, .press, .store, .space, .pw, .tech, .website, .agency, .center, .digital, .live, .studio, .cloud, .shop.
     - You can purchase it along the hosting or you can get it after the hosting is purchased.
+- i've been reading: https://www.namecheap.com/support/knowledgebase/article.aspx/9365/2199/how-to-create-and-restore-backups-in-cpanel/#create.  backups take up disk space.  with a stellar plan, is it possible to delete all previous backups on the server before making a new backup?
+    - Yes, sure, you can remove the previous full backups located on your account. They are saved in the Home directory in your file manager: https://www.namecheap.com/support/knowledgebase/article.aspx/9700/29/how-to-use-file-manager-in-cpanel/#access
+- if i get a .com domain through namecheap now, will my domain have a free SSL cert?
+    - It depends on the hosting, not the domain name. If the hosting was purchased less than a year ago, it was provided with 50 free SSL certificates.
+    - Here is the article about it: https://www.namecheap.com/support/knowledgebase/article.aspx/9927/2218/1year-free-cpanel-positivessl-certificate-offer/
+- if i buy a stellar plan now and pay biennially, are the domain prices and free SSL also biennial?
+    - Regretfully, it is not applied to the Billing cycle you chose. The certificates are free for first hosting year for each Shared host with any Billing cycle.
+- i want to setup a static wordpress page as my homepage and my blog will reside in a static page that is a child of my homepage, like this: yourdomain.com/blog.  is it possible to set up custom permalinks if i use softaculous to install the latest wordpress?  can i change the wordpress settings after installation?
+    - Yes, sure. The permalinks can be changed at any time.
+- do you have any written info about that?
+    - Regretfully, we don't, but there are multiple guides online, like, for example:
+        - https://10web.io/blog/how-to-change-permalink-in-wordpress/
+        - https://wordpress.com/support/change-the-permalink-structure/
+        - https://rankmath.com/kb/wordpress-permalinks/
+- i want to setup a static wordpress page as my homepage and my blog will reside in a static page that is a child of my homepage, like this: yourdomain.com/blog.  is it possible to set up this structure if i use softaculous to install the latest wordpress?  how?
+    - Am I correct that you would like to create a staging page?
+- if you are referring to this: A WordPress staging page is a replica of a live WordPress website that allows users to test and update their website without affecting the live version. Staging sites are useful for preventing issues that can arise when updating plugins, themes, or WordPress itself.
+- No, i want to use softaculous to install wordpress on my stellar plan website after i purchase it. and i want the structure to be static homepage: yourdomain.com, static blog page: yourdomain.com/blog.  how is this done?
+    - It can be done in Softaculous via the clone option as shown here: https://www.namecheap.com/support/knowledgebase/article.aspx/1258/2182/how-to-work-with-scripts-in-softaculous/#clone
+    - I am sorry for any misunderstanding you may have experienced. To create a static blog page, it is necessary to create a new WordPress installation for yourdomain.com and choose "blog" directory: https://img.namecheap.com/6BiHvJqQgzKsBdzUZKP4pQ.png
+- sorry, i don't understand how that one picture works. if i add blog to the directory field, will wordpress include the root directory in the installation? because i'll need to include another static page in the root directory.  reading your article at https://www.namecheap.com/support/knowledgebase/article.aspx/1255/2187/how-to-install-wordpress-using-softaculous/ does not give me any confidence..
+    - Yes, if a new WordPress installation for yourdomain.com is created in 'blog" directory, you can upload any other content inside it as it will have its out path like home/cpanelusername/yourdomain.com/blog
+- how do i use website builder to build my website on wordpress?
+    - Please note that the Website Builder and WordPress are different services.
+    - Here you can check more info about Website Builder: https://www.namecheap.com/support/knowledgebase/article.aspx/10028/2182/what-is-website-builder-and-how-to-use-it/
+    - The list of Word-press related articles can be found here: https://www.namecheap.com/support/knowledgebase/subcategory/2187/cpanel-wordpress/
 
 # Upcoming Schedule
 - Thursday 16 January 2025 4pm White Sands Koufu ACC Joseph Meetup
