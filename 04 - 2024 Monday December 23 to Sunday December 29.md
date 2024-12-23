@@ -1,7 +1,14 @@
 ### Monday (December 23) (slept after 11pm)
-
+- I updated:
+    - https://news-and-books.com/
+    - I troubleshoot PopularFX theme.
+    - I tried different plugins for responsive menus.
+- I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+- I watched today's news on CNA and Channel 5.
+- I sorted my Yahoo emails.
 
 ### Tuesday (December 24) (bowels, slept after 11pm)
+- employment
 
 
 ### Wednesday (December 25) (slept after 11pm)
@@ -36,6 +43,7 @@
 - I searched for jobs.
 - write about llama 3.3 8b when it arrives, using gpt4all and jan
 - write an essay about human beings' usefulness may already be past expiry date, or already slowly reaching our expiry date.
+- how to create widget or block containing the latest blog post from every category?
 
 # Upcoming Schedule
 - Thursday 16 January 2025 4pm White Sands Koufu ACC Joseph Meetup
