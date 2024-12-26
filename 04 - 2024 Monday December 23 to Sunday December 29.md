@@ -8,14 +8,34 @@
 - I sorted my Yahoo emails.
 
 ### Tuesday (December 24) (bowels, slept after 11pm)
-- employment
-
+- I updated and troubleshoot:
+    - https://news-and-books.com/
+- I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - "web", "developer", "engineer", "logistics", "wordpress", (telecommuting)
+- I watched today's news on CNA and Channel 5.
+- I sorted my Yahoo emails.
 
 ### Wednesday (December 25) (slept after 11pm)
+- I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- I updated and troubleshoot:
+    - https://news-and-books.com/
+- I visited Kinokuniya at Orchard.
+- I watched today's news on CNA and Channel 5.
+- I watched:
+    - https://www.youtube.com/watch?v=x63RBZKtt0k
+    - https://www.youtube.com/watch?v=IBdEzUcm110
+    - https://www.youtube.com/watch?v=1BSxuOFinhA
+    - https://www.youtube.com/watch?v=Ge5B-J-vUwI
 
-
-### Thursday (December 26) (bowels, slept after 11pm)
-
+### Thursday (December 26) (bowels, shave, slept after 11pm)
+- I briefly read articles from MIT Technology Review and The Economist.
+- I updated and troubleshoot:
+    - https://news-and-books.com/
+- I watched today's news on CNA and Channel 5.
+- I read:
+    - Create Content and Do SEO on Your WordPress Website
 
 ### Friday (December 27) (slept after 11pm)
 - Friday 27 December 2024 4pm Raffles Medical White Sands Covid Vaccination
@@ -43,7 +63,10 @@
 - I searched for jobs.
 - write about llama 3.3 8b when it arrives, using gpt4all and jan
 - write an essay about human beings' usefulness may already be past expiry date, or already slowly reaching our expiry date.
-- how to create widget or block containing the latest blog post from every category?
+- find plugin for paginating posts in category archives, try wp-paginate.
+- add website to amazon associates.
+- hi, i'm trying to troubleshoot the sitemap error in the attached screenshots, but i can't seem to find the sitemap.xml file. is there some way to resolve this problem? because i can't get google search to display my website...
+    - According to my check, such an issue should be checked with the plugin's developers or you can try to add the sitemap manually: https://www.namecheap.com/support/knowledgebase/article.aspx/9510/2225/how-to-use-sitemap/
 
 # Upcoming Schedule
 - Thursday 16 January 2025 4pm White Sands Koufu ACC Joseph Meetup
