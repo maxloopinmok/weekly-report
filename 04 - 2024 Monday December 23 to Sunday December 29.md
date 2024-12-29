@@ -31,6 +31,7 @@
 
 ### Thursday (December 26) (bowels, shave, slept after 11pm)
 - I briefly read articles from MIT Technology Review and The Economist.
+- Boxing day - no Straits Times, Business Times.
 - I updated and troubleshoot:
     - https://news-and-books.com/
 - I watched today's news on CNA and Channel 5.
@@ -41,15 +42,34 @@
 - I updated and troubleshoot:
     - https://news-and-books.com/
     - I added website to amazon associates.
-- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
 - Friday 27 December 2024 4pm Raffles Medical White Sands Covid Vaccination
 - Dinner with family at Changi Village.
 - I watched today's news on CNA and Channel 5.
 
-### Saturday (December 28) (bowels, slept after 11pm)
-
+### Saturday (December 28) (bowels, FBToothbrush, nails, slept after 11pm)
+- I rested most of today Saturday due to COVID vaccination side effects: pain, tiredness.
+- I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+- I updated and troubleshoot:
+    - https://news-and-books.com/
+- I watched today's news on CNA.
+- I watched:
+    - https://www.youtube.com/watch?v=1Z1vKdrmpj4
+    - https://www.youtube.com/watch?v=L0_WTBkf690
+    - https://www.youtube.com/watch?v=E9TB7CvkmzE
+    - https://www.youtube.com/watch?v=L3_i-r4Clz4
 
 ### Sunday (December 29) (slept after 11pm)
+- I updated and troubleshoot:
+    - https://news-and-books.com/
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I watched today's news on CNA.
+- I sorted my Yahoo emails.
+- I watched:
+    - https://www.youtube.com/watch?v=MjNHllZiHP8
+    - https://www.youtube.com/watch?v=xvBDzc6QafQ
+    - https://www.youtube.com/watch?v=O3ZeILZbUPk
+    - https://www.youtube.com/watch?v=DbykLp3MrLE
 
 
 
