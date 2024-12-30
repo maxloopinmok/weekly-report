@@ -1,5 +1,12 @@
 ### Monday (December 30) (bowels, slept after 11pm)
-
+- I updated and troubleshoot:
+    - https://news-and-books.com/
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - "web", "developer", "engineer", "logistics", "wordpress", "writer", "reader", (telecommuting)
+- I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+- I watched today's news on CNA and Channel 5.
+- I sorted my Yahoo emails.
 
 ### Tuesday (December 31) (slept after 11pm)
 
