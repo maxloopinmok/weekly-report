@@ -9,10 +9,21 @@
 - I sorted my Yahoo emails.
 
 ### Tuesday (December 31) (slept after 11pm)
-
+- I updated and troubleshoot:
+    - https://news-and-books.com/
+- I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
+- I watched today's news on CNA and Channel 5.
+- I sorted my Yahoo emails.    
+I watched:
+    - https://www.youtube.com/watch?v=_YQfE5OSzK8
 
 ### Wednesday (January 1) (bowels, slept after 11pm)
+- I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
 
+- create 2025 New Year Day Newsletter
+- upload sitemap to GSC:
+    - https://search.google.com/search-console/sitemaps?resource_id=sc-domain%3Anews-and-books.com
+    - inspect new URLs
 
 ### Thursday (January 2) (slept after 11pm)
 
@@ -43,13 +54,14 @@
 - I searched for jobs.
 - write about llama 3.3 8b when it arrives, using gpt4all and jan
 - write an essay about human beings' usefulness may already be past expiry date, or already slowly reaching our expiry date.
+- try: https://notebooklm.google/
 
 # Upcoming Schedule
 - Thursday 16 January 2025 4pm White Sands Koufu ACC Joseph Meetup
 
 # Upcoming Medical Appointments
 - Friday 10 January 2025 10.15am 1A - SNEC Eye Clinic @ CGH
-- Tuesday 14 January 2025 11am 3D - Digestive Diseases Centre
+- Tuesday 14 January 2025 11am 3D - Digestive Diseases Centre @ CGH
 - Monday 5 May 2025 3pm Pasir Ris Polyclinic: Lab (NF)
 - Monday 12 May 2025 3pm Pasir Ris Polyclinic: NCC
 - Friday 8 August 2025 9.40am 4E - CGH-NNI Spine Centre (Knee)
