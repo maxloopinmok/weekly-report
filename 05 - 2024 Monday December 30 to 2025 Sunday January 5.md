@@ -13,20 +13,29 @@
     - https://news-and-books.com/
 - I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
 - I watched today's news on CNA and Channel 5.
-- I sorted my Yahoo emails.    
+- I sorted my Yahoo emails.
 I watched:
     - https://www.youtube.com/watch?v=_YQfE5OSzK8
 
 ### Wednesday (January 1) (bowels, slept after 11pm)
 - I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
-
-- create 2025 New Year Day Newsletter
-- upload sitemap to GSC:
-    - https://search.google.com/search-console/sitemaps?resource_id=sc-domain%3Anews-and-books.com
-    - inspect new URLs
+- I updated and troubleshoot:
+    - https://news-and-books.com/
+    - I created 2025 New Year Day Newsletter.
+    - upload sitemap to GSC:
+        - https://search.google.com/search-console/sitemaps?resource_id=sc-domain%3Anews-and-books.com
+        - inspect URLs of my new posts.
+- I sorted my Yahoo emails.
+- I watched today's news on CNA.
 
 ### Thursday (January 2) (slept after 11pm)
-
+- I updated and troubleshoot:
+    - https://news-and-books.com/
+    - https://github.com/maxloosmu/news-and-books
+- I checked with a Pasir Ris Polyclinic doctor about my hand movements and brain problems, which accidentally spilt all my medicine from pill boxes onto the table and floor on Monday.
+- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- I watched today's news on CNA.
+- I sorted my Yahoo emails.
 
 ### Friday (January 3) (bowels, slept after 11pm)
 
