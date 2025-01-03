@@ -38,7 +38,14 @@ I watched:
 - I sorted my Yahoo emails.
 
 ### Friday (January 3) (bowels, slept after 11pm)
-
+- I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
+- I updated and troubleshoot:
+    - https://news-and-books.com/
+    - I accessed the phpMyAdmin sql db to get tags and tag counts.
+- I got my bathroom LED light fixed.
+- I sorted my Yahoo emails.
+- I watched today's news on CNA and Channel 5.
+- I briefly read parts of a few Wired, Verge and TechCrunch news.
 
 ### Saturday (January 4) (slept after 11pm)
 
