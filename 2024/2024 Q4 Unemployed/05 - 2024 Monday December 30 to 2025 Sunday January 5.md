@@ -37,7 +37,7 @@ I watched:
 - I watched today's news on CNA.
 - I sorted my Yahoo emails.
 
-### Friday (January 3) (bowels, slept after 11pm)
+### Friday (January 3) (bowels, enema, slept after 11pm)
 - I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
 - I updated and troubleshoot:
     - https://news-and-books.com/
@@ -47,11 +47,32 @@ I watched:
 - I watched today's news on CNA and Channel 5.
 - I briefly read parts of a few Wired, Verge and TechCrunch news.
 
-### Saturday (January 4) (slept after 11pm)
-
+### Saturday (January 4) (shave, slept after 11pm)
+- I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+- I read:
+    - 2024 Mastering SEO Strategies for the Modern Web
+- I updated and troubleshoot:
+    - https://news-and-books.com/
+- I watched today's news on CNA and Channel 5.
+- I updated:
+    - https://maxlooresume.wordpress.com/
 
 ### Sunday (January 5) (bowels, slept after 11pm)
-
+- I updated and troubleshoot:
+    - https://news-and-books.com/
+    - https://github.com/maxloosmu/news-and-books
+    - I fixed my Amazon account problems by reregistering and using a new account ID.
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I read:
+    - 2024 Mastering SEO Strategies for the Modern Web
+- I watched today's news on CNA and Channel 5.
+- I watched:
+    - https://www.youtube.com/watch?v=LyKRUwLNPO8
+    - https://www.youtube.com/watch?v=ks7U9Y2_xGw
+    - https://www.youtube.com/watch?v=sHPT5T_ZK1M
+    - https://www.youtube.com/watch?v=xTH3ffs5VOM
+    - https://www.youtube.com/watch?v=CfaaM07ORfQ
+    - https://www.youtube.com/watch?v=2jaiBHI0IFo
 
 
 
