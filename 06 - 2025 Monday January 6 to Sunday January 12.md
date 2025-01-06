@@ -1,10 +1,18 @@
 ### Monday (January 6) (slept after 11pm)
-
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - "web", "developer", "engineer", "logistics", "wordpress", "writer", "reader", "content", (telecommuting)
+- I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+- I watched today's news on CNA and Channel 5.
+- I sorted my Yahoo emails.
+- I updated and troubleshoot:
+    - https://news-and-books.com/
 
 ### Tuesday (January 7) (bowels, slept after 11pm)
 
 
 ### Wednesday (January 8) (slept after 11pm)
+- Aircon service man coming between 2pm and 4pm.
 
 
 ### Thursday (January 9) (bowels, slept after 11pm)
