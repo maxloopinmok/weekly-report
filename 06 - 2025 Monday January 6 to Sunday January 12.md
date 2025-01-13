@@ -17,7 +17,7 @@
 - I watched today's news on CNA and Channel 5.
 - I sorted my Yahoo emails.
 
-### Wednesday (January 8) (slept after 11pm)
+### Wednesday (January 8) (sweep, wipeFan, slept after 11pm)
 - I updated and troubleshoot:
     - https://news-and-books.com/
     - To access your WordPress account after being logged out, you can follow these steps depending on your hosting setup:
@@ -43,11 +43,31 @@
     - https://news-and-books.com/
 
 ### Saturday (January 11) (bowels, slept after 11pm)
-
+- I updated and troubleshoot:
+    - https://news-and-books.com/
+- I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+- I briefly watched today's news on CNA and Channel 5, and Money Mind.
+- I briefly watched last Sunday's sermons from SACC and Riverlife.
+- I watched:
+    - https://www.youtube.com/watch?v=VPHfAVEHNdw
+    - https://www.youtube.com/watch?v=Bhoy_arJvaE
+    - https://www.youtube.com/watch?v=sgbxkxDFK9Q
+    - https://www.youtube.com/watch?v=EzMUdzdwgcE
+    - https://www.youtube.com/watch?v=ftZH7NfRPTk
 
 ### Sunday (January 12) (slept after 11pm)
-
-
+- I updated and troubleshoot:
+    - https://news-and-books.com/
+    - am I able to use Speedy Cache? Will it conflict with LiteSpeed Cache?
+    - You can use any cache plugin of your choice for your website. However, it's better to disable LiteSpeed Cache in this case to avoid redundancy and potential problems.
+    - I signed up with Google Gemini.
+        - https://gemini.google.com/app?utm_source=gemini&utm_medium=web&utm_campaign=mode_switcher
+- I briefly read parts of today Sunday's Straits Times, and compiled them.
+- I briefly watched today's news on CNA and Channel 5.
+- I watched:
+    - https://www.youtube.com/watch?v=1ub0enzN7Zs
+    - https://www.youtube.com/watch?v=0wgjsZ4x69E
+    - https://www.youtube.com/watch?v=USBW0ESLEK0
 
 
 
