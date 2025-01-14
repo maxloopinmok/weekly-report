@@ -9,8 +9,12 @@
 
 ### Tuesday (January 14) (slept after 11pm)
 - Tuesday 14 January 2025 11am 3D - Digestive Diseases Centre @ CGH
+- I visited Kinokuniya.
+- I read:
+    - 2024 Mastering SEO Strategies for the Modern Web
+- I watched today's news on CNA and Channel 5.
+- I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
 - I sorted my Yahoo emails.
-
 
 ### Wednesday (January 15) (bowels, slept after 11pm)
 
@@ -47,6 +51,18 @@
 - write about llama 3.3 8b when it arrives, using gpt4all and jan
 - write an essay about human beings' usefulness may already be past expiry date, or already slowly reaching our expiry date.
 - try: https://notebooklm.google/
+- keywords categorisation:
+    - from the list of all keywords below, group the keywords into individual subgroups, where one keyword will go into one subgroup, and the keywords in the subgroup should be all related to each other.
+    - there should be 25 to 50 subgroups in total.
+    - create a keyword for each subgroup or use a keyword from that subgroup that best describes all the keywords in that subgroup as the name of that subgroup.
+    - save all the subgroup names and their corresponding keywords in an csv file with two columns titled: subgroup name, keyword.
+- try to change the look of the mobile display of news articles in each category.
+- troubleshoot amazon associates account.
+- how to check how many posts or pages website has in total?
+- how to do business proof of concept?
+- how to remove "/" from sitemap link ends?  Advisable?
+
+
 
 # Upcoming Schedule
 
