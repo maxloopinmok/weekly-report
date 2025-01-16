@@ -16,13 +16,21 @@
 - I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
 - I sorted my Yahoo emails.
 
-### Wednesday (January 15) (bowels, slept after 11pm)
+### Wednesday (January 15) (bowels, FBToothbrushes, slept after 11pm)
+- I updated and troubleshoot:
+    - https://news-and-books.com/
+- I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- I watched today's news on CNA and Channel 5.
+- I sorted my Yahoo emails.
 
-
-### Thursday (January 16) (slept after 11pm)
+### Thursday (January 16) (nails, slept after 11pm)
+- I updated and troubleshoot:
+    - https://news-and-books.com/
+- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
 - Thursday 16 January 2025 4pm White Sands Koufu ACC Joseph Meetup
 - Thursday 16 January 2025 6pm-10pm Arrival of CGH Medicine
-
+- I watched today's news on CNA and Channel 5, and Talking Point.
+- I sorted my Yahoo emails.
 
 ### Friday (January 17) (bowels, slept after 11pm)
 
@@ -71,4 +79,5 @@
 - Monday 12 May 2025 3pm Pasir Ris Polyclinic: NCC
 - Friday 8 August 2025 9.40am 4E - CGH-NNI Spine Centre (Knee)
 - Thursday 4 September 2025 9.30am 4E - CGH-NNI Spine Centre
+- Tuesday 23 September 2025 10.50am 3D - Digestive Diseases Centre @ CGH
 - Friday 29 May 2026 9.15am 1A - SNEC Eye Clinic @ CGH
