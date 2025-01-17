@@ -32,8 +32,11 @@
 - I watched today's news on CNA and Channel 5, and Talking Point.
 - I sorted my Yahoo emails.
 
-### Friday (January 17) (bowels, slept after 11pm)
-
+### Friday (January 17) (bowels, shave, nose, slept after 11pm)
+- I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
+- I updated and troubleshoot:
+    - https://news-and-books.com/
+- I watched today's news on CNA and Channel 5, and On The Red Dot.
 
 ### Saturday (January 18) (slept after 11pm)
 
@@ -66,13 +69,12 @@
     - save all the subgroup names and their corresponding keywords in an csv file with two columns titled: subgroup name, keyword.
 - try to change the look of the mobile display of news articles in each category.
 - troubleshoot amazon associates account.
-- how to check how many posts or pages website has in total?
+- how to check how many posts or pages website or web blog has in total?
 - how to do business proof of concept?
-- how to remove "/" from sitemap link ends?  Advisable?
-
-
 
 # Upcoming Schedule
+- Friday 7 February 2025 10.30am ACC/CRSS CNY Party
+- Monday 17 February 2025 4pm White Sands Koufu ACC Joseph Meetup
 
 # Upcoming Medical Appointments
 - Monday 5 May 2025 3pm Pasir Ris Polyclinic: Lab (NF)
