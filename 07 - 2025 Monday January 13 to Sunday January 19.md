@@ -39,10 +39,22 @@
 - I watched today's news on CNA and Channel 5, and On The Red Dot.
 
 ### Saturday (January 18) (slept after 11pm)
-
+- I attended Riverlife Cell Group at Cindy's place.
+- I briefly read parts of today Saturday's Straits Times and Business Times, and compiled them.
+- I watched today's news on CNA and Channel 5, and Money Mind.
+- I evaluated and terminated my ChatGPT, Google Gemini, and Medium paid accounts.
+- I used "All-in-One WP Migration" to export all my WordPress 6.7.1 files.
+- I sorted my Yahoo emails.
 
 ### Sunday (January 19) (bowels, slept after 11pm)
-
+- I briefly read parts of today Sunday's Straits Times and The Edge, and compiled them.
+- I updated and troubleshoot:
+    - https://news-and-books.com/
+- I watched today's news on CNA and Channel 5.
+- I watched:
+    - https://www.youtube.com/watch?v=JTHDkLqmoVg
+    - https://www.youtube.com/watch?v=LhxGCDgoy2U
+- I sorted my Yahoo emails.
 
 
 
@@ -73,6 +85,7 @@
 - how to do business proof of concept?
 
 # Upcoming Schedule
+- Wednesday 22 January 2025 2pm Pasir Ris Elias Community Centre
 - Friday 7 February 2025 10.30am ACC/CRSS CNY Party
 - Monday 17 February 2025 4pm White Sands Koufu ACC Joseph Meetup
 
