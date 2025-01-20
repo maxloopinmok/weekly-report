@@ -1,5 +1,13 @@
 ### Monday (January 20) (slept after 11pm)
-
+- I evaluated and terminated my The Edge subscription.
+- I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+- I updated:
+    - https://somethinguseful.medium.com/
+    - https://github.com/maxloosmu/news-and-books
+- I sorted my Yahoo emails.
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - "web", "developer", "engineer", "logistics", "wordpress", "python", "writer", "reader", "content", (telecommuting)
 
 ### Tuesday (January 21) (bowels, slept after 11pm)
 
