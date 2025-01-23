@@ -10,14 +10,22 @@
     - "web", "developer", "engineer", "logistics", "wordpress", "python", "writer", "reader", "content", (telecommuting)
 
 ### Tuesday (January 21) (bowels, slept after 11pm)
-
+- I watched yesterday's news on CNA and Channel 5.
+- I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
+- I updated:
+    - https://somethinguseful.medium.com/
+- I watched today's news on CNA and Channel 5.
 
 ### Wednesday (January 22) (slept after 11pm)
-- Wednesday 22 January 2025 2pm Pasir Ris Elias Community Centre
-
+- I sorted my Yahoo emails.
+- I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- Wednesday 22 January 2025 2pm Pasir Ris Elias CC Meetup with SPD
+- I watched today's news on CNA and Channel 5.
 
 ### Thursday (January 23) (bowels, slept after 11pm)
-
+- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- I watched today's news on CNA and Channel 5, and Talking Point.
+- I sorted my Yahoo emails.
 
 ### Friday (January 24) (slept after 11pm)
 
