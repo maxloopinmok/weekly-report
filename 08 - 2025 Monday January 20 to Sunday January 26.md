@@ -24,11 +24,21 @@
 
 ### Thursday (January 23) (bowels, slept after 11pm)
 - I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- I terminated my Microsoft 365 account, and troubleshoot the summing of column values in csv files using Python script.
 - I watched today's news on CNA and Channel 5, and Talking Point.
 - I sorted my Yahoo emails.
+- I tried lm studio with deepseek r1.
 
 ### Friday (January 24) (slept after 11pm)
-
+- I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
+- I briefly read and compiled a few MIT Technological Review articles.
+- I watched today's news on CNA and Channel 5.
+- I watched:
+    - https://www.youtube.com/watch?v=AK0o4LaEvV8
+    - https://www.youtube.com/watch?v=H2YqOBrpKQU
+    - https://www.youtube.com/watch?v=9oED8PXJuKg
+    - https://www.youtube.com/watch?v=Hpop2LZ1Xi4
+    - https://www.youtube.com/watch?v=b5xGSH53NKg
 
 ### Saturday (January 25) (bowels, slept after 11pm)
 
@@ -51,11 +61,17 @@
 - Use ChatGPT for jobs recommendation.
 - I searched for e-books.
 - I searched for jobs.
-- write about llama 3.3 8b when it arrives, using gpt4all and jan
-- write an essay about human beings' usefulness may already be past expiry date, or already slowly reaching our expiry date.
 - try: https://notebooklm.google/
 - troubleshoot amazon associates account.
 - how to check how many posts or pages website or web blog has in total?
+- try zencoder.ai
+- read:
+    - https://www.analyticsvidhya.com/blog/2024/11/slms-vs-llms/
+    - https://www.analyticsvidhya.com/blog/2024/12/top-small-language-models/
+- find words for "to raise the priority":
+    - https://dictionary.reverso.net/english-synonyms/to+raise+the+priority
+- find words for "to make more urgent":
+    - https://dictionary.reverso.net/english-synonyms/to+make+more+urgent
 
 # Upcoming Schedule
 - Friday 7 February 2025 10.30am ACC/CRSS CNY Party
