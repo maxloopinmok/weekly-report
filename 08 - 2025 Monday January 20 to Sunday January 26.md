@@ -40,11 +40,21 @@
     - https://www.youtube.com/watch?v=Hpop2LZ1Xi4
     - https://www.youtube.com/watch?v=b5xGSH53NKg
 
-### Saturday (January 25) (bowels, slept after 11pm)
-
+### Saturday (January 25) (bowels, shave, slept after 11pm)
+- I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+- I updated:
+    - https://somethinguseful.medium.com/
+- I watched today's news on CNA and Channel 5, and Money Mind.
+- I checked my Amazon Affiliate account and online emailed them:
+    - https://affiliate-program.amazon.com/home
+- I tried epubor ultimate.
 
 ### Sunday (January 26) (slept after 11pm)
-
+- I visited SACC for Sunday sermon.
+- I visited Kinokuniya at Orchard Road.
+- I briefly read parts of today Sunday's Straits Times and The Edge, and compiled them.
+- I troubleshoot Amazon Affiliate's Direct Deposit Payment Option.
+- I watched today's news on CNA.
 
 
 
@@ -62,9 +72,9 @@
 - I searched for e-books.
 - I searched for jobs.
 - try: https://notebooklm.google/
+- try zencoder.ai
 - troubleshoot amazon associates account.
 - how to check how many posts or pages website or web blog has in total?
-- try zencoder.ai
 - read:
     - https://www.analyticsvidhya.com/blog/2024/11/slms-vs-llms/
     - https://www.analyticsvidhya.com/blog/2024/12/top-small-language-models/
