@@ -1,8 +1,25 @@
 ### Monday (January 27) (bowels, slept after 11pm)
-
+- I downloaded ebooks.
+- I troubleshoot my file conversion programs.
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - "web", "developer", "engineer", "logistics", "wordpress", "python", "writer", "reader", "content", (telecommuting)
+- I read:
+    - 2021 Chatter. The Voice in Our Head. Why it Matters and How to Harness It.
+- I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+- I updated:
+    - https://somethinguseful.medium.com/
+- I watched today's news on CNA and Channel 5.
+- I sorted my Yahoo emails.
 
 ### Tuesday (January 28) (slept after 11pm)
-- CNY Reunion Dinner
+- I read:
+    - 2021 Chatter. The Voice in Our Head. Why it Matters and How to Harness It.
+- 4pm-8pm CNY Reunion Dinner
+- I watched today's news on CNA and Channel 5.
+- I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
+- I updated:
+    - https://somethinguseful.medium.com/
 
 ### Wednesday (January 29) (bowels, slept after 11pm)
 - CNY
