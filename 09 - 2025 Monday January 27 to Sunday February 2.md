@@ -22,11 +22,23 @@
     - https://somethinguseful.medium.com/
 
 ### Wednesday (January 29) (bowels, slept after 11pm)
-- CNY
+- CNY: I attended to visits by relatives to my home.
+- I read:
+    - 2021 Chatter. The Voice in Our Head. Why it Matters and How to Harness It.
+- I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- I watched today's news on CNA and Channel 5.
 
 ### Thursday (January 30) (slept after 11pm)
 - CNY
-- Visit father at Nursing Home.
+- I visited my demented father at his Nursing Home with my mother and brother.
+- I read:
+    - 2022 Let's Talk - How to Have Better Conversations
+    - 2018 Talk - The Science of Conversation
+- I watched today's news on CNA and Channel 5, and Talking Point.
+- I updated:
+    - https://somethinguseful.medium.com/
+    - https://affiliate-program.amazon.com/home
+- I sorted my Yahoo emails.
 
 ### Friday (January 31) (bowels, slept after 11pm)
 
