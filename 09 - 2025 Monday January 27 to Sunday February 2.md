@@ -41,7 +41,11 @@
 - I sorted my Yahoo emails.
 
 ### Friday (January 31) (bowels, slept after 11pm)
-
+- I attended to visits by relatives and my mother's friends to my home.  
+- I read:
+    - 2018 Talk - The Science of Conversation
+- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- I watched today's news on CNA and Channel 5, and On The Red Dot.
 
 ### Saturday (February 1) (slept after 11pm)
 
