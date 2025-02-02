@@ -12,7 +12,7 @@
 - I watched today's news on CNA and Channel 5.
 - I sorted my Yahoo emails.
 
-### Tuesday (January 28) (slept after 11pm)
+### Tuesday (January 28) (shave, slept after 11pm)
 - I read:
     - 2021 Chatter. The Voice in Our Head. Why it Matters and How to Harness It.
 - 4pm-8pm CNY Reunion Dinner
@@ -21,7 +21,7 @@
 - I updated:
     - https://somethinguseful.medium.com/
 
-### Wednesday (January 29) (bowels, slept after 11pm)
+### Wednesday (January 29) (bowels, FBToothbrush, slept after 11pm)
 - CNY: I attended to visits by relatives to my home.
 - I read:
     - 2021 Chatter. The Voice in Our Head. Why it Matters and How to Harness It.
@@ -44,13 +44,34 @@
 - I attended to visits by relatives and my mother's friends to my home.  
 - I read:
     - 2018 Talk - The Science of Conversation
-- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
 - I watched today's news on CNA and Channel 5, and On The Red Dot.
 
-### Saturday (February 1) (slept after 11pm)
-
+### Saturday (February 1) (shave, slept after 11pm)
+- I read:
+    - 2023 Who Wrote This: How AI and the Lure of Efficiency Threaten Human Writing
+- I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+- I updated:
+    - https://somethinguseful.medium.com/
+- I watched today's news on CNA and Channel 5, and Money Mind.
+- I watched:
+    - https://www.youtube.com/watch?v=UkIrvSKIEgU
+    - https://www.youtube.com/watch?v=5LGwcBLGOio
+    - https://www.youtube.com/watch?v=pNKjfTDg1gE
+- I sorted my Yahoo emails.
 
 ### Sunday (February 2) (bowels, slept after 11pm)
+- I briefly read parts of today Sunday's Straits Times, and The Edge, and compiled them.
+- I read:
+    - 2023 Who Wrote This: How AI and the Lure of Efficiency Threaten Human Writing
+    - 2017 The Voices Within - The History and Science of How We Talk to Ourselves
+- I updated:
+    - https://somethinguseful.medium.com/
+- I watched today's news on CNA.
+- I sorted my Yahoo emails.
+- I watched:
+    - https://www.youtube.com/watch?v=HLbOWfwA-ME
+- I tested Deepseek 32B Qwen Distilled on LM Studio.
 
 
 
