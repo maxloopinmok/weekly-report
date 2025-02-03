@@ -1,5 +1,11 @@
 ### Monday (February 3) (slept after 11pm)
-
+- I pondered about inner voices and their implications for Christianity.
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - "web", "developer", "engineer", "logistics", "wordpress", "python", "writer", "reader", "content", (telecommuting)
+- I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+- I watched today's news on CNA and Channel 5.
+- I sorted my Yahoo emails.
 
 ### Tuesday (February 4) (bowels, slept after 11pm)
 
