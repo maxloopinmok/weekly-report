@@ -8,7 +8,14 @@
 - I sorted my Yahoo emails.
 
 ### Tuesday (February 4) (bowels, slept after 11pm)
-
+- I read:
+    - 2025 The Personal Branding Playbook - Turn Your Personality Into Your Competitive Advantage
+- I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
+- I updated:
+    - https://somethinguseful.medium.com/
+    - https://www.linkedin.com/in/max-loo-pin-mok/recent-activity/all/
+- I watched today's news on CNA and Channel 5.
+- I sorted my Yahoo emails.
 
 ### Wednesday (February 5) (slept after 11pm)
 
