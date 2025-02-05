@@ -17,11 +17,16 @@
 - I watched today's news on CNA and Channel 5.
 - I sorted my Yahoo emails.
 
-### Wednesday (February 5) (slept after 11pm)
-
+### Wednesday (February 5) (bowels, slept after 11pm)
+- I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- I updated:
+    - https://maxloopinmok.medium.com/
+- I sent email to SM Teo for employment help.
+- I sorted my Yahoo emails.
+- I watched today's news on CNA and Channel 5.
 
 ### Thursday (February 6) (bowels, slept after 11pm)
-
+- I may be hospitalised due to my chronic constipation medical condition flaring up again.
 
 ### Friday (February 7) (slept after 11pm)
 - Friday 7 February 2025 10.30am ACC/CRSS CNY Party
