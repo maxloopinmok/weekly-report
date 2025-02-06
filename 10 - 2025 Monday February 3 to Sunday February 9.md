@@ -2,12 +2,12 @@
 - I pondered about inner voices and their implications for Christianity.
 - I applied for jobs:
     - https://www.mycareersfuture.gov.sg/
-    - "web", "developer", "engineer", "logistics", "wordpress", "python", "writer", "reader", "content", (telecommuting)
+    - "web", "developer", "engineer", "logistics", "wordpress", "python", "writer", "reader", "content", "analyst", "assistant", "software", "data", (telecommuting)
 - I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
 - I watched today's news on CNA and Channel 5.
 - I sorted my Yahoo emails.
 
-### Tuesday (February 4) (bowels, slept after 11pm)
+### Tuesday (February 4) (bowels, shave, slept after 11pm)
 - I read:
     - 2025 The Personal Branding Playbook - Turn Your Personality Into Your Competitive Advantage
 - I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
@@ -17,7 +17,7 @@
 - I watched today's news on CNA and Channel 5.
 - I sorted my Yahoo emails.
 
-### Wednesday (February 5) (bowels, slept after 11pm)
+### Wednesday (February 5) (bowels, nose, slept after 11pm)
 - I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
 - I updated:
     - https://maxloopinmok.medium.com/
@@ -25,17 +25,29 @@
 - I sorted my Yahoo emails.
 - I watched today's news on CNA and Channel 5.
 
-### Thursday (February 6) (bowels, slept after 11pm)
-- I may be hospitalised due to my chronic constipation medical condition flaring up again.
+### Thursday (February 6) (slept after 11pm)
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - "analyst", "assistant", "software", "data", (telecommuting)
+- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- I watched:
+    - https://www.youtube.com/watch?v=BHbohHgXBQ4
+    - https://www.youtube.com/watch?v=e-EG3B5Uj78 (Run Deepseek R1 at Home on Hardware from $250 to $25,000: From Installation to Questions)
+- I sorted my Yahoo emails.
+- I watched today's news on CNA and Channel 5, and Talking Point.
+- I installed Phi4-Turn-R1Distill on LM Studio.
+- I updated:
+    - https://somethinguseful.medium.com/
+    - https://www.linkedin.com/in/max-loo-pin-mok/recent-activity/all/
 
-### Friday (February 7) (slept after 11pm)
-- Friday 7 February 2025 10.30am ACC/CRSS CNY Party
+### Friday (February 7) (bowels, slept after 11pm)
+- Friday 7 February 2025 10.30am ACC/CRSS CNY Party (Skipped due to bowels)
 
 
-### Saturday (February 8) (bowels, slept after 11pm)
+### Saturday (February 8) (slept after 11pm)
 
 
-### Sunday (February 9) (slept after 11pm)
+### Sunday (February 9) (bowels, slept after 11pm)
 
 
 
@@ -61,7 +73,7 @@
     - https://www.analyticsvidhya.com/blog/2024/12/top-small-language-models/
 
 # Upcoming Schedule
-- Monday 17 February 2025 4pm White Sands Koufu ACC Joseph Meetup
+- Monday 17 February 2025 4pm White Sands Koufu ACC Joseph Meetup (Skipped because no need)
 
 # Upcoming Medical Appointments
 - Monday 5 May 2025 3pm Pasir Ris Polyclinic: Lab (NF)
