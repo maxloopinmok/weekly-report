@@ -42,7 +42,17 @@
 
 ### Friday (February 7) (bowels, slept after 11pm)
 - Friday 7 February 2025 10.30am ACC/CRSS CNY Party (Skipped due to bowels)
-
+- I updated:
+    - https://maxloopinmok.medium.com/
+    - https://somethinguseful.medium.com/
+    - https://www.linkedin.com/in/max-loo-pin-mok/recent-activity/all/
+- I read:
+    - 2025 The Personal Branding Playbook - Turn Your Personality Into Your Competitive Advantage
+- I watched today's news on CNA and Channel 5, and On The Red Dot.
+- I picked a few books for future reading:
+    - 2019 Living in Flow - The Science of Synchronicity and How Your Choices Shape Your World
+    - 2020 The Serendipity Mindset
+    - 2022 The Science of Being Lucky
 
 ### Saturday (February 8) (slept after 11pm)
 
