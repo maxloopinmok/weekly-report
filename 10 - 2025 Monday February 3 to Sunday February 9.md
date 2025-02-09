@@ -25,7 +25,7 @@
 - I sorted my Yahoo emails.
 - I watched today's news on CNA and Channel 5.
 
-### Thursday (February 6) (slept after 11pm)
+### Thursday (February 6) (nails, slept after 11pm)
 - I applied for jobs:
     - https://www.mycareersfuture.gov.sg/
     - "analyst", "assistant", "software", "data", (telecommuting)
@@ -42,6 +42,7 @@
 
 ### Friday (February 7) (bowels, slept after 11pm)
 - Friday 7 February 2025 10.30am ACC/CRSS CNY Party (Skipped due to bowels)
+- I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
 - I updated:
     - https://maxloopinmok.medium.com/
     - https://somethinguseful.medium.com/
@@ -54,11 +55,39 @@
     - 2020 The Serendipity Mindset
     - 2022 The Science of Being Lucky
 
-### Saturday (February 8) (slept after 11pm)
-
+### Saturday (February 8) (shave, slept after 11pm)
+- I sent my brother off at the airport with my mother.
+- I visited Kinokuniya, and bought a book called "Scam" by Selina Dang.
+- I read:
+    - 2022 The Science of Being Lucky
+    - 2019 Living in Flow - The Science of Synchronicity and How Your Choices Shape Your World
+    - 2025 What’s Keeping You Broke - An Illustrated Guide to Financial Freedom
+    - 2025 Superbloom - How Technologies of Connection Tear Us Apart
+- I watched today's news on CNA and Channel 5, and Money Mind.
+- I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+- I watched:
+    - https://www.youtube.com/watch?v=0Dff8ekr7ek
+    - https://www.youtube.com/watch?v=u5lmGv93pGA
+    - https://www.youtube.com/watch?v=2xE4bopeXhw
+    - https://www.youtube.com/watch?v=cfs11RIKtI8
+    - https://www.youtube.com/watch?v=bGaXz_HjqHs
 
 ### Sunday (February 9) (bowels, slept after 11pm)
-
+- I read:
+    - 2025 Superbloom - How Technologies of Connection Tear Us Apart
+- I briefly read parts of today Sunday's Straits Times, and The Edge, and compiled them.
+- I updated:
+    - http://www.fiverr.com/s/Q754wz3
+- I read:
+    - 2022 The Science of Being Lucky
+- I updated:
+    - https://maxloopinmok.medium.com/
+- I watched today's news on CNA.
+- I watched:
+    - https://www.youtube.com/watch?v=HO7mt7d9Zp8
+    - https://www.youtube.com/watch?v=2zuiEvF81JY
+    - https://www.youtube.com/watch?v=2Y701bcVsMw
+    - https://www.youtube.com/watch?v=4Wa6St-uosY
 
 
 
@@ -75,6 +104,10 @@
 - Use ChatGPT for jobs recommendation.
 - I searched for e-books.
 - I searched for jobs.
+- Stabilise on some books and blog them.
+- Create selfntechbooksnopinions.
+- Advertise on Fiverr that I can create WordPress websites for payers.
+- Advertise on Fiverr that I can do Python scripting for payers.
 - try: https://notebooklm.google/
 - try zencoder.ai
 - how to check how many posts or pages website or web blog has in total?
