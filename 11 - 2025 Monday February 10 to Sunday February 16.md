@@ -1,5 +1,14 @@
 ### Monday (February 10) (slept after 11pm)
-
+- I failed to setup payout for Fiverr, and emailed Fiverr about it.
+- I updated:
+    - https://maxlooresume.wordpress.com/
+    - https://maxloopinmok.medium.com/
+    - https://somethinguseful.medium.com/
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - "web", "developer", "engineer", "logistics", "wordpress", "python", "writer", "reader", "content", "analyst", "assistant", "software", "data", (telecommuting)
+- I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+- I briefly read parts of last week's The Economist, and compiled them.
 
 ### Tuesday (February 11) (bowels, slept after 11pm)
 
