@@ -8,13 +8,19 @@
     - https://www.mycareersfuture.gov.sg/
     - "web", "developer", "engineer", "logistics", "wordpress", "python", "writer", "reader", "content", "analyst", "assistant", "software", "data", (telecommuting)
 - I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+- I watched today's news on CNA and Channel 5.
 - I briefly read parts of last week's The Economist, and compiled them.
+- I sorted my Yahoo emails.
 
 ### Tuesday (February 11) (bowels, slept after 11pm)
-
+- I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
+- I watched today's news on CNA and Channel 5.
+- I sorted my Yahoo emails.
+- I updated:
+    - https://maxloopinmok.medium.com/
 
 ### Wednesday (February 12) (slept after 11pm)
-- 2pm to 5pm SPD Talk??
+- 2pm to 5pm SPD Workshop at Redhill MRT, Enabling Village
 
 ### Thursday (February 13) (bowels, slept after 11pm)
 
