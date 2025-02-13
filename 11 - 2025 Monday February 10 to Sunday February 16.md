@@ -19,11 +19,22 @@
 - I updated:
     - https://maxloopinmok.medium.com/
 
-### Wednesday (February 12) (slept after 11pm)
+### Wednesday (February 12) (shave, slept after 11pm)
 - 2pm to 5pm SPD Workshop at Redhill MRT, Enabling Village
+- I visited Kinokuniya at Orchard Road.
+- I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- I read:
+    - This Is Why You Dream: What Your Sleeping Brain Reveals About Your Waking Life
+- I watched today's news on CNA and Channel 5.
+- I sorted my Yahoo emails.
 
 ### Thursday (February 13) (bowels, slept after 11pm)
-
+- I read:
+    - ChatGPT and the Future of AI: The Deep Language Revolution
+- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- I reported a couple of job scams I encountered to the scamshield.
+- I watched today's news on CNA and Channel 5, and Talking Point.
+- I sorted my Yahoo emails.
 
 ### Friday (February 14) (slept after 11pm)
 
