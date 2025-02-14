@@ -37,7 +37,16 @@
 - I sorted my Yahoo emails.
 
 ### Friday (February 14) (slept after 11pm)
-
+- I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
+- I read:
+    - ChatGPT and the Future of AI: The Deep Language Revolution
+- I watched today's news on CNA and Channel 5, and On The Red Dot.
+- I sorted my Yahoo emails.
+- I watched:
+    - https://www.youtube.com/watch?v=ZLtXXFcHNOU
+    - https://www.youtube.com/watch?v=Vu4mAdbbc80
+    - https://www.youtube.com/watch?v=6oSyPJMqiaU
+    - https://www.youtube.com/watch?v=AQrbIRJQ2zk
 
 ### Saturday (February 15) (bowels, slept after 11pm)
 
