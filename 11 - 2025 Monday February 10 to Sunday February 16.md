@@ -28,7 +28,7 @@
 - I watched today's news on CNA and Channel 5.
 - I sorted my Yahoo emails.
 
-### Thursday (February 13) (bowels, slept after 11pm)
+### Thursday (February 13) (bowels, FBToothbrush, slept after 11pm)
 - I read:
     - ChatGPT and the Future of AI: The Deep Language Revolution
 - I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
@@ -48,12 +48,36 @@
     - https://www.youtube.com/watch?v=6oSyPJMqiaU
     - https://www.youtube.com/watch?v=AQrbIRJQ2zk
 
-### Saturday (February 15) (bowels, slept after 11pm)
+### Saturday (February 15) (bowels, shave, slept after 11pm)
+- I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+- I read:
+    - 2019 Living in Flow - The Science of Synchronicity and How Your Choices Shape Your World
+- I watched today's news on CNA and Channel 5, and Money Mind.
+- I watched:
+    - https://www.youtube.com/watch?v=bP3Ha1BIuS0
+    - https://www.youtube.com/watch?v=_2tf_okiZh0
+    - https://www.youtube.com/watch?v=VjM1BES7u1w
+- Some books to read in future:
+    - 2023 Making Wise Decisions in a Smart World
+    - 2024 Profit Pillars
+    - 2025 Superagency - What Could Possibly Go Right with Our AI Future
+    - 2021 Great Power Politics in the Fourth Industrial Revolution
+    - 2021 Principles for Dealing with the Changing World Order - Why Nations Succeed and Fail
 
-
-### Sunday (February 16) (slept after 11pm)
-
-
+### Sunday (February 16) (nose, slept after 11pm)
+- I read:
+    - 2021 Principles for Dealing with the Changing World Order - Why Nations Succeed and Fail
+- I briefly read parts of today Sunday's Straits Times, and The Edge, and compiled them.
+- I briefly read parts of this week's The Economist, and compiled them.
+- I watched today's news on CNA and Channel 5.
+- I watched:
+    - https://www.youtube.com/watch?v=N8eC4zoeOfk
+    - https://www.youtube.com/watch?v=u1XPfpi5x24
+    - https://www.youtube.com/watch?v=jwlrS0p9jL8
+- I read:
+    - https://chatgpt.com/share/67ab879e-994c-800f-b5fa-8aedcc38c40a
+    - https://chatgpt.com/share/67af105a-f894-800f-9433-223213489050
+- I sorted my Yahoo emails.
 
 
 
@@ -81,12 +105,17 @@
     - https://www.analyticsvidhya.com/blog/2024/12/top-small-language-models/
 
 # Upcoming Schedule
-- Monday 17 February 2025 4pm White Sands Koufu ACC Joseph Meetup (Skipped because no need)
+- Monday 17 Feb 2025 4pm White Sands Koufu ACC Joseph Meetup (Skipped because no need)
+- Tuesday 18 Feb 2025 2pm See father at Nursing Home.
 
 # Upcoming Medical Appointments
 - Monday 5 May 2025 3pm Pasir Ris Polyclinic: Lab (NF)
-- Monday 12 May 2025 3pm Pasir Ris Polyclinic: NCC
-- Friday 8 August 2025 9.40am 4E - CGH-NNI Spine Centre (Knee)
-- Thursday 4 September 2025 9.30am 4E - CGH-NNI Spine Centre
-- Tuesday 23 September 2025 10.50am 3D - Digestive Diseases Centre @ CGH
+- Tuesday 13 May 2025 3pm Pasir Ris Polyclinic: NCC
+- Friday 16 May 2025 11.45am IMH Clinic B
+- Monday 2 June 2025 2.30pm SGH Neurology, Clinic L, BLK 3 L1 (Yellow Zone)
+- Friday 8 Aug 2025 9.40am 4E - CGH-NNI Spine Centre (Knee)
+- Thursday 4 Sep 2025 9.30am 4E - CGH-NNI Spine Centre
+- Tuesday 23 Sep 2025 10.50am 3D - Digestive Diseases Centre @ CGH
+- Thursday 2 Oct 2025 2pm Pasir Ris Polyclinic: RM 201
+- Thursday 9 Oct 2025 2.30pm Pasir Ris Polyclinic: RM 258
 - Friday 29 May 2026 9.15am 1A - SNEC Eye Clinic @ CGH
