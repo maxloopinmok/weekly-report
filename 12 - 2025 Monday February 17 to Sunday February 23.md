@@ -9,10 +9,22 @@
 - I sorted my Yahoo emails.
 - I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
 
-### Tuesday (February 18) (slept after 11pm)
+### Tuesday (February 18) (bowels, slept after 11pm)
+- I downloaded some ebooks.
+- I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
+- Tuesday 18 Feb 2025 2pm See father at Nursing Home, but had to leave due to running nose.
+- I visited Kinokuniya at Orchard Road.
+- I read:
+    - The Year in Tech, 2025
+    - 2024 You Weren't Supposed to See That
+- I watched today's news on CNA and Channel 5.
+- I watched:
+    - https://www.youtube.com/watch?v=-v1VW69NMIo
+    - https://www.youtube.com/watch?v=igDU0_R_oOM
+    - https://www.youtube.com/watch?v=INv6jlqyEhk
+- I sorted my Yahoo emails.
 
-
-### Wednesday (February 19) (bowels, slept after 11pm)
+### Wednesday (February 19) (slept after 11pm)
 
 
 ### Thursday (February 20) (slept after 11pm)
@@ -54,7 +66,6 @@
     - https://www.analyticsvidhya.com/blog/2024/12/top-small-language-models/
 
 # Upcoming Schedule
-- Tuesday 18 Feb 2025 2pm See father at Nursing Home.
 
 # Upcoming Medical Appointments
 - Monday 5 May 2025 3pm Pasir Ris Polyclinic: Lab (NF)
