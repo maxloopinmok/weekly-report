@@ -9,7 +9,7 @@
 - I sorted my Yahoo emails.
 - I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
 
-### Tuesday (February 18) (bowels, slept after 11pm)
+### Tuesday (February 18) (bowels failed, slept after 11pm)
 - I downloaded some ebooks.
 - I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
 - Tuesday 18 Feb 2025 2pm See father at Nursing Home, but had to leave due to running nose.
@@ -24,11 +24,20 @@
     - https://www.youtube.com/watch?v=INv6jlqyEhk
 - I sorted my Yahoo emails.
 
-### Wednesday (February 19) (slept after 11pm)
+### Wednesday (February 19) (bowels, slept after 11pm)
+- I read:
+    - 2024 How AI Will Change Your Life
+- I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- I responded to my Yahoo emails, including:
+    - sixtrees job opportunity
+- I watched today's news on CNA and Channel 5.
+- I sorted my Yahoo emails.
 
-
-### Thursday (February 20) (slept after 11pm)
-
+### Thursday (February 20) (nails, shave, slept after 11pm)
+- I visited a dentist, Dr Chen from Tah Chong, near Eunos MRT.
+- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- I briefly read this week's New Scientist.
+- I watched today's news on CNA and Channel 5, and Money Mind.
 
 ### Friday (February 21) (bowels, slept after 11pm)
 
