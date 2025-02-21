@@ -2,7 +2,7 @@
 - I applied for jobs:
     - https://www.mycareersfuture.gov.sg/
     - "web", "developer", "engineer", "wordpress", "python", "writer", "reader", "content", "analyst", "assistant", "software", "data", (telecommuting)
-    - "web"
+    - "web", "remote", "work from home"
 - I read:
     - 2023 Making Wise Decisions in a Smart World
 - I watched today's news on CNA and Channel 5.
@@ -39,8 +39,13 @@
 - I briefly read this week's New Scientist.
 - I watched today's news on CNA and Channel 5, and Money Mind.
 
-### Friday (February 21) (bowels, slept after 11pm)
-
+### Friday (February 21) (bowels, FToothbrush, slept after 11pm)
+- I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
+- I sorted my Yahoo emails.
+- I watched today's news on CNA and Channel 5, and On The Red Dot.
+- I watched:
+    - https://www.youtube.com/watch?v=y69boStq34U
+    - https://www.youtube.com/watch?v=2wZng5fqsTo
 
 ### Saturday (February 22) (slept after 11pm)
 
