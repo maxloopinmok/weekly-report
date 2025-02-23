@@ -48,10 +48,26 @@
     - https://www.youtube.com/watch?v=2wZng5fqsTo
 
 ### Saturday (February 22) (slept after 11pm)
-
+- I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+- I collected $50 from Dentist at Eunos.
+- I visited Kinokuniya at Orchard Road and bought sandals at Ion Orchard Teva.
+- I downloaded some ebooks.
+- I emailed Mistral my fan receipt for warranty registration.
+- I watched today's news on CNA and Channel 5, and Money Mind.
+- I watched:
+    - https://www.youtube.com/watch?v=P4V8zFaJsu0
+    - https://www.youtube.com/watch?v=O43tBAJd804
 
 ### Sunday (February 23) (bowels, slept after 11pm)
-
+- I briefly read parts of today Saturday's Straits Times, and The Edge, and compiled them.
+- I briefly read parts of this week's The Economist.
+- I read:
+    - 2024 The Stories of Your Life
+- I watched today's news on CNA and Channel 5.
+- I watched:
+    - https://www.youtube.com/watch?v=lXwMAUQUveY
+    - https://www.youtube.com/watch?v=wLh-krOwNaE
+- I did an AI assisted analysis of Seatrium.
 
 
 
@@ -69,11 +85,11 @@
 - I searched for e-books.
 - I searched for jobs.
 - Stabilise on some books and blog them.
-- Create selfntechbooksnopinions.
+- Create selfntech.
 - Create singaporestocks.
-- Advertise on Fiverr that I can create WordPress websites for payers.
 - try: https://notebooklm.google/
 - try zencoder.ai
+- check placebo vs nocebo
 - how to check how many posts or pages website or web blog has in total?
 - read:
     - https://www.analyticsvidhya.com/blog/2024/11/slms-vs-llms/
