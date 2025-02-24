@@ -1,5 +1,7 @@
 ### Monday (February 24) (slept after 11pm)
-- See doctor at Polyclinic.
+- I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+- I visited Pasir Ris and Tampines North Polyclinic without success, so I went to CGH A&E for a checkup after my fall last Saturday.
+- I watched today's news on CNA.
 
 ### Tuesday (February 25) (bowels, slept after 11pm)
 
