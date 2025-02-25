@@ -1,10 +1,16 @@
-### Monday (February 24) (slept after 11pm)
+### Monday (February 24) (shave, slept after 11pm)
 - I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
 - I visited Pasir Ris and Tampines North Polyclinic without success, so I went to CGH A&E for a checkup after my fall last Saturday.
 - I watched today's news on CNA.
 
 ### Tuesday (February 25) (bowels, slept after 11pm)
-
+- I read:
+    - 2023 The Uncertainty Solution - How to Invest With Confidence in the Face of the Unknown
+- I sorted my Yahoo emails.
+- I paid my Singtel Broadband bill.
+- I watched today's news on CNA and Channel 5.
+- I registered the warranty for my Mayer Mistral fan.
+- I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
 
 ### Wednesday (February 26) (slept after 11pm)
 - Visit NTUC Income near Bras Basah MRT.
@@ -16,6 +22,7 @@
 
 
 ### Saturday (March 1) (bowels, slept after 11pm)
+- Zoom Webinar Confirmation: Cultivating A Future-Ready Career Amidst AI Advancement | on 1 Mar 2025 10am-12pm
 
 
 ### Sunday (March 2) (slept after 11pm)
