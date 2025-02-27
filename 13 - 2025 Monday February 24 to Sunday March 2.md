@@ -14,11 +14,29 @@
 
 ### Wednesday (February 26) (slept after 11pm)
 - Visit NTUC Income near Bras Basah MRT.
+- Visit Kinokuniya at Orchard.
+- Haircut at Tampines One.
+- I watched today's news on CNA and Channel 5.
+- I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
 
 ### Thursday (February 27) (bowels, slept after 11pm)
-
+- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- I read:
+    - 2023 The Uncertainty Solution - How to Invest With Confidence in the Face of the Unknown
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - "web", "developer", "engineer", "wordpress", "python", "writer", "reader", "content", "analyst", "assistant", "software", "data", (telecommuting)
+    - "web", "remote", "work from home"
+- I watched today's news on CNA and Channel 5, and Talking Point.
+- I watched:
+    - https://www.youtube.com/watch?v=btaLViZ_bOE
+    - https://www.youtube.com/watch?v=di3-i6Z2EIc
+    - https://www.youtube.com/watch?v=0CrCpXAC2vA
+    - https://www.youtube.com/watch?v=tBG2ZfKYwao
+    - https://www.youtube.com/watch?v=0B9EMddwlOQ
 
 ### Friday (February 28) (slept after 11pm)
+- 3pm: Meet Touch Community representative at White Sands
 
 
 ### Saturday (March 1) (bowels, slept after 11pm)
