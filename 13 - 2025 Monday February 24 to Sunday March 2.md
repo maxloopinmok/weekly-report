@@ -28,6 +28,7 @@
     - "web", "developer", "engineer", "wordpress", "python", "writer", "reader", "content", "analyst", "assistant", "software", "data", (telecommuting)
     - "web", "remote", "work from home"
 - I watched today's news on CNA and Channel 5, and Talking Point.
+- I sorted my Yahoo emails.
 - I watched:
     - https://www.youtube.com/watch?v=btaLViZ_bOE
     - https://www.youtube.com/watch?v=di3-i6Z2EIc
@@ -35,9 +36,14 @@
     - https://www.youtube.com/watch?v=tBG2ZfKYwao
     - https://www.youtube.com/watch?v=0B9EMddwlOQ
 
-### Friday (February 28) (slept after 11pm)
-- 3pm: Meet Touch Community representative at White Sands
-
+### Friday (February 28) (shave, FBToothbrush, slept after 11pm)
+- I read:
+    - 2023 The Uncertainty Solution - How to Invest With Confidence in the Face of the Unknown
+- I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
+- 3pm-5pm: Meet Touch Community representative at White Sands
+- 5pm-8pm: dinner and search for sandals replacement.
+- 8pm-10pm: Meet MP Teo Chee Hean at Pasir Ris West MPS.
+- I watched today's news on CNA and Channel 5.
 
 ### Saturday (March 1) (bowels, slept after 11pm)
 - Zoom Webinar Confirmation: Cultivating A Future-Ready Career Amidst AI Advancement | on 1 Mar 2025 10am-12pm
