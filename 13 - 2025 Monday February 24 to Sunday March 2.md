@@ -44,13 +44,29 @@
 - 5pm-8pm: dinner and search for sandals replacement.
 - 8pm-10pm: Meet MP Teo Chee Hean at Pasir Ris West MPS.
 - I watched today's news on CNA and Channel 5.
+- I applied for various "technical writer" jobs at LinkedIn, including doing audio and video recordings.
 
 ### Saturday (March 1) (bowels, slept after 11pm)
-- Zoom Webinar Confirmation: Cultivating A Future-Ready Career Amidst AI Advancement | on 1 Mar 2025 10am-12pm
-
+- Zoom Webinar Confirmation: Cultivating A Future-Ready Career Amidst AI Advancement | on 1 Mar 2025 10am-12pm (MISSED)
+- I sorted my Yahoo emails.
+- I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+- I read:
+    - 2023 The Uncertainty Solution - How to Invest With Confidence in the Face of the Unknown
+- I watched today's news on CNA and Channel 5, and Money Mind and Born in 1965.
 
 ### Sunday (March 2) (slept after 11pm)
-
+- I visited St Andrew's Cathedral for 11.30am sermon.
+- I visited Kinokuniya at Orchard, and shopped for sandals at Ion Orchard, Tampines Mall and Century Square, and finally Pasir Ris Mall.
+- I read:
+    - 2023 The Uncertainty Solution - How to Invest With Confidence in the Face of the Unknown
+    - 2024 The Uncomfortable Truth About Money
+- I watched today's news on CNA and Channel 5.
+- I watched:
+    - https://www.youtube.com/watch?v=iakMgorRryQ
+    - https://www.youtube.com/watch?v=so-Oe1gCKcY
+    - https://www.youtube.com/watch?v=0PVdS2RQe7g
+- I briefly read parts of today Sunday's Straits Times, and The Edge, and compiled them.
+- I briefly read parts of this week's The Economist, and compiled them.
 
 
 
@@ -81,6 +97,7 @@
 # Upcoming Schedule
 
 # Upcoming Medical Appointments
+- Monday 10 March 2025 10.30am CGH 3C - General Surgery and Plastic Surgery Clinic
 - Monday 5 May 2025 3pm Pasir Ris Polyclinic: Lab (NF)
 - Tuesday 13 May 2025 3pm Pasir Ris Polyclinic: NCC
 - Friday 16 May 2025 11.45am IMH Clinic B
