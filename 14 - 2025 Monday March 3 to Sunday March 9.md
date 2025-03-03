@@ -1,5 +1,11 @@
 ### Monday (March 3) (bowels, slept after 11pm)
-
+- I received a telephone interview from Right Search.
+- I messaged Touch Community.
+- I read:
+    - 2024 The Uncomfortable Truth About Money
+- I watched today's news on CNA and Channel 5.
+- I sorted my Yahoo emails.
+- I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
 
 ### Tuesday (March 4) (slept after 11pm)
 
