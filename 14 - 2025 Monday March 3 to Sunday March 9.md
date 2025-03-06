@@ -11,6 +11,7 @@
 - I updated my resume:
     - https://maxlooresume.wordpress.com/
 - I applied for a job on LinkedIn.
+- I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
 - I read:
     - 2024 The Uncomfortable Truth About Money
 - I watched today's news on CNA and Channel 5.
@@ -20,10 +21,23 @@
     - https://www.youtube.com/watch?v=OloeYfH9Vuo
 
 ### Wednesday (March 5) (bowels, slept after 11pm)
+- I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- I corresponded with Touch Community.
+- I read:
+    - 2024 The Uncomfortable Truth About Money
+- I watched today's news on CNA and Channel 5.
+- I updated:
+    - https://maxlooresume.wordpress.com/
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - "web", "developer", "engineer", "wordpress", "python", "writer", "reader", "content", "analyst", "assistant", "software", "data", (telecommuting)
+    - "web", "remote", "work from home", "python"
 
-
-### Thursday (March 6) (slept after 11pm)
-
+### Thursday (March 6) (shave, slept after 11pm)
+- I read:
+    - 2024 The Uncomfortable Truth About Money
+- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- I watched today's news on CNA and Channel 5, and Talking Point.
 
 ### Friday (March 7) (bowels, slept after 11pm)
 
