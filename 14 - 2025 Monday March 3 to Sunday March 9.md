@@ -32,15 +32,28 @@
     - https://www.mycareersfuture.gov.sg/
     - "web", "developer", "engineer", "wordpress", "python", "writer", "reader", "content", "analyst", "assistant", "software", "data", (telecommuting)
     - "web", "remote", "work from home", "python"
+- I sorted my Yahoo emails.
 
 ### Thursday (March 6) (shave, slept after 11pm)
 - I read:
     - 2024 The Uncomfortable Truth About Money
 - I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
 - I watched today's news on CNA and Channel 5, and Talking Point.
+- I sorted my Yahoo emails.
 
 ### Friday (March 7) (bowels, slept after 11pm)
-
+- I read:
+    - 2024 The Uncomfortable Truth About Money
+    - 2025 Superagency - What Could Possibly Go Right with Our AI Future
+- I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
+- I watched today's news on CNA and Channel 5.
+- I watched:
+    - https://www.youtube.com/watch?v=2YPa9ocXcNg
+    - https://www.youtube.com/watch?v=AewSlJxMiew
+    - https://www.youtube.com/watch?v=X1rD3NhlIcE
+    - https://www.youtube.com/watch?v=2VV9INusMz0
+    - https://www.youtube.com/watch?v=wCF5jO28H0c
+    - https://www.youtube.com/watch?v=IACHfKmZMr8
 
 ### Saturday (March 8) (slept after 11pm)
 
