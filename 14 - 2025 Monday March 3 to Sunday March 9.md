@@ -56,10 +56,27 @@
     - https://www.youtube.com/watch?v=IACHfKmZMr8
 
 ### Saturday (March 8) (slept after 11pm)
+- I read:
+    - 2025 Superagency - What Could Possibly Go Right with Our AI Future
+    - 2024 Tune In - How to Make Smarter Decisions in a Noisy World
+    - 2023 Our Planet Powered by AI
+- I visited Punggol Library to borrow a book.
+- I visited Kinokuniya to review books and magazines.
+- I attended Saturday 4.45pm sermon at SAC St Andrews Cathedral.
+- I read:
+    - 2022 Growth by Choice: Make Space for the Better You
+- I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+- I downloaded a few ebooks.
+- I sorted my Yahoo emails.
 
-
-### Sunday (March 9) (bowels, slept after 11pm)
-
+### Sunday (March 9) (bowels, nails, slept after 11pm)
+- I read:
+    - 2020 The Art of Decision Making - How to make effective decisions under pressure
+    - 2022 Growth by Choice: Make Space for the Better You
+- I scanned parts of:
+    - 2022 Growth by Choice: Make Space for the Better You
+- I downloaded a few ebooks.
+- I watched yesterday's news on Channel 5.
 
 
 
@@ -83,11 +100,13 @@
 - try zencoder.ai
 - check placebo vs nocebo
 - how to check how many posts or pages website or web blog has in total?
-- read:
+- read/learn:
     - https://www.analyticsvidhya.com/blog/2024/11/slms-vs-llms/
     - https://www.analyticsvidhya.com/blog/2024/12/top-small-language-models/
+    - https://www.udemy.com/course/python-django-the-complete-django-web-development-course/?couponCode=LETSLEARNNOW
 
 # Upcoming Schedule
+- Monday 10 March 2025 3.30pm Zoom session with Touch Community
 
 # Upcoming Medical Appointments
 - Monday 10 March 2025 10.30am CGH 3C - General Surgery and Plastic Surgery Clinic
