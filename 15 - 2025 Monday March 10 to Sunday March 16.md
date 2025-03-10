@@ -1,7 +1,15 @@
 ### Monday (March 10) (slept after 11pm)
+- I read:
+    - 2024 Full-Stack Web Development with TypeScript 5
+    - 2024 Hands-On Microservices with JavaScript
+    - 2020 The Art of Decision Making - How to make effective decisions under pressure
 - Monday 10 March 2025 10.30am CGH 3C - General Surgery and Plastic Surgery Clinic
-- Monday 10 March 2025 3.30pm Zoom session with Touch Community
-
+- Monday 10 March 2025 4.30pm Zoom session with Touch Community
+- I applied for jobs:
+    - https://eservice1.enable.gov.sg/MSFPortal/new_Pages/EntrancePick/SGEEntrance.aspx
+- I watched yesterday's news on Channel 5.
+- I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+- I sorted my Yahoo emails.
 
 ### Tuesday (March 11) (bowels, slept after 11pm)
 
