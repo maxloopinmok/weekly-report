@@ -1,8 +1,9 @@
-### Monday (March 10) (slept after 11pm)
+### Monday (March 10) (shave, Ftoothbrush, slept after 11pm)
 - I read:
     - 2024 Full-Stack Web Development with TypeScript 5
     - 2024 Hands-On Microservices with JavaScript
     - 2020 The Art of Decision Making - How to make effective decisions under pressure
+- I started coding airport repo.
 - Monday 10 March 2025 10.30am CGH 3C - General Surgery and Plastic Surgery Clinic
 - Monday 10 March 2025 4.30pm Zoom session with Touch Community
 - I applied for jobs:
@@ -11,8 +12,20 @@
 - I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
 - I sorted my Yahoo emails.
 
-### Tuesday (March 11) (bowels, slept after 11pm)
-
+### Tuesday (March 11) (bowels, bedsheet, slept after 11pm)
+- I watched:
+    - https://www.youtube.com/watch?v=wSb784lNw_c
+    - https://www.youtube.com/watch?v=uckrkIlBFnI
+    - https://www.youtube.com/watch?v=Eh1zmDi0qN0
+    - https://www.youtube.com/watch?v=NecVve6E2wo
+    - https://www.youtube.com/watch?v=43ivaC5SuKE
+- I watched yesterday's news on Channel 5.
+- I read:
+    - https://openai.com/index/introducing-deep-research/
+    - https://openai.com/index/openai-o3-mini/
+- I continued coding airport repo.
+- I updated:
+    - https://github.com/maxloosmu/airport
 
 ### Wednesday (March 12) (slept after 11pm)
 
