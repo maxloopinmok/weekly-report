@@ -1,4 +1,4 @@
-### Monday (March 10) (shave, Ftoothbrush, slept after 11pm)
+### Monday (March 10) (shave, Ftoothbrush, slept after 10pm)
 - I read:
     - 2024 Full-Stack Web Development with TypeScript 5
     - 2024 Hands-On Microservices with JavaScript
@@ -18,7 +18,7 @@
     - https://www.youtube.com/watch?v=uckrkIlBFnI
     - https://www.youtube.com/watch?v=Eh1zmDi0qN0
     - https://www.youtube.com/watch?v=NecVve6E2wo
-    - https://www.youtube.com/watch?v=43ivaC5SuKE
+- https://www.youtube.com/watch?v=43ivaC5SuKE
 - I watched yesterday's news on Channel 5.
 - I read:
     - https://openai.com/index/introducing-deep-research/
@@ -27,8 +27,20 @@
 - I updated:
     - https://github.com/maxloosmu/airport
 
-### Wednesday (March 12) (slept after 11pm)
-
+### Wednesday (March 12) (slept after 10pm)
+- I continued coding airport repo: Logger Web App now works with sveltekit, nestjs, shadcn, kafka, prisma and postgresql.
+- I updated:
+    - https://github.com/maxloosmu/airport
+    - https://maxlooresume.wordpress.com/
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - "web", "developer", "engineer", "wordpress", "python", "writer", "reader", "content", "analyst", "assistant", "software", "data", (telecommuting)
+    - "web", "remote", "work from home", "python", "svelte"
+- I watched yesterday's news on Channel 5.
+- I briefly read parts of today Tuesday's and Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- I sorted my Yahoo emails.
+- I briefly watched last Saturday's Money Mind.
+- I briefly watched today's news on CNA.
 
 ### Thursday (March 13) (bowels, slept after 11pm)
 
