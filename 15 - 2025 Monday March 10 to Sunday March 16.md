@@ -43,7 +43,14 @@
 - I briefly watched today's news on CNA.
 
 ### Thursday (March 13) (bowels, slept after 11pm)
-
+- I read:
+    - 2024 Hands-On Microservices with JavaScript
+    - 2024 Hands-On Microservices with Django - Build cloud-native and reactive applications with Python using Django 5
+- I watched yesterday's news on Channel 5.
+- I watched today's news on CNA and Channel 5, and Talking Point.
+- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- I briefly watched CNA's Tech To Save The World.
+- I sorted my Yahoo emails.
 
 ### Friday (March 14) (slept after 11pm)
 
