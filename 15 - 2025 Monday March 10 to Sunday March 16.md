@@ -53,7 +53,13 @@
 - I sorted my Yahoo emails.
 
 ### Friday (March 14) (slept after 11pm)
-
+- I read:
+    - 2024 Hands-On Microservices with Django - Build cloud-native and reactive applications with Python using Django 5
+- I updated:
+    - https://github.com/maxloosmu/bookstore
+    - https://maxloo.pythonanywhere.com/
+    - https://maxlooresume.wordpress.com/
+- I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
 
 ### Saturday (March 15) (bowels, slept after 11pm)
 
@@ -90,6 +96,8 @@
     - https://www.udemy.com/course/python-django-the-complete-django-web-development-course/?couponCode=LETSLEARNNOW
 
 # Upcoming Schedule
+- Tuesday 18 March 2025 2pm Visit father at Nursing Home
+- Wednesday 19 March 2025 3pm Zoom meeting with Touch Community
 
 # Upcoming Medical Appointments
 - Monday 5 May 2025 3pm Pasir Ris Polyclinic: Lab (NF)
