@@ -52,7 +52,7 @@
 - I briefly watched CNA's Tech To Save The World.
 - I sorted my Yahoo emails.
 
-### Friday (March 14) (slept after 11pm)
+### Friday (March 14) (shave, FBToothbrush, slept after 11pm)
 - I read:
     - 2024 Hands-On Microservices with Django - Build cloud-native and reactive applications with Python using Django 5
 - I updated:
@@ -62,11 +62,28 @@
 - I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
 
 ### Saturday (March 15) (bowels, slept after 11pm)
-
+- I updated:
+    - https://github.com/maxloosmu/bookstore
+    - https://maxloo.pythonanywhere.com/
+    - https://maxlooresume.wordpress.com/
+- I read:
+    - 2024 Hands-On Microservices with Django - Build cloud-native and reactive applications with Python using Django 5
+- I watched yesterday's and today's news on Channel 5.
+- I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
 
 ### Sunday (March 16) (slept after 11pm)
-
-
+- I read:
+    - 2024 Hands-On Microservices with Django - Build cloud-native and reactive applications with Python using Django 5
+- I updated:
+    - https://github.com/maxloosmu/bookstore
+    - https://maxloo.pythonanywhere.com/
+    - https://maxlooresume.wordpress.com/
+    - I ended my coding with some unit testing.
+- I sorted my Yahoo emails.
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - "django"
+- I briefly read parts of today Sunday's Straits Times, and The Edge, and compiled them.
 
 
 
@@ -100,6 +117,7 @@
 - Wednesday 19 March 2025 3pm Zoom meeting with Touch Community
 
 # Upcoming Medical Appointments
+- Thursday 10 April 2025 9am Radiology - B1, Main Building, CGH
 - Monday 5 May 2025 3pm Pasir Ris Polyclinic: Lab (NF)
 - Tuesday 13 May 2025 3pm Pasir Ris Polyclinic: NCC
 - Friday 16 May 2025 11.45am IMH Clinic B
