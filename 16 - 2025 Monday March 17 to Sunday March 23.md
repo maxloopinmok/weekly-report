@@ -1,5 +1,19 @@
 ### Monday (March 17) (bowels, slept after 11pm)
-
+- I updated:
+    - https://maxlooresume.wordpress.com/
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+- I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+- I briefly read several pages of:
+    - 2025 Ultimate Web API Development with Django REST Framework
+- I briefly watched:
+    - https://www.youtube.com/watch?v=AeJDgOABbsk
+    - https://www.youtube.com/watch?v=URxcEKx6uuA
+    - https://www.youtube.com/watch?v=0p5tvH8lUFg
+    - https://www.youtube.com/watch?v=eMQulv3nVZk
+    - https://www.youtube.com/watch?v=18UWzTnXLjc
+    - https://www.youtube.com/watch?v=SMUnSUNhGmo
+    - https://www.youtube.com/watch?v=cMApO0UhqEs
 
 ### Tuesday (March 18) (slept after 11pm)
 - Tuesday 18 March 2025 2pm Visit father at Nursing Home
@@ -46,6 +60,7 @@
     - https://www.analyticsvidhya.com/blog/2024/12/top-small-language-models/
 
 # Upcoming Schedule
+- Sunday 1 June 2025 EMail Business Times to CANCEL SUBSCRIPTION
 
 # Upcoming Medical Appointments
 - Thursday 10 April 2025 9am Radiology - B1, Main Building, CGH
