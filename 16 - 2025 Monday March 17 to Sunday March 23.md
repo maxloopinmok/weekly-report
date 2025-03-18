@@ -15,9 +15,13 @@
     - https://www.youtube.com/watch?v=SMUnSUNhGmo
     - https://www.youtube.com/watch?v=cMApO0UhqEs
 
-### Tuesday (March 18) (slept after 11pm)
+### Tuesday (March 18) (slept after 10pm)
 - Tuesday 18 March 2025 2pm Visit father at Nursing Home
-
+- created and read:
+    - 2025-03-17 AI-Powered Real Estate Recommendation Agent – High-Level Technical Overview
+    - 2025-03-18 Latest Developments in Anti-Aging and Dementia Research
+    - 2025-03-18 Work-From-Home Job Opportunities (Tech & Flexible Roles)
+- I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
 
 ### Wednesday (March 19) (bowels, slept after 11pm)
 - Wednesday 19 March 2025 3pm Zoom meeting with Touch Community
