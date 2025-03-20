@@ -24,11 +24,19 @@
 - I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
 
 ### Wednesday (March 19) (bowels, slept after 11pm)
-- Wednesday 19 March 2025 3pm Zoom meeting with Touch Community
-
+- Wednesday 19 March 2025 3pm Zoom meeting with Touch Community (Forgot to attend because missing with selfie for UPWORK freelance platform)
+- selfie for UPWORK freelance platform FAILED.
+- I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- I tried to evaluate WP theme development and sales:
+    - https://www.youtube.com/watch?v=dTApuVkXFxk
+    - https://www.reddit.com/r/ProWordPress/comments/1fl7n0j/how_to_develop_and_sell_themes_as_a_professional/
 
 ### Thursday (March 20) (slept after 11pm)
-
+- I read:
+    - 2024 Hands-On Microservices with Django - Build cloud-native and reactive applications with Python using Django 5
+- Thursday 20 March 2025 3pm Zoom meeting with Touch Community 
+- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- I sorted my Yahoo emails.
 
 ### Friday (March 21) (bowels, slept after 11pm)
 
