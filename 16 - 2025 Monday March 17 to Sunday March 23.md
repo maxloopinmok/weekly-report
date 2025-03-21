@@ -1,4 +1,4 @@
-### Monday (March 17) (bowels, slept after 11pm)
+### Monday (March 17) (bowels, shave, slept after 11pm)
 - I updated:
     - https://maxlooresume.wordpress.com/
 - I applied for jobs:
@@ -31,20 +31,26 @@
     - https://www.youtube.com/watch?v=dTApuVkXFxk
     - https://www.reddit.com/r/ProWordPress/comments/1fl7n0j/how_to_develop_and_sell_themes_as_a_professional/
 
-### Thursday (March 20) (slept after 11pm)
+### Thursday (March 20) (slept after 7pm)
 - I read:
     - 2024 Hands-On Microservices with Django - Build cloud-native and reactive applications with Python using Django 5
 - Thursday 20 March 2025 3pm Zoom meeting with Touch Community 
 - I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
 - I sorted my Yahoo emails.
 
-### Friday (March 21) (bowels, slept after 11pm)
+### Friday (March 21) (bowels, shave, slept after 7pm)
+- I searched and downloaded a few ebooks.
+- I signed up with TikTok and Instagram.
+- I read:
+    - SCAM by Dr Selina Dang
+    - 2020 The Art of Decision Making - How to make effective decisions under pressure
+- I watched yesterday's news on Channel 5.
+- I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
+
+### Saturday (March 22) (slept after 7pm)
 
 
-### Saturday (March 22) (slept after 11pm)
-
-
-### Sunday (March 23) (bowels, slept after 11pm)
+### Sunday (March 23) (bowels, slept after 7pm)
 
 
 
