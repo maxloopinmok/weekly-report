@@ -48,11 +48,32 @@
 - I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
 
 ### Saturday (March 22) (slept after 7pm)
-
+- I read parts of:
+    - 2022 Growth by Choice: Make Space for the Better You
+    - 2020 The Art of Decision Making - How to make effective decisions under pressure
+    - 2024 SAMPLE - A Practitioner's Approach to Problem-Solving using AI ( volume 1)
+    - 2024 The Hidden Globe - How Wealth Hacks the World
+    - 2022 Direct Selling For Dummies
+    - 2024 From Startup To Success by Ariel Chew
+    - 2025 Wealth Unlocked
+- I sorted my Yahoo emails.
+- I watched yesterday's news on Channel 5.
+- I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+- I briefly read parts of this week's The Economist, and compiled them.
+- I visited Kinokuniya at Orchard Road and bought a book:
+    - 2024 From Startup To Success by Ariel Chew
+- I attended 4.45pm sermon at SAC.
+- I downloaded some ebooks.
 
 ### Sunday (March 23) (bowels, slept after 7pm)
-
-
+- I read parts of:
+    - 2025 Wealth Unlocked
+    - 2024 The Interpretation of Cats - Understanding the Psychology of Our Feline Companions
+    - 2024 2084 and the AI Revolution - Updated and Expanded Edition
+    - 2021 TikTok Boom - China's Dynamite App and the Superpower Race
+    - 2019 Heart and Hustle - Use your passion. Build your brand. Achieve your dreams.
+    - 2024 Making Friends as an Adult For Dummies
+- I briefly read parts of today Sunday's Straits Times, and The Edge, and compiled them.
 
 
 
@@ -78,6 +99,7 @@
     - https://www.analyticsvidhya.com/blog/2024/12/top-small-language-models/
 
 # Upcoming Schedule
+- Monday 24 March 2025 4pm WildFlower Studio interview at Enabling Village near Redhill MRT
 - Sunday 1 June 2025 EMail Business Times to CANCEL SUBSCRIPTION
 
 # Upcoming Medical Appointments
