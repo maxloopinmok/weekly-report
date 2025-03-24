@@ -1,6 +1,10 @@
 ### Monday (March 24) (slept after 7pm)
-- Monday 24 March 2025 4pm WildFlower Studio interview at Enabling Village near Redhill MRT
-
+- I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+- I read parts of:
+    - 2024 Making Friends as an Adult For Dummies
+- I visited Kinokuniya at Orchard Road.
+- Monday 24 March 2025 4pm-5.30pm WildFlower Studio interview at Enabling Village near Redhill MRT
+- I downloaded some ebooks.
 
 ### Tuesday (March 25) (bowels, slept after 7pm)
 
