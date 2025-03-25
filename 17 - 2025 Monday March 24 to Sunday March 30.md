@@ -1,13 +1,25 @@
-### Monday (March 24) (slept after 7pm)
+### Monday (March 24) (shave, slept after 7pm)
 - I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
 - I read parts of:
     - 2024 Making Friends as an Adult For Dummies
 - I visited Kinokuniya at Orchard Road.
 - Monday 24 March 2025 4pm-5.30pm WildFlower Studio interview at Enabling Village near Redhill MRT
 - I downloaded some ebooks.
+- I sorted my Yahoo emails.
 
-### Tuesday (March 25) (bowels, slept after 7pm)
-
+### Tuesday (March 25) (bowels, FToothbrush, slept after 7pm)
+- I did up "Max Loo Projects Portfolio" using Google Slides and sent to Touch Community.
+- I corresponded with e2i, and sent job applications or emails to Accenture, Allegis Group Singapore Pte Ltd, Amara Sanctuary Resort Sentosa, Amara Singapore, AMOY, Andaz Singapore, Avanade Asia Pte Ltd.
+- I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
+- I sorted my Yahoo emails.
+- I paid my SingTel Broadband bill online.
+- I plan to read:
+    - 2024 Profit Pillars
+    - 2025 The Archetype Effect
+    - 2023 The Decisive Mind - How to Make the Right Choice Every Time
+    - 2024 Your AI Survival Guide
+    - 2024 Mastering AI - A Survival Guide to Our Superpowered Future
+    - 2025 Your AI Roadmap - Actions to Expand Your Career, Money, and Joy
 
 ### Wednesday (March 26) (slept after 7pm)
 
