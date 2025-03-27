@@ -21,11 +21,37 @@
     - 2024 Mastering AI - A Survival Guide to Our Superpowered Future
     - 2025 Your AI Roadmap - Actions to Expand Your Career, Money, and Joy
 
-### Wednesday (March 26) (slept after 7pm)
+### Wednesday (March 26) (slept after 11pm)
+- I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- I read parts of:
+    - 2024 Making Friends as an Adult For Dummies
+    - 2023 The Decisive Mind - How to Make the Right Choice Every Time
+- I downloaded a few ebooks.
+- I puzzled over WordPress theme development and sales.
+- I sorted my Yahoo emails.
 
-
-### Thursday (March 27) (bowels, slept after 7pm)
-
+### Thursday (March 27) (bowels, nails, shave, slept after 7pm)
+- I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - "web", "developer", "engineer", "wordpress", "python", "writer", "reader", "content", "analyst", "assistant", "software", "data", (telecommuting)
+    - "web", "remote", "work from home", "python", "svelte", "django"
+- I updated SG Enable and SPD.
+- I applied for jobs:
+    - https://eservice1.enable.gov.sg/MSFPortal/EDS/CP/Pages/PWD/Home/Home.aspx#/?path=/Home/
+- I watched yesterday's news on Channel 5.
+- I watched parts of:
+    - https://www.youtube.com/watch?v=t5pwwCOyim8
+    - https://www.youtube.com/watch?v=RHteRywUhzo
+    - https://www.youtube.com/watch?v=EFxr6XLFsPY
+    - https://www.youtube.com/watch?v=wLLty2GoAuU
+    - https://www.youtube.com/watch?v=a9-_HqyjKEc
+    - https://www.youtube.com/watch?v=xk9Tsbr5ZDg
+    - https://www.youtube.com/watch?v=_qdaBXwiDqw
+- I read parts of:
+    - 2023 The Decisive Mind - How to Make the Right Choice Every Time
+- I downloaded a few ebooks.
+- I sorted my Yahoo emails.
+- I watched parts of today's news on CNA.
 
 ### Friday (March 28) (slept after 7pm)
 
@@ -61,6 +87,7 @@
 
 # Upcoming Schedule
 - Sunday 1 June 2025 EMail Business Times to CANCEL SUBSCRIPTION
+- Tuesday 15 April 2025 11am Touch Community's Arranged Interview
 
 # Upcoming Medical Appointments
 - Thursday 10 April 2025 9am Radiology - B1, Main Building, CGH
