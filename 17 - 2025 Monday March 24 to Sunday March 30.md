@@ -38,6 +38,7 @@
 - I updated SG Enable and SPD.
 - I applied for jobs:
     - https://eservice1.enable.gov.sg/MSFPortal/EDS/CP/Pages/PWD/Home/Home.aspx#/?path=/Home/
+- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
 - I watched yesterday's news on Channel 5.
 - I watched parts of:
     - https://www.youtube.com/watch?v=t5pwwCOyim8
@@ -54,7 +55,12 @@
 - I watched parts of today's news on CNA.
 
 ### Friday (March 28) (slept after 7pm)
-
+- I read parts of:
+    - 2023 The Decisive Mind - How to Make the Right Choice Every Time
+    - 2020 The Art of Decision Making - How to make effective decisions under pressure
+- I did a writeup: "Making Decisions".
+- I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
+- I downloaded a ebook.
 
 ### Saturday (March 29) (bowels, slept after 7pm)
 
