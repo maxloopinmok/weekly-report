@@ -62,11 +62,43 @@
 - I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
 - I downloaded a ebook.
 
-### Saturday (March 29) (bowels, slept after 7pm)
+### Saturday (March 29) (bowels, slept after 11pm)
+- I read parts of:
+    - 2008 Brian Tracy - Flight Plan, The Real Secret of Success
+        - I updated the book's bookmarks.
+    - 2023 The Decisive Mind - How to Make the Right Choice Every Time
+    - 2020 The Art of Decision Making - How to make effective decisions under pressure
+- I updated my writeup: "Making Decisions and Planning Ahead".
+- I downloaded a ebook.
+- I sorted my Yahoo emails.
+- I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+- I did a search for cheap mobile plans:
+    - https://www.singsaver.com.sg/telco/blog/best-sim-only-no-contract-plans-for-light-moderate-and-heavy-data-users
 
-
-### Sunday (March 30) (slept after 7pm)
-
+### Sunday (March 30) (slept after 11pm)
+- I briefly read parts of today Sunday's Straits Times, and The Edge, and compiled them.
+- I watched yesterday's news on Channel 5.
+- I watched last week's Talking Point, and last week's and this week's Money Mind.
+- I visited Kinokuniya and attended 4.30pm service at SAC.
+- I downloaded some ebooks.
+- I completed my writeup "The Art of Smart Decision Making - Aligning Goals, Habits, and Mindsets".
+- I reviewed:
+    - https://explodingtopics.com/blog/top-google-questions
+- I read parts of:
+    - 2023 The Decisive Mind - How to Make the Right Choice Every Time
+    - 2008 Brian Tracy - Flight Plan, The Real Secret of Success
+    - 2024 Profit Pillars
+    - 2025 The Archetype Effect
+    - 2020 How to Launch Your Side Hustle - Start and Scale a Business with Minimal Capital
+    - 2025 Passive Income for Beginners
+    - 2021 How to Start a Side Hustle
+    - 2020 How to Have a Happy Hustle - the Complete Guide to Making Your Ideas Happen
+    - 2025 The Super Upside Factor
+    - 2023 Clear Thinking
+    - 2021 Effortless - Make It Easier to Do What Matters Most
+    - 2013 Decisive - How to Make Better Choices in Life and Work
+    - 2014 Essentialism - The Disciplined Pursuit of Less
+    - 2017 Million Dollar Habits - Proven Power Practices to Double and Triple Your Income
 
 
 
