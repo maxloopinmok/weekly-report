@@ -1,5 +1,12 @@
-### Monday (March 31) (bowels, slept after 7pm)
-
+### Monday (March 31) (bowels, shave, FBToothbrush, slept after 7pm)
+- I read parts of:
+    - 2020 How to Launch Your Side Hustle - Start and Scale a Business with Minimal Capital
+    - 2021 How to Start a Side Hustle
+    - 2020 How to Have a Happy Hustle - the Complete Guide to Making Your Ideas Happen
+- I sorted through my Google accounts and removed some of them.
+- I renamed my Github account, transferred my repos, and deleted an account:
+    - https://docs.github.com/en/get-started/git-basics/managing-remote-repositories?platform=linux
+- I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
 
 ### Tuesday (April 1) (slept after 7pm)
 
