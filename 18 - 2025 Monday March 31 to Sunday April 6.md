@@ -8,8 +8,14 @@
     - https://docs.github.com/en/get-started/git-basics/managing-remote-repositories?platform=linux
 - I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
 
-### Tuesday (April 1) (slept after 7pm)
-
+### Tuesday (April 1) (fan, slept after 7pm)
+- I setup and updated:
+    - https://chooselifelongevity.blogspot.com/
+    - https://choosetolearnsolarenergy.blogspot.com/
+        - updated based on maxloosolarenergy.blogspot.com.
+- I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
+    - I had cancelled my Straits Times and The Edge subscription, leaving me with only Business Times.
+- I sorted my Yahoo emails.
 
 ### Wednesday (April 2) (bowels, slept after 7pm)
 
