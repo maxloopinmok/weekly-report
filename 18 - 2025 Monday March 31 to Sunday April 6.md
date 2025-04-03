@@ -13,17 +13,34 @@
     - https://chooselifelongevity.blogspot.com/
     - https://choosetolearnsolarenergy.blogspot.com/
         - updated based on maxloosolarenergy.blogspot.com.
+        - updated to https://choosesolarenergy.blogspot.com/
 - I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
     - I had cancelled my Straits Times and The Edge subscription, leaving me with only Business Times.
 - I sorted my Yahoo emails.
 
 ### Wednesday (April 2) (bowels, slept after 7pm)
+- I reviewed "AI-Powered Real Estate Recommendation Agent – High-Level Technical Overview".
+- I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- I corresponded with Wildflower and REA.
 
-
-### Thursday (April 3) (slept after 7pm)
-
+### Thursday (April 3) (shave, bedsheet, slept after 7pm)
+- Thursday, 3 April, 3:00 – 4:00pm interview for Real Estate Analytics - AI Engineer Position - Skipped 
+- I visited Pasir Ris Polyclinic.
+- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- I plan to read parts of:
+    - 2024 Your AI Survival Guide
+    - 2024 Mastering AI - A Survival Guide to Our Superpowered Future
+    - 2025 Your AI Roadmap - Actions to Expand Your Career, Money, and Joy
+    - 2023 Clear Thinking
+    - 2021 Effortless - Make It Easier to Do What Matters Most
+    - 2013 Decisive - How to Make Better Choices in Life and Work
+    - 2014 Essentialism - The Disciplined Pursuit of Less
+    - 2017 Million Dollar Habits - Proven Power Practices to Double and Triple Your Income
+- I downloaded a few ebooks.
+- I sorted my Yahoo emails.
 
 ### Friday (April 4) (bowels, slept after 7pm)
+- Friday 1.30pm Wildflower interview
 
 
 ### Saturday (April 5) (slept after 7pm)
