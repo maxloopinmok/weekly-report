@@ -40,8 +40,12 @@
 - I sorted my Yahoo emails.
 
 ### Friday (April 4) (bowels, slept after 7pm)
+- I read parts of:
+    - 2017 Million Dollar Habits - Proven Power Practices to Double and Triple Your Income
 - Friday 1.30pm Wildflower interview
-
+- I downloaded a few ebooks.
+- I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
+- I corresponded with redONE about there being no payment to make after the porting out of numbers, so the month of April should be prorated in redONE's May 1 bill.
 
 ### Saturday (April 5) (slept after 7pm)
 
@@ -79,6 +83,7 @@
 
 # Upcoming Medical Appointments
 - Thursday 10 April 2025 9am Radiology - B1, Main Building, CGH
+- Thursday 24 April 2025 11.10am CGH 3C, General Surgery
 - Monday 5 May 2025 3pm Pasir Ris Polyclinic: Lab (NF)
 - Tuesday 13 May 2025 3pm Pasir Ris Polyclinic: NCC
 - Friday 16 May 2025 11.45am IMH Clinic B
