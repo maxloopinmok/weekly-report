@@ -47,12 +47,22 @@
 - I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
 - I corresponded with redONE about there being no payment to make after the porting out of numbers, so the month of April should be prorated in redONE's May 1 bill.
 
-### Saturday (April 5) (slept after 7pm)
+### Saturday (April 5) (bowels, slept after 11pm)
+- I read parts of:
+    - 2017 Million Dollar Habits - Proven Power Practices to Double and Triple Your Income
+        - I compiled some questions from the book.
+- A cyclist accidentally collided with me after dinner and left me tending to my wounds after I got home.
+- I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+- I sorted my Yahoo emails.
 
-
-### Sunday (April 6) (bowels, slept after 7pm)
-
-
+### Sunday (April 6) (slept after 7pm)
+- I read parts of:
+    - 2017 Million Dollar Habits - Proven Power Practices to Double and Triple Your Income
+        - I compiled some questions from the book.
+    - 2025 The Archetype Effect
+- I downloaded a few ebooks.
+- I briefly read parts of today Sunday's Straits Times, and The Edge, and compiled them.
+- I reported my accident at Pasir Ris Police Station, collected my Zero1 SIM card at Harper Point near Tai Seng MRT, attended 11.30am sermon at SAC, and went to SGH A&E for a checkup.
 
 
 
