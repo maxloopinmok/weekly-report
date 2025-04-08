@@ -8,7 +8,14 @@
 - I watched today's news on Channel 5.
 
 ### Tuesday (April 8) (slept after 7pm)
-- Visit IMH to collect medicine.
+- I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
+- I read parts of:
+    - 2018 Atomic Habits
+    - 2019 Summary & Analysis of Atomic Habits
+- I visited Decathlon near Mountbatten MRT to get a skate scooter.
+- I visited IMH to collect medicine.
+- I sorted my Yahoo emails.
+- I watched yesterday's and today's news on CNA, and today's news on Channel 5.
 
 ### Wednesday (April 9) (bowels, slept after 7pm)
 
