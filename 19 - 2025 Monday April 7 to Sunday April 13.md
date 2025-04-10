@@ -18,14 +18,21 @@
 - I watched yesterday's and today's news on CNA, and today's news on Channel 5.
 
 ### Wednesday (April 9) (bowels, slept after 7pm)
-
+- I read through Wildflower's contract and requested for updates.
+- I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- I corresponded with Avensys.
 
 ### Thursday (April 10) (slept after 7pm)
 - Thursday 10 April 2025 9am Radiology - B1, Main Building, CGH
+- I visited Kinokuniya.
+- I downloaded a few ebooks.
 - 3pm Enabling Village, The Nest
+- I bought spare spectacles.
+- I finalised and submitted my contract to Wildflower.
+- I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
 
 ### Friday (April 11) (bowels, slept after 7pm)
-
+- 1.30pm Wildflower Zoom Meeting
 
 ### Saturday (April 12) (slept after 7pm)
 - Saturday 12 April 2025 10am to 12pm Touch Silent Club Office (Skipped because location in Bukit Merah too difficult to get to)
