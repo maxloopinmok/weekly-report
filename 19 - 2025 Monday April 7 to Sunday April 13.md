@@ -31,8 +31,26 @@
 - I finalised and submitted my contract to Wildflower.
 - I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
 
-### Friday (April 11) (bowels, slept after 7pm)
-- 1.30pm Wildflower Zoom Meeting
+### Friday (April 11) (bowels, slept after 11pm)
+- 12pm wake, lunch outside
+- 1.30pm-5.30pm Wildflower Zoom Meeting
+- 6pm dinner outside, return and bathe
+- 7.30pm review and download ebooks from NLB etc.
+- 8.30pm I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- 9.30pm I watched today's news on Channel 5 and CNA.
+- 10.30pm I watched parts of:
+    - https://www.youtube.com/watch?v=2OpHbyN4vEM
+    - https://www.youtube.com/watch?v=milPEW8XUK0
+    - https://www.youtube.com/watch?v=1AMMmBsiTV4
+    - https://www.youtube.com/watch?v=2aenIJ4C6ic
+- 11pm I read parts of:
+    - https://deepmind.google/discover/blog/taking-a-responsible-path-to-agi/
+- 11.40pm I watched parts of:
+    - https://www.youtube.com/watch?v=qfqEC2wXqDk
+    - https://www.youtube.com/watch?v=6nJZopACRuQ
+    - https://www.youtube.com/watch?v=bnNXIUdqnt0
+    - https://www.youtube.com/watch?v=iFVmNDTJQOQ
+- 12.40pm supper and sleep
 
 ### Saturday (April 12) (slept after 7pm)
 - Saturday 12 April 2025 10am to 12pm Touch Silent Club Office (Skipped because location in Bukit Merah too difficult to get to)
