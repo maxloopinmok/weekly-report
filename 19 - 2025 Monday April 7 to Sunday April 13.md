@@ -22,7 +22,7 @@
 - I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
 - I corresponded with Avensys.
 
-### Thursday (April 10) (slept after 7pm)
+### Thursday (April 10) (shave, slept after 7pm)
 - Thursday 10 April 2025 9am Radiology - B1, Main Building, CGH
 - I visited Kinokuniya.
 - I downloaded a few ebooks.
@@ -36,7 +36,7 @@
 - 1.30pm-5.30pm Wildflower Zoom Meeting
 - 6pm dinner outside, return and bathe
 - 7.30pm review and download ebooks from NLB etc.
-- 8.30pm I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- 8.30pm I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
 - 9.30pm I watched today's news on Channel 5 and CNA.
 - 10.30pm I watched parts of:
     - https://www.youtube.com/watch?v=2OpHbyN4vEM
@@ -50,14 +50,36 @@
     - https://www.youtube.com/watch?v=6nJZopACRuQ
     - https://www.youtube.com/watch?v=bnNXIUdqnt0
     - https://www.youtube.com/watch?v=iFVmNDTJQOQ
-- 12.40pm supper and sleep
+- 12.40am supper and sleep
+    - 1am I updated:
+        - [Cracking the Cancer Code: Survival Stats and Breakthrough Therapies Worldwide](https://somethinguseful.medium.com/cracking-the-cancer-code-survival-stats-and-breakthrough-therapies-worldwide-808db3738549)
 
-### Saturday (April 12) (slept after 7pm)
+### Saturday (April 12) (slept after 9pm)
 - Saturday 12 April 2025 10am to 12pm Touch Silent Club Office (Skipped because location in Bukit Merah too difficult to get to)
+- 11.40am I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+- 1pm lunch outside, goto kinokuniya.
+    - I read parts of:
+        - 2019 Summary & Analysis of Atomic Habits
+        - 2021 Small Actions - Leading Your Career To Big Success
+- 4.45pm attend SAC church service
+- 6.45pm arrive home, bathe.
+- 7.25pm I reviewed some news articles.
+- 8.20pm check WFS time table and enquire about work on Sunday.
+- 8.30pm I sorted my Yahoo emails, had supper, clean up, sleep.
 
-### Sunday (April 13) (bowels, slept after 7pm)
-
-
+### Sunday (April 13) (bowels, slept after 9pm)
+- 11.50am lunch outside, return home and bathe.
+- 1.40pm I read parts of:
+    - 2025 Rewrite Your Rules - The Journey to Success in Less Time with More Freedom
+- 2.40pm I briefly read parts of today Sunday's Straits Times, and The Edge, and compiled them.
+- 3.40pm I briefly read parts of this week's The Economist and compiled them.
+- 4.50pm I read parts of:
+    - 2025 Rewrite Your Rules - The Journey to Success in Less Time with More Freedom
+- 6pm dinner outside, return home and bathe.
+- 7.30pm reviewed medical appointments and updated WFS.
+- 8pm reviewed some python code.
+- 8.40pm updated weekly report
+- 9.10pm had supper, sleep
 
 
 
@@ -87,9 +109,8 @@
 - Sunday 1 June 2025 EMail Business Times to CANCEL SUBSCRIPTION
 
 # Upcoming Medical Appointments
+- Monday 21 April 2025 8.50am SGH Hand, Clinic K, BLK 3 L1 (Yellow Zone)
 - Thursday 24 April 2025 11.10am CGH 3C, General Surgery
-- Monday 5 May 2025 3pm Pasir Ris Polyclinic: Lab (NF)
-- Tuesday 13 May 2025 3pm Pasir Ris Polyclinic: NCC
 - Friday 16 May 2025 11.45am IMH Clinic B
 - Monday 2 June 2025 2.30pm SGH Neurology, Clinic L, BLK 3 L1 (Yellow Zone)
 - Friday 8 Aug 2025 9.40am 4E - CGH-NNI Spine Centre (Knee)
