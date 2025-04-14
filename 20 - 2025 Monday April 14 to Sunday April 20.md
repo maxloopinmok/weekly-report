@@ -1,5 +1,19 @@
-### Monday (April 14) (bowels, shave, slept after 7pm)
-
+### Monday (April 14) (bowels, shave, nails, slept after 11pm)
+- 11.15am message WFS and SPD.
+- 12pm lunch outside, return and bath.
+- 1.30pm work starts
+- 5.35pm work ends, dinner outside, return and bath.
+- 7.05pm attend to injuries
+- 7.15pm I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+    - I wrote a email letter to the Straits Times Forum:
+        - Singaporean Cyclists are VERY dangerous Pedestrain Pathways Users
+- 10pm I briefly watched parts of today's news on CNA.
+- 10.40pm I briefly watched parts of:
+    - https://www.youtube.com/watch?v=Amanp827pTc
+    - https://www.youtube.com/watch?v=2kzQM_BUe7E
+    - https://www.youtube.com/watch?v=ylpTqmR4GV8
+    - https://www.youtube.com/watch?v=MqmVmZ1HbKk
+- 12am had supper, sleep
 
 ### Tuesday (April 15) (slept after 7pm)
 
