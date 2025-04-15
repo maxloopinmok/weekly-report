@@ -15,8 +15,21 @@
     - https://www.youtube.com/watch?v=MqmVmZ1HbKk
 - 12am had supper, sleep
 
-### Tuesday (April 15) (slept after 7pm)
-
+### Tuesday (April 15) (slept after 10pm)
+- 12.50pm lunch outside, return home and bath, rest.
+- 3.15pm I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
+    - I also read: 
+        - https://www.independent.co.uk/health-and-wellbeing/mri-scan-injection-oxalic-acid-b2732737.html
+- 5.10pm I briefly watched parts of yesterday's news on Channel 5.
+- 5.35pm dinner outside, return home and bath.
+- 7.05pm reviewed a few articles at:
+    - https://maxloopinmok.medium.com/
+    - selected and read parts of the books:
+        - 2021 Small Actions - Leading Your Career To Big Success
+        - 2025 The Super Upside Factor
+    - sorted the books on my Kobo.
+- 9.28pm I watched today's news on Channel 5.
+- 9.55pm I had light supper, and slept.
 
 ### Wednesday (April 16) (bowels, slept after 7pm)
 
