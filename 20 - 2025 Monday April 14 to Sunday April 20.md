@@ -29,13 +29,25 @@
         - 2025 The Super Upside Factor
     - sorted the books on my Kobo.
 - 9.28pm I watched today's news on Channel 5.
-- 9.55pm I had light supper, and slept.
+- 9.55pm I sorted my Yahoo emails, downloaded a ebook, had light supper, and slept.
 
-### Wednesday (April 16) (bowels, slept after 7pm)
+### Wednesday (April 16) (bowels, slept after 10pm)
+- 12pm lunch outside, return home and bath.
+- 1.30pm work starts.
+- 5.35pm work ends, dinner outside, return home and bath.
+- 7.20pm File tax returns.
+- 7.55pm I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- 9.50pm I eat supper, and slept.
 
-
-### Thursday (April 17) (shave, slept after 7pm)
-
+### Thursday (April 17) (shave, FToothbrush, slept after 11pm)
+- 12pm lunch outside, return home and bath.
+- 1.30pm work starts.
+- 5.30pm work ends, dinner outside, go library, come home and bath.
+    - I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+    - 8.30pm-8.45pm troubleshoot new WIX and KLOOK bookings.
+- 9.25pm I watch parts of today's news on Channel 5, and Talking Point.
+- 10.50pm I sorted my Yahoo emails and downloaded a few ebooks.
+- 11.05pm eat supper and sleep.
 
 ### Friday (April 18) (bowels, slept after 7pm)
 
