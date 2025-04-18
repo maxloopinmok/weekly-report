@@ -49,15 +49,23 @@
 - 10.50pm I sorted my Yahoo emails and downloaded a few ebooks.
 - 11.05pm eat supper and sleep.
 
-### Friday (April 18) (bowels, slept after 7pm)
-
+### Friday (April 18) (bowels, slept after 11pm)
+- 12pm lunch outside, return home and bath.
+- 1.30pm I read parts of the book:
+    - 2019 Your Goal Guide - A Roadmap for Setting, Planning and Achieving Your Goals
+    - I did a brief writeup:
+        - "Goal Setting"
+- 5.45pm dinner outside, return home and bath.
+- 7.45pm I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
+- 10.20pm I downloaded a few ebooks and reviewed some books at NLB.
+- 11.45pm eat supper and sleep.
 
 ### Saturday (April 19) (slept after 7pm)
 
 
 ### Sunday (April 20) (bowels, slept after 7pm)
-
-
+- 
+- 1.30pm work starts.
 
 
 ## Routines
