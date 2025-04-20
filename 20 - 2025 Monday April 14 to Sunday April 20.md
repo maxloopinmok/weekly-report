@@ -58,14 +58,34 @@
 - 5.45pm dinner outside, return home and bath.
 - 7.45pm I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
 - 10.20pm I downloaded a few ebooks and reviewed some books at NLB.
-- 11.45pm eat supper and sleep.
+- 11.45pm eat supper and tried, but couldn't sleep.
+    - I read parts of the book:
+        - 2019 Your Goal Guide - A Roadmap for Setting, Planning and Achieving Your Goals
 
-### Saturday (April 19) (slept after 7pm)
+### Saturday (April 19) (slept after 11pm)
+- about 5am, setup a new gig on Fiverr.
+- about 7am, half sleep.
+- 12.10pm lunch outside, return home and bath.
+- 1.40pm I sorted my Yahoo emails.
+- 1.55pm I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+    - I briefly read parts of this week's The Economist and compiled them.
+- 3.15pm I updated my gigs at Fiverr:
+    - http://www.fiverr.com/s/8zapxWV
+    - http://www.fiverr.com/s/2K4dpkX
+- 3.50pm I goto SAC near City Hall MRT.
+    - 5pm I attended Holy Saturday service.
+    - 6pm I had dinner, and returned home and bath.
+- 8pm I read ChatGPT's "150 Ways to Make Money Online With No Upfront Budget".
+- 9.30pm I updated my Fiverr gig, but was swindled by the Fiverr Support Team, so I terminated my Fiverr account.
+- 11.15pm eat supper and sleep.
 
+### Sunday (April 20) (bowels, slept after 8pm)
+- 5am to 6am I briefly read parts of today Sunday's Straits Times and The Edge, and compiled them.
+- 12pm lunch outside, return home and bath.
+- 1.10pm work starts.
+- 6.10pm work ends, dinner outside, return home and bath.
+- 7.45pm I made daily records and sleep.
 
-### Sunday (April 20) (bowels, slept after 7pm)
-- 
-- 1.30pm work starts.
 
 
 ## Routines
