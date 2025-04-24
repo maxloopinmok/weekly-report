@@ -12,15 +12,32 @@
     - 2022 87 Ways to Make $100 daily Online
 - 7.30pm eat supper and sleep.
 
-### Tuesday (April 22) (bowels, slept after 8pm)
-
+### Tuesday (April 22) (bowels, slept after 7pm)
+- 12pm lunch outside, return home and bath.
+- 1.15pm start work.
+- 4.15pm stop work
+    - I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
+- 5.30pm dinner outside, return home, bathed.
+- 7pm not feeling well, sleep.
 
 ### Wednesday (April 23) (bowels, slept after 8pm)
-
+- 12pm lunch outside, return home and bath.
+- 1.30pm sleep again due to sickness.
+- 4pm start work.
+- 6pm stop work, dinner outside, return home and bath.
+- 7.30pm order groceries from Fairprice.
+- 8pm I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- 9.30pm I briefly watched today's news on Channel 5.
+- 10.15pm eat supper and sleep.
 
 ### Thursday (April 24) (shave, slept after 8pm)
 - Thursday 24 April 2025 11.10am CGH 3C, General Surgery
-
+- 2.45pm I saw doctor at Pasir Ris Polyclinic.
+- 3.30pm I went to library to read the news.
+    - I briefly scanned parts of last week's The Economist.
+- 4.30pm I had dinner, went home and bathed.
+- 6pm I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- I sorted my Yahoo emails.
 
 ### Friday (April 25) (bowels, slept after 8pm)
 
