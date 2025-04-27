@@ -39,14 +39,16 @@
 - 6pm I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
 - I sorted my Yahoo emails.
 
-### Friday (April 25) (bowels, slept after 8pm)
-
+### Friday (April 25) (bowels, FToothbrush, slept after 8pm)
+- I slept for most of day today due to sickness.
 
 ### Saturday (April 26) (slept after 8pm)
+- 2.30pm to 3.30pm I worked.
+- I slept for most of day today due to sickness, and caught up on news.
 
-
-### Sunday (April 27) (bowels, slept after 8pm)
-
+### Sunday (April 27) (bowels, slept after 11pm)
+- 1.30pm to 3.30pm I worked from home.
+- I slept for part of the day today due to persistent cough and running nose sickness, had complications in my bowels movements due to my sickness until nearly midnight, and caught up on the news at night.
 
 
 
