@@ -48,7 +48,7 @@
 
 ### Sunday (April 27) (bowels, nails, slept after 11pm)
 - 1.30pm to 3.30pm I worked from home.
-- I slept for part of the day today due to persistent cough and running nose sickness, had complications in my bowels movements due to my sickness (chronic constipation that could not move until nearly midnight after taking lots of medications), and caught up on the news at night.
+- I slept for part of the day today due to persistent cough and running nose sickness, had complications in my bowels movements due to my sickness (chronic constipation that could not move until nearly midnight after taking lots of medications)(bowels kept moving until after 3am), and caught up on the news at night.
 
 
 

@@ -1,5 +1,11 @@
 ### Monday (April 28) (shave, slept after 11pm)
-
+- 1pm lunch outside, return home and bath.
+- 2.45pm start work.
+- 5.45pm end work, dinner outside, return home and bath.
+- 7.40pm start work
+- 9.10pm end work.  I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+    - I watched today's news on Channel 5.
+- 1am eat supper, sleep.
 
 ### Tuesday (April 29) (bowels, slept after 11pm)
 
