@@ -8,13 +8,39 @@
 - 1am eat supper, sleep.
 
 ### Tuesday (April 29) (bowels, slept after 11pm)
+- 12.30pm lunch outside, return home and bath.
+- 2pm start work.
+- 6pm stop work, dinner outside, return home and bath.
+- 7.40pm I sorted my Yahoo emails, I downloaded a few ebooks.
+- 8pm I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
+    - I watched today's news on Channel 5.
+- 11.30pm I attempted some test coding, downloaded a ebook
+- 12.30am eat supper, and sleep.
 
-
-### Wednesday (April 30) (slept after 11pm)
-
+### Wednesday (April 30) (towels, slept after 11pm)
+- 12.20pm lunch outside, return home and bath.
+- 1.30pm start work.
+- 6pm stop work, dinner outside, return home and bath.
+- 8pm I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+    - I watched today's news on Channel 5.
+    - I chatted with co-workers, and visited the WFS TikTok and Instagram sites.
+- 1.30am I watched parts of these:
+    - https://www.youtube.com/watch?v=FEL_tFrtl8A
+    - https://www.youtube.com/watch?v=gk0PrTcZfGA
+    - https://www.youtube.com/watch?v=2TIXl2rlA6Q
+    - https://www.youtube.com/watch?v=1XvN5EBDnDw
+    - https://www.youtube.com/watch?v=EEMzZqLGLDk
+    - https://www.youtube.com/watch?v=on6JVZIrzKc
+- 3am eat supper and sleep.
 
 ### Thursday (May 1) (bowels, shave, slept after 11pm)
-
+- 1.50pm lunch outside, return home and bath.
+- 3.30pm sleep
+- 5pm I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+    - 6.30pm dinner outside, return home and bath.
+    - 8.30pm watched today's news and party political broadcasts on Channel 5.
+- 10.30pm I reviewed and downloaded ebooks based on NLB.
+- 1am eat supper and sleep.
 
 ### Friday (May 2) (slept after 11pm)
 
