@@ -43,7 +43,13 @@
 - 1am eat supper and sleep.
 
 ### Friday (May 2) (slept after 11pm)
-
+- 1pm lunch outside, travel to kinokuniya.
+- 4.30pm dinner outside, visited White Sands POSB, haircut at Elias Mall.
+- 6pm bath, downloaded ebooks, read:
+    - 2025 The Sweaty Startup - How to Get Rich Doing Boring Things
+- 8pm I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
+    - 10pm I watched today's news on CNA.
+- 12.15am eat supper, sleep.
 
 ### Saturday (May 3) (bowels, slept after 11pm)
 
