@@ -52,11 +52,24 @@
 - 12.15am eat supper, sleep.
 
 ### Saturday (May 3) (bowels, slept after 11pm)
-
+- 1pm polling time, lunch outside, return home and bath.
+- 3.30pm start work.
+- 5.30pm stop work, dinner outside, return home and bath.
+- 7.30pm read:
+    - 2025 When I Start My Business, I'll Be Happy
+- 9.30pm I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+    - 10.45pm I briefly watched parts of today's election results on Channel 5.
+    - 11.15pm I briefly read parts of this week's The Economist.
+- 12am I sorted my Yahoo emails, eat supper, and sleep.
 
 ### Sunday (May 4) (slept after 11pm)
-
-
+- 10.20am goto Bugis Challenger to buy Kobo Clara, lunch, return and bath.
+- 2pm start work.
+- 6pm stop work, dinner outside, return home and bath.
+- 7.30pm start work.
+- 8.30pm stop work, I briefly read parts of today Sunday's Straits Times, and The Edge, and compiled them.
+    - 9.30pm I watched today's news on Channel 5.
+- 11pm eat supper, sleep.
 
 
 
@@ -79,6 +92,7 @@
 
 # Upcoming Medical Appointments
 - Friday 16 May 2025 11.45am IMH Clinic B
+- Monday 26 May 2025 10.30am LA OT @ Clinic 2A Surgery Clinic @CGH
 - Monday 2 June 2025 2.30pm SGH Neurology, Clinic L, BLK 3 L1 (Yellow Zone)
 - Friday 8 Aug 2025 9.40am 4E - CGH-NNI Spine Centre (Knee)
 - Thursday 4 Sep 2025 9.30am 4E - CGH-NNI Spine Centre
