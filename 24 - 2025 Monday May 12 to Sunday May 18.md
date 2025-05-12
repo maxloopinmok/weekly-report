@@ -3,7 +3,10 @@
 - 2.30pm to 6pm work
 - 6pm eat dinner outside, return home, bath.
 - 7.30pm rest, organise tasks on github.
-- 
+- 8pm I sort my Yahoo emails, I downloaded ebooks, I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+    - 9.25pm I briefly watched today's news on Channel 5.
+    - 10.10pm I reviewed NLB's latest ebooks.
+- 10.50pm eat supper, sleep.
 
 ### Tuesday (May 13) (bowels, towels, slept after 11pm)
 
