@@ -1,4 +1,4 @@
-### Monday (May 12) (slept after 11pm)
+### Monday (May 12) (nails, FBToothbrush, slept after 11pm)
 - 1pm lunch outside, return home, and bath.
 - 2.30pm to 6pm work
 - 6pm eat dinner outside, return home, bath.
@@ -18,12 +18,31 @@
 - 10.50pm eat supper, sleep, and perhaps read some ebooks along the way.
 
 ### Wednesday (May 14) (slept after 11pm)
-
+- 10.30am go polyclinic, but failed to see doctor because doctors fully booked.
+- 11am go POSB and confirmed have to apply to FIDReC.
+- 12pm go lunch, go kinokuniya, return to Pasir Ris Mall.
+- 3.30pm eat dinner, return home, bath, sleep.
+- 5pm I briefly read these books:
+    - 2025 Create Once, Earn Forever
+    - 2025 Click - How to Make What People Want
+    - 2025 Business 101 for the Data Professional
+    - 2016 Small Data - The Tiny Clues That Uncover Huge Trends
+    - 7.30pm I managed my github tasks, downloaded ebooks, and reviewed latest NLB ebooks.
+- 8.20pm I sorted my Yahoo emails, I checked my bank account and created a payment receipt procedures file, I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+    - 9.20pm I briefly watched parts of today's news on Channel 5.
+- 12.30am eat supper, sleep.
 
 ### Thursday (May 15) (bowels, towels, slept after 11pm)
-
+- 12pm lunch outside, return home, and bath.
+- 2.05pm to 6.05pm work
+- 6pm eat dinner outside, return home, bath.
+- 7.30pm I sorted whatsapp messages, I message bro josh about ending contributions.
+- 8pm I sorted my Yahoo emails, I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+    - 9.40pm I briefly watched parts of today's Talking Point on Channel 5.
+- 11pm eat supper, sleep.
 
 ### Friday (May 16) (slept after 11pm)
+- Friday 16 May 2025 11.45am IMH Clinic B
 
 
 ### Saturday (May 17) (bowels, towels, slept after 11pm)
@@ -51,7 +70,6 @@
 - Sunday 1 June 2025 EMail Business Times to CANCEL SUBSCRIPTION
 
 # Upcoming Medical Appointments
-- Friday 16 May 2025 11.45am IMH Clinic B
 - Monday 26 May 2025 10.30am LA OT @ Clinic 2A Surgery Clinic @CGH
 - Monday 2 June 2025 2.30pm SGH Neurology, Clinic L, BLK 3 L1 (Yellow Zone)
 - Friday 8 Aug 2025 9.40am 4E - CGH-NNI Spine Centre (Knee)
