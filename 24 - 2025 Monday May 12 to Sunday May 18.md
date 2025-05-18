@@ -32,7 +32,7 @@
     - 9.20pm I briefly watched parts of today's news on Channel 5.
 - 12.30am eat supper, sleep.
 
-### Thursday (May 15) (bowels, towels, slept after 11pm)
+### Thursday (May 15) (bowels, shave, slept after 11pm)
 - 12pm lunch outside, return home, and bath.
 - 2.05pm to 6.05pm work
 - 6pm eat dinner outside, return home, bath.
@@ -43,12 +43,36 @@
 
 ### Friday (May 16) (slept after 11pm)
 - Friday 16 May 2025 11.45am IMH Clinic B
-
+- 3.10pm Pasir Ris Polyclinic medical appointment
+- 5pm dinner outside, return home, bath.
+- 7pm I briefly read parts of these books:
+    - 2022 The Age-Proof Brain - New Strategies to Improve Memory, Protect Immunity, and Fight Off Dementia
+    - 2025 The Ageless Brain
+- 9.15pm I watched today's and yesterday's news on Channel 5.
+- 10.10pm I sorted my Yahoo emails, downloaded ebooks, reviewed new NLB ebooks.
+- 10.30pm I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
+- 12am eat supper, sleep.
 
 ### Saturday (May 17) (bowels, towels, slept after 11pm)
-
+- 12pm lunch outside, return home, and bath.
+- 1.35pm to 5.35pm work
+- 5.40pm dinner outside, return home, bath.
+- 7pm I briefly read parts of this book:
+    - 2022 The Age-Proof Brain - New Strategies to Improve Memory, Protect Immunity, and Fight Off Dementia
+- 8.40pm I journalled, I reviewed the latest ebooks in NLB.
+    - 9.20pm I briefly watched today's news on Channel 5.
+- 10pm I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+    - I briefly read parts of this week's The Economist and compiled them.
+- 12.45pm eat supper, sleep.
 
 ### Sunday (May 18) (slept after 11pm)
+- 12.10pm lunch outside, return home, and bath.
+- 1.45pm to 5.45pm work
+- 6pm dinner outside, return home, bath.
+- 7.30pm I briefly read parts of this week's The Economist.
+    - I briefly read parts of today Sunday's Straits Times, and The Edge, and compiled them.
+    - 9.25pm I briefly watched today's news on Channel 5, and yesterday's Money Mind.
+- 10.30pm eat supper, sleep, and maybe read some books.
 
 
 
