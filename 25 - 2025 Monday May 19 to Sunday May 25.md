@@ -1,5 +1,15 @@
 ### Monday (May 19) (bowels, shave, slept after 11pm)
-
+- 11.50am lunch outside, return home, and bath.
+- 1.30pm to 5.30pm work
+- 5.45pm dinner outside, return home, bath.
+- 7.15pm I briefly read parts of this book:
+    - 2024 Memory Lane - The Perfectly Imperfect Ways We Remember
+- 8pm I briefly troubleshoot my work memory and sent message to Darius.
+    - I sorted my Yahoo emails.
+    - I downloaded ebooks and reviewed latest ebooks from NLB.
+- 8.45pm I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+    - 9.25pm I briefly watched parts of today's news on Channel 5.
+- 12am eat supper, sleep.
 
 ### Tuesday (May 20) (slept after 11pm)
 
