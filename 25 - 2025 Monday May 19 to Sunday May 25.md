@@ -1,4 +1,4 @@
-### Monday (May 19) (bowels, shave, slept after 11pm)
+### Monday (May 19) (bowels, towels, shave, slept after 11pm)
 - 11.50am lunch outside, return home, and bath.
 - 1.30pm to 5.30pm work
 - 5.45pm dinner outside, return home, bath.
@@ -12,7 +12,13 @@
 - 12am eat supper, sleep.
 
 ### Tuesday (May 20) (slept after 11pm)
-
+- 12.20pm lunch outside, return home, and bath.
+- 1.50pm to 5.50pm work
+- 6pm dinner outside, return home, bath.
+- 7.40pm I updated my medical records, I sorted and replied my Yahoo emails, I downloaded ebooks.
+- 8.10pm I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
+    - 9.25pm I briefly watched parts of today's news on Channel 5.
+- 10.40pm eat supper, sleep, and maybe read some books.
 
 ### Wednesday (May 21) (bowels, towels, slept after 11pm)
 
