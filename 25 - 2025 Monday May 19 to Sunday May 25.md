@@ -21,9 +21,31 @@
 - 10.40pm eat supper, sleep, and maybe read some books.
 
 ### Wednesday (May 21) (bowels, towels, slept after 11pm)
-
+- 12pm lunch outside, return home, and bath.
+- 1.30pm to 5.30pm work
+- 5.50pm dinner outside, return home, bath.
+- 7.05pm I sent my accident news to friends using WhatsApp.
+- 7.25pm I struggled with my bowels, and briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+    - 9.20pm I briefly watched parts of today's news on Channel 5 and CNA.
+    - I briefly watched parts of these:
+        - https://www.youtube.com/watch?v=8g7a0IWKDRE
+        - https://www.youtube.com/watch?v=GhIJs4zbH0o
+        - https://www.youtube.com/watch?v=TnCDM1IdGFE
+    - I briefly read parts of this:
+        - https://arxiv.org/abs/2504.01848
+- 12.10pm I sorted my Yahoo emails, eat supper, and sleep.
 
 ### Thursday (May 22) (slept after 11pm)
+- 12.30pm lunch outside, return home, and bath.
+- 2.20pm I briefly read parts of this book:
+    - 2024 Why We Remember - Unlocking Memory's Power to Hold on to What Matters
+- 4.20pm Dolphin Aircon technician came by to clean our aircon.
+- 5.30pm dinner outside, return home, bath.
+- 7pm I briefly read parts of this book:
+    - 2024 Why We Remember - Unlocking Memory's Power to Hold on to What Matters
+- 8pm I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+    - 9.30pm I briefly watched Talking Point on Channel 5, and news on CNA.
+- 11.20pm eat supper, sleep.
 
 
 ### Friday (May 23) (bowels, towels, slept after 11pm)
