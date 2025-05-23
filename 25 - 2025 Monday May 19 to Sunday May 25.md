@@ -20,7 +20,7 @@
     - 9.25pm I briefly watched parts of today's news on Channel 5.
 - 10.40pm eat supper, sleep, and maybe read some books.
 
-### Wednesday (May 21) (bowels, towels, slept after 11pm)
+### Wednesday (May 21) (bowels, slept after 11pm)
 - 12pm lunch outside, return home, and bath.
 - 1.30pm to 5.30pm work
 - 5.50pm dinner outside, return home, bath.
@@ -35,7 +35,7 @@
         - https://arxiv.org/abs/2504.01848
 - 12.10pm I sorted my Yahoo emails, eat supper, and sleep.
 
-### Thursday (May 22) (slept after 11pm)
+### Thursday (May 22) (bottles, slept after 11pm)
 - 12.30pm lunch outside, return home, and bath.
 - 2.20pm I briefly read parts of this book:
     - 2024 Why We Remember - Unlocking Memory's Power to Hold on to What Matters
@@ -47,9 +47,16 @@
     - 9.30pm I briefly watched Talking Point on Channel 5, and news on CNA.
 - 11.20pm eat supper, sleep.
 
-
 ### Friday (May 23) (bowels, towels, slept after 11pm)
-
+- 12.40pm lunch outside, return home, and bath.
+- 2pm to 4.30pm work
+- 4.30pm I read parts of today's news on Business Times, and compiled them.
+- 5.10pm dinner outside, return home, bath.
+- 7pm to 9pm work
+- 9.15pm I briefly watched parts of today's news on Channel 5.
+- 9.40pm I read parts of today's news on Straits Times, and compiled them.
+- 11.20pm I sorted my Yahoo emails, downloaded ebooks, reviewed NLB's latest ebooks.
+- 1.35am I briefly read Alset's Annual Report, eat supper, sleep.
 
 ### Saturday (May 24) (slept after 11pm)
 
