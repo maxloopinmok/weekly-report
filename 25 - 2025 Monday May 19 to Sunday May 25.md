@@ -59,10 +59,23 @@
 - 1.35am I briefly read Alset's Annual Report, eat supper, sleep.
 
 ### Saturday (May 24) (slept after 11pm)
+- 12.45pm lunch outside, return home, and bath.
+- 2.15pm to 5.45pm work
+- 5.55pm to 7.30pm dinner outside, return home, bath.
+- 7.40pm I downloaded ebooks, I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+    - 8.30pm I briefly watched parts of today's news on CNA, and Money Mind.
+    - I briefly watched parts of this:
+        - https://www.youtube.com/watch?v=6aGnTgkw0kA
+- 11.10pm I briefly read parts of this week's The Economist, and compiled them.
+- 11.45pm eat supper, sleep.
 
-
-### Sunday (May 25) (bowels, towels, slept after 11pm)
-
+### Sunday (May 25) (bowels, towels, slept after 10pm)
+- 12pm lunch outside, return home, and bath.
+- 1.30pm to 5.30pm work
+- 5.45pm to 7.30pm dinner outside, return home, bath.
+- 7.30pm I briefly read parts of today Sunday's Straits Times, and The Edge, and compiled them.
+    - 8.25pm I briefly watched today's news on CNA, Channel 5, and Into the Vault 3.
+- 9.55pm eat supper, sleep
 
 
 
