@@ -75,7 +75,7 @@
 - 5.45pm to 7.30pm dinner outside, return home, bath.
 - 7.30pm I briefly read parts of today Sunday's Straits Times, and The Edge, and compiled them.
     - 8.25pm I briefly watched today's news on CNA, Channel 5, and Into the Vault 3.
-- 9.55pm eat supper, sleep
+- 9.55pm I sorted my Yahoo emails, eat supper, sleep
 
 
 
