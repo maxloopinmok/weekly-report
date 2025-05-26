@@ -1,8 +1,17 @@
-### Monday (May 26) (slept after 11pm)
+### Monday (May 26) (bowels, slept after 11pm)
 - Monday 26 May 2025 9.30am LA OT @ Clinic 2A Surgery Clinic @CGH
+- 2pm I briefly read parts of this book:
+    - 2025 Become Time Rich
+- 2.45pm sleep
+- 4pm to 5pm work
+- 5pm I downloaded ebooks, I reviewed the latest NLB ebooks.
+    - 6.30pm eat dinner
+    - 7pm onwards, bowels irregularities.
+- 8pm I sorted my Yahoo emails, I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+    - I briefly watched parts of today's news on Channel 5.
+- 11.10pm eat supper, bath, sleep.
 
-
-### Tuesday (May 27) (bowels, towels, slept after 11pm)
+### Tuesday (May 27) (slept after 11pm)
 
 
 ### Wednesday (May 28) (bowels, towels, slept after 11pm)
