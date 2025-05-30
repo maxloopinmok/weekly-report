@@ -50,9 +50,20 @@
 - 10pm I briefly watched the news on CNA.
 - 11.30pm I sorted my Yahoo emails, I reviewed the latest ebooks at NLB.
 - 12am eat supper, sleep.
+- 1am I wrote another reply to LTA on ST Forum.
 
 ### Friday (May 30) (bowels, towels, slept after 11pm)
-
+- 12.30pm lunch outside, return home, and bath.
+- 2pm to 6pm work
+- 6pm settle salary issues, I briefly read parts of this book:
+    - 2023 Why We Forget and How To Remember Better - The Science Behind Memory
+    - 6.30pm eat dinner at home, receive CGH delivery, bath.
+- 7.50pm I sorted my Yahoo emails, I downloaded a ebook, I briefly reviewed NLB's ebooks.
+- 8.10pm I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
+    - I briefly watched today's news on CNA and Channel 5.
+    - I posted on Medium:
+        - https://medium.com/@somethinguseful/heart-and-brain-under-siege-tackling-the-worlds-deadliest-killers-4afa7eccdfd3
+- 11.45pm eat supper, sleep.
 
 ### Saturday (May 31) (slept after 11pm)
 
