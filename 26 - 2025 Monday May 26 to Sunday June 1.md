@@ -55,7 +55,7 @@
 ### Friday (May 30) (bowels, towels, slept after 11pm)
 - 12.30pm lunch outside, return home, and bath.
 - 2pm to 6pm work
-- 6pm settle salary issues, I briefly read parts of this book:
+- 6pm settle salary issues, dinner at home, I briefly read parts of this book:
     - 2023 Why We Forget and How To Remember Better - The Science Behind Memory
     - 6.30pm eat dinner at home, receive CGH delivery, bath.
 - 7.50pm I sorted my Yahoo emails, I downloaded a ebook, I briefly reviewed NLB's ebooks.
@@ -65,10 +65,25 @@
         - https://medium.com/@somethinguseful/heart-and-brain-under-siege-tackling-the-worlds-deadliest-killers-4afa7eccdfd3
 - 11.45pm eat supper, sleep.
 
-### Saturday (May 31) (slept after 11pm)
-
+### Saturday (May 31) (nails, slept after 11pm)
+- 12.30pm lunch outside, return home, and bath.
+- 2pm to 6pm work
+- 6.10pm eat dinner, return home, bath.
+- 7.45pm I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+    - 8.25pm I briefly watched today's news on CNA and Channel 5.
+    - 11.20pm I wrote another letter to ST Forum.
+- 11.45pm eat supper, sleep.
 
 ### Sunday (June 1) (bowels, towels, slept after 11pm)
+- 12.20pm lunch outside, return home, and bath.
+- 2pm to 6pm work
+- 6.10pm eat dinner, return home, bath.
+- 7.45pm I sorted parts of my Yahoo emails, downloaded a ebook, and reviewed the latest ebooks from NLB.
+    - I struggled to move my bowels and resorted to fleet enema.
+    - 9.25pm I briefly watched today's news on Channel 5.
+    - 10.50pm I downloaded several ebooks.
+    - 11.45pm I briefly watched this week's Talking Point.
+- 12am eat supper, sleep.
 
 
 
@@ -90,6 +105,8 @@
 
 # Upcoming Medical Appointments
 - Monday 2 June 2025 2.30pm SGH Neurology, Clinic L, BLK 3 L1 (Yellow Zone)
+- Friday 6 June 2025, 02:00 PM at Pasir Ris Polyclinic
+- Thursday 12-Jun-25 9:40 AM, B1 Radiology, CGH Main Building.
 - Friday 8 Aug 2025 9.40am 4E - CGH-NNI Spine Centre (Knee)
 - Tuesday 23 Sep 2025 10.50am 3D - Digestive Diseases Centre @ CGH
 - Thursday 2 Oct 2025 2pm Pasir Ris Polyclinic: RM 201
