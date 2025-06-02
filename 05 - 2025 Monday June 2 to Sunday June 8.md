@@ -1,6 +1,15 @@
 ### Monday (June 2) (slept after 11pm)
 - Monday 2 June 2025 2.30pm SGH Neurology, Clinic L, BLK 3 L1 (Yellow Zone)
-
+- 4pm I visited Kinokuniya.
+- 5.45pm dinner at Tampines Koufu, return home, bath.
+- 7pm I downloaded several ebooks.
+- 7.30pm I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+    - I briefly read parts of this book:
+        - 2023 Why We Forget and How To Remember Better - The Science Behind Memory
+    - 8pm I briefly read last week's compiled The Economist.
+    - 9.25pm I briefly watched parts of today's news on Channel 5, and Kumar Vs The World.
+- 11pm I sorted my Yahoo emails.
+- 11.10pm eat supper, sleep.
 
 ### Tuesday (June 3) (bowels, towels, slept after 11pm)
 
