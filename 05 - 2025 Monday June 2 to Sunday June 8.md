@@ -12,7 +12,15 @@
 - 11.10pm eat supper, sleep.
 
 ### Tuesday (June 3) (bowels, towels, slept after 11pm)
-
+- 12.10pm lunch outside, return home, and bath.
+- 1.45pm to 5.45pm work
+- 6pm to 7.30pm dinner outside, return home, bath.
+- 7.30pm to 8pm work
+- 8.10pm downloaded a ebook, reviewed latest ebooks from NLB, I sorted my Yahoo emails.
+    - I read a few articles about solutions for Alzheimer's Disease.
+- 9.15pm I briefly watched parts of the news on Channel 5.
+- 9.45pm I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
+- 11.30pm eat supper, sleep.
 
 ### Wednesday (June 4) (slept after 11pm)
 
@@ -22,6 +30,7 @@
 
 ### Friday (June 6) (slept after 11pm)
 - Friday 6 June 2025, 02:00 PM at Pasir Ris Polyclinic
+- 3pm White Sands Koufu meeting with ACC case manager.
 
 
 ### Saturday (June 7) (bowels, towels, slept after 11pm)
