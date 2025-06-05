@@ -1,4 +1,4 @@
-### Monday (June 2) (slept after 11pm)
+### Monday (June 2) (shave, slept after 11pm)
 - Monday 2 June 2025 2.30pm SGH Neurology, Clinic L, BLK 3 L1 (Yellow Zone)
 - 4pm I visited Kinokuniya.
 - 5.45pm dinner at Tampines Koufu, return home, bath.
@@ -22,11 +22,27 @@
 - 9.45pm I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
 - 11.30pm eat supper, sleep.
 
-### Wednesday (June 4) (slept after 11pm)
+### Wednesday (June 4) (haircut, slept after 11pm)
+- 12.15pm lunch outside, return home, and bath.
+- 1.30pm to 5pm work
+- 5pm confirm spinal cord medical appointment, dinner outside, haircut, visit challengers in White Sands and Pasir Ris Mall to find kobo stylus, return home, bath.
+- 7.30pm I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- 9.25pm I briefly watched parts of today's news on Channel 5 and CNA.
+- 11.05pm I briefly watched parts of this:
+    - https://www.youtube.com/watch?v=qhnJDDX2hhU
+- 11.30pm eat supper, sleep.
 
-
-### Thursday (June 5) (bowels, towels, slept after 11pm)
-
+### Thursday (June 5) (bowels, towels, shave, slept after 11pm)
+- 12.30pm lunch outside, return home, and bath.
+- 1.45pm to 5.45pm work
+- 5.55pm to 7.30pm dinner outside, return home, bath.
+- 7.30pm to 9.20pm I briefly read parts of these books:
+    - 2023 Why We Forget and How To Remember Better - The Science Behind Memory
+    - 2021 Hands-on data visualization - interactive storytelling from spreadsheets to code
+- 9.25pm I briefly watched parts of today's news on Channel 5, and Talking Point.
+    - I wrote a few emails to Zero1 about errors in billing.
+- 11.10pm I sorted my Yahoo emails, I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- 12.50pm eat supper, sleep.
 
 ### Friday (June 6) (slept after 11pm)
 - Friday 6 June 2025, 02:00 PM at Pasir Ris Polyclinic
@@ -59,8 +75,10 @@
 
 # Upcoming Medical Appointments
 - Thursday 12-Jun-25 9:40 AM, B1 Radiology, CGH Main Building.
+- Thursday 26 June 2025, 03:30 PM at 4E CGH-NNI Spine Centre (Spine)
 - Friday 8 Aug 2025 9.40am 4E - CGH-NNI Spine Centre (Knee)
 - Tuesday 23 Sep 2025 10.50am 3D - Digestive Diseases Centre @ CGH
 - Thursday 2 Oct 2025 2pm Pasir Ris Polyclinic: RM 201
 - Thursday 9 Oct 2025 2.30pm Pasir Ris Polyclinic: RM 258
 - Friday 29 May 2026 9.15am 1A - SNEC Eye Clinic @ CGH
+- Friday 05 June 2026 10:20 AM at NEUROLOGY Clinic L, SGH BLK 3 L1 (Yellow Zone).
