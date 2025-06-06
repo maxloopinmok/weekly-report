@@ -44,10 +44,17 @@
 - 11.10pm I sorted my Yahoo emails, I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
 - 12.50pm eat supper, sleep.
 
-### Friday (June 6) (slept after 11pm)
+### Friday (June 6) (bowels, slept after 11pm)
 - Friday 6 June 2025, 02:00 PM at Pasir Ris Polyclinic
-- 3pm White Sands Koufu meeting with ACC case manager.
-
+- 2.30pm White Sands Koufu meeting with ACC case manager.
+- 3pm to 4.30pm at Pasir Ris library, I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
+- 4.30pm to 6pm eat dinner, return home, bath.
+- 6pm to 8pm I napped, I briefly read parts of this book:
+    - 2025 Unstoppable & Irreplaceable
+- 8pm I downloaded a few ebooks, I reviewed the latest ebooks at NLB.
+- 8.50pm I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
+- 9.20pm I briefly watched parts of today's news on Channel 5 and CNA.
+- 10.20pm eat supper, sleep.
 
 ### Saturday (June 7) (bowels, towels, slept after 11pm)
 
