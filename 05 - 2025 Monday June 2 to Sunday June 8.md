@@ -54,13 +54,33 @@
 - 8pm I downloaded a few ebooks, I reviewed the latest ebooks at NLB.
 - 8.50pm I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
 - 9.20pm I briefly watched parts of today's news on Channel 5 and CNA.
-- 10.20pm eat supper, sleep.
+- 10.20pm scan medical receipt and MC, eat supper, sleep.
 
-### Saturday (June 7) (bowels, towels, slept after 11pm)
-
+### Saturday (June 7) (bowels, towels, slept after 1am)
+- 1.15pm go out lunch, return home, bath.
+- 2.45pm to 5.45pm work
+- 5.55pm go out dinner, return home, bath.
+- 7.30pm I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+    - 8.30pm to 9.30pm work: I corresponded with my boss about a video shoot for me at EV.
+    - 8.45pm I briefly watched parts of Money Mind, and today's news on Channel 5.
+- 9.55pm I briefly read parts of this week's The Economist, and compiled them.
+- 10.40pm eat supper, sleep, and I briefly read parts of this book:
+    - 2025 Unstoppable & Irreplaceable
 
 ### Sunday (June 8) (slept after 11pm)
-
+- 12.15pm go out lunch, return home, bath.
+- 1.45pm to 4.45pm work
+- 5.30pm go out dinner, return home, bath.
+- 7pm I briefly read parts of this book:
+    - 2025 Unstoppable & Irreplaceable
+    - 2025 Think Clearly
+- 9pm I briefly read parts of today Sunday's Straits Times, and The Edge, and compiled them.
+    - 9.25pm I watched parts of today's news on Channel 5 and CNA, primarily the cat rescuers and shelters segment.
+- 10.45pm I briefly watched parts of these:
+    - https://www.youtube.com/watch?v=AUrVjiNyiKA
+    - https://www.youtube.com/watch?v=bpdoMk8hkNY
+    - https://www.youtube.com/watch?v=3WZNxNr7kS8
+- 11.35pm I sorted my Yahoo emails, eat supper, sleep.
 
 
 
@@ -82,7 +102,9 @@
 
 # Upcoming Medical Appointments
 - Thursday 12-Jun-25 9:40 AM, B1 Radiology, CGH Main Building.
+- Tuesday 24 June 2025 3.30pm Video Shoot at Enabling Village
 - Thursday 26 June 2025, 03:30 PM at 4E CGH-NNI Spine Centre (Spine)
+- Thursday 10 July 2025 2pm, White Sands Koufu meetup with ACC case manager
 - Friday 8 Aug 2025 9.40am 4E - CGH-NNI Spine Centre (Knee)
 - Tuesday 23 Sep 2025 10.50am 3D - Digestive Diseases Centre @ CGH
 - Thursday 2 Oct 2025 2pm Pasir Ris Polyclinic: RM 201
