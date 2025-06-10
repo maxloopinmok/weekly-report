@@ -9,8 +9,16 @@
     - I briefly watched parts of today's news on CNA and Channel 5.
 - 2.15am eat supper, sleep.
 
-### Tuesday (June 10) (slept after 11pm)
-- buy shorts/bermudas
+### Tuesday (June 10) (fan, slept after 11pm)
+- 1pm go outside for lunch, shop for shorts/bermudas at tampines mall uniqlo and bossini, visit serangoon nex hang ten, goto kinokuniya.
+- 5.30pm eat dinner at Tampines Koufu, return home, clean bedroom fan, bath, I briefly read parts of this book:
+    - 2025 Think Clearly
+- 8.30pm I filed my scam complaint with FIDReC.
+- 10pm I downloaded ebooks, I briefly watched parts of today's news on CNA.
+    - 11pm I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+    - 11.55pm I briefly watched parts of:
+        - https://www.youtube.com/watch?v=Y-Gs1GKRnrY
+- 12.15pm eat supper, sleep.
 
 ### Wednesday (June 11) (bowels, towels, slept after 11pm)
 
