@@ -56,9 +56,23 @@
 - 12.20pm lunch outside, return home, bath.
 - 2pm to 6pm work.
 - 6pm dinner outside, return home, bath.
+- 7.30pm I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+    - 8.20pm I briefly watched parts of today's news on CNA and Channel 5, and Money Mind.
+    - 9.40pm I briefly read parts of this week's The Economist, and compiled them.
+- 12.20am troubleshoot Samsung A05 Link to Windows app
+- 1am eat supper, sleep.
 
-
-### Sunday (June 15) (bowels, towels, slept after 11pm)
+### Sunday (June 15) (nails, slept after 11pm)
+- 12pm lunch outside, return home, bath.
+- 1.30pm to 5.30pm work.
+- 5.30pm dinner outside, return home, bath.
+- 7pm I briefly read parts of today Sunday's Straits Times, Business Times and The Edge, and compiled them.
+    - 7.30pm I briefly read parts of these books:
+        - 2025 Think Clearly
+        - 2016 Small Data - The Tiny Clues That Uncover Huge Trends
+    - I downloaded a ebook.
+    - I briefly watched today's news on CNA, and Talking Point again.
+- 11.10pm I sorted my Yahoo emails, eat supper and sleep.
 
 
 
