@@ -1,5 +1,13 @@
 ### Monday (June 16) (shave, slept after 11pm)
-
+- 12.30pm lunch outside, return home, bath.
+- 2pm to 6pm work.
+- 6pm dinner outside, return home, bath.
+- 7.30pm I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+- 8.30pm I briefly watched today's news on CNA and Channel 5.
+- 9.50pm I sorted my Yahoo emails, I briefly read parts of these books:
+    - 2025 Think Clearly
+- 11.10pm to 12.20am work
+- 12.25am eat supper, sleep.
 
 ### Tuesday (June 17) (bowels, towels, slept after 11pm)
 
