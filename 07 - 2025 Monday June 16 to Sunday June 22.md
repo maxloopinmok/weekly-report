@@ -10,7 +10,13 @@
 - 12.25am eat supper, sleep.
 
 ### Tuesday (June 17) (bowels, towels, slept after 11pm)
-
+- 12.30pm lunch outside, return home, bath.
+- 1.45pm to 5.45pm work.
+- 6pm dinner outside, return home, bath.
+- 7.20pm collate expenditure, I sorted my Yahoo emails, I downloaded a ebook, I reviewed my recent ebooks.
+- 8.50pm I watched today's news on CNA and Channel 5.
+- 9.50pm I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
+- 11.45pm eat supper, sleep.
 
 ### Wednesday (June 18) (slept after 11pm)
 
