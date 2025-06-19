@@ -18,11 +18,41 @@
 - 9.50pm I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
 - 11.45pm eat supper, sleep.
 
-### Wednesday (June 18) (slept after 11pm)
-
+### Wednesday (June 18) (wipe, slept after 11pm)
+- 1.30pm lunch outside, return home, bath.
+- 3pm wipe the floor, I briefly read and summarise parts of this book:
+    - 2025 Think Clearly
+- 6.15pm dinner outside, return home, bath.
+- 7.30pm I reviewed and selected several books to read:
+    - 2024 Don't Sink Your Own Ship
+    - 2025 Make Money Easy
+    - 2025 Rewrite Your Rules - The Journey to Success in Less Time with More Freedom
+    - 2025 Ordinary Time
+    - 2023 How to Change Your Life
+    - 2024 Work Backwards - The revolutionary method to work smarter and live better
+    - 2024 Live Forever
+    - 2025 Super Agers
+    - 2025 Your Hidden Genius
+    - 2025 Ignite
+    - 2025 Adaptable - How Your Unique Body Really Works and Why Our Biology Unites Us
+- 8.20pm I sorted my Yahoo emails, I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+    - 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.10pm I read parts of my selected books:
+    - 2025 Adaptable
+    - 2024 Live Forever
+    - 2025 Super Agers
+- 12.45am eat supper, sleep.
 
 ### Thursday (June 19) (bowels, towels, slept after 11pm)
-
+- 9.45am to 11.15am work.
+- 11.20am lunch outside, return home, bath, sleep.
+- 2.25pm to 5.25pm work.
+- 5.30pm dinner outside, return home, bath.
+- 7pm I briefly read parts of my selected books:
+    - 2025 Super Agers
+- 8.50pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
+- 10.10pm I sorted my Yahoo emails, I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- 11.30pm eat supper, sleep.
 
 ### Friday (June 20) (slept after 11pm)
 
