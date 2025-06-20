@@ -51,11 +51,19 @@
 - 7pm I briefly read parts of my selected books:
     - 2025 Super Agers
 - 8.50pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
-- 10.10pm I sorted my Yahoo emails, I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- 10.10pm I sorted my Yahoo emails, I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
 - 11.30pm eat supper, sleep.
 
 ### Friday (June 20) (slept after 11pm)
-
+- 1.30pm lunch outside, return home, bath.
+- 3pm I briefly read parts of my selected books:
+    - 2025 Your Hidden Genius
+- 4pm to 4.45pm I made calls and answered emails.
+- 4.45pm I downloaded a few ebooks, I reviewed the latest ebooks at NLB.
+    - 6.15pm to 7.20pm dinner outside, return home, bath.
+- 8.10pm I sorted my Yahoo emails, I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them.
+    - 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
+- 11.45pm eat supper, sleep
 
 ### Saturday (June 21) (bowels, towels, slept after 11pm)
 
