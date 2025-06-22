@@ -43,7 +43,7 @@
     - 2025 Super Agers
 - 12.45am eat supper, sleep.
 
-### Thursday (June 19) (bowels, towels, slept after 11pm)
+### Thursday (June 19) (bowels, towels, FBtoothbrush, slept after 11pm)
 - 9.45am to 11.15am work.
 - 11.20am lunch outside, return home, bath, sleep.
 - 2.25pm to 5.25pm work.
@@ -65,11 +65,35 @@
     - 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
 - 11.45pm eat supper, sleep
 
-### Saturday (June 21) (bowels, towels, slept after 11pm)
+### Saturday (June 21) (bowels, slept after 11pm)
+- 10.05am to 11.35am work.
+- 11.35pm to 2.20pm tried to sleep
+    - 12.10pm to 1.30pm lunch outside, return home, bath.
+- 2.20pm to 4.50pm work.
+- 4.50pm to 6.45pm answer phone call from DBS bank, dinner outside, return home, bath.
+- 6.45pm I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+    - I briefly read parts of this week's The Economist, and compiled them.
+    - 8.25pm I briefly watched today's news on CNA, Channel 5, and Money Mind.
+- 10pm I briefly watched parts of these:
+    - https://www.youtube.com/watch?v=giT0ytynSqg
+    - https://www.youtube.com/watch?v=LCEmiRjPEtQ
+    - https://www.youtube.com/watch?v=DB9mjd-65gw
+- 11.30pm eat supper, sleep.
 
-
-### Sunday (June 22) (slept after 11pm)
-
+### Sunday (June 22) (aircon, slept after 11pm)
+- 12.20pm to 1.40pm lunch outside, return home, bath.
+- 1.45pm to 5.45pm work.
+- 5.50pm to 7.30pm dinner outside, return home, bath, wash aircon.
+- 7.40pm I briefly watched parts of these:
+    - https://www.youtube.com/watch?v=v_Hnz3KpTPM
+    - https://www.youtube.com/watch?v=YwphPsDnY3o
+    - https://www.youtube.com/watch?v=sP5Ccs097XI
+    - https://www.youtube.com/watch?v=RGd4FVItw1o
+    - https://www.youtube.com/watch?v=x_Vp_jpzD-8
+- 8.25pm I briefly watched parts of today's news on CNA, and Channel 5.
+- 9.45pm I briefly read parts of my selected books:
+    - 2025 Your Hidden Genius
+- 11.15pm eat supper, send work email, sleep.
 
 
 
