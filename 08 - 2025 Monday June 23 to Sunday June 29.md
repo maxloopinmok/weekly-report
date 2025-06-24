@@ -1,9 +1,20 @@
 ### Monday (June 23) (bowels, towels, slept after 11pm)
-
+- 12.20pm to 1.50pm lunch outside, return home, bath.
+- 1.55pm to 5.55pm work.
+- 6pm to 7.30pm dinner outside, return home, bath.
+- 7.30pm I briefly read parts of today Monday's Straits Times, Business Times and The Edge, and compiled them.
+    - 8.25pm I briefly watched today's news on CNA, Channel 5.
+    - I sorted my Yahoo emails, I briefly read parts of my selected books:
+        - 2025 Your Hidden Genius
+- 10.30pm eat supper, sleep.
 
 ### Tuesday (June 24) (slept after 11pm)
 - Tuesday 24 June 2025 3.30pm Weqollab Video Shoot at Enabling Village
-
+- 5pm eat dinner, visit Kinokuniya, return home, bath.
+- 8.30pm I briefly watched today's news on CNA, Channel 5.
+- 9.40pm I briefly read parts of today Tuesday's Straits Times, Business Times and The Edge, and compiled them.
+- 10.20pm I downloaded ebooks, I sorted my Yahoo emails.
+- 11pm eat supper, sleep.
 
 ### Wednesday (June 25) (bowels, towels, slept after 11pm)
 
