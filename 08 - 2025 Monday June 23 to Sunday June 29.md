@@ -16,12 +16,29 @@
 - 10.20pm I downloaded ebooks, I sorted my Yahoo emails.
 - 11pm eat supper, sleep.
 
-### Wednesday (June 25) (bowels, towels, slept after 11pm)
-
+### Wednesday (June 25) (bowels, slept after 11pm)
+- 1pm to 2.30pm lunch outside, return home, bath.
+- 2.30pm to 5.30pm I briefly read parts of my selected books:
+    - 2025 Your Hidden Genius
+- 5.30pm to 7pm dinner outside, return home, bath.
+- 7pm to 8.15pm I briefly read parts of today Wednesday's Straits Times, Business Times and The Edge, and compiled them.
+- 8.15pm I reviewed the latest books from NLB.
+- 8.55pm I briefly watched today's news on CNA, Channel 5.
+- 10.10pm I tried 3 tests from Your Hidden Genius.
+- 11pm eat supper, sleep.
 
 ### Thursday (June 26) (slept after 11pm)
+- 2pm visited DBS at Tampines Century Square.
 - Thursday 26 June 2025, 03:30 PM at 4E CGH-NNI Spine Centre (Spine)
-
+- 4.30pm I briefly read parts of today Thursday's Straits Times, and Business Times at Pasir Ris Library.
+- 5.30pm dinner, return home, bath.
+- 7pm to 8.40pm I tried 8 tests from Your Hidden Genius website.
+- 8.40pm I briefly read parts of today Thursday's Straits Times, Business Times and The Edge, and compiled them.
+- 9.10pm I briefly watched today's news on CNA, Channel 5, and Talking Point.
+- 11pm I briefly watched parts of these:
+    - https://www.youtube.com/watch?v=ZPwnp9uAJvE
+    - https://www.youtube.com/watch?v=d-s-3V56o54
+- 11.45pm eat supper, sleep.
 
 ### Friday (June 27) (bowels, towels, slept after 11pm)
 
