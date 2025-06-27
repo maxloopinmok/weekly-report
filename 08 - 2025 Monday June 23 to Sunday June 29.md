@@ -38,10 +38,16 @@
 - 11pm I briefly watched parts of these:
     - https://www.youtube.com/watch?v=ZPwnp9uAJvE
     - https://www.youtube.com/watch?v=d-s-3V56o54
-- 11.45pm eat supper, sleep.
+- 11.45pm I sorted my Yahoo emails, downloaded a ebook, eat supper, sleep.
 
 ### Friday (June 27) (bowels, towels, slept after 11pm)
-
+- 12.20pm to 1.40pm lunch outside, return home, bath.
+- 1.40pm to 5.40pm work.
+- 5.50pm to 7.20pm dinner outside, return home, bath.
+- 7.20pm to 8.55pm I read my tests results from Your Hidden Genius.
+- 8.55pm I briefly watched parts of today's news on CNA, Channel 5, and On The Red Dot.
+- 10.20pm I briefly read parts of today Friday's Straits Times, Business Times and The Edge, and compiled them, I sorted my Yahoo emails, downloaded a few ebooks, I reviewed new ebooks from NLB.
+- 11.30pm eat supper, sleep.
 
 ### Saturday (June 28) (slept after 11pm)
 
