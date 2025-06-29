@@ -50,14 +50,35 @@
 - 11.30pm eat supper, sleep.
 
 ### Saturday (June 28) (slept after 11pm)
-
+- 12.20pm to 1.50pm lunch outside, return home, bath.
+- 1.55pm to 5.55pm work.
+- 6.10pm to 7.40pm dinner outside, return home, bath.
+- 7.40pm I update weekly report, I downloaded a ebook, I briefly read parts of today Saturday's Straits Times, Business Times and The Edge, and compiled them.
+    - 8.55pm I briefly watched parts of Money Mind, today's news on Channel 5, and CNA.
+    - 10.05pm to 12am I briefly watched parts of these:
+        - https://www.youtube.com/watch?v=FASMejN_5gs
+        - https://www.youtube.com/watch?v=pDj1QhPOVBo
+        - https://www.youtube.com/watch?v=2QG3oBwPrJg
+        - https://www.youtube.com/watch?v=MYB0SVTGRj4
+    - 12.30am I briefly read parts of this week's The Economist.
+- 1.20am eat supper, sleep.
 
 ### Sunday (June 29) (bowels, towels, slept after 11pm)
-
+- 12.40pm to 2pm lunch outside, return home, bath.
+- 2pm to 6pm work.
+- 6.10pm to 7.40pm dinner outside, return home, bath.
+- 7.45pm whatsapp amanda about training and @thirtytwocm talk,  briefly read parts of today Sunday's Straits Times, and The Edge, and compiled them, I briefly read parts of my selected books:
+    - 2025 Your Hidden Genius
+    - 8.20pm I briefly watched parts of today's news on Channel 5, and CNA.
+    - 8.50pm I briefly watched this:
+        - https://www.youtube.com/watch?v=hhiMOCgNcJk
+        - https://www.youtube.com/watch?v=1l3lGy07Fgo
+- 11.30pm eat supper, sleep.
 
 
 
 ## Routines
+- I update weekly report.
 - I do note taking, and/or tasks recording and planning.
 - I sorted my emails.
 - I briefly read parts of today's Straits Times, Business Times and The Edge, and compiled them.
@@ -74,8 +95,10 @@
 # Upcoming Schedule
 
 # Upcoming Medical Appointments
+- Wednesday 2 July 2025 3.50pm Pasir Ris Polyclinic, painful throat
 - Thursday 10 July 2025 2pm, White Sands Koufu meetup with ACC case manager
 - Thursday 17 July 2025 10am, @thirtytwocm mental health event at EV
+- Tuesday 22 July 2025 10.50am 3C, General Surgery, CGH
 - Friday 8 Aug 2025 9.40am 4E - CGH-NNI Spine Centre (Knee)
 - Tuesday 23 Sep 2025 10.50am 3D - Digestive Diseases Centre @ CGH
 - Thursday 2 Oct 2025 2pm Pasir Ris Polyclinic: RM 201
