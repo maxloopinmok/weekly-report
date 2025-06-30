@@ -1,5 +1,13 @@
-### Monday (June 30) (slept after 11pm)
-
+### Monday (June 30) (nails, toes, slept after 11pm)
+- 12.40pm to 2pm lunch outside, return home, bath.
+- 2pm to 6.30pm work.
+- 6.30pm to 8.30pm dinner outside, buy shampoo and cod liver oil capsules, return home, bath.
+- 8.30pm I briefly read parts of today Monday's Straits Times, Business Times, and The Edge, and compiled them.
+    - I briefly watched parts of today's news on Channel 5, and CNA.
+    - 10.45pm I briefly watched parts of this:
+        - https://www.youtube.com/watch?v=FBxgbWwsMI4
+        - https://www.youtube.com/watch?v=8enXRDlWguU
+- 1.10am eat supper, sleep.
 
 ### Tuesday (July 1) (bowels, towels, slept after 11pm)
 
