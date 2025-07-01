@@ -10,7 +10,14 @@
 - 1.10am eat supper, sleep.
 
 ### Tuesday (July 1) (bowels, towels, slept after 11pm)
-
+- 12.45pm to 2.15pm lunch outside, return home, bath.
+- 2.15pm to 6pm work.
+- 6pm to 7.50pm dinner outside, return home, bath.
+- 7.50pm I briefly read parts of last week's The Economist.
+- 8.50pm I briefly watched parts of today's news on Channel 5, and CNA.
+- 9.50pm I reviewed the latest ebooks at NLB, and downloaded several ebooks, I sorted my Yahoo emails.
+- 10.15pm I briefly read parts of today Tuesday's Straits Times, Business Times, and The Edge, and compiled them.
+- 12.25pm eat supper, sleep.
 
 ### Wednesday (July 2) (slept after 11pm)
 - Wednesday 2 July 2025 3.50pm Pasir Ris Polyclinic, painful throat
