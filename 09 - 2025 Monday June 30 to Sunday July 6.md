@@ -9,7 +9,7 @@
         - https://www.youtube.com/watch?v=8enXRDlWguU
 - 1.10am eat supper, sleep.
 
-### Tuesday (July 1) (bowels, towels, slept after 11pm)
+### Tuesday (July 1) (bowels, slept after 11pm)
 - 12.45pm to 2.15pm lunch outside, return home, bath.
 - 2.15pm to 6pm work.
 - 6pm to 7.50pm dinner outside, return home, bath.
@@ -20,11 +20,24 @@
 - 12.25pm eat supper, sleep.
 
 ### Wednesday (July 2) (slept after 11pm)
-- Wednesday 2 July 2025 3.50pm Pasir Ris Polyclinic, painful throat
-
+- Visit POSB/DBS to get new ATM card and setup digibank.
+- Wednesday 2 July 2025 2pm Pasir Ris Polyclinic, painful throat
+- 3pm to 4pm I briefly read parts of today Wednesday's Straits Times, Business Times at Pasir Ris Library.
+- 4pm to 6pm dinner outside, return home, bath.
+- 6pm to 7.30pm I replied emails and answered phone call, I sorted my Yahoo emails.
+- 7.30pm I briefly read parts of today Wednesday's Straits Times, Business Times, and The Edge, and compiled them.
+    - I briefly watched parts of today's news on Channel 5, and CNA.
+    - I completed 5 tests for Your Hidden Genius.
+- 11pm eat supper, sleep.
 
 ### Thursday (July 3) (bowels, towels, slept after 11pm)
-
+- 12.30pm to 2.10pm lunch outside, return home, bath.
+- 2.10pm to 5.55pm work.
+- 6pm to 7.30pm dinner outside, return home, bath.
+- 7.30pm to 8.50pm I tried to settle all my emails and whatsapp messages.
+- 8.50pm to 10pm I briefly watched parts of today's news on Channel 5, and CNA, while trying to settle my bowels issues.
+- 10pm to 1.10am  I briefly read parts of today Thursday's Straits Times, Business Times, and The Edge, and compiled them, while trying to settle my bowels issues.
+- 1.15am eat supper, sleep.
 
 ### Friday (July 4) (slept after 11pm)
 
