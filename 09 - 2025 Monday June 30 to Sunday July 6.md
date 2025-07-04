@@ -39,8 +39,11 @@
 - 10pm to 1.10am  I briefly read parts of today Thursday's Straits Times, Business Times, and The Edge, and compiled them, while trying to settle my bowels issues.
 - 1.15am eat supper, sleep.
 
-### Friday (July 4) (slept after 11pm)
-
+### Friday (July 4) (shave, slept after 11pm)
+- 2.30pm lunch outside, POSB letter signing, reading Straits Times and Business Times in the library, dinner outside, return home, bath.
+- 7.15pm I briefly read parts of today Friday's Straits Times, Business Times, and The Edge, and compiled them.
+    - 8.30pm I briefly watched parts of today's news on Channel 5, and CNA.
+10.15pm I sorted my Yahoo emails, eat supper, sleep, maybe read a ebook.
 
 ### Saturday (July 5) (bowels, towels, slept after 11pm)
 
