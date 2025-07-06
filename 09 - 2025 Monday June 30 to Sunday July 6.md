@@ -43,16 +43,33 @@
 - 2.30pm lunch outside, POSB letter signing, reading Straits Times and Business Times in the library, dinner outside, return home, bath.
 - 7.15pm I briefly read parts of today Friday's Straits Times, Business Times, and The Edge, and compiled them.
     - 8.30pm I briefly watched parts of today's news on Channel 5, and CNA.
-10.15pm I sorted my Yahoo emails, eat supper, sleep, maybe read a ebook.
+10.15pm I sorted my Yahoo emails, eat supper, sleep, maybe read a ebook:
+    - 2025 Ignite
 
-### Saturday (July 5) (bowels, towels, slept after 11pm)
-
+### Saturday (July 5) (bowels, towels, bedsheet, slept after 11pm)
+- 12.20pm to 1.50pm lunch outside, return home, bath.
+- 1.50pm to 6.10pm work.
+- 6.10pm to 6.25pm check emails, messages, etc.
+- 6.25pm to 8.15pm dinner outside, return home, bath, lay bedsheet, pillow cases.
+- 8.15pm I downloaded several ebooks, I briefly read parts of today Saturday's Straits Times, Business Times, and The Edge, and this week's The Economist, and compiled them.   
+- 1.30am eat supper, sleep.
 
 ### Sunday (July 6) (slept after 11pm)
-
-
-
-
+- 1pm to 2.20pm lunch outside, return home, bath.
+- 2.20pm to 6pm work.
+- 6pm to 6.25pm I briefly read parts of today Sunday's Straits Times.
+- 6.25pm to 7.55pm dinner outside, return home, bath.
+- 7.55pm to 9.25pm I downloaded a ebook, and read this:
+    - 2025 Ignite
+- 9.25pm I briefly watched parts of today's news on Channel 5, and CNA.
+- 10.15pm I briefly watched parts of these:
+    - https://www.youtube.com/watch?v=co2LaWTkIR4
+    - https://www.youtube.com/watch?v=KuDCYO0sWeY
+    - https://www.youtube.com/watch?v=P5X-zkmlEgA
+    - https://www.youtube.com/watch?v=G-kPqsJycsc
+    - https://www.youtube.com/watch?v=j2NR_ntEDfM
+    - https://www.youtube.com/watch?v=Op2HUDEKK98
+- 11.50pm eat supper, sleep.
 
 
 
