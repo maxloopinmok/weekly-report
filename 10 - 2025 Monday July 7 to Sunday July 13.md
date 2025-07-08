@@ -10,13 +10,15 @@
         - https://www.youtube.com/watch?v=_Xct1BCLylc
         - https://www.youtube.com/watch?v=1XCDjn3ZRxk
 - 11pm I sorted my Yahoo emails, downloaded a ebook, eat supper, sleep, maybe read more.
+    - I briefly read parts of these:
+        - 2024 12 Habits of Valuable Employees
 
 ### Tuesday (July 8) (haircut, slept after 11pm)
 - 2pm to 7.25pm lunch outside, I briefly read parts of today Straits Times, Business Times at Pasir Ris Library, dinner outside, haircut, return home, bath.
 - 7.30pm I downloaded a few ebooks, I briefly read parts of today Monday's Straits Times, Business Times, and The Edge, and compiled them.
     - 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
     - 9.50pm I sorted my Yahoo emails, I reviewed some ebooks on NLB.
-
+- 11.15pm eat supper, sleep, maybe read books.
 
 ### Wednesday (July 9) (bowels, towels, slept after 11pm)
 
