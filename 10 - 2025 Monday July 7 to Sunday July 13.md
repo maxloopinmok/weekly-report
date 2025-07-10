@@ -21,11 +21,21 @@
 - 11.15pm eat supper, sleep, maybe read books.
 
 ### Wednesday (July 9) (bowels, towels, slept after 11pm)
-
+- 12.15pm to 1.45pm lunch outside, return home, bath.
+- 1.50pm to 5.50pm work.
+- 5.50pm to 8.30pm dinner outside, return home, bath, settle calls and emails due to DBS and POEMS and MPS matters.
+- 8.30pm I sorted my Yahoo emails.  I briefly read parts of today Monday's Straits Times, Business Times, and The Edge, and compiled them.
+    - 9.20pm to 10.30pm I briefly watched parts of today's news on CNA and Channel 5.
+- 12.45am eat supper, sleep.
 
 ### Thursday (July 10) (slept after 11pm)
-- Thursday 10 July 2025 2pm, White Sands Koufu meetup with ACC case manager
-
+- 12.30pm to 4.15pm lunch outside, read BT and ST at Pasir Ris Library, meet mum at Samsung.
+    - Thursday 10 July 2025 2pm, White Sands Koufu meetup with ACC case manager
+- 4.15pm dinner outside, return home, bath.
+- 5.30pm reply emails, download ebook.
+- 6.25pm I briefly read parts of today Monday's Straits Times, Business Times, and The Edge, and compiled them.
+- 8.40pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
+- 10.10pm I review some new NLB ebooks, eat supper, sleep, and maybe read something.
 
 ### Friday (July 11) (bowels, towels, slept after 11pm)
 
