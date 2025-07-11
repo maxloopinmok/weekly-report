@@ -38,7 +38,12 @@
 - 10.10pm I review some new NLB ebooks, eat supper, sleep, and maybe read something.
 
 ### Friday (July 11) (bowels, towels, slept after 11pm)
-
+- 12.35pm to 1.55pm lunch outside, return home, bath.
+- 2pm to 6pm work.
+- 6.10pm to 7.40pm dinner outside, return home, bath.
+- 7.45pm I briefly read parts of today Monday's Straits Times, Business Times, and The Edge, and compiled them.
+    - 8.55pm I briefly watched parts of today's news on CNA and Channel 5, and last week's Talking Point.
+- 3am eat supper, sleep.
 
 ### Saturday (July 12) (slept after 11pm)
 
