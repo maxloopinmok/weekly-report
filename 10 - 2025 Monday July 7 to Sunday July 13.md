@@ -15,7 +15,7 @@
 
 ### Tuesday (July 8) (haircut, slept after 11pm)
 - 2pm to 7.25pm lunch outside, I briefly read parts of today Straits Times, Business Times at Pasir Ris Library, dinner outside, haircut, return home, bath.
-- 7.30pm I downloaded a few ebooks, I briefly read parts of today Monday's Straits Times, Business Times, and The Edge, and compiled them.
+- 7.30pm I downloaded a few ebooks, I briefly read parts of today Tuesday's Straits Times, Business Times, and The Edge, and compiled them.
     - 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
     - 9.50pm I sorted my Yahoo emails, I reviewed some ebooks on NLB.
 - 11.15pm eat supper, sleep, maybe read books.
@@ -24,7 +24,7 @@
 - 12.15pm to 1.45pm lunch outside, return home, bath.
 - 1.50pm to 5.50pm work.
 - 5.50pm to 8.30pm dinner outside, return home, bath, settle calls and emails due to DBS and POEMS and MPS matters.
-- 8.30pm I sorted my Yahoo emails.  I briefly read parts of today Monday's Straits Times, Business Times, and The Edge, and compiled them.
+- 8.30pm I sorted my Yahoo emails.  I briefly read parts of today Wednesday's Straits Times, Business Times, and The Edge, and compiled them.
     - 9.20pm to 10.30pm I briefly watched parts of today's news on CNA and Channel 5.
 - 12.45am eat supper, sleep.
 
@@ -33,23 +33,38 @@
     - Thursday 10 July 2025 2pm, White Sands Koufu meetup with ACC case manager
 - 4.15pm dinner outside, return home, bath.
 - 5.30pm reply emails, download ebook.
-- 6.25pm I briefly read parts of today Monday's Straits Times, Business Times, and The Edge, and compiled them.
+- 6.25pm I briefly read parts of today Thursday's Straits Times, Business Times, and The Edge, and compiled them.
 - 8.40pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
 - 10.10pm I review some new NLB ebooks, eat supper, sleep, and maybe read something.
 
-### Friday (July 11) (bowels, towels, slept after 11pm)
+### Friday (July 11) (bowels, slept after 11pm)
 - 12.35pm to 1.55pm lunch outside, return home, bath.
 - 2pm to 6pm work.
 - 6.10pm to 7.40pm dinner outside, return home, bath.
-- 7.45pm I briefly read parts of today Monday's Straits Times, Business Times, and The Edge, and compiled them.
+- 7.45pm I briefly read parts of today Friday's Straits Times, Business Times, and The Edge, and compiled them.
     - 8.55pm I briefly watched parts of today's news on CNA and Channel 5, and last week's Talking Point.
 - 3am eat supper, sleep.
 
-### Saturday (July 12) (slept after 11pm)
+### Saturday (July 12) (bowels, towels, slept after 11pm)
+- 12.30pm to 2pm lunch outside, return home, bath.
+- 2pm to 6pm work.
+- 6pm to 7.30pm dinner outside, return home, bath.
+- 7.30pm I sorted my Yahoo emails, downloaded a ebook, I briefly read parts of this week's The Economist and compiled them, I briefly read parts of today Saturday's Straits Times, Business Times, and The Edge, and compiled them.
+- 8.55pm I briefly watched parts of today's news on CNA and Channel 5, Money Mind, and The Nuclear Option.
+- 10.40pm I briefly watched parts of these:
+    - https://www.youtube.com/watch?v=camlUwrxsfs
+    - https://www.youtube.com/watch?v=f0MUe-0zpBQ
+    - https://www.youtube.com/watch?v=8rABwKRsec4
+- 12.05am eat supper, sleep.
 
-
-### Sunday (July 13) (bowels, towels, slept after 11pm)
-
+### Sunday (July 13) (nails, slept after 11pm)
+- 12.30pm to 2pm lunch outside, return home, bath.
+- 2pm to 6pm work.
+- 6pm to 7.30pm dinner outside, return home, bath.
+- 7.30pm I briefly read parts of today Sunday's Straits Times, and The Edge, and compiled them, I briefly read parts of this book:
+    - 2025 The Simple Path to Wealth
+    - 8.25pm, 9.25pm I briefly watched parts of today's news on CNA and Channel 5, and The Nuclear Option.
+- 10.50pm I sorted my Yahoo emails, sent emails, eat supper, sleep.
 
 
 
