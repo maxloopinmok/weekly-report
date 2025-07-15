@@ -1,4 +1,4 @@
-### Monday (July 14) (bowels, towels, slept after 11pm)
+### Monday (July 14) (bowels, shave, slept after 11pm)
 - 12.30pm to 1.45pm lunch outside, return home, bath.
 - 1.45pm to 5.45pm work.
 - 6pm to 7.30pm dinner outside, return home, bath.
@@ -8,7 +8,14 @@
 
 ### Tuesday (July 15) (slept after 11pm)
 - Tuesday 15 July 2025 10am, @thirtytwocm mental health event at EV
-
+- 12.30pm to 2pm Kinokuniya
+- 2pm to 4.30pm return to Tampines Koufu, eat dinner, return home, bath.
+- 4.30pm to 6.20pm I downloaded ebooks, I read relevant emails, I reviewed new ebooks at NLB.
+- 6.20pm to 7.30pm I took a nap.
+- 7.30pm to 8.20pm I sorted my Yahoo emails, I completed a MND online survey.
+- 8.20pm I briefly read parts of today Tuesday's Straits Times, Business Times, and The Edge.
+    - 8.45pm I briefly watched parts of today's news on CNA and Channel 5.
+10.45pm eat supper, sleep.
 
 ### Wednesday (July 16) (bowels, towels, slept after 11pm)
 
