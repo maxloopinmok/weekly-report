@@ -15,13 +15,28 @@
 - 7.30pm to 8.20pm I sorted my Yahoo emails, I completed a MND online survey.
 - 8.20pm I briefly read parts of today Tuesday's Straits Times, Business Times, and The Edge.
     - 8.45pm I briefly watched parts of today's news on CNA and Channel 5.
-10.45pm eat supper, sleep.
+10.45pm eat supper, sleep, cannot sleep, so I read parts of these:
+    - 2025 The Simple Path to Wealth
+    - 2025 Lean Learning
 
 ### Wednesday (July 16) (bowels, towels, slept after 11pm)
-
+- 1.30pm to 2.45pm lunch outside, return home, bath.
+- 2.45pm to 6.45pm work.
+- 6.45pm to 8.45pm dinner outside, return home, bath.
+- 8.45pm I briefly watched parts of today's news on CNA and Channel 5, and briefly read parts of today Wednesday's Straits Times, Business Times, and The Edge.
+- 10.35pm I sorted my Yahoo emails, I briefly read parts of these:
+    - 2025 Lean Learning
+- 12.25am eat supper, sleep.
 
 ### Thursday (July 17) (slept after 11pm)
-
+- 1.30pm to 3.30pm lunch outside, settle bank matters, return home, bath.
+- 4pm to 6.10pm dinner with mother and brother outside, return home, bath.
+- 6.10pm I briefly read parts of today Thursday's Straits Times, Business Times, and The Edge.
+    - 8.45pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
+- 11.40pm I briefly watched parts of these:
+    - https://www.youtube.com/watch?v=MHbcdS5reVk
+    - https://www.youtube.com/watch?v=rCg2rntzv8I
+- 12.50am eat supper, sleep.
 
 ### Friday (July 18) (bowels, towels, slept after 11pm)
 
