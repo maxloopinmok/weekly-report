@@ -39,7 +39,15 @@
 - 12.50am eat supper, sleep.
 
 ### Friday (July 18) (bowels, towels, slept after 11pm)
-
+- 12.40pm to 2pm lunch outside, return home, bath.
+- 2pm to 6pm work.
+- 6.15pm to 7.40pm dinner outside, return home, bath.
+- 7.40pm to 8.55pm I briefly read parts of these:
+    - 2025 Lean Learning
+- 8.55pm to 10.20pm I briefly watched parts of today's news on CNA and Channel 5, and On The Red Dot.
+- 10.25pm I briefly read parts of today Thursday's Straits Times, Business Times, and The Edge.
+- 10.55pm I reviewed the latest ebooks at NLB, I downloaded a few ebooks, I selected several ebooks for reading.
+- 11.55pm eat supper, sleep.
 
 ### Saturday (July 19) (bowels, towels, slept after 11pm)
 
