@@ -38,22 +38,43 @@
     - https://www.youtube.com/watch?v=rCg2rntzv8I
 - 12.50am eat supper, sleep.
 
-### Friday (July 18) (bowels, towels, slept after 11pm)
+### Friday (July 18) (bowels, shave, slept after 11pm)
 - 12.40pm to 2pm lunch outside, return home, bath.
 - 2pm to 6pm work.
 - 6.15pm to 7.40pm dinner outside, return home, bath.
 - 7.40pm to 8.55pm I briefly read parts of these:
     - 2025 Lean Learning
 - 8.55pm to 10.20pm I briefly watched parts of today's news on CNA and Channel 5, and On The Red Dot.
-- 10.25pm I briefly read parts of today Thursday's Straits Times, Business Times, and The Edge.
+- 10.25pm I briefly read parts of today Friday's Straits Times, Business Times, and The Edge.
 - 10.55pm I reviewed the latest ebooks at NLB, I downloaded a few ebooks, I selected several ebooks for reading.
 - 11.55pm eat supper, sleep.
 
 ### Saturday (July 19) (bowels, towels, slept after 11pm)
-
+- 12.30pm to 2pm lunch outside, return home, bath.
+- 2pm to 6pm work.
+- 6.15pm to 7.40pm dinner outside, return home, bath.
+- 7.40pm I briefly read parts of today Saturday's Straits Times, Business Times, and The Edge.
+    - 8.50pm to 9.55pm I briefly watched parts of today's news on CNA and Channel 5, and Money Mind.
+- 10.10pm I briefly watched parts of these:
+    - https://www.youtube.com/watch?v=5_L_BpL5Whs
+- 10.20pm I briefly read parts of this:
+    - 2021 Building Wealth Through REITS
+- 11.50pm I briefly read parts of this week's The Economist, and compiled them.
+- 12.20am eat supper, sleep.
 
 ### Sunday (July 20) (slept after 11pm)
-
+- 12.50pm to 2pm lunch outside, return home, bath.
+- 2pm to 6pm work.
+- 6.15pm to 7.45pm dinner outside, return home, bath.
+- 7.45pm I briefly read parts of today Saturday's Straits Times, and The Edge, and this week's The Economist.
+    - 8.50pm to 9.35pm I briefly watched parts of today's news on CNA and Channel 5.
+    - 9.35pm I briefly watched parts of these:
+        - https://www.youtube.com/watch?v=u0dWPziBov4
+        - https://www.youtube.com/watch?v=-6UORg6oceg
+        - https://www.youtube.com/watch?v=-adVGpY_vSQ
+        - https://www.youtube.com/watch?v=qLFt0WXXuaY
+        - https://www.youtube.com/watch?v=79-bApI3GIU
+- 12.50am I downloaded a few ebooks, eat supper, sleep.
 
 
 
