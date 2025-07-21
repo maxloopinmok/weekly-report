@@ -1,5 +1,14 @@
 ### Monday (July 21) (bowels, slept after 11pm)
-
+- 12.45pm to 2pm lunch outside, return home, bath.
+- 2pm to 6pm work.
+- 6pm to 7.40pm dinner outside, return home, bath.
+- 7.40pm to 9.15pm I updated my email to CGH, and updated my Medium blog.
+- 9.15pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.15pm I briefly watched parts of these:
+    - https://www.youtube.com/watch?v=NfYt4jbaZ2g
+    - https://www.ykeith.com/jamus/
+- 11pm I briefly read parts of today Monday's Straits Times, Business Times, and The Edge.
+- 12.15am I sorted my Yahoo emails, downloaded a ebook, eat supper, sleep.
 
 ### Tuesday (July 22) (slept after 11pm)
 - Tuesday 22 July 2025 10.50am 3C, General Surgery, CGH
