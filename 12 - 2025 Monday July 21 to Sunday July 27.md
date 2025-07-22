@@ -12,7 +12,16 @@
 
 ### Tuesday (July 22) (slept after 11pm)
 - Tuesday 22 July 2025 10.50am 3C, General Surgery, CGH
-
+- 11.30pm eat lunch, return home, bath.
+- 12.30pm nap.
+- 3pm I updated my Medium blog.
+- 4pm I answered a call from CGH, I briefly read parts of today Monday's Straits Times, Business Times, and The Edge.
+    - 5.15pm I collected my CDC vouchers from Elias Mall CC, dinner outside, return home, bath.
+    - 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10pm I downloaded ebooks and reviewed new ebooks from NLB, I read a couple of ebooks:
+    - 2025 The Year God Died
+    - 2016 The New Case for Gold
+- 12.40am eat supper, sleep.
 
 ### Wednesday (July 23) (bowels, towels, slept after 11pm)
 
