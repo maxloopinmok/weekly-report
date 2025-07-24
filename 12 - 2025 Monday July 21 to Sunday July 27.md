@@ -1,4 +1,4 @@
-### Monday (July 21) (bowels, slept after 11pm)
+### Monday (July 21) (bowels, FBToothbrush, slept after 11pm)
 - 12.45pm to 2pm lunch outside, return home, bath.
 - 2pm to 6pm work.
 - 6pm to 7.40pm dinner outside, return home, bath.
@@ -15,7 +15,7 @@
 - 11.30pm eat lunch, return home, bath.
 - 12.30pm nap.
 - 3pm I updated my Medium blog.
-- 4pm I answered a call from CGH, I briefly read parts of today Monday's Straits Times, Business Times, and The Edge.
+- 4pm I answered a call from CGH, I briefly read parts of today Tuesday's Straits Times, Business Times, and The Edge.
     - 5.15pm I collected my CDC vouchers from Elias Mall CC, dinner outside, return home, bath.
     - 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
 - 10pm I downloaded ebooks and reviewed new ebooks from NLB, I read a couple of ebooks:
@@ -24,10 +24,26 @@
 - 12.40am eat supper, sleep.
 
 ### Wednesday (July 23) (bowels, towels, slept after 11pm)
-
+- 12.35pm to 2pm lunch outside, return home, bath.
+- 2.10pm to 6.10pm work.
+- 6.35pm to 8.10pm dinner outside, return home, bath.
+- 8.10pm I briefly read parts of today Wednesday's Straits Times, Business Times, and The Edge.
+    - 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
+    - 9.50pm I sorted my Yahoo emails, I downloaded a few ebooks.
+- 10.15pm I briefly read parts of these:
+    - 2025 Decisions That Matter
+    - 2025 You Are More Than Your Body
+    - 2020 Simplify Your Life
+- 2.30am eat supper, sleep.
 
 ### Thursday (July 24) (slept after 11pm)
-
+- 2pm to 4pm lunch outside, visit OCBC, return home, bath.
+- 4pm to 5.10pm I setup OCBC digital banking, downloaded ebooks, reviewed the latest ebooks at NLB.
+- 5.10pm I briefly read parts of today Thursday's Straits Times, Business Times, and The Edge.
+    - 5.45pm to 7.30pm dinner outside, return home, bath.
+    - 8.55pm to 10.20pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
+    - 10.20pm I sorted my Yahoo emails.
+- 11.35pm eat supper, sleep
 
 ### Friday (July 25) (bowels, slept after 11pm)
 
