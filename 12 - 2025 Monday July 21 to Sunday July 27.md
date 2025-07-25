@@ -46,7 +46,15 @@
 - 11.35pm eat supper, sleep
 
 ### Friday (July 25) (bowels, slept after 11pm)
-
+- 12.35pm to 2pm lunch outside, return home, bath.
+- 2pm to 6pm work.
+- 6.10pm to 7.40pm dinner outside, return home, bath.
+- 7.45pm I tried messaging some friends, I briefly read parts of today Friday's Straits Times, Business Times, and The Edge.
+    - 9.20pm to 10.20pm I briefly watched parts of today's news on CNA and Channel 5.
+    - 10.25pm to 11.05pm I briefly watched parts of these:
+        - https://www.youtube.com/watch?v=xk6J70MPVkA
+        - https://www.youtube.com/watch?v=0jDsWemXi3U
+- 11.50pm I responded to emails, and sorted my Yahoo emails, eat supper, sleep.
 
 ### Saturday (July 26) (slept after 11pm)
 
