@@ -57,10 +57,22 @@
 - 11.50pm I responded to emails, and sorted my Yahoo emails, eat supper, sleep.
 
 ### Saturday (July 26) (slept after 11pm)
-
+- 12.45pm to 2.10pm lunch outside, return home, bath.
+- 2.10pm to 6.10pm work.
+- 6.10pm to 6.40pm I briefly read parts of today Saturday's Straits Times, Business Times, and The Edge.
+- 6.40pm to 8.15pm dinner outside, return home, bath.
+- 8.15pm to 9.10pm, 9.50pm to 10.35pm I briefly read parts of today Saturday's Straits Times, Business Times, and The Edge.
+- 9.10pm to 9.50pm, 10.35pm to 11.05pm I briefly watched parts of today's news on CNA and Money Mind.
+- 11.05pm I downloaded a ebook, eat supper, sleep.
 
 ### Sunday (July 27) (bowels, towels, slept after 11pm)
-
+- 12.45pm to 2.15pm lunch outside, return home, bath.
+- 2.15pm to 6.15pm work.
+- 6.15pm to 6.40pm I briefly read parts of today Sunday's Straits Times, and The Edge.
+- 6.40pm to 8.10pm dinner outside, return home, bath.
+- 8.20pm, 9.20pm I briefly watched parts of today's news on CNA and Channel 5.
+- 8.10pm to 11.40pm I briefly read parts of this week's The Economist, and compiled them.
+- 11.40pm to 12.20pm I sorted my Yahoo emails, pay SingTel bill, email epubor.
 
 
 
