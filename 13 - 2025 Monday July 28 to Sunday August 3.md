@@ -1,5 +1,10 @@
 ### Monday (July 28) (slept after 11pm)
-
+- 1pm to 8pm I visited Starlight Road, had dinner, I visited Kinokuniya at Raffles City, returned home, bathed.
+- 8pm I briefly read parts of today Monday's Straits Times, Business Times, and The Edge.
+- 8.50pm I briefly watched parts of today's news on CNA and Channel 5.
+- 11.30pm I sorted my Yahoo emails, I updated my LinkedIn, I applied for jobs at:
+    - https://www.mycareersfuture.gov.sg/search?search=web%20developer&sortBy=relevancy&page=2
+- 12.50am eat supper, sleep.
 
 ### Tuesday (July 29) (bowels, towels, slept after 11pm)
 
