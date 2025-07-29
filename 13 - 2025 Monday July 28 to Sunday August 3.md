@@ -1,4 +1,4 @@
-### Monday (July 28) (slept after 11pm)
+### Monday (July 28) (FToothbrush, slept after 11pm)
 - 1pm to 8pm I visited Starlight Road, had dinner, I visited Kinokuniya at Raffles City, returned home, bathed.
 - 8pm I briefly read parts of today Monday's Straits Times, Business Times, and The Edge.
 - 8.50pm I briefly watched parts of today's news on CNA and Channel 5.
@@ -6,22 +6,28 @@
     - https://www.mycareersfuture.gov.sg/search?search=web%20developer&sortBy=relevancy&page=2
 - 12.50am eat supper, sleep.
 
-### Tuesday (July 29) (bowels, towels, slept after 11pm)
+### Tuesday (July 29) (bowels, nails, toes, slept after 11pm)
+- 12.30pm to 2pm lunch outside, return home, bath.
+- 2pm to 6pm work.
+- 6pm to 7.30pm dinner outside, return home, bath.
+- 7.30pm I briefly read parts of today Tuesday's Straits Times, Business Times, and The Edge.
+- 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.10pm I sorted my Yahoo emails, I downloaded a few ebooks.
+- 10.40pm eat supper, sleep.
+
+### Wednesday (July 30) (bowels, towels, slept after 11pm)
 
 
-### Wednesday (July 30) (slept after 11pm)
+### Thursday (July 31) (slept after 11pm)
 
 
-### Thursday (July 31) (bowels, slept after 11pm)
+### Friday (August 1) (bowels, slept after 11pm)
 
 
-### Friday (August 1) (slept after 11pm)
+### Saturday (August 2) (slept after 11pm)
 
 
-### Saturday (August 2) (bowels, slept after 11pm)
-
-
-### Sunday (August 3) (bowels, slept after 11pm)
+### Sunday (August 3) (bowels, towels, slept after 11pm)
 
 
 
