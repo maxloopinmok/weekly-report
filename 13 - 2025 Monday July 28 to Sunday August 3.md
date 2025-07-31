@@ -16,10 +16,26 @@
 - 10.40pm eat supper, sleep.
 
 ### Wednesday (July 30) (bowels, towels, slept after 11pm)
-
+- 12.30pm to 2pm lunch outside, return home, bath.
+- 2pm to 6pm work.
+- 6pm to 7.30pm dinner outside, return home, bath.
+- 7.30pm I briefly read parts of today Wednesday's Straits Times, Business Times, and The Edge.
+- 8.50pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.30pm I sorted my Yahoo emails, responded to work telegram messages, downloaded a few ebooks, reviewed the latest ebooks from NLB, I had a lot of problems moving my bowels.
+- 12.45am eat supper, sleep.
 
 ### Thursday (July 31) (slept after 11pm)
-
+- 1.30pm to 3pm lunch outside, return home, bath.
+- 3pm to 3.40pm contact CGH about medications.
+- 3.40pm to 5.10pm work.
+- 5.10pm to 5.20pm I briefly read parts of today Thursday's Straits Times, Business Times, and The Edge.
+- 5.20pm to 7pm dinner outside, return home, bath.
+- 7pm to 7.30pm work.
+- 7.30pm to 8pm online NTUC ordering, online CGH medicines ordering.
+- 8pm to 8.50pm I briefly read parts of today Thursday's Straits Times, Business Times, and The Edge.
+- 8.50pm to 10pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10pm to 11.35pm I briefly read parts of today Thursday's Straits Times, Business Times, and The Edge.
+- 11.35pm eat supper, sleep.
 
 ### Friday (August 1) (bowels, slept after 11pm)
 
