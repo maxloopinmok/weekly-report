@@ -38,7 +38,18 @@
 - 11.35pm eat supper, sleep.
 
 ### Friday (August 1) (bowels, slept after 11pm)
-
+- 12.30pm to 1.45pm lunch outside, return home, bath.
+- 1.45pm to 5.15pm work.
+- 5.15pm to 5.30pm I briefly read parts of today Friday's Straits Times, Business Times, and The Edge.
+- 5.30pm to 7pm dinner outside, return home, bath.
+- 7pm to 7.10pm work
+- 7.10pm to 8pm I briefly read parts of today Friday's Straits Times, Business Times, and The Edge.
+- 8pm to 8.40pm I scanned a medical document with much difficulty with CZUR.
+- 8.40pm to 9.40pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.40pm to 11.50pm I briefly read parts of these:
+    - 2012 Poor Economics - A Radical Rethinking of the Way to End It
+    - 2019 Good Economics For Hard Times
+- 11.50pm eat supper, sleep.
 
 ### Saturday (August 2) (slept after 11pm)
 
