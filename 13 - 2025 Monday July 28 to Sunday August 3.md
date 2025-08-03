@@ -49,13 +49,34 @@
 - 9.40pm to 11.50pm I briefly read parts of these:
     - 2012 Poor Economics - A Radical Rethinking of the Way to End It
     - 2019 Good Economics For Hard Times
+    - 2025 The Fun Finance Formula
 - 11.50pm eat supper, sleep.
 
 ### Saturday (August 2) (slept after 11pm)
-
+- 12.30pm to 1.50pm lunch outside, return home, bath.
+- 1.50pm to 4.15pm I downloaded many ebooks, I reviewed the latest ebooks from NLB.
+- 4.15pm to 5.10pm sleep.
+- 5.10pm to 6.30pm dinner outside, return home, bath, take mental illness medications which i had forgotten to take for two nights.
+- 6.30pm to 9pm sleep, briefly read parts of this:
+    - 2018 God in the Qur'an (God in Three Classic Scriptures)
+- 9pm to 10pm I briefly watched parts of today's news on CNA and Channel 5, and Money Mind.
+- 10pm to 10.45pm I briefly read parts of today Saturday's Straits Times, Business Times, and The Edge.
+- 10.45pm eat supper, sleep.
 
 ### Sunday (August 3) (bowels, towels, slept after 11pm)
-
+- 12.30pm to 2pm lunch outside, return home, bath.
+- 2pm to 5.50pm work.
+- 6pm to 7.30pm dinner outside, return home, bath.
+- 8.05pm to 8.20pm, 9pm to 9.05pm, 9.45pm to 9.55pm work.
+- 7.30pm to 10pm I briefly read parts of today Sunday's Straits Times, and The Edge.
+- 8.25pm, 9.20pm, 10.30pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
+- 10pm I briefly watched parts of these:
+    - https://www.youtube.com/watch?v=bTq0RikMVGE
+    - https://www.youtube.com/watch?v=qsAtAGbVafE
+    - https://www.youtube.com/watch?v=FQ0NpURA8kg
+    - https://www.youtube.com/watch?v=iloTih450_k
+    - https://www.youtube.com/watch?v=UPnlb17YP6g
+- 12am eat supper, sleep.
 
 
 
