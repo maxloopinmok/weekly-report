@@ -1,5 +1,12 @@
-### Monday (August 4) (slept after 11pm)
-- 4.45pm Meet ACC case manager at White Sands Koufu.
+### Monday (August 4) (haircut, slept after 11pm)
+- 2pm lunch outside, read ST and BT at Pasir Ris library.
+- 4pm to 4.45pm Meet ACC case manager at White Sands Koufu.
+- 4.45pm to 5.30pm read ST and BT at Pasir Ris library.
+- 5.30pm to 7.30pm eat dinner, haircut, return home, bath.
+- 7.30pm I briefly read parts of today Monday's Straits Times, and The Edge.
+- 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10pm I puzzled a little about the parable of the three golden rings, I installed firmware to printer, I sorted my Yahoo emails.
+- 10.55pm eat supper, sleep.
 
 ### Tuesday (August 5) (bowels, towels, slept after 11pm)
 
