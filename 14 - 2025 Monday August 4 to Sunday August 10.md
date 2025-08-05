@@ -3,13 +3,20 @@
 - 4pm to 4.45pm Meet ACC case manager at White Sands Koufu.
 - 4.45pm to 5.30pm read ST and BT at Pasir Ris library.
 - 5.30pm to 7.30pm eat dinner, haircut, return home, bath.
-- 7.30pm I briefly read parts of today Monday's Straits Times, and The Edge.
+- 7.30pm I briefly read parts of today Monday's Straits Times, Business Times, and The Edge.
 - 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
 - 10pm I puzzled a little about the parable of the three golden rings, I installed firmware to printer, I sorted my Yahoo emails.
 - 10.55pm eat supper, sleep.
 
 ### Tuesday (August 5) (bowels, towels, slept after 11pm)
-
+- 12.30pm to 2pm lunch outside, return home, bath.
+- 2pm to 6.15pm work.
+- 6.15pm to 8.15pm dinner outside, return home, bath.
+- 8.15pm to 8.25pm work.
+- 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
+- 8.25pm to 2.15am I briefly read parts of today Tuesday's Straits Times, Business Times, and The Edge.
+- 10pm to 11pm I sent emails to the hospitals.
+- 2.15am eat supper, sleep.
 
 ### Wednesday (August 6) (slept after 11pm)
 
