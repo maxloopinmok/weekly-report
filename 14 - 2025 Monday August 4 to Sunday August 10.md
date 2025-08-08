@@ -40,9 +40,16 @@
 - 8.50pm to 10.20pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
 - 10.20pm eat supper, sleep.
 
-### Friday (August 8) (slept after 11pm)
+### Friday (August 8) (bedsheet, slept after 11pm)
 - Friday 8 Aug 2025 9.40am 4E - CGH-NNI Spine Centre (Knee)
-
+- 12pm Pasir Ris Polyclinic
+- 1pm to 2pm Kinokuniya Orchard
+- 2pm to 4.30pm dinner outside, return home, bath.
+- 4.30pm to 6.40pm Reading at home.
+- 6.40pm to 8.10pm I downloaded ebooks, I reviewed the latest ebooks at NLB, I sorted my Yahoo emails.
+- 8.10pm to 10.50pm I briefly read parts of today Friday's Straits Times, Business Times, and The Edge.
+- 8.55pm to 10pm I briefly watched parts of today's news on CNA and Channel 5, and Prime Minister's National Day message.
+- 10.50pm eat supper, sleep.
 
 ### Saturday (August 9) (bowels, towels, slept after 11pm)
 
