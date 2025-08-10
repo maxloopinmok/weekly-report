@@ -32,7 +32,7 @@
 - 10.50pm to 11.45pm I sorted my Yahoo emails, I downloaded several ebooks, I reviewed the latest ebooks at NLB.
 - 11.45pm eat supper, sleep.
 
-### Thursday (August 7) (bowels, slept after 11pm)
+### Thursday (August 7) (bowels, shave, slept after 11pm)
 - 12.30pm to 1.50pm lunch outside, return home, bath.
 - 1.50pm to 5.45pm work.
 - 6pm to 7.30pm dinner outside, return home, bath.
@@ -52,9 +52,25 @@
 - 10.50pm eat supper, sleep.
 
 ### Saturday (August 9) (bowels, towels, slept after 11pm)
+- 12.30pm to 1.50pm lunch outside, return home, bath.
+- 1.50pm to 5.50pm work.
+- 6pm to 7.30pm dinner outside, return home, bath.
+- 7.30pm to 10.40pm I bought caffeine supplements online, I briefly read parts of today Saturday's Straits Times, Business Times, and The Edge, and this week's The Economist.
+- 8.55pm to 9.40pm I briefly watched parts of today's news on Channel 5 and Money Mind.
+- 10.40pm to 11.20pm I briefly watched parts of these:
+    - https://www.youtube.com/watch?v=4Zl5sD1_6RI
+    - https://www.youtube.com/watch?v=tL8CENSCd0w
+- 11.20pm eat supper, sleep.
 
-
-### Sunday (August 10) (slept after 11pm)
+### Sunday (August 10) (nails, aircon, shave, slept after 11pm)
+- 12.30pm to 1.45pm lunch outside, return home, bath.
+- 1.45pm to 5.45pm work.
+- 6pm to 7.30pm dinner outside, return home, bath.
+- 7.30pm to 9.20pm I briefly read parts of today Sunday's Straits Times, and The Edge.
+- 9.20pm to 10.05pm I briefly watched parts of today's news on Channel 5 and CNA.
+- 10.05pm to 10.25pm I briefly watched parts of this:
+    - https://www.youtube.com/watch?v=HWwBycVssEM
+- 10.30pm cut nails, eat supper, sleep.
 
 
 
@@ -62,7 +78,9 @@
 - 2018 God in the Qur'an (God in Three Classic Scriptures)
 - 2013 The Other Gospels - Accounts of Jesus From Outside the New Testament
 - 2018 Against Creativity
-
+- 2020 The Longing for Less - Living with Minimalism
+- 2020 The Unfair Advantage - How You Already Have What It Takes to Succeed
+- 2025 How Not to Invest
 
 ## Routines
 - I update weekly report.
