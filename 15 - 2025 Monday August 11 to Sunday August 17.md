@@ -1,5 +1,11 @@
 ### Monday (August 11) (bowels, slept after 11pm)
-
+- 12.45pm to 2pm lunch outside, return home, bath.
+- 2pm to 6pm work.
+- 6.15pm to 7.45pm dinner outside, return home, bath.
+- 7.45pm to 8.55pm I cleared books and papers from my bookshelves.
+- 8.55pm to 9.55pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.55pm to 1am I briefly read parts of today Monday's Straits Times, Business Times, and The Edge.
+- 1am I downloaded a ebook, sorted my Yahoo emails, eat supper, sleep.
 
 ### Tuesday (August 12) (slept after 11pm)
 - Tuesday 12 Aug 2025 4pm Pasir Ris Polyclinic General Dentistry
