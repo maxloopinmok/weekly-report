@@ -5,25 +5,32 @@
 - 7.45pm to 8.55pm I cleared books and papers from my bookshelves.
 - 8.55pm to 9.55pm I briefly watched parts of today's news on CNA and Channel 5.
 - 9.55pm to 1am I briefly read parts of today Monday's Straits Times, Business Times, and The Edge.
-- 1am I downloaded a ebook, sorted my Yahoo emails, eat supper, sleep.
+- 1am I downloaded ebooks, sorted my Yahoo emails, eat supper, sleep.
 
-### Tuesday (August 12) (slept after 11pm)
+### Tuesday (August 12) (FBToothbrush)
+- 12.50pm to 2.20pm lunch outside, return home, bath.
+- 2.20pm I reviewed the latest ebooks from NLB.
 - Tuesday 12 Aug 2025 4pm Pasir Ris Polyclinic General Dentistry
+- 5pm to 7pm travel to eat dinner, travel to owndays to fix spectacles, return home, bath.
+- 7pm to 7.35pm I downloaded ebooks.
+- 7.35pm to 10.35pm I briefly read parts of today Monday's Straits Times, Business Times, and The Edge.
+- 9.20pm to 10.25pm I briefly watched parts of today's news on CNA and Channel 5, and this:
+    - https://www.youtube.com/shorts/ayBTh6iXtKU
+10.35pm eat supper, sleep.
+
+### Wednesday (August 13) (bowels, towels)
 
 
-### Wednesday (August 13) (bowels, towels, slept after 11pm)
+### Thursday (August 14) ()
 
 
-### Thursday (August 14) (slept after 11pm)
+### Friday (August 15) (bowels, towels)
 
 
-### Friday (August 15) (bowels, towels, slept after 11pm)
+### Saturday (August 16) ()
 
 
-### Saturday (August 16) (slept after 11pm)
-
-
-### Sunday (August 17) (bowels, slept after 11pm)
+### Sunday (August 17) (bowels)
 
 
 
@@ -54,6 +61,7 @@
 # Upcoming Schedule
 
 # Upcoming Medical Appointments
+- Wednesday 20 Aug 2025 2pm Pasir Ris Polyclinic General Dentistry
 - Monday 15 Sep 2025 4.20pm SGH Neurology Clinic L BLK3 L1 (Yellow Zone), Dr Dementia - Simon Ting
 - Tuesday 23 Sep 2025 10.50am 3D - Digestive Diseases Centre @ CGH
 - Thursday 2 Oct 2025 2pm Pasir Ris Polyclinic: RM 201
