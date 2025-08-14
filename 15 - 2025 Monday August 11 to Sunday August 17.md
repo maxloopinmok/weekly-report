@@ -19,10 +19,21 @@
 10.35pm eat supper, sleep.
 
 ### Wednesday (August 13) (bowels, towels)
+- 12.45pm to 2pm lunch outside, return home, bath.
+- 2pm to 6pm work.
+- 6.15pm to 7.45pm dinner outside, return home, bath.
+- 7.45pm to 8.55pm bath again due to bowels, reviewed AI's research output for epub to pdf conversion.
+- 8.55pm to 9.50pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.50pm to 12.40pm I briefly read parts of today Monday's Straits Times, Business Times, and The Edge.
+- 12.40pm to 1.50pm I experimented with LibreOffice.
+- 1.50pm eat supper, sleep.
 
-
-### Thursday (August 14) ()
-
+### Thursday (August 14) (shave)
+- 3pm eat bread, sleep.
+- 5pm dinner outside, return home, bath.
+- 7pm I briefly read parts of today Monday's Straits Times, Business Times, and The Edge.
+- 9.20pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
+- 10.50pm eat supper, sleep.
 
 ### Friday (August 15) (bowels, towels)
 
@@ -36,12 +47,12 @@
 
 
 ## Parts of books I had read when I can't sleep
-- 2018 God in the Qur'an (God in Three Classic Scriptures)
-- 2013 The Other Gospels - Accounts of Jesus From Outside the New Testament
-- 2018 Against Creativity
-- 2020 The Longing for Less - Living with Minimalism
-- 2020 The Unfair Advantage - How You Already Have What It Takes to Succeed
 - 2025 How Not to Invest
+- 2025 Where You Can Lead
+- 2020 The New World Economy
+- 2024 The New World Economy in 5 Trends - Investing in times of superinflation, hyperinnovation & climate transition
+- 2022 Effective Remote Work - For Yourself, Your Team, and Your Company
+- 2024 Serverless Apps on Cloudflare
 
 ## Routines
 - I update weekly report.
@@ -61,7 +72,7 @@
 # Upcoming Schedule
 
 # Upcoming Medical Appointments
-- Wednesday 20 Aug 2025 2pm Pasir Ris Polyclinic General Dentistry
+- Wednesday 20 Aug 2025 4pm Pasir Ris Polyclinic General Dentistry
 - Monday 15 Sep 2025 4.20pm SGH Neurology Clinic L BLK3 L1 (Yellow Zone), Dr Dementia - Simon Ting
 - Tuesday 23 Sep 2025 10.50am 3D - Digestive Diseases Centre @ CGH
 - Thursday 2 Oct 2025 2pm Pasir Ris Polyclinic: RM 201
