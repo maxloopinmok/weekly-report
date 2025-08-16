@@ -4,7 +4,7 @@
 - 6.15pm to 7.45pm dinner outside, return home, bath.
 - 7.45pm to 8.55pm I cleared books and papers from my bookshelves.
 - 8.55pm to 9.55pm I briefly watched parts of today's news on CNA and Channel 5.
-- 9.55pm to 1am I briefly read parts of today Monday's Straits Times, Business Times, and The Edge.
+- 9.55pm to 1am I briefly read parts of today Monday's Straits Times, Business Times, and The Edge, and compiled them.
 - 1am I downloaded ebooks, sorted my Yahoo emails, eat supper, sleep.
 
 ### Tuesday (August 12) (FBToothbrush)
@@ -13,7 +13,7 @@
 - Tuesday 12 Aug 2025 4pm Pasir Ris Polyclinic General Dentistry
 - 5pm to 7pm travel to eat dinner, travel to owndays to fix spectacles, return home, bath.
 - 7pm to 7.35pm I downloaded ebooks.
-- 7.35pm to 10.35pm I briefly read parts of today Monday's Straits Times, Business Times, and The Edge.
+- 7.35pm to 10.35pm I briefly read parts of today Tuesday's Straits Times, Business Times, and The Edge, and compiled them.
 - 9.20pm to 10.25pm I briefly watched parts of today's news on CNA and Channel 5, and this:
     - https://www.youtube.com/shorts/ayBTh6iXtKU
 10.35pm eat supper, sleep.
@@ -24,22 +24,33 @@
 - 6.15pm to 7.45pm dinner outside, return home, bath.
 - 7.45pm to 8.55pm bath again due to bowels, reviewed AI's research output for epub to pdf conversion.
 - 8.55pm to 9.50pm I briefly watched parts of today's news on CNA and Channel 5.
-- 9.50pm to 12.40pm I briefly read parts of today Monday's Straits Times, Business Times, and The Edge.
+- 9.50pm to 12.40pm I briefly read parts of today Wednesday's Straits Times, Business Times, and The Edge, and compiled them.
 - 12.40pm to 1.50pm I experimented with LibreOffice.
 - 1.50pm eat supper, sleep.
 
 ### Thursday (August 14) (shave)
 - 3pm eat bread, sleep.
 - 5pm dinner outside, return home, bath.
-- 7pm I briefly read parts of today Monday's Straits Times, Business Times, and The Edge.
+- 7pm I briefly read parts of today Thursday's Straits Times, Business Times, and The Edge, and compiled them.
 - 9.20pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
 - 10.50pm eat supper, sleep.
 
 ### Friday (August 15) (bowels, towels)
-
+- 12pm to 12.35pm I emailed CGH and POEMS, and sorted my Yahoo emails.
+- 12.45pm to 2.05pm lunch outside, return home, bath.
+- 2.05pm to 6.05pm work.
+- 6.05pm to 6.45pm settle email from CGH MSS.
+- 6.45pm to 8.30pm dinner outside, return home, trapped in lift, bath.
+- 8.30pm I emailed CGH, downloaded ebooks, reviewed the latest ebooks from NLB, I briefly read parts of today Friday's Straits Times, Business Times, and The Edge, and compiled them.
+- 11.30pm eat supper, could not sleep until 5am.
 
 ### Saturday (August 16) ()
-
+- 12.35pm to 1.50pm lunch outside, return home, bath.
+- 1.50pm to 5.50pm work.
+- 6.10pm to 7.40pm dinner outside, return home, bath.
+- 7.40pm I briefly read parts of today Saturday's Straits Times, Business Times, and The Edge, and this week's The Economist, and compiled them.
+- 8.25pm I briefly watched parts of today's news on CNA and Channel 5, and Money Mind.
+- 12.25am eat supper, sleep.
 
 ### Sunday (August 17) (bowels)
 
