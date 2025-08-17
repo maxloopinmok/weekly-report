@@ -50,10 +50,17 @@
 - 6.10pm to 7.40pm dinner outside, return home, bath.
 - 7.40pm I briefly read parts of today Saturday's Straits Times, Business Times, and The Edge, and this week's The Economist, and compiled them.
 - 8.25pm I briefly watched parts of today's news on CNA and Channel 5, and Money Mind.
-- 12.25am eat supper, sleep.
+- 12.25am I downloaded ebooks, and reviewed the latest ebooks at NLB.
+- 1.30am eat supper, sleep.
 
 ### Sunday (August 17) (bowels)
-
+- 12.35pm to 2pm lunch outside, return home, bath.
+- 2pm to 6pm work.
+- 6.10pm to 7.35pm dinner outside, return home, trapped in lift, bath.
+- 7.35pm I briefly read parts of today Sunday's Straits Times, and The Edge, and compiled them.
+- 8pm to 9.25pm I watched Prime Minister's Rally.
+- 11.40pm to 1.10am I downloaded ebooks, reviewed ebooks at NLB.
+- 1.15am eat supper, sleep.
 
 
 
@@ -64,6 +71,12 @@
 - 2024 The New World Economy in 5 Trends - Investing in times of superinflation, hyperinnovation & climate transition
 - 2022 Effective Remote Work - For Yourself, Your Team, and Your Company
 - 2024 Serverless Apps on Cloudflare
+- 2018 Million Dollar Maths - The Secret Maths of Becoming Rich (or Poor)
+- 2022 The 6 Types of Working Genius
+- 2025 Reboot at 40
+- 2025 From Zero to Employed
+- 2025 Headlines That Matter
+- 2023 On Solidarity
 
 ## Routines
 - I update weekly report.
