@@ -1,7 +1,16 @@
 ### Monday (August 18) ()
+- 12.40pm to 2.05pm lunch outside, return home, bath.
+- 2.05pm to 6.05pm work.
+- 6.35pm to 7.50pm dinner outside, return home, bath.
+- 7.50pm I briefly read parts of today Monday's Straits Times, Business Times, and The Edge, and compiled them.
+- 8.55pm I briefly watched parts of today's news on CNA and Channel 5, and these:
+    - https://www.youtube.com/watch?v=5wXlmlIXJOI
+    - https://www.youtube.com/watch?v=BUqv58oXb0U
+    - https://www.youtube.com/watch?v=xWYb7tImErI
+    - https://www.youtube.com/watch?v=I0C8SE9ijq4
+- 2.25am I downloaded ebooks, wrote to mic, eat supper, sleep.
 
-
-### Tuesday (August 19) (bowels, towels)
+### Tuesday (August 19) (bowels, towels, shave)
 
 
 ### Wednesday (August 20) ()
@@ -22,18 +31,8 @@
 
 
 ## Parts of books I had read when I can't sleep
-- 2025 How Not to Invest
-- 2025 Where You Can Lead
-- 2020 The New World Economy
-- 2024 The New World Economy in 5 Trends - Investing in times of superinflation, hyperinnovation & climate transition
-- 2022 Effective Remote Work - For Yourself, Your Team, and Your Company
-- 2024 Serverless Apps on Cloudflare
-- 2018 Million Dollar Maths - The Secret Maths of Becoming Rich (or Poor)
-- 2022 The 6 Types of Working Genius
-- 2025 Reboot at 40
-- 2025 From Zero to Employed
-- 2025 Headlines That Matter
 - 2023 On Solidarity
+- 2025 An Introduction to Schools of Economic Thought
 
 ## Routines
 - I update weekly report.
