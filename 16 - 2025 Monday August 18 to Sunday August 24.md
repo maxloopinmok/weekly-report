@@ -11,7 +11,13 @@
 - 2.25am I downloaded ebooks, wrote to mic, eat supper, sleep.
 
 ### Tuesday (August 19) (bowels, towels, shave)
-
+- 12.40pm to 2.05pm lunch outside, return home, bath.
+- 2.05pm to 6.05pm work.
+- 6.15pm to 7.45pm dinner outside, return home, bath.
+- 7.45pm to 12.30am I sorted my Yahoo emails, I briefly read parts of today Tuesday's Straits Times, Business Times, and The Edge, and compiled them.
+- 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
+- 12.35am I downloaded ebooks, reviewed the latest ebooks at NLB
+- 1am eat supper, sleep.
 
 ### Wednesday (August 20) ()
 - Wednesday 20 Aug 2025 4pm Pasir Ris Polyclinic General Dentistry
