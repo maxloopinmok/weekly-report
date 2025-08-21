@@ -20,11 +20,21 @@
 - 1am eat supper, sleep.
 
 ### Wednesday (August 20) ()
+- 1pm to 2.30pm lunch outside, return home, bath.
 - Wednesday 20 Aug 2025 4pm Pasir Ris Polyclinic General Dentistry
-
+- 5pm to 6.30pm dinner outside, return home, bath.
+- 6.30pm to 11.30pm I briefly read parts of today Wednesday's Straits Times, Business Times, and The Edge, and compiled them.
+- 8.55pm to 10.45pm I briefly watched parts of today's news on CNA and Channel 5, and a Talking Point Special.
+- 11.30pm eat supper, sleep.
 
 ### Thursday (August 21) (bowels)
-
+- 12.25pm to 1.50pm lunch outside, return home, bath.
+- 1.50pm to 5.50pm work.
+- 6.20pm to 7.50pm dinner outside, return home, bath.
+- 7.50pm to 8.55pm I briefly read parts of today Wednesday's Straits Times, Business Times, and The Edge, and compiled them.
+- 8.55pm to 10.10pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.10pm to 12.20pm I read my compiled news.
+- 12.20pm eat supper, sleep.
 
 ### Friday (August 22) ()
 
@@ -39,6 +49,8 @@
 ## Parts of books I had read when I can't sleep
 - 2023 On Solidarity
 - 2025 An Introduction to Schools of Economic Thought
+
+
 
 ## Routines
 - I update weekly report.
