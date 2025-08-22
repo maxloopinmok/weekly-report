@@ -27,7 +27,7 @@
 - 8.55pm to 10.45pm I briefly watched parts of today's news on CNA and Channel 5, and a Talking Point Special.
 - 11.30pm eat supper, sleep.
 
-### Thursday (August 21) (bowels)
+### Thursday (August 21) (bowels, Ftoothbrush)
 - 12.25pm to 1.50pm lunch outside, return home, bath.
 - 1.50pm to 5.50pm work.
 - 6.20pm to 7.50pm dinner outside, return home, bath.
@@ -36,8 +36,14 @@
 - 10.10pm to 12.20pm I read my compiled news.
 - 12.20pm eat supper, sleep.
 
-### Friday (August 22) ()
-
+### Friday (August 22) (bedsheet)
+- 9am Pasir Ris Polyclinic General Dentistry
+- 10am sleep
+- 2pm to 7.30pm lunch, library reading news, dinner, return home, bath, bedsheet.
+- 7.30pm to 8.50pm I downloaded ebooks, and reviewed the latest ebooks at NLB.
+- 8.55pm to 9.40pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.40pm to 1.10am I continued reading my compiled news.
+- 1.10am eat supper, sleep.
 
 ### Saturday (August 23) (bowels, towels)
 
