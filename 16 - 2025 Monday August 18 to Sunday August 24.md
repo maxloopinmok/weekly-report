@@ -31,7 +31,7 @@
 - 12.25pm to 1.50pm lunch outside, return home, bath.
 - 1.50pm to 5.50pm work.
 - 6.20pm to 7.50pm dinner outside, return home, bath.
-- 7.50pm to 8.55pm I briefly read parts of today Wednesday's Straits Times, Business Times, and The Edge, and compiled them.
+- 7.50pm to 8.55pm I briefly read parts of today Thursday's Straits Times, Business Times, and The Edge, and compiled them.
 - 8.55pm to 10.10pm I briefly watched parts of today's news on CNA and Channel 5.
 - 10.10pm to 12.20pm I read my compiled news.
 - 12.20pm eat supper, sleep.
@@ -43,20 +43,43 @@
 - 7.30pm to 8.50pm I downloaded ebooks, and reviewed the latest ebooks at NLB.
 - 8.55pm to 9.40pm I briefly watched parts of today's news on CNA and Channel 5.
 - 9.40pm to 1.10am I continued reading my compiled news.
-- 1.10am eat supper, sleep.
+- 1.10am check stocks and email tiger brokers, pay singtel bill, eat supper, sleep.
 
 ### Saturday (August 23) (bowels, towels)
+- 12.45pm to 2.15pm lunch outside, return home, bath.
+- 2.15pm to 6.20pm work.
+- 6.20pm to 8.30pm dinner outside, buy bread, buy redoxon, buy fish burger for mummy, return home, bath.
+- 8.30pm to 10.15pm I briefly read parts of today Saturday's Straits Times, Business Times, and The Edge, and this week's The Economist, and compiled them.
+- 9.15pm to 10pm I briefly watched parts of today's news on CNA and Channel 5, and Money Mind.
+- 10.15pm to 11.30pm I downloaded ebooks, and reviewed the latest ebooks at NLB, I recorded my expenses, I sorted my Yahoo emails.
+- 11.30pm eat supper, sleep.
 
-
-### Sunday (August 24) (bowels)
+### Sunday (August 24) (toenails)
+- 1pm to 2.25pm lunch outside, return home, bath.
+- 2.25pm to 6.05pm work.
+- 6.15pm to 8.30pm dinner outside, buy dinner for mummy, return home, bath.
+- 8.30pm to 9.25pm I read parts of my compiled news.
+- 9.25pm to 10.20pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.20pm to 12.10pm I briefly watched parts of these:
+    - https://www.youtube.com/watch?v=hUYjjqwkWUU
+    - https://www.youtube.com/watch?v=BbQUjpcSeE0
+    - https://www.youtube.com/watch?v=0tLHVyd7WtM
+    - https://www.youtube.com/watch?v=x-4R38Wdp_o
+    - https://www.youtube.com/watch?v=7gRqa5Sv2xk
+- 12.10pm eat supper, read compiled news, sleep.
 
 
 
 ## Parts of books I had read when I can't sleep
 - 2023 On Solidarity
 - 2025 An Introduction to Schools of Economic Thought
-
-
+- 2018 Universal Basic Income and the Threat to Democracy as We Know It
+- 2024 Universal Basic Income
+- 2022 Smart Brevity
+- 2025 Adult Learning
+- 2025 Successful AI Product Creation - A 9-Step Framework
+- 2013 How to Fail at Almost Everything and Still Win Big
+- 2022 87 Ways to Make $100 daily Online
 
 ## Routines
 - I update weekly report.
@@ -76,6 +99,7 @@
 # Upcoming Schedule
 
 # Upcoming Medical Appointments
+- Friday 5 Sep 3.30pm CGH MSS Medifund Application
 - Monday 15 Sep 2025 4.20pm SGH Neurology Clinic L BLK3 L1 (Yellow Zone), Dr Dementia - Simon Ting
 - Tuesday 23 Sep 2025 10.50am 3D - Digestive Diseases Centre @ CGH
 - Thursday 2 Oct 2025 2pm Pasir Ris Polyclinic: RM 201
