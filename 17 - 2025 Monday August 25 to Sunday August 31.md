@@ -1,5 +1,13 @@
-### Monday (August 25) (bowels, towels)
-
+### Monday (August 25) (bowels, towels, last sunday shave)
+- 12.30pm to 2pm lunch outside, return home, bath.
+- 2pm to 6pm work.
+- 6.15pm to 7.50pm dinner outside, return home, bath.
+- 7.50pm to 8.25pm I sorted my Yahoo emails, I reviewed and downloaded oral health/dental care ebooks.
+- 8.25pm to 8.55pm I read an ebook about oral care, and read and compiled today's news on ST, BT, The Edge.
+- 8.55pm to 9.15pm I reviewed AI's response to earthquake queries.
+- 9.15pm to 10.15pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.15pm to 1.45am I read some ebooks.
+- 1.45am eat supper, sleep.
 
 ### Tuesday (August 26) ()
 
@@ -22,15 +30,15 @@
 
 
 ## Parts of books I had read when I can't sleep
-- 2023 On Solidarity
-- 2025 An Introduction to Schools of Economic Thought
-- 2018 Universal Basic Income and the Threat to Democracy as We Know It
-- 2024 Universal Basic Income
 - 2022 Smart Brevity
 - 2025 Adult Learning
 - 2025 Successful AI Product Creation - A 9-Step Framework
 - 2013 How to Fail at Almost Everything and Still Win Big
 - 2022 87 Ways to Make $100 daily Online
+- 2025 Shelf Life
+- 2022 Adult Oral Health - Dental Care and Tips for Adults
+- 2022 Oral Health and Dental Care in the Ageing Population
+- 2013 Holistic Dental Care
 
 ## Routines
 - I update weekly report.
