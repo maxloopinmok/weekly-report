@@ -10,7 +10,16 @@
 - 1.45am eat supper, sleep.
 
 ### Tuesday (August 26) ()
-
+- 1.30pm to 4pm lunch outside, buy groceries at NTUC, return home, bath.
+- 4pm to 6pm I briefly read and compiled parts of today's news on ST, BT, The Edge.
+- 6.10pm to 7.40pm dinner outside, return home, bath.
+- 7.40pm to 8.55pm I read parts of the compiled news.
+- 8.55pm to 10.05pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.05pm to 10.15pm I downloaded ebooks, and reviewed the latest ebooks at NLB.
+- 10.15pm I read parts of the compiled news, I read parts of a few ebooks, I downloaded ebooks, I reviewed the latest ebooks at NLB, I did a check on "base44 lovable bolt replit cursor":
+    - https://uibakery.io/blog/base44-vs-lovable-vs-bolt
+    - https://www.linkjuices.com/best-vibe-coding-tools-lovable-bolt-and-more/
+- 1.20am eat supper, sleep.
 
 ### Wednesday (August 27) (bowels)
 
@@ -39,6 +48,9 @@
 - 2022 Adult Oral Health - Dental Care and Tips for Adults
 - 2022 Oral Health and Dental Care in the Ageing Population
 - 2013 Holistic Dental Care
+- 2009 100 Great Business Ideas
+- 2019 Startup 500 Business Ideas
+- 2022 Zero to IPO - Over USD1 Trillion of Actionable Advice from the World's Most Successful Entrepreneurs
 
 ## Routines
 - I update weekly report.
