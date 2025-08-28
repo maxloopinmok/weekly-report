@@ -21,11 +21,24 @@
     - https://www.linkjuices.com/best-vibe-coding-tools-lovable-bolt-and-more/
 - 1.20am eat supper, sleep.
 
-### Wednesday (August 27) (bowels)
+### Wednesday (August 27) (bowels, towels)
+- 12.45pm to 2.15pm lunch outside, return home, bath.
+- 2.15pm to 6.15pm work.
+- 6.45pm to 8.15pm dinner outside, return home, bath.
+- 6.15pm to 6.45pm, 8.15pm to 8.45pm I briefly read and compiled parts of today's news on ST, BT, The Edge.
+- 8.45pm to 9.50pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.50pm to 2am I read my compiled news, I battled my bowels.
+- 2am to 3.30am eat supper, battle bowels again, read, sleep.
 
-
-### Thursday (August 28) ()
-
+### Thursday (August 28) (shave)
+- 1.15pm to 3.15pm lunch outside, buy milk, return home, bath.
+- 3.15pm to 4.45pm I read my compiled news.
+- 4.45pm to 5.45pm I briefly read and compiled parts of today's news on ST, BT, The Edge.
+- 5.45pm to 7.15pm dinner outside, return home, bath.
+- 7.15pm to 9.10pm I read my compiled news.
+- 9.10pm to 10.25pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
+- 10.25pm to 1am I read my compiled news.
+- 1am I download a ebook, eat supper, sleep.
 
 ### Friday (August 29) (bowels, towels)
 
