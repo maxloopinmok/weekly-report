@@ -40,13 +40,21 @@
 - 10.25pm to 1am I read my compiled news.
 - 1am I download a ebook, eat supper, sleep.
 
-### Friday (August 29) (bowels, towels)
-
+### Friday (August 29) (bowels)
+- 9.50am to 11.50am work
+- 11.50am to 1.30pm lunch outside, buy bread, return home, bath.
+- 1.30pm to 3.30pm work
+- 3.30pm to 5.45pm I briefly read and compiled parts of today's news on ST, BT, The Edge.  I read my compiled news.
+- 5.45pm to 7pm dinner outside, return home, bath.
+- 7pm to 8.45pm I read my compiled news.
+- 8.45pm to 10pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10pm to 10.40pm I read my compiled news.
+- 10.40pm I sorted my Yahoo emails, eat supper, sleep.
 
 ### Saturday (August 30) ()
 
 
-### Sunday (August 31) (bowels)
+### Sunday (August 31) (bowels, towels)
 
 
 
