@@ -52,10 +52,28 @@
 - 10.40pm I sorted my Yahoo emails, eat supper, sleep.
 
 ### Saturday (August 30) ()
-
+- 11.20am to 12.20pm work
+- 12.20pm to 2pm lunch outside, return home, bath.
+- 2pm to 5pm work
+- 5.10pm to 6.50pm dinner outside, buy fish burger for mummy, return home, bath.
+- 6.50pm to 8.25pm I briefly read and compiled parts of today's news on ST, BT, The Edge.  I read my compiled news.
+- 8.25pm to 9.50pm I watched parts of today's news on CNA and Channel 5, and Money Mind.
+- 9.50pm to 11.40pm I downloaded ebooks, and reviewed the latest ebooks at NLB.
+- 11.40pm I briefly read and compiled this week's The Economist.
+- 12.10am eat supper, sleep.
 
 ### Sunday (August 31) (bowels, towels)
-
+- 12.20pm to 1.45pm lunch outside, return home, bath.
+- 1.45pm to 6.15pm work
+- 6.15pm to 7.45pm dinner outside, return home, bath.
+- 7.45pm to 9.25pm I read my compiled The Economist.
+- 9.25pm to 10.10pm I watched parts of today's news on CNA and Channel 5.
+- 10.10pm to 10.40pm I briefly watched parts of these:
+    - https://www.youtube.com/watch?v=wQ-qhzHlL5A
+    - https://www.youtube.com/watch?v=VpwpCtv0byA
+- 10.40pm to 12.15am I downloaded ebooks.
+- 12.15am to 12.55am I briefly read and compiled parts of today's news on ST, and The Edge.  
+- 12.55am eat supper, sleep.
 
 
 
@@ -72,6 +90,12 @@
 - 2009 100 Great Business Ideas
 - 2019 Startup 500 Business Ideas
 - 2022 Zero to IPO - Over USD1 Trillion of Actionable Advice from the World's Most Successful Entrepreneurs
+- 2025 Artificial Intelligence All-in-One For Dummies
+- 2022 The Pathless Path
+- 2020 Testing Business Ideas
+- 2016 The Last Safe Investment
+
+
 
 ## Routines
 - I update weekly report.
