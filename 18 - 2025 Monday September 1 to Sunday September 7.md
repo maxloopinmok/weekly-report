@@ -1,7 +1,14 @@
 ### Monday (September 1) (shave)
-- 12.35pm to 2.05pm lunch outside, return home, bath.
-- 2.05pm to 2.30pm I update weekly report.
-- 2.30pm to 6pm work
+- 12.35pm to 2.05pm lunch outside, buy milk, return home, bath.
+- 2.05pm to 3pm I update weekly report.
+- 3pm to 6.10pm work
+- 6.10pm to 7.30pm dinner outside, buy bread, return home, bath.
+- 7.30pm to 8.30pm work
+- 8.30pm to 10.30pm I download ebooks, I briefly read and compiled parts of today's news on ST, BT, The Edge.
+- 8.55pm to 9.55pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.30pm to 12.30am I read my compiled news.
+- 12.30am to 12.40am work
+- 12.40am eat supper, sleep.
 
 ### Tuesday (September 2) (bowels, towels)
 
@@ -25,15 +32,8 @@
 
 
 ## Parts of books I had read when I can't sleep
-- 2022 Smart Brevity
-- 2025 Adult Learning
 - 2025 Successful AI Product Creation - A 9-Step Framework
-- 2013 How to Fail at Almost Everything and Still Win Big
 - 2022 87 Ways to Make $100 daily Online
-- 2025 Shelf Life
-- 2022 Adult Oral Health - Dental Care and Tips for Adults
-- 2022 Oral Health and Dental Care in the Ageing Population
-- 2013 Holistic Dental Care
 - 2009 100 Great Business Ideas
 - 2019 Startup 500 Business Ideas
 - 2022 Zero to IPO - Over USD1 Trillion of Actionable Advice from the World's Most Successful Entrepreneurs
