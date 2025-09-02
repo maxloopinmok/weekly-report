@@ -11,7 +11,16 @@
 - 12.40am eat supper, sleep.
 
 ### Tuesday (September 2) (bowels, towels)
-
+- 4am to 6.10am work
+- 12.30pm to 1.40pm lunch outside, return home, bath.
+- 1.40pm to 4pm work
+- 4pm to 6pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 6pm to 7.30pm dinner outside, return home, bath.
+- 7.30pm to 9.30pm I briefly read parts of:
+    - The Last Safe Investment
+- 9.30pm to 11pm I briefly watched parts of today's news on CNA.
+- 11pm to 12.15am I downloaded ebooks and reviewed the latest ebooks from NLB.
+- 12.15am I sorted my Yahoo emails, eat supper, sleep.
 
 ### Wednesday (September 3) ()
 
