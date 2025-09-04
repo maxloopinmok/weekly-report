@@ -1,4 +1,4 @@
-### Monday (September 1) (shave)
+### Monday (September 1) (shave, FBToothbrush)
 - 12.35pm to 2.05pm lunch outside, buy milk, return home, bath.
 - 2.05pm to 3pm I update weekly report.
 - 3pm to 6.10pm work
@@ -23,10 +23,26 @@
 - 12.15am I sorted my Yahoo emails, eat supper, sleep.
 
 ### Wednesday (September 3) ()
-
+- 1.30pm to 3pm lunch outside, buy bread, return home, bath.
+- 3pm to 6.30pm I briefly read parts of:
+    - Rich AF
+- 6.30pm to 8.10pm dinner outside, buy McChicken for mummy, return home, bath.
+- 8.10pm to 8.40pm I sorted my Yahoo emails.
+- 8.40pm to 9.45pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.45pm to 12.50am I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 12.50am I message some friends, eat supper, sleep
 
 ### Thursday (September 4) (bowels)
-
+- 12.30pm to 2.15pm lunch outside, return home, bath.
+- 2.15pm to 4.25pm work
+- 4.25pm to 5.50pm I downloaded ebooks, I messaged some contacts on whatsapp.
+- 5.50pm to 7.20pm dinner outside, return home, bath.
+- 7.20pm to 9pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 9pm to 10.15pm, 10.55pm to 11.30pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
+- 10.15pm to 12.30am I watched parts of this:
+    - https://www.youtube.com/watch?v=YHnOkLSXGdE
+    - https://www.youtube.com/watch?v=UclrVWafRAI
+- 12.30am eat supper, sleep.
 
 ### Friday (September 5) ()
 - Friday 5 Sep 3.30pm CGH MSS Medifund Application
@@ -50,7 +66,7 @@
 - 2022 The Pathless Path
 - 2020 Testing Business Ideas
 - 2016 The Last Safe Investment
-
+- 2023 Rich AF - The Winning Money Mindset That Will Change Your Life
 
 
 ## Routines
