@@ -45,8 +45,14 @@
 - 12.30am eat supper, sleep.
 
 ### Friday (September 5) ()
+- 1.10pm lunch outside, buy milk, return home, brush teeth, leave for med appt.
 - Friday 5 Sep 3.30pm CGH MSS Medifund Application
-
+- 5pm to 6.30pm dinner outside, buy bread + toothpaste, return home, bath.
+- 6.30pm to 8.55pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 8.55pm to 10.15pm I briefly watched parts of today's news on CNA and Channel 5, I also messaged my mother's problems to my bosses.
+- 10.15pm to 12.30pm I evaluated/googled "selling services online".
+- 12.30pm to 1.10am I arranged ambulance for my mother. 
+- 1.10am I sorted my Yahoo emails, eat supper, sleep.
 
 ### Saturday (September 6) (bowels, towels)
 
