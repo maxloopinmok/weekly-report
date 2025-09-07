@@ -54,11 +54,28 @@
 - 12.30pm to 1.10am I arranged ambulance for my mother. 
 - 1.10am I sorted my Yahoo emails, eat supper, sleep.
 
-### Saturday (September 6) (bowels, towels)
-
+### Saturday (September 6) (bowels, towels, shave)
+- 12.15pm to 1.45pm lunch outside, return home, bath.
+- 1.45pm to 5.35 work
+- 5.35pm to 6.15pm I briefly read and compiled parts of today's news on ST, BT, The Edge.
+- 6.15pm to 7.45pm dinner outside, return home, bath.
+- 7.45pm to 9.10pm I compiled Medifund application documents.
+- 9.10pm to 10pm I briefly watched parts of today's news on CNA and Channel 5, and Money Mind.
+- 10pm to 1.30am I briefly read and compiled parts of today's news on ST, BT, The Edge; I read my compiled news.
+- 1.30am eat supper, sleep.
 
 ### Sunday (September 7) ()
-
+- 2pm to 3.05pm lunch outside, buy bread, return home, bath.
+- 3.05pm to 6.35pm work
+- 6.35pm to 8.20pm dinner outside, return home, bath, clean fan.
+- 8.20pm to 10.40pm I downloaded ebooks, and reviewed the latest ebooks at NLB.
+- 10.40pm to 11.15pm I briefly watched parts of today's news on CNA.
+- 11.15pm to 12.20am I briefly watched parts of these:
+    - https://www.youtube.com/watch?v=5HiCTW13vYc
+    - https://www.youtube.com/watch?v=NuMph1_yIZc
+    - https://www.youtube.com/watch?v=alfnPBqdJyc
+- 12.20am to 2.30am I tried setmore.
+- 2.30am eat supper, sleep.
 
 
 
