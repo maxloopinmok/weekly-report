@@ -1,5 +1,15 @@
-### Monday (September 8) (bowels)
-
+### Monday (September 8) (bowels, wipe-fan-PC-desk, nails)
+- 12pm to 1.45pm lunch outside, return home, bath.
+- 1.45pm to 5.45pm work
+- 5.45pm to 6.15pm I downloaded ebook, I briefly read and compiled parts of today's news on ST, BT, The Edge, and last week's The Economist.
+- 6.15pm to 7.45pm dinner outside, return home, bath.
+- 7.45pm to 9.10pm I read my compiled news.
+- 9.10pm to 10pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10pm to 11.15pm I briefly watched parts of this:
+    - https://www.youtube.com/watch?v=3FgPLbfs_oY
+    - https://www.youtube.com/watch?v=Jg09XvHGHiQ
+    - https://www.youtube.com/watch?v=V_g9RxdKq9Q
+- 11.15pm eat supper, sleep.
 
 ### Tuesday (September 9) ()
 
@@ -51,6 +61,7 @@
 
 # Upcoming Medical Appointments
 - Monday 15 Sep 2025 4.20pm SGH Neurology Clinic L BLK3 L1 (Yellow Zone), Dr Dementia - Simon Ting
+- Wednesday 17 Sep 2.30pm SPD Visit at home
 - Tuesday 23 Sep 2025 10.50am 3D - Digestive Diseases Centre @ CGH
 - Thursday 2 Oct 2025 2pm Pasir Ris Polyclinic: RM 201
 - Thursday 9 Oct 2025 2.30pm Pasir Ris Polyclinic: RM 258
