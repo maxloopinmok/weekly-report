@@ -1,4 +1,4 @@
-### Monday (September 8) (bowels, wipe-fan-PC-desk, nails)
+### Monday (September 8) (bowels, wipe-fan-PC-desks, nails)
 - 12pm to 1.45pm lunch outside, return home, bath.
 - 1.45pm to 5.45pm work
 - 5.45pm to 6.15pm I downloaded ebook, I briefly read and compiled parts of today's news on ST, BT, The Edge, and last week's The Economist.
@@ -11,8 +11,18 @@
     - https://www.youtube.com/watch?v=V_g9RxdKq9Q
 - 11.15pm eat supper, sleep.
 
-### Tuesday (September 9) ()
-
+### Tuesday (September 9) (waterbottles, bedsheet, wipe-floor)
+- 2.15pm to 4pm lunch outside, buy bread + fresh milk, return home, bath.
+- 4pm to 4.55pm change bedsheet, wash water bottles, wipe floor.
+- 4.55pm to 6.15pm I downloaded ebook, I briefly read and compiled parts of today's news on ST, BT, The Edge.
+- 6.15pm to 8pm dinner outside, buy burger for mum, return home, bath.
+- 8pm to 9.25pm I read my compiled news.
+- 9.25pm to 10.20pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.20pm to 11.50pm I read my compiled news, I downloaded ebook.
+- 11.50pm to 12.20am I tried to setup HitPay account.
+- 12.20am to 12.35am I briefly watched parts of this:
+    - https://www.youtube.com/watch?v=uesNWFP40zw
+- 12.35am eat supper, sleep.
 
 ### Wednesday (September 10) (bowels, towels)
 
