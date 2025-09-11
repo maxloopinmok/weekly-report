@@ -24,11 +24,25 @@
     - https://www.youtube.com/watch?v=uesNWFP40zw
 - 12.35am eat supper, sleep.
 
-### Wednesday (September 10) (bowels, towels)
-
+### Wednesday (September 10) (bowels, towels, shave)
+- 12.30pm to 1.45pm lunch outside, return home, bath.
+- 1.45pm to 5.45pm work
+- 5.45pm to 7.15pm dinner outside, return home, bath.
+- 7.15pm to 8.55pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 8.55pm to 10.10pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.10pm to 11.50pm I read my compiled news.
+- 11.50pm I sorted my Yahoo emails, I screen captured parts of a ebook.
+- 12.25pm eat supper, sleep.
 
 ### Thursday (September 11) ()
-
+- 11.15pm to 3.45pm lunch outside, buy groceries, cut hair, return home, bath.
+- I briefly read parts of:
+    - 2025 The Creative Entrepreneur 
+- 5pm to 7pm a check at POSB about HitPay, dinner outside, return home, bath.
+- 7pm to 9.25pm I tried HitPay and then Stripe, and setup Google Forms and updated Setmore.
+- 9.25pm to 10.55pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
+- 10.55pm to 12.40pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 12.40pm eat supper, sleep.
 
 ### Friday (September 12) (bowels, towels)
 
@@ -50,7 +64,7 @@
 - 2022 The Pathless Path
 - 2020 Testing Business Ideas
 - 2016 The Last Safe Investment
-
+- 2025 The Creative Entrepreneur 
 
 ## Routines
 - I update weekly report.
