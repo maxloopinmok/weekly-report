@@ -34,8 +34,8 @@
 - 11.50pm I sorted my Yahoo emails, I screen captured parts of a ebook.
 - 12.25pm eat supper, sleep.
 
-### Thursday (September 11) ()
-- 11.15pm to 3.45pm lunch outside, buy groceries, cut hair, return home, bath.
+### Thursday (September 11) (bread)
+- 12.15pm to 3.45pm lunch outside, buy groceries, cut hair, return home, bath.
 - I briefly read parts of:
     - 2025 The Creative Entrepreneur 
 - 5pm to 7pm a check at POSB about HitPay, dinner outside, return home, bath.
@@ -45,9 +45,17 @@
 - 12.40pm eat supper, sleep.
 
 ### Friday (September 12) (bowels, towels)
+- 12.30pm to 1.45pm lunch outside, return home, bath.
+- 1.45pm to 5.45pm work
+- 6pm to 7.35pm dinner outside, return home, bath.
+- 7.35pm to 9.10pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 9.10pm to 10.15pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.15pm to 10.55pm I updated my medium and facebook.
+- 10.55pm to 2am I read my compiled news.
+- 2am until after 3.30am eat supper, sleep. I also had a look at, installed and tested:
+    - https://github.com/marcusrprojects/audiobook-generator
 
-
-### Saturday (September 13) ()
+### Saturday (September 13) (bread, milk)
 
 
 ### Sunday (September 14) (bowels)
