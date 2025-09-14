@@ -47,7 +47,7 @@
 ### Friday (September 12) (bowels, towels)
 - 12.30pm to 1.45pm lunch outside, return home, bath.
 - 1.45pm to 5.45pm work
-- 6pm to 7.35pm dinner outside, return home, bath.
+- 6pm to 7.35pm dinner outside, buy bread, return home, bath.
 - 7.35pm to 9.10pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
 - 9.10pm to 10.15pm I briefly watched parts of today's news on CNA and Channel 5.
 - 10.15pm to 10.55pm I updated my medium and facebook.
@@ -56,10 +56,30 @@
     - https://github.com/marcusrprojects/audiobook-generator
 
 ### Saturday (September 13) (bread, milk)
-
+- 1.40pm to 3.05pm lunch outside, buy milk, return home, bath.
+- 3.05pm to 6.05pm work
+- 6.05pm to 7.20pm dinner outside, return home, bath.
+- 7.20pm to 8.10pm work
+- 8.10pm to 8.45pm prepare my pre dementia writeup for doctor
+- 8.45pm to 9.55pm I briefly watched parts of today's news on CNA and Channel 5, and Money Mind.
+- 9.55pm to 11.35pm I watched parts of these:
+    - https://www.youtube.com/watch?v=49RT6SQ8n0Y
+    - https://www.youtube.com/watch?v=Kr3Sh2PKA8Y
+    - https://www.youtube.com/watch?v=xZCbQM-hGa4
+    - https://www.youtube.com/watch?v=UJo_MiMA7qE
+- 11.35pm to 12.30am I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 12.30am eat supper, sleep, and read compiled news.
 
 ### Sunday (September 14) (bowels)
-
+- 12.40pm to 2.15pm lunch outside, return home, bath.
+- 2.15pm to 6.15pm work
+- 6.15pm to 7.45pm dinner outside, return home, bath.
+- 7.45pm to 9.25pm I reviewed the latest ebooks at NLB.
+- 9.25pm to 10.10pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.10pm to 10.50pm I watched this:
+    - https://www.youtube.com/watch?v=s5r4wdOWLjk
+- 10.50pm to 12.10am I downloaded ebooks, I briefly read and compiled parts of today's news on ST, BT, The Edge, and this week's The Economist, I read my compiled news.
+- 12.10am eat supper, sleep.
 
 
 
