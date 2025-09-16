@@ -1,11 +1,26 @@
-### Monday (September 15) ()
+### Monday (September 15) (bread)
+- visited Kinokuniya at Takashimaya.
 - Monday 15 Sep 2025 4.20pm SGH Neurology Clinic L BLK3 L1 (Yellow Zone), Dr Dementia - Simon Ting
+- 7.30pm to 8.55pm I read my compiled news.
+- 8.55pm to 10.10pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.10pm to 10.50pm I downloaded ebooks.
+- 10.50pm eat supper, sleep.
+
+### Tuesday (September 16) (bowels, towels, shave)
+- 12.15pm to 1.45pm lunch outside, return home, bath.
+- 1.45pm to 5.45pm work
+- 5.45pm to 7.15pm dinner outside, return home, bath.
+- 7.15 to 9pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 9pm to 10.10pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.10pm to 10.45pm I briefly watched parts of these:
+    - https://www.youtube.com/watch?v=XIu7XmiTfag
+    - https://www.youtube.com/watch?v=1VX3jNJmbcI
+- 10.45pm to 11pm I sorted my Yahoo emails.
+- 11pm to 11.55pm I read my compiled news.
+- 11.55pm eat supper, sleep.
 
 
-### Tuesday (September 16) (bowels, towels)
-
-
-### Wednesday (September 17) ()
+### Wednesday (September 17) (milk)
 - Wednesday 17 Sep 2.30pm SPD Visit at home
 
 
@@ -27,15 +42,9 @@
 
 
 ## Parts of books I had read when I can't sleep
-- 2022 87 Ways to Make $100 daily Online
-- 2009 100 Great Business Ideas
-- 2019 Startup 500 Business Ideas
-- 2022 Zero to IPO - Over USD1 Trillion of Actionable Advice from the World's Most Successful Entrepreneurs
-- 2025 Artificial Intelligence All-in-One For Dummies
-- 2022 The Pathless Path
-- 2020 Testing Business Ideas
-- 2016 The Last Safe Investment
-- 2025 The Creative Entrepreneur 
+- 2013 Do Cool Shit
+- 2021 Different Is Better - Marketing That Gets Noticed and Gets Results
+
 
 ## Routines
 - I update weekly report.
