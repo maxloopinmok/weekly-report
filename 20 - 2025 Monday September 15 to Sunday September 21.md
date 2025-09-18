@@ -19,13 +19,31 @@
 - 11pm to 11.55pm I read my compiled news.
 - 11.55pm eat supper, sleep.
 
-
-### Wednesday (September 17) (milk)
+### Wednesday (September 17) (milk, bread)
+- 12.15pm to 1.45pm lunch outside, buy milk, return home, bath.
 - Wednesday 17 Sep 2.30pm SPD Visit at home
-
+- 3.30pm to 7.30pm visited AIC at CGH, dinner, buy bread, toothbrush, visit pinnacle GP, return home, bath.
+- 7.30pm to 8pm I troubleshoot my router and printer.
+- 8pm to 9.05pm I sorted my Yahoo emails and scanned my AIC documents.
+- 9.05pm to 9.25pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 9.25pm to 10.15pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.15pm to 10.55pm I watched this:
+    - https://www.youtube.com/watch?v=WVTkyEZc8ik
+- 10.55pm to 12.45pm I read my compiled news.
+- 12.45pm eat supper, sleep.
 
 ### Thursday (September 18) (bowels)
-
+- 10.55pm go polyclinic to get referral/booking for Saturday assessment appointment.
+- 11.30pm lunch outside, return home, bath.
+- 1pm ruminate over bowels problems and messaged a couple of friends, prepare letter for doctor at next Tuesday's medical appointment.
+- 5.20pm to 6.50pm dinner outside, return home, bath.
+- 6.50pm to 9.20pm sleep, and manage bowels medications and toileting.
+- 9.20pm to 11.20pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
+- 11.20pm to 11.45pm I briefly watched this:
+    - https://www.youtube.com/watch?v=lEtly7wzIvU
+- 11.45pm to 12.30am I ruminate over what to do, sorted my Yahoo emails, download ebook.
+- 12.30am to 2.20am I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 2.20am eat supper, sleep.
 
 ### Friday (September 19) ()
 
