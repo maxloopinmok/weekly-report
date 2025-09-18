@@ -62,7 +62,7 @@
 ## Parts of books I had read when I can't sleep
 - 2013 Do Cool Shit
 - 2021 Different Is Better - Marketing That Gets Noticed and Gets Results
-- 2012 The Pumpkin Plan - A Simple Strategy to Grow a Remarkable Business in Any Field
+- 2012 The Pumpkin Plan - A Simple Strategy to Grow a Remarkable Business in Any Field 
 
 ## Routines
 - I update weekly report.
