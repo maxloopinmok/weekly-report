@@ -43,10 +43,17 @@
     - https://www.youtube.com/watch?v=lEtly7wzIvU
 - 11.45pm to 12.30am I ruminate over what to do, sorted my Yahoo emails, download ebook.
 - 12.30am to 2.20am I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
-- 2.20am eat supper, sleep.
+- 2.20am eat supper, sleep, but can't sleep due to bowels movement until 7am.
 
-### Friday (September 19) ()
-
+### Friday (September 19) (milk, bread)
+- 8am to 12pm sleep
+- 12.30pm to 2.30pm lunch outside, buy milk + bread, return home, bath.
+- 2.30pm to 4.30pm visit CGH AIC and then meet ACC Joseph.
+- 4.30pm to 6.30pm updated and replaced bank book, dinner outside, return home, bath.
+- 6.30pm to 7.50pm I messaged my friends, I downloaded ebook, I updated my expenditures.
+- 7.50pm to 8.50pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 8.50pm to 9.35pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.35pm eat supper, sleep, and maybe read my compiled news.
 
 ### Saturday (September 20) (bowels, towels)
 
