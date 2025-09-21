@@ -45,7 +45,7 @@
 - 12.30am to 2.20am I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
 - 2.20am eat supper, sleep, but can't sleep due to bowels movement until 7am.
 
-### Friday (September 19) (milk, bread)
+### Friday (September 19) (milk, bread, FToothbrush)
 - 8am to 12pm sleep
 - 12.30pm to 2.30pm lunch outside, buy milk + bread, return home, bath.
 - 2.30pm to 4.30pm visit CGH AIC and then meet ACC Joseph.
@@ -53,16 +53,36 @@
 - 6.30pm to 7.50pm I messaged my friends, I downloaded ebook, I updated my expenditures.
 - 7.50pm to 8.50pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
 - 8.50pm to 9.35pm I briefly watched parts of today's news on CNA and Channel 5.
-- 9.35pm eat supper, sleep, and maybe read my compiled news.
+- 9.35pm eat supper, sleep, and maybe read my compiled news.-+
+
 
 ### Saturday (September 20) (bowels, towels)
+- 10.45am see Pasir Ris Polyclinic doctor for functional assessment for financial support.
+- 12pm to 2pm buy diapers, lunch outside, return home, bath.
+- 2pm to 2.20pm download ebooks, record expenditures, 
+- 2.20pm to 5.50pm I slept and read my compiled news.
+- 5.50pm to 7.30pm dinner outside, buy burger for mum, return home, bath.
+- 7.30pm to 8.25pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 8.25pm to 9.35pm I briefly watched parts of today's news on CNA and Channel 5, and Money Mind.
+- 9.35pm to 1.55am I briefly read and compiled parts of today's news on ST, BT, The Edge, and this week's The Economist, I read my compiled news, I wrote an apology message to my friends about my error in the ST Forum email, I wrote a email to ST Forum, I sorted my Yahoo emails.
+- 1.55am eat supper, sleep.
 
-
-### Sunday (September 21) ()
-
-
-
-
+### Sunday (September 21) (shave, toenails, bread)
+- 12.15pm to 2.15pm lunch outside, buy bread, return home, bath.
+- 2.15pm to 6.15pm work
+- 6.15pm to 8.45pm dinner outside, update bank books, buy jams + kaya, return home, bath.
+- 8.45pm to 9.20pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 9.20pm to 10.10pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.10pm to 12am I watched parts of these:
+    - https://www.youtube.com/watch?v=R07rXHHt92o
+    - https://www.youtube.com/watch?v=Q66gsBJnKKQ
+    - https://offers.hubspot.com/view/loop-marketing-prompts?hubs_signup-url=offers.hubspot.com/loop-marketing-prompts&hubs_signup-cta=Submit
+    - https://www.youtube.com/watch?v=PVhVq9RDxwM
+    - https://www.youtube.com/watch?v=hhVuYMztip0
+    - https://www.youtube.com/watch?v=bircUYzIlMg
+    - https://www.youtube.com/watch?v=ryYamBwdWYQ
+- 12am to 2.45am I read my compiled news.
+- 2.45am eat supper, sleep.
 
 
 
