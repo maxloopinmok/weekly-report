@@ -67,7 +67,7 @@
 - 9.35pm to 1.55am I briefly read and compiled parts of today's news on ST, BT, The Edge, and this week's The Economist, I read my compiled news, I wrote an apology message to my friends about my error in the ST Forum email, I wrote a email to ST Forum, I sorted my Yahoo emails.
 - 1.55am eat supper, sleep.
 
-### Sunday (September 21) (shave, toenails, bread)
+### Sunday (September 21) (shave, bread, jamkaya)
 - 12.15pm to 2.15pm lunch outside, buy bread, return home, bath.
 - 2.15pm to 6.15pm work
 - 6.15pm to 8.45pm dinner outside, update bank books, buy jams + kaya, return home, bath.
