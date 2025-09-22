@@ -1,8 +1,14 @@
 ### Monday (September 22) (bowels, towels, toenails)
-- Tuesday 23 Sep 2025 10.50am 3D - Digestive Diseases Centre @ CGH
-
+- 12pm to 2pm lunch outside, return home, bath.
+- 2pm to 6pm work
+- 6pm to 7.30pm dinner outside, return home, bath.
+- 7.30pm to 8.30pm update letter to bowels doctor
+- 8.30pm to 9.45pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.45pm to 10.30pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 10.30pm eat supper, sleep.
 
 ### Tuesday (September 23) (milk)
+- Tuesday 23 Sep 2025 10.50am 3D - Digestive Diseases Centre @ CGH
 
 
 ### Wednesday (September 24) (bowels)
