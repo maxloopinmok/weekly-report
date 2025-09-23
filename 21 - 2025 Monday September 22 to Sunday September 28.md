@@ -1,4 +1,4 @@
-### Monday (September 22) (bowels, towels, toenails)
+### Monday (September 22) (bowels, towels)
 - 12pm to 2pm lunch outside, return home, bath.
 - 2pm to 6pm work
 - 6pm to 7.30pm dinner outside, return home, bath.
@@ -7,9 +7,16 @@
 - 9.45pm to 10.30pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
 - 10.30pm eat supper, sleep.
 
-### Tuesday (September 23) (milk)
+### Tuesday (September 23) (toenails)
 - Tuesday 23 Sep 2025 10.50am 3D - Digestive Diseases Centre @ CGH
-
+- 12pm to 4pm lunch outside, visit Pasir Ris FSC + Pasir Ris Polyclinic, return home, bath.
+- 4pm to 5.40pm I read my compiled news.
+- 5.40pm to 7.10pm dinner outside, return home, bath.
+- 7.10pm to 8pm I read my compiled news.
+- 8pm to 8.45pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 8.45pm to 9.45pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.45pm to 12.50am I read my compiled news.
+- 12.50am eat supper, sleep.
 
 ### Wednesday (September 24) (bowels)
 
