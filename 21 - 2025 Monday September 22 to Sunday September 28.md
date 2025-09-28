@@ -29,8 +29,8 @@
 - 10.25pm to 1.25am I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
 - 1.30am eat supper, sleep.
 
-### Thursday (September 25) (aircon)
-12.15pm to 2.30pm lunch outside, visit OCBC White Sands branch, return home, bath.
+### Thursday (September 25) (aircon, THK meals starts today)
+- 12.15pm to 2.30pm lunch outside, visit OCBC White Sands branch, return home, bath.
 - 2.30pm to 4pm read ebooks.
     - 2025 The Wealth Ladder
     - 2025 Replace Your Team with AI
@@ -43,13 +43,34 @@
 - 11.55pm eat supper, sleep.
 
 ### Friday (September 26) (bowels, towels)
-
+- 12.15pm to 1.20pm eat lunch, brush teeth, boil water, rest.
+- 1.20pm to 4.40pm work
+- 4.40pm to 6pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 6pm to 2am police visited, questioned, travelled to IMH, saw psychiatrist, taxied back, bath.
+- 2pm eat dinner-supper, sleep.
 
 ### Saturday (September 27) ()
-
+- 12pm to 12.40pm eat lunch, brush teeth.
+- 12.40pm to 4.40pm work, dinner
+- 4.40pm to 6.45pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 6.45pm to 9.15pm dessert at white sands, read compiled news at Pasir Ris Library, eat snack, come home, bath.
+- 9.15pm to 10.25pm I briefly watched parts of today's news on CNA and Channel 5, and Money Mind.
+- 10.25pm to 11.15pm I briefly watched parts of these:
+    - https://www.youtube.com/watch?v=R2UZpvp6huw
+    - https://www.youtube.com/watch?v=pX070TcFwvU
+    - https://www.youtube.com/watch?v=V1BhsvI4Trg
+    - https://www.youtube.com/watch?v=oetoZWRI7D4
+- 11.15pm to 12.50am I replied whatsapp messages, downloaded ebook, sorted my Yahoo emails, wrote an MP letter.
+- 12.50am eat supper, sleep, and maybe read some compiled news.
 
 ### Sunday (September 28) (bowels)
-
+- 11.45am to eat lunch, brush teeth, watched this:
+    - https://www.youtube.com/watch?v=q4GEOI0tqOk
+- 12.25pm to 4.25pm work
+- 4.25pm to 5pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news, I tried moving my bowels.
+- 5pm to 9.25pm, 9.45pm to 10.30pm I briefly read and compiled parts of today's news on ST, BT, The Edge, and this week's The Economist, I read my compiled news, I tried moving my bowels.
+- 9.25pm to 9.45pm, 10.30pm to 11pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
+- 11pm eat supper, sleep, and maybe read some compiled news.
 
 
 
@@ -76,9 +97,10 @@
 # Upcoming Schedule
 
 # Upcoming Medical Appointments
-- Tuesday 30 Sep 2025 3pm Pasir Ris Polyclinic MSW
 - Wednesday 1 Oct 2025 11.40am Pasir Ris Polyclinic: RM 201
 - Thursday 9 Oct 2025 2.30pm Pasir Ris Polyclinic: RM 258
-- Friday 14 Nov 2025 11.45am IMH Clinic B
+- Friday 17 Oct 2025 3pm Pasir Ris Polyclinic MSW
+- Tuesday 21 Oct 2025 10.50am 3D - Digestive Diseases Centre @ CGH
+- Thursday 23 Oct 2025 5.15pm IMH Clinic B
 - Thursday 11 Dec 2025 2.10pm 4E - CGH-NNI Spine Centre (Spine)
 - Friday 29 May 2026 9.15am 1A - SNEC Eye Clinic @ CGH
