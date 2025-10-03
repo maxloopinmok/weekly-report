@@ -27,7 +27,7 @@
     - https://www.youtube.com/watch?v=w6ln71ET-F8
     - https://docs.claude.com/en/docs/agents-and-tools/tool-use/computer-use-tool
 
-### Thursday (October 2) (bowels)
+### Thursday (October 2) (bowels, towels)
 - 9.25am to 11.35am work
 - 11.35pm to 12.50pm lunch rest
 - 12.50pm to 1.55pm work
@@ -41,10 +41,14 @@
 - 10.50pm sleep, and maybe read books.
 
 ### Friday (October 3) ()
+- 10am to 11.10am I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
 - Friday 3 Oct 2025 3pm Camden Medical Centre 1 Orchard Boulevard (S)248649
+- 5.30pm dinner at white sands, buy bread at NTUC, come home, bath, messaged people.
+- 8.50pm to 9.40pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.40pm to 10.40pm I updated my expenses records, I sorted my Yahoo emails, I scanned my medical invoices and troubleshoot printer problems.
+- 10.40pm eat supper, sleep, and maybe read compiled news.
 
-
-### Saturday (October 4) (bowels, towels)
+### Saturday (October 4) (bowels)
 
 
 ### Sunday (October 5) ()
@@ -79,5 +83,6 @@
 - Thursday 9 Oct 2025 2.30pm Pasir Ris Polyclinic: RM 258
 - Tuesday 21 Oct 2025 10.50am 3D - Digestive Diseases Centre @ CGH
 - Thursday 23 Oct 2025 5.15pm IMH Clinic B
+- Wednesday 29 Oct 2025 10.30am Dr Jason Lim, DTL Tampines West
 - Thursday 11 Dec 2025 2.10pm 4E - CGH-NNI Spine Centre (Spine)
 - Friday 29 May 2026 9.15am 1A - SNEC Eye Clinic @ CGH
