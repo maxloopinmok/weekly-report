@@ -1,5 +1,11 @@
-### Monday (October 6) (bowels, towels)
-
+### Monday (October 6) (bowels, towels, bedsheet, blanket)
+- 11.30am lunch, wash up,
+- 12pm to 3pm work
+- 3pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 6pm dinner, wash up, I read my compiled news.
+- 8pm change bedsheet, I briefly watched parts of today's news on CNA and Channel 5.
+- 9.30pm I sorted my Yahoo emails, and messaged Jen.
+- 10.45pm eat supper, sleep.
 
 ### Tuesday (October 7) ()
 
@@ -8,6 +14,7 @@
 
 
 ### Thursday (October 9) ()
+- Thursday 9 Oct 2025 2pm White Sands Raffles Medical
 - Thursday 9 Oct 2025 2.30pm Pasir Ris Polyclinic: RM 258
 
 
@@ -15,6 +22,7 @@
 
 
 ### Saturday (October 11) ()
+- Saturday 11 Oct 2025 10.30am Dr Jason Lim, Camden Medical Centre
 
 
 ### Sunday (October 12) (bowels, towels)
@@ -50,6 +58,5 @@
 # Upcoming Medical Appointments
 - Tuesday 21 Oct 2025 10.50am 3D - Digestive Diseases Centre @ CGH
 - Thursday 23 Oct 2025 5.15pm IMH Clinic B
-- Wednesday 29 Oct 2025 10.30am Dr Jason Lim, DTL Tampines West
 - Thursday 11 Dec 2025 2.10pm 4E - CGH-NNI Spine Centre (Spine)
 - Friday 29 May 2026 9.15am 1A - SNEC Eye Clinic @ CGH
