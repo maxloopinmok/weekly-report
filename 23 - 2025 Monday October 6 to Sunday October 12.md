@@ -7,8 +7,15 @@
 - 9.30pm I sorted my Yahoo emails, and messaged Jen.
 - 10.45pm eat supper, sleep.
 
-### Tuesday (October 7) ()
-
+### Tuesday (October 7) (bread)
+- 11am eat lunch, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 2pm visit NTUC, OCBC, Pasir Ris Polyclinic, go home, bath.
+- 3.30pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 4pm eat dinner, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 6pm PWW Jennifer's visit.
+- 8.30pm Jennifer leaves, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news, eat supper.
+- 10.45pm I briefly watched parts of today's news on CNA.
+- 11.40pm sleep
 
 ### Wednesday (October 8) (bowels)
 
