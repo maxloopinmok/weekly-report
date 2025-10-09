@@ -18,18 +18,29 @@
 - 11.40pm sleep
 
 ### Wednesday (October 8) (bowels)
-
+- 1pm eat lunch, wash up.
+- 1.30pm to 5.30pm work.
+- 5.30pm eat dinner, wash up.
+- 6pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 8.45pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.45pm eat supper, sleep and read my compiled news.
 
 ### Thursday (October 9) ()
-- Thursday 9 Oct 2025 2pm White Sands Raffles Medical
+- 12pm eat lunch, wash up.
+- 12.30pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news, I invest in gold ETF on FSMOne.
 - Thursday 9 Oct 2025 2.30pm Pasir Ris Polyclinic: RM 258
-
+- 3.30pm buy sushi, buy milk + yoghurt, go home, eat dinner, bath.
+- 5pm I read my compiled news.
+- 7.30pm I reviewed the latest ebooks from NLB.
+- 8.45pm to 10pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10pm I downloaded ebooks.
+- 10.15pm eat supper, sleep, and maybe read.
 
 ### Friday (October 10) (bowels, towels)
 
 
 ### Saturday (October 11) ()
-- Saturday 11 Oct 2025 10.30am Dr Jason Lim, Camden Medical Centre
+- Saturday 11 Oct 2025 9.30am Dr Jason Lim, Camden Medical Centre
 
 
 ### Sunday (October 12) (bowels, towels)
