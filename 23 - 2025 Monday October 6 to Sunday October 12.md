@@ -25,7 +25,7 @@
 - 8.45pm I briefly watched parts of today's news on CNA and Channel 5.
 - 9.45pm eat supper, sleep and read my compiled news.
 
-### Thursday (October 9) ()
+### Thursday (October 9) (invest)
 - 12pm eat lunch, wash up.
 - 12.30pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news, I invest in gold ETF on FSMOne.
 - Thursday 9 Oct 2025 2.30pm Pasir Ris Polyclinic: RM 258
@@ -37,7 +37,17 @@
 - 10.15pm eat supper, sleep, and maybe read.
 
 ### Friday (October 10) (bowels, towels)
-
+- 7.30am to 9.20am work
+- 9.20am to 12.45am sleep
+- 12.45am eat lunch, wash up.
+- 1.20pm to 3.30pm work
+- 3.30pm eat dinner, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 7.15pm bath, reviewed my e-reader ebooks.
+- 8.45pm I briefly watched parts of today's news on CNA and Channel 5, and eat supper.
+- 10.25pm to 11pm I briefly watched parts of these:
+    - https://www.youtube.com/watch?v=jFlnRBO8mcg
+    - https://www.youtube.com/watch?v=zwnVUiwObl8
+- 11pm sleep
 
 ### Saturday (October 11) ()
 - Saturday 11 Oct 2025 9.30am Dr Jason Lim, Camden Medical Centre
