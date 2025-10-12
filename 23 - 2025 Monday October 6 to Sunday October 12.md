@@ -50,21 +50,39 @@
 - 11pm sleep
 
 ### Saturday (October 11) ()
+- 7am eat breakfast, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
 - Saturday 11 Oct 2025 9.30am Dr Jason Lim, Camden Medical Centre
-
+- 10am Orchard Kinokuniya
+- 11am eat lunch, go home, bath.
+- 1pm I downloaded ebooks, I reviewed the latest ebooks at NLB.
+- 4pm go out for dinner, buy can food, come home, bath.
+- 5.30pm I read my compiled news.
+- 8.25pm I briefly watched parts of today's news on CNA and Channel 5, and Money Mind.
+- 9.30pm I record my expenses and daily tasks.
+- 9.50pm I read my compiled news.
+- 11pm eat supper, sleep.
 
 ### Sunday (October 12) (bowels, towels)
+- 1.15pm eat lunch, wash up.
+- 1.45pm work
+- 5.45pm eat dinner, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 6.30pm to 7.40pm buy milk, come home, bath.
+- 7.40pm, 8.40pm, 9.40pm I reviewed my ebooks, I read my compiled news, as well as this:
+    - 2023-01 Assisted suicide a 20th century problem, Palliative care a 21st century solution
+- 8.15pm, 9.15pm I briefly watched parts of today's news on CNA and Channel 5.
+- 12am eat supper, sleep.
 
 
 
-## Parts of books I had read when I can't sleep
+## Parts of some books I had read
 - 2025 The Wealth Ladder
 - 2025 Replace Your Team with AI
 - 2025 Copy-Paste Cashflow
 - 2024 Thinking 101 - Lessons in Clarity, Focus and Making Better Decisions
 - 2025 Think Clearly
-- 2023 Stoma Care Specialist Nursing - A Guide for Clinical Practice
-- 2009 Abdominal Stomas and Their Skin Disorders, Second Edition
+- 2017 Euthanasia and Assisted Suicide
+- 2025 Earthly Materials - Journeys Through Our Bodies' Emissions
+- 2025 You Are More Than Your Body
 
 ## Routines
 - I update weekly report.
