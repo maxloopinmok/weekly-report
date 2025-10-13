@@ -1,5 +1,13 @@
 ### Monday (October 13) ()
-
+- 1.15pm eat lunch, wash up.
+- 1.40pm to 5.40pm work.
+- 5.40pm eat dinner, wash up.
+- 6.10pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 8.40pm I briefly watched parts of today's news on CNA and Channel 5, and eat supper.
+- 9.40pm I briefly watched these:
+    - https://www.youtube.com/watch?v=oDx3q5tGY84
+    - https://www.youtube.com/watch?v=5KmpT-BoVf4
+- 10.40pm sleep.
 
 ### Tuesday (October 14) (bowels)
 
