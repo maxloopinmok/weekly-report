@@ -10,7 +10,12 @@
 - 10.40pm sleep.
 
 ### Tuesday (October 14) (bowels)
-
+- 11.20am eat lunch, wash up.
+- 11.50am work
+- 3.50pm eat dinner, wash up.
+- 4.20pm to 8.40pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news, and handled bowels problems, including multiple baths.
+- 8.40pm to 10.10pm I briefly watched parts of today's news on CNA and Channel 5, eat supper.
+- 10.10pm I read my compiled news, sleep.
 
 ### Wednesday (October 15) ()
 
