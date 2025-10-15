@@ -15,10 +15,18 @@
 - 3.50pm eat dinner, wash up.
 - 4.20pm to 8.40pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news, and handled bowels problems, including multiple baths.
 - 8.40pm to 10.10pm I briefly watched parts of today's news on CNA and Channel 5, eat supper.
-- 10.10pm I read my compiled news, sleep.
+- 10.10pm I read my compiled news.
+- 11.30pm I sorted my Yahoo emails, I read my compiled news, sleep.
 
-### Wednesday (October 15) ()
-
+### Wednesday (October 15) (haircut)
+- 9.40am Pasir Ris Polyclinic Appointment, haircut
+- 10.45am eat lunch, bath, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 3.45pm Appointment at Novena Medical Centre with Dr Jason Lim.
+- 4.30pm eat first dinner, visit Kinokuniya to read Replaceable You by Mary Roach, go home, bath, eat second dinner.
+- 7.30pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 8.50pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10pm answer messages, sort Yahoo emails, update expenditures and tasks done.
+- 10.45pm sleep.
 
 ### Thursday (October 16) (bowels, towels)
 
