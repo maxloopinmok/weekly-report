@@ -29,16 +29,32 @@
 - 10.45pm sleep.
 
 ### Thursday (October 16) (bowels, towels)
+- sort things out in morning, had lunch, go CGH.
+- 2.30pm at CGH A&E, warded at CGH.
 
-
-### Friday (October 17) ()
-
+### Friday (October 17) (bowels)
+- warded at CGH.
 
 ### Saturday (October 18) (bowels)
+- 1pm go to SGH from CGH
+- 3.30pm reach home from SGH, bath, sort out my records.
+- 4.30pm McDonald's dinner, go home, bath.
+- 6pm sort things out.
+- 7pm to 8.15pm drink fortrans, continue sorting things out.
+- 8.45pm I briefly watched parts of today's news on CNA and Channel 5, and Money Mind.
+- 9.30pm I watched parts of this:
+    - https://www.youtube.com/watch?v=tSrN8eRMEAE
+- 10.30pm eat supper, sleep, and maybe read some compiled news.
 
-
-### Sunday (October 19) ()
-
+### Sunday (October 19) (towels)
+- 1pm go out lunch, go CGH.
+- 2.15pm waited at CGH for search of samsung phone charger, failed to find.
+- 3pm go samsung tampines to buy new charger, go home, bath.
+- 4+pm sort things out, messaged friends, read compiled news.
+- 5.30pm eat dinner, wash up, messaged friends, read compiled news.
+- 7pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 12.10am I sorted my Yahoo emails and updated my records.
+- 12.50am eat supper, sleep.
 
 
 
@@ -70,7 +86,11 @@
 # Upcoming Schedule
 
 # Upcoming Medical Appointments
-- Tuesday 21 Oct 2025 10.50am 3D - Digestive Diseases Centre @ CGH
 - Thursday 23 Oct 2025 5.15pm IMH Clinic B
+- Tuesday 4 Nov 2025 12.30pm 3D - Digestive Diseases Centre @ CGH
+- Friday 7 Nov 2025 3.50pm 3C - General Surgery @ CGH
 - Thursday 11 Dec 2025 2.10pm 4E - CGH-NNI Spine Centre (Spine)
+- Tuesday 3 Mar 2026 12pm 3D - Digestive Diseases Centre @ CGH
+- Monday 16 Mar 2026 2.20pm SGH Neurology Clinic L BLK3 L1 (Yellow Zone), Dr Dementia - Simon Ting
 - Friday 29 May 2026 9.15am 1A - SNEC Eye Clinic @ CGH
+- Friday 7 Aug 2026 9.40am 4E - CGH-NNI Spine Centre
