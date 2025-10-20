@@ -1,5 +1,11 @@
 ### Monday (October 20) (bowels)
-
+- 11.30am go out for lunch, buy milk, come home, bath.
+- 1pm read my compiled news.
+- 4.30pm eat dinner, bath, read my compiled news.
+- 7pm I briefly read and compiled parts of today's news on ST, BT, The Edge, and last week's The Economist, I read my compiled news.
+- 8.45pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.45pm I read my compiled news.
+- 10.45pm eat supper, sleep.
 
 ### Tuesday (October 21) ()
 
