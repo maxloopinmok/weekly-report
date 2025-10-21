@@ -8,7 +8,15 @@
 - 10.45pm eat supper, sleep.
 
 ### Tuesday (October 21) ()
-
+- 1pm eat lunch, wash up.
+- 1.30pm reviewed news and bought gold ETF.
+- 3pm I briefly read and compiled parts of today's news on ST, BT, The Edge.
+- 4.30pm I reviewed the latest ebooks at NLB.
+- 5.45pm eat dinner, bath.
+- 6.30pm I read my compiled news, and read ebooks, and sorted my Yahoo emails.
+- 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.50pm I read ebooks.
+- 10.50pm eat supper, sleep.
 
 ### Wednesday (October 22) (bowels)
 
@@ -34,9 +42,10 @@
 - 2025 Copy-Paste Cashflow
 - 2024 Thinking 101 - Lessons in Clarity, Focus and Making Better Decisions
 - 2025 Think Clearly
-- 2017 Euthanasia and Assisted Suicide
-- 2025 Earthly Materials - Journeys Through Our Bodies' Emissions
 - 2025 You Are More Than Your Body
+- 2023 Replace Your Salary by Investing
+- 2025 Broke at 50, Not Beaten
+- 2025 Aftershock to 2030
 
 ## Routines
 - I update weekly report.
@@ -58,6 +67,7 @@
 # Upcoming Medical Appointments
 - Tuesday 4 Nov 2025 12.30pm 3D - Digestive Diseases Centre @ CGH
 - Friday 7 Nov 2025 3.50pm 3C - General Surgery @ CGH
+- Monday 17 Nov 2025 9.50am 2B - ENT @ CGH
 - Thursday 11 Dec 2025 2.10pm 4E - CGH-NNI Spine Centre (Spine)
 - Tuesday 3 Mar 2026 12pm 3D - Digestive Diseases Centre @ CGH
 - Monday 16 Mar 2026 2.20pm SGH Neurology Clinic L BLK3 L1 (Yellow Zone), Dr Dementia - Simon Ting
