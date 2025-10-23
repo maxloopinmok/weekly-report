@@ -19,11 +19,24 @@
 - 10.50pm eat supper, sleep.
 
 ### Wednesday (October 22) (bowels)
-
+- 12pm eat lunch, wash up.
+- 12.45pm work
+- 4.45pm eat dinner, wash up.
+- 5.30pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 8.55pm I briefly watched parts of today's news on CNA and Channel 5, eat supper.
+- 10.30pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 11pm sleep, and maybe read compiled news.
 
 ### Thursday (October 23) ()
-- Thursday 23 Oct 2025 5.15pm IMH Clinic B
-
+- 1pm eat lunch, bath, go out to IMH.
+- Thursday 23 Oct 2025 3pm IMH Clinic B
+- 4pm at SGH MSS.
+- 5pm eat dinner, travel to Kinokuniya, go home, bath.
+- 7.50pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 8.50pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
+- 10.05pm eat supper
+- 10.30pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 11pm sleep, and maybe read compiled news.
 
 ### Friday (October 24) (bowels)
 
