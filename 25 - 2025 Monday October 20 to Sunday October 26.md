@@ -38,10 +38,16 @@
 - 10.30pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
 - 11pm sleep, and maybe read compiled news.
 
-### Friday (October 24) (bowels)
+### Friday (October 24) (bowels, towels)
+- 12.30pm eat lunch, wash up.
+- 1.15pm work
+- 5.15pm eat dinner, bath.
+- 6.15pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 8.50pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.55pm eat supper, I searched for elderly toilet support EASE.
+- 10.35pm sleep, and maybe read my compiled news.
 
-
-### Saturday (October 25) ()
+### Saturday (October 25) (bowels, fortrans)
 
 
 ### Sunday (October 26) (bowels)
