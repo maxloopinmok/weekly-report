@@ -47,8 +47,16 @@
 - 9.55pm eat supper, I searched for elderly toilet support EASE.
 - 10.35pm sleep, and maybe read my compiled news.
 
-### Saturday (October 25) (bowels, fortrans)
-
+### Saturday (October 25) (bowels, fortrans, shave)
+- 6am start fortrans, I briefly read and compiled parts of today's news on ST, BT, The Edge, this week's The Economist, I read my compiled news.
+- 9am sleep
+- 11.30am eat breakfast
+- 12pm eat lunch
+- 12.30pm work
+- 4.30pm eat dinner, I read my compiled news.
+- 7.15pm start fortrans again, I reviewed the latest ebooks from NLB.
+- 8.10pm I briefly watched parts of today's news on CNA and Channel 5, and Money Mind.  I also tried to convey the workings of the FSM One portal to my mum, but failed.
+- 10pm update weekly recordings, drink milo, sleep.
 
 ### Sunday (October 26) (bowels)
 
@@ -87,8 +95,11 @@
 - Tuesday 4 Nov 2025 12.30pm 3D - Digestive Diseases Centre @ CGH
 - Friday 7 Nov 2025 3.50pm 3C - General Surgery @ CGH
 - Monday 17 Nov 2025 9.50am 2B - ENT @ CGH
+- Wednesday 19 Nov 2025 2.45pm SGH MSS BLK3 L1 (Yellow Zone)
+- Monday 1 Dec 2025 5pm IMH Clinic B MSS
 - Thursday 11 Dec 2025 2.10pm 4E - CGH-NNI Spine Centre (Spine)
 - Tuesday 3 Mar 2026 12pm 3D - Digestive Diseases Centre @ CGH
 - Monday 16 Mar 2026 2.20pm SGH Neurology Clinic L BLK3 L1 (Yellow Zone), Dr Dementia - Simon Ting
+- Thursday 23 Apr 2026 3pm IMH Clinic B
 - Friday 29 May 2026 9.15am 1A - SNEC Eye Clinic @ CGH
 - Friday 7 Aug 2026 9.40am 4E - CGH-NNI Spine Centre
