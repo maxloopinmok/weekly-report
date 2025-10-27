@@ -59,7 +59,8 @@
 - 10pm update weekly recordings, drink milo, sleep.
 
 ### Sunday (October 26) (bowels)
-
+- 2am call 995, go CGH A&E for worsening constipation problem.
+- 5am warded at CGH.
 
 
 
