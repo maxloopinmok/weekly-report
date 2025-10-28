@@ -1,4 +1,4 @@
-### Monday (October 27) ()
+### Monday (October 27) (bisacodyl)
 - warded at CGH
 - 5.30pm discharged from CGH, go White Sands, buy multivitamin, eat dinner, go home, bath.
 - 7.45pm scan MC, sort things out, messaged friends.
@@ -6,11 +6,25 @@
 - 9.40pm continue sorting things out, download ebooks, soiled my shorts, bathed again, sorted my Yahoo emails, sorted my recordings, prep for bowels movement.
 - 11.50pm eat supper, sleep.
 
-### Tuesday (October 28) (bowels, towels)
+### Tuesday (October 28) (bowels, towels, coffee, fleet, centa)
+- 6am start medications, eat breakfast, move bowels.
+- 9am sleep.
+- 12.30pm go out for lunch, move bowels, come home, bath.
+- 2.30pm reply messages, purchase diapers at guardian online, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 4.30pm go CGH Pharmacy and AIC, go dinner, go home, bath.
+- 7.05pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 8.50pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.40pm I read my compiled news.
+- 11pm eat supper, brush teeth, downloaded ebooks, sorted my Yahoo emails.
+- 12.05am sleep, and maybe read more compiled news.
 
-
-### Wednesday (October 29) ()
-
+### Wednesday (October 29) (bedsheet, yakult, prune, shave)
+- check AMD advance medical directive phone number
+- buy colgate total anti bacteria toothpaste
+- buy milk
+- change bedsheet
+- drink yakult, prune juice
+- shave
 
 ### Thursday (October 30) (bowels)
 
@@ -30,10 +44,8 @@
 - 2025 Copy-Paste Cashflow
 - 2024 Thinking 101 - Lessons in Clarity, Focus and Making Better Decisions
 - 2025 Think Clearly
-- 2025 You Are More Than Your Body
-- 2023 Replace Your Salary by Investing
-- 2025 Broke at 50, Not Beaten
-- 2025 Aftershock to 2030
+
+
 
 ## Routines
 - I update weekly report.
