@@ -18,19 +18,32 @@
 - 11pm eat supper, brush teeth, downloaded ebooks, sorted my Yahoo emails.
 - 12.05am sleep, and maybe read more compiled news.
 
-### Wednesday (October 29) (bedsheet, yakult, prune, shave)
-- check AMD advance medical directive phone number
-- buy colgate total anti bacteria toothpaste
-- buy milk
-- change bedsheet
-- drink yakult, prune juice
-- shave
+### Wednesday (October 29) (shave, prune, yakult, bisacodyl)
+- 1.30pm eat lunch.
+- 2pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 3pm go cold storage buy milk, smuckers jam, colgate toothpaste, come home, bath.
+- 4.30pm I read my compiled news.
+- 6pm eat dinner, wash up, prune, yakult, contact suppliers of grab bars and HDB EASE.
+- 7.30pm I read my compiled news, I read ebook.
+- 8.30pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.40pm I sort my Yahoo emails, I read ebook.
+- 10.50pm eat supper, bisacodyl, sleep, and maybe read ebook.
 
-### Thursday (October 30) (bowels)
-
+### Thursday (October 30) (bowels, bedsheet)
+- 6.30am drink yakult, prune juice after breakfast.
+- 1pm eat lunch, wash up, bathed, message friends.
+- 2pm submit NTUC income claim for first hospitalisation, wasting time trying to settle claim, check with CGH MSS, check and call FSM One about cash in account situation.
+- 4.35pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 5.30pm or 6pm eat dinner, wash up.
+- 6.30pm I read my compiled news.
+- 7.15pm I tried to confirm if FSM One's Auto Sweep is the highest yield, or redeem and withdraw the fastest to bank account.  
+- 8.05pm I reviewed the latest ebooks on NLB, I briefly watched parts of today's news on CNA and Channel 5, and Talking Point, eat supper, change bedsheet.
+- 11.40 sleep, and read ebooks.
 
 ### Friday (October 31) ()
-
+- call AMD advance medical directive phone number 63259136
+- visit NTUC Income at Bras Basah to sort out claim issue
+- drink yakult, prune juice
 
 ### Saturday (November 1) (bowels)
 
@@ -44,8 +57,12 @@
 - 2025 Copy-Paste Cashflow
 - 2024 Thinking 101 - Lessons in Clarity, Focus and Making Better Decisions
 - 2025 Think Clearly
-
-
+- 2025 Headlines That Matter
+- 2025 Vitamins & Supplements For Dummies
+- 2023 The Uncertainty Solution - How To Invest With Confidence In The Face Of The Unknown
+- 2025 AI for Life 
+- 2025 Lean Learning
+- 2024 Slow Productivity - The Lost Art of Accomplishment Without Burnout
 
 ## Routines
 - I update weekly report.
