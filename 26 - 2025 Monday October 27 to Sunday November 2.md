@@ -37,13 +37,23 @@
 - 5.30pm or 6pm eat dinner, wash up.
 - 6.30pm I read my compiled news.
 - 7.15pm I tried to confirm if FSM One's Auto Sweep is the highest yield, or redeem and withdraw the fastest to bank account.  
-- 8.05pm I reviewed the latest ebooks on NLB, I briefly watched parts of today's news on CNA and Channel 5, and Talking Point, eat supper, change bedsheet.
+- 8.05pm I reviewed the latest ebooks on NLB and downloaded ebooks, I briefly watched parts of today's news on CNA and Channel 5, and Talking Point, eat supper, change bedsheet.
 - 11.40 sleep, and read ebooks.
 
-### Friday (October 31) ()
-- call AMD advance medical directive phone number 63259136
-- visit NTUC Income at Bras Basah to sort out claim issue
-- drink yakult, prune juice
+### Friday (October 31) (FToothbrush)
+- 7am eat breakfast, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- about 9am sleep
+- 1pm eat lunch, wash up.
+- 1.30pm I read my compiled news.
+- 3.35pm call AMD advance medical directive phone number 63259136, but was told to wait another month for my acknowledgement letter, and if I did not receive it, I am to call in.
+- 3.50pm I eat dinner, wash up, I reviewed the latest ebooks on NLB and downloaded ebooks.
+- 6.45pm I eat my first supper, I read ebook:
+    - 2024 Using AI in Marketing
+- 8.30pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.45pm drink yakult, prune juice, read ebook.
+- 11.15pm eat supper, bisacodyl, sleep, and maybe read ebook:
+    - 2024 Slow Productivity - The Lost Art of Accomplishment Without Burnout
+    - 2025 Lean Learning
 
 ### Saturday (November 1) (bowels)
 
@@ -63,6 +73,7 @@
 - 2025 AI for Life 
 - 2025 Lean Learning
 - 2024 Slow Productivity - The Lost Art of Accomplishment Without Burnout
+- 2024 Using AI in Marketing
 
 ## Routines
 - I update weekly report.
@@ -80,6 +91,7 @@
 - Stabilise on some books and blog them.
 
 # Upcoming Schedule
+- planned to visit NTUC Income at Bras Basah to sort out claim issue if no proper response from them
 
 # Upcoming Medical Appointments
 - Tuesday 4 Nov 2025 12.30pm 3D - Digestive Diseases Centre @ CGH
