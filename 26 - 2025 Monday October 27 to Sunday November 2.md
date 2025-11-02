@@ -55,10 +55,39 @@
     - 2024 Slow Productivity - The Lost Art of Accomplishment Without Burnout
     - 2025 Lean Learning
 
-### Saturday (November 1) (bowels)
-
+### Saturday (November 1) (bowels, towels)
+- 8.30am eat breakfast, eat medicines/supplements, move bowels.
+- about 9am sleep.
+- 2pm eat lunch, wash up, I download ebook, I sorted my Yahoo emails.
+- 3pm I briefly read and compiled parts of today's news on ST, BT, The Edge, this week's The Economist, I read my compiled news.
+- 4.15pm eat dinner, wash up.
+- 4.45pm I read my compiled news.
+- 7.15pm I read ebooks:
+    - 2024 Slow Productivity - The Lost Art of Accomplishment Without Burnout
+    - 2025 Lean Learning
+    - 2025 Agentic Artificial Intelligence
+- 8.25pm I briefly watched parts of today's news on CNA and Channel 5, and Money Mind.
+- 9.35pm I briefly watched parts of this:
+    - https://www.youtube.com/watch?v=nuIgsUM9GgM
+- 10.35pm I read ebooks.
+- 12.50am eat supper, sleep.
 
 ### Sunday (November 2) ()
+- 8.55pm eat breakfast, take medicines.
+- 9.15am sleep.
+- 1.30pm eat lunch, sleep.
+- 3.40pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 4.30pm eat dinner, I read ebooks.
+- 7pm go out to buy cod liver oil and eat second dinner, come home, bath.
+- 8.45pm record expenditures and medicines, plan and sort things out.
+- 9.45pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.35pm I briefly watched parts of these:
+    - https://www.youtube.com/watch?v=MfStM9eKiBQ
+    - https://www.youtube.com/watch?v=tMYCaX2uidg
+- 11.20pm I briefly read this:
+    - https://books.google.com.sg/books?id=ZIuREQAAQBAJ&newbks=0&printsec=frontcover&pg=PA410&dq=constipation+medicine+neurogenic+bowels&hl=en&source=newbks_fb&redir_esc=y#v=onepage&q=constipation%20medicine%20neurogenic%20bowels&f=false
+- 11.45pm eat supper, take medicines, sleep.
+
 
 
 ## Parts of some books I had read
@@ -74,6 +103,7 @@
 - 2025 Lean Learning
 - 2024 Slow Productivity - The Lost Art of Accomplishment Without Burnout
 - 2024 Using AI in Marketing
+- 2025 Agentic Artificial Intelligence
 
 ## Routines
 - I update weekly report.
