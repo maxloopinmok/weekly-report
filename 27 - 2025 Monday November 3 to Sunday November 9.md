@@ -1,9 +1,20 @@
 ### Monday (November 3) (bowels)
-
+- 7am eat breakfast, take medicines, moved bowels, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 10.30am eat lunch, read compiled news.
+- 12pm sleep
+- 1.30pm I read my compiled news, I read ebooks.
+- 3pm eat dinner, wash up.
+- 3.30pm settle nursing home, great eastern insurance matters.
+- 4.25pm extract ideas from ebooks.
+- 6.30pm second dinner outside, come home, bath.
+- 8pm I read ebooks, and update ideas text.
+- 8.50pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.45pm I prepared my questions for doctor tomorrow Tuesday, I sorted my Yahoo emails.
+- 10.10pm sleep.
 
 ### Tuesday (November 4) ()
 - Tuesday 4 Nov 2025 12.30pm 3D - Digestive Diseases Centre @ CGH
-
+- buy milk
 
 ### Wednesday (November 5) (bowels)
 
@@ -12,9 +23,6 @@
 
 
 ### Friday (November 7) ()
-- planned to visit NTUC Income at Bras Basah to sort out claim issue if no proper response from them
-- maybe visit kinokuniya
-- Friday 7 Nov 2025 3.50pm 3C - General Surgery @ CGH
 
 
 ### Saturday (November 8) (bowels)
