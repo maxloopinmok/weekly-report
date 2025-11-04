@@ -13,8 +13,18 @@
 - 10.10pm sleep.
 
 ### Tuesday (November 4) ()
+- 10.30am eat lunch, wash up, bath, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
 - Tuesday 4 Nov 2025 12.30pm 3D - Digestive Diseases Centre @ CGH
-- buy milk
+- 2.30pm to 3pm pain at spinal implants while travelling on MRT and bus.
+- 3pm eat dinner at home, wash up, bath.
+- 3.50pm do recordings, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news, google explain lubiprostone and linaclotide.
+- 4.30pm receive call from HDB EASE, analyse pros and cons for income generators.
+- 5.40pm read compiled news.
+- 6.20pm dinner outside, come home, bath.
+- 7.30pm I read compiled news, I take my medications, I sorted my Yahoo emails.
+- 8.25pm I briefly watched parts of today's news on CNA and Channel 5.
+- 10.05pm I continued reviewing ebooks to better understand which are useful to me, I downloaded ebooks.
+- 11.10pm eat supper, take medicine, sleep.
 
 ### Wednesday (November 5) (bowels)
 
@@ -33,7 +43,6 @@
 
 
 ## Parts of some books I had read
-- 2025 The Wealth Ladder
 - 2025 Replace Your Team with AI
 - 2025 Copy-Paste Cashflow
 - 2024 Thinking 101 - Lessons in Clarity, Focus and Making Better Decisions
@@ -63,14 +72,18 @@
 - Stabilise on some books and blog them.
 
 # Upcoming Schedule
+- Friday 21 Nov 2025 3pm HDB EASE checkers coming
+- December 2025 Switch out of FSM One money market into cash account
 
 # Upcoming Medical Appointments
+- Tuesday 11 Nov 2025 10.30am Dietician, Level 1, Integrated Building
 - Monday 17 Nov 2025 9.50am 2B - ENT @ CGH
 - Wednesday 19 Nov 2025 2.45pm SGH MSS BLK3 L1 (Yellow Zone)
+- Thursday 27 Nov 2025 3.30pm 4E - CGH-NNI Spine Centre (Spine)
 - Monday 1 Dec 2025 5pm IMH Clinic B MSS
-- Thursday 11 Dec 2025 2.10pm 4E - CGH-NNI Spine Centre (Spine)
+- Thursday 4 Dec 2025 4.10pm 3D - Digestive Diseases Centre @ CGH
 - Tuesday 3 Mar 2026 12pm 3D - Digestive Diseases Centre @ CGH
 - Monday 16 Mar 2026 2.20pm SGH Neurology Clinic L BLK3 L1 (Yellow Zone), Dr Dementia - Simon Ting
 - Thursday 23 Apr 2026 3pm IMH Clinic B
 - Friday 29 May 2026 9.15am 1A - SNEC Eye Clinic @ CGH
-- Friday 7 Aug 2026 9.40am 4E - CGH-NNI Spine Centre
+- Friday 7 Aug 2026 9.40am 4E - CGH-NNI Spine Centre (Knee)
