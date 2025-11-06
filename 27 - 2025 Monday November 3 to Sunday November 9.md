@@ -27,10 +27,30 @@
 - 11.10pm eat supper, take medicine, sleep.
 
 ### Wednesday (November 5) (bowels)
-
+- 8.45am eat light breakfast, take medicines, do recordings, move bowels.
+- 9.40am work, eat lunch.
+- 11am sleep.
+- 11.55am work.
+- 2.35pm eat dinner, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news, I started a new blog:
+    - https://somethingusefulforinvestors.blogspot.com/
+- 6pm eat supper 1, take medications, adjust blog.
+- 7pm read ebook:
+    - 2025 Headlines That Matter
+- 8.30pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.55pm I sorted my Yahoo emails, I reviewed the outcome of my blog post with ChatGPT, I downloaded ebook.
+- 10.40pm eat supper 2, sleep, and maybe read ebooks.
 
 ### Thursday (November 6) (bowels)
-
+- 3am couldn't sleep, so chatted with chatgpt, online purchase of inflatable lumbar cushion from shopee.
+- 5am eat breakfast 1, sleep.
+- 8am eat breakfast 2.
+- 8.10am work
+- 12.10pm I did recordings, I downloaded ebooks, I briefly read and compiled parts of today's news on ST, BT, The Edge, I posted a blog post.
+- 4pm I read ebook:
+    - 2021 Building Wealth Through REITS
+- 6.30pm dinner outside, buy oral b toothbrushes and jam, come home, bath.
+- 8pm I reviewed more about REITS, I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
+- 11pm I sorted my Yahoo emails, eat supper, sleep, and maybe read ebooks.
 
 ### Friday (November 7) ()
 
@@ -48,13 +68,12 @@
 - 2024 Thinking 101 - Lessons in Clarity, Focus and Making Better Decisions
 - 2025 Think Clearly
 - 2025 Headlines That Matter
-- 2025 Vitamins & Supplements For Dummies
 - 2023 The Uncertainty Solution - How To Invest With Confidence In The Face Of The Unknown
 - 2025 AI for Life 
 - 2025 Lean Learning
 - 2024 Slow Productivity - The Lost Art of Accomplishment Without Burnout
 - 2024 Using AI in Marketing
-- 2025 Agentic Artificial Intelligence
+- 2021 Building Wealth Through REITS
 
 ## Routines
 - I update weekly report.
