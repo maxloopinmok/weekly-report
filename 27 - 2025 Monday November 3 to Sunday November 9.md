@@ -53,7 +53,15 @@
 - 11pm I sorted my Yahoo emails, eat supper, sleep, and maybe read ebooks.
 
 ### Friday (November 7) ()
-
+- 8.45am eat light breakfast, sleep.
+- 1.45pm eat light lunch, wash up, message and call people.
+- 3pm eat another lunch, I briefly read and compiled parts of today's news on ST, BT, The Edge.
+- 6.30pm dinner outside, buy bread, come home, bath.
+- 8pm I read my compiled news.
+- 8.45pm I briefly watched parts of today's news on CNA and Channel 5, I briefly watched parts of this and searched for gaming laptop prices:
+    - https://www.youtube.com/watch?v=Ir__cvyTSqc
+- 11pm I sorted my Yahoo emails, I read my compiled news.
+- 2.05am eat supper, sleep.
 
 ### Saturday (November 8) (bowels)
 
@@ -98,6 +106,7 @@
 - Tuesday 11 Nov 2025 10.30am Dietician, Level 1, Integrated Building
 - Monday 17 Nov 2025 9.50am 2B - ENT @ CGH
 - Wednesday 19 Nov 2025 2.45pm SGH MSS BLK3 L1 (Yellow Zone)
+- Friday 21 Nov 2025 3pm HDB EASE contractor coming to home
 - Thursday 27 Nov 2025 3.30pm 4E - CGH-NNI Spine Centre (Spine)
 - Monday 1 Dec 2025 5pm IMH Clinic B MSS
 - Thursday 4 Dec 2025 4.10pm 3D - Digestive Diseases Centre @ CGH
