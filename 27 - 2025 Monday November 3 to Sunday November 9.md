@@ -40,7 +40,7 @@
 - 9.55pm I sorted my Yahoo emails, I reviewed the outcome of my blog post with ChatGPT, I downloaded ebook.
 - 10.40pm eat supper 2, sleep, and maybe read ebooks.
 
-### Thursday (November 6) (bowels)
+### Thursday (November 6) (bowels, towels)
 - 3am couldn't sleep, so chatted with chatgpt, online purchase of inflatable lumbar cushion from shopee.
 - 5am eat breakfast 1, sleep.
 - 8am eat breakfast 2.
@@ -52,7 +52,7 @@
 - 8pm I reviewed more about REITS, I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
 - 11pm I sorted my Yahoo emails, eat supper, sleep, and maybe read ebooks.
 
-### Friday (November 7) ()
+### Friday (November 7) (shave, nails)
 - 8.45am eat light breakfast, sleep.
 - 1.45pm eat light lunch, wash up, message and call people.
 - 3pm eat another lunch, I briefly read and compiled parts of today's news on ST, BT, The Edge.
@@ -61,12 +61,33 @@
 - 8.45pm I briefly watched parts of today's news on CNA and Channel 5, I briefly watched parts of this and searched for gaming laptop prices:
     - https://www.youtube.com/watch?v=Ir__cvyTSqc
 - 11pm I sorted my Yahoo emails, I read my compiled news.
-- 2.05am eat supper, sleep.
+- 2.05am eat supper.
+- 3am shave, sleep.
 
 ### Saturday (November 8) (bowels)
+- 8.45am eat light breakfast.
+- 9.05am work
+- 1.05pm downloaded ebook, sleep.
+- 3pm download mobile bill, search on google, I briefly read and compiled parts of today's news on ST, BT, The Edge, and The Economist.
+- 4.10pm eat dinner.
+- 4.30pm I briefly read and compiled parts of today's news on ST, BT, The Edge, and The Economist, I read my compiled news.
+- 8.15pm eat first supper, I briefly watched parts of today's news on CNA and Channel 5, and Money Mind.
+- 9.30pm I wrote another blog post about OCBC, and prepared for AMD tomorrow.
+- 11.20pm eat supper, sleep.
 
-
-### Sunday (November 9) ()
+### Sunday (November 9) (Ftoothbrush)
+- 8am eat breakfast, I briefly read and compiled parts of today's news on ST, BT, The Edge.
+- 9am plus - sleep.
+- 12pm eat light lunch, wash up.
+- 12.25pm work, second lunch at about 3pm
+- 4.25pm I updated and publicised my blog posts: blogger, GSC, medium, linkedin, facebook, whatsapp.
+- 6.45pm dinner outside, buy bread, come home, bath.
+- 8.15pm reviewed news and blog post.
+- 8.35pm I briefly watched parts of today's news on CNA and Channel 5, and parts of these:
+    - https://www.youtube.com/watch?v=rFomaqO2SD4
+    - https://www.youtube.com/watch?v=tR_WYHPJoWE
+- 10.30pm I reviewed my blog's next steps with chatgpt.
+- 11.55pm eat supper, sleep.
 
 
 
