@@ -1,5 +1,16 @@
 ### Monday (November 10) (bowels, towels)
-
+- 8.45am eat light breakfast, take medications.
+- 9.15am work
+- 10.20am settle bowels problems
+- 11am work
+- 1.55pm I briefly read and compiled parts of today's news on ST, BT, The Edge, sent messages to friends about my blog and liver cancer.
+- 3.15pm eat lunch, wash up.
+- 3.40pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news, submitted ntuc income claim, book polyclinic appt.
+- 6.45pm eat dinner outside, come home, bath.
+- 8pm reviewed chatgpt replies.
+- 8.50pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.45pm reviewed chatgpt replies and checked my medical reports on healthhub, I sorted my Yahoo emails, I updated and improved on the SEO of my blog posts.
+- 12.30am eat supper, sleep.
 
 ### Tuesday (November 11) ()
 - Tuesday 11 Nov 2025 10.30am Dietician, Level 1, Integrated Building
