@@ -13,8 +13,22 @@
 - 12.30am eat supper, sleep.
 
 ### Tuesday (November 11) ()
+- 6.30am tried to settle organ donation opt out, I briefly read and compiled parts of today's news on ST, BT, The Edge.
+- 8.45am eat breakfast, bath, update documents in phone.
 - Tuesday 11 Nov 2025 10.30am Dietician, Level 1, Integrated Building
-
+- 11.30am eat lunch, tried to contact CGH ACP, talk to CGH Pharmacist about multivitamins.
+- 2.20pm pasir ris polyclinic appointment, questions asked:
+    - why are my lips dry and sometimes cracked?  low residue diet?  how to resolve?
+    - is it due to small tumour at my liver?  for this tumour, should i continue with my gastro doctor or be referred to liver specialist?
+    - due to nutrition composition of low residue diet, im taking multivitamins.  should i take multivitamins for people above 50 years of age?
+- 3pm go kinokuniya, eat dinner, come home, eat first supper, bath.
+- 7.45pm update recordings, I sorted my Yahoo emails, I puzzled over the suitability of my multivitamins.
+- 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.40pm I downloaded ebooks, I read my compiled news, I reviewed LLM options:
+    - https://www.kdnuggets.com/2025/11/abacus/chatllm-an-honest-review-of-our-all-in-one-ai-platform
+    - https://slashdot.org/software/p/ChatLLM/alternatives
+    - https://myninja.ai/
+- 11.30pm eat supper, sleep.
 
 ### Wednesday (November 12) (bowels)
 
