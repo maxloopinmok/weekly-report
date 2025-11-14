@@ -31,13 +31,37 @@
 - 11.30pm eat supper, sleep.
 
 ### Wednesday (November 12) (bowels)
+- 8.50am eat light breakfast, sleep.
+- 12.30pm eat lunch, wash up.
+- 1.05pm work
+- 5.05pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 6pm eat dinner, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news, I reviewed AI models.
+- 8.45pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.45pm eat supper, I read my compiled news.
+- 11.30pm sleep, couldn't sleep until about 3am.
 
+### Thursday (November 13) (shave)
+- 8.15am eat breakfast, do recordings, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 10.30am plus: eat lunch, wash up, sleep.
+- 1pm read my compiled news.
+- 2.30pm eat lunch, bath, do recordings.
+- 3.30pm Goto Pasir Ris Polyclinic to check bill.
+- Thursday 13 Nov 2025 4.20pm 3D - Digestive Diseases Centre @ CGH
+- 5pm go White Sands NTUC to buy milk, go home, go dinner, come home, bath.
+- 7.30pm read compiled news.
+- 8.55pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
+- 10.05pm I sorted my messages and Yahoo emails, downloaded ebooks, I created and refined a new blog post, and reviewed Google's AI mode.
+- 1.30pm eat supper, sleep.
 
-### Thursday (November 13) ()
-
-
-### Friday (November 14) (bowels)
-
+### Friday (November 14) (bowels, towels)
+- 8.30am eat light breakfast, half sleep.
+- 12pm eat lunch, wash up, bath.
+- 12.40pm work.
+- 4.40pm post another blog post.
+- 5.15pm eat dinner, continue refining blog post, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 8.55pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
+- 9.40pm I read my compiled news, I reviewed future possibilities for blogging.
+- 12.20am eat supper, sleep.
 
 ### Saturday (November 15) ()
 
@@ -83,9 +107,12 @@
 - Monday 17 Nov 2025 9.50am 2B - ENT @ CGH
 - Wednesday 19 Nov 2025 2.45pm SGH MSS BLK3 L1 (Yellow Zone)
 - Friday 21 Nov 2025 3pm HDB EASE contractor coming to home
+- Tuesday 25 Nov 2025 2.10pm Pasir Ris Polyclinic - Lab Results
 - Thursday 27 Nov 2025 3.30pm 4E - CGH-NNI Spine Centre (Spine)
 - Monday 1 Dec 2025 5pm IMH Clinic B MSS
-- Thursday 4 Dec 2025 4.10pm 3D - Digestive Diseases Centre @ CGH
+- Thursday 11 Dec 2025 2.10pm 4E - CGH-NNI Spine Centre (Spine)
+- Thursday 11 Dec 2025 4pm Pasir Ris Polyclinic - Flu Vaccination
+- Tuesday 6 Jan 2026 11.30am Dietician, Level 1, Integrated Building
 - Tuesday 3 Mar 2026 12pm 3D - Digestive Diseases Centre @ CGH
 - Monday 16 Mar 2026 2.20pm SGH Neurology Clinic L BLK3 L1 (Yellow Zone), Dr Dementia - Simon Ting
 - Thursday 23 Apr 2026 3pm IMH Clinic B
