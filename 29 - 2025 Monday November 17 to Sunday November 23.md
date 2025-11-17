@@ -1,6 +1,14 @@
 ### Monday (November 17) ()
+- 7am eat breakfast, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
 - Monday 17 Nov 2025 9.50am 2B - ENT @ CGH
-
+- 11am meet ACP facilitator at CGH
+- 2pm eat lunch at home, wash up, bath, sleep.
+- 4.30pm I published blog posts.
+- 6.30pm eat dinner, wash up.
+- 6.45pm record daily expenditures, tasks.
+- 8.30pm I briefly watched parts of today's news on CNA and forgot to watch Channel 5.
+- 9pm I created a calendar with australia holidays, and started creating a one page year calendar.
+- 11pm eat supper, sleep.
 
 ### Tuesday (November 18) (bowels)
 
