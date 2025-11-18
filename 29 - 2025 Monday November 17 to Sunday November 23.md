@@ -5,13 +5,22 @@
 - 2pm eat lunch at home, wash up, bath, sleep.
 - 4.30pm I published blog posts.
 - 6.30pm eat dinner, wash up.
-- 6.45pm record daily expenditures, tasks.
+- 6.45pm record daily expenditures, tasks, I created a calendar with australia holidays.
 - 8.30pm I briefly watched parts of today's news on CNA and forgot to watch Channel 5.
-- 9pm I created a calendar with australia holidays, and started creating a one page year calendar.
+- 9pm I started creating a one page year calendar.
 - 11pm eat supper, sleep.
 
 ### Tuesday (November 18) (bowels)
-
+- 9am eat light breakfast, send emails, I watch yesterday's news on Channel 5.
+- 10.30am work, lunch about 12 noon, talk to Risheng over whatsapp about 1pm
+- 2pm posted another blog post at blogger and medium.
+- 3pm thereabouts, half asleep.
+- 4.30pm fine tuned blog post, update git weekly records.
+- 5pm I replied SGH emails, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 6.30pm eat dinner, wash up, read compiled news.
+- 8.30pm I briefly watched parts of today's news on CNA and Channel 5, I read compiled news.
+- 12am eat supper, bath, download ebook, create and post yearly calendar.
+- 2am sleep.
 
 ### Wednesday (November 19) ()
 - Wednesday 19 Nov 2025 2.45pm SGH MSS BLK3 L1 (Yellow Zone)
