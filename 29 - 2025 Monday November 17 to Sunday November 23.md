@@ -23,11 +23,25 @@
 - 2am sleep.
 
 ### Wednesday (November 19) ()
-- Wednesday 19 Nov 2025 2.45pm SGH MSS BLK3 L1 (Yellow Zone)
-
+- 9am eat light breakfast, sleep.
+- 11am thereabouts, eat lunch, wash up, sleep.
+- 2pm download ebook, update records, review payhip and gumroad.
+- Wednesday 19 Nov 2025 2.45pm SGH MSS BLK3 L1 (Yellow Zone) - CANCELLED
+- 3.30pm eat first dinner, wash up, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 6.30pm go out for dinner, buy plastic cup, come home, bath.
+- 8.30pm I reviewed and setup google sites homepage.
+- 11pm I briefly watched parts of today's news on CNA and Channel 5.
+- 12.05am eat supper, sleep.
 
 ### Thursday (November 20) (bowels, towels)
-
+- 11am thereabouts, eat light breakfast, sleep.
+- 2pm eat lunch, wash up.
+- 2.25pm work, first dinner at 4.45pm
+- 6.25pm I replied messages, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 8.20pm I sorted my Yahoo emails, I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
+- 10.05pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news, I troubleshoot the conversion of files between txt, pdf and epub.
+- 11.20pm prepare investor recommendations blog post, eat supper, update and posted blog post.
+- 2.45pm sleep.
 
 ### Friday (November 21) ()
 - Friday 21 Nov 2025 3pm HDB EASE contractor coming to home
@@ -74,6 +88,7 @@
 
 # Upcoming Medical Appointments
 - Tuesday 25 Nov 2025 2.10pm Pasir Ris Polyclinic - Lab Results
+- Thursday 27 Nov 2025 2.30pm CGH meet Luke from Touch Community
 - Thursday 27 Nov 2025 3.30pm 4E - CGH-NNI Spine Centre (Spine)
 - Monday 1 Dec 2025 5pm IMH Clinic B MSS
 - Thursday 11 Dec 2025 2.10pm 4E - CGH-NNI Spine Centre (Spine)
