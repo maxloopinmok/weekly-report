@@ -44,8 +44,13 @@
 - 2.45pm sleep.
 
 ### Friday (November 21) ()
+- 11am thereabouts, eat light breakfast, sleep.
+- 1pm thereabouts, eat lunch, wash up, read compiled news.
 - Friday 21 Nov 2025 3pm HDB EASE contractor coming to home
-
+- 4pm thereabouts, eat first dinner, wash up, read compiled news.
+- 6.30pm go out eat dinner, buy diapers, come home, bath.
+- 8.20pm I briefly watched parts of today's news on CNA and Channel 5, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news, I paid my SingTel bill.
+- 11.25pm eat supper, sleep, and maybe read compiled news.
 
 ### Saturday (November 22) (bowels)
 
