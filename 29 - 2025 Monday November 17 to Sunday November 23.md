@@ -53,10 +53,28 @@
 - 11.25pm eat supper, sleep, and maybe read compiled news.
 
 ### Saturday (November 22) (bowels)
-
+- 8.45am eat light breakfast, sleep.
+- 10.30am eat lunch, wash up, bath, update records.
+- 11.15am call from Elaine from propnex, go back to sleep.
+- 1.10pm work.
+- 5.10pm do up daily planner pdf, and upload to gumroad and payhip.
+- 7.10pm go out eat dinner, come home, bath.
+- 8.30pm review google search console for landing page.
+- 8.50pm I briefly watched parts of today's news on CNA and Channel 5, and Money Mind, and some parts of this:
+    - https://www.youtube.com/watch?v=dM5T0Oj9-90
+    - https://www.youtube.com/watch?v=nlOmBneT-oM
+- 10.25pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 11.15pm eat supper, sleep, and maybe read my compiled news.
 
 ### Sunday (November 23) ()
-
+- 6am thereabouts, read compiled news, sleep.
+- 9am thereabouts, eat breakfast, sleep.
+- 1.55pm work, eat lunch at about 2.30pm.
+- 5.55pm eat dinner, wash up, I sorted my Yahoo emails.
+- 6.35pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news, I troubleshoot this:
+    - Monthly Calendar 2026, Singapore Public Holidays
+- 11.10pm I briefly watched parts of today's news on CNA and Channel 5.
+- 12.10am eat supper, sleep, and maybe read compiled news.
 
 
 
@@ -88,7 +106,6 @@
 - Stabilise on some books and blog them.
 
 # Upcoming Schedule
-- Friday 21 Nov 2025 3pm HDB EASE checkers coming
 - December 2025 Switch out of FSM One money market into cash account
 
 # Upcoming Medical Appointments
