@@ -1,5 +1,17 @@
-### Monday (November 24) (bowels)
-
+### Monday (November 24) (bowels, towels)
+- 6am I watched parts of this:
+    - https://www.youtube.com/watch?v=GAqQrlb0wfs
+- 6.20am I reviewed gemini 3 pro pricing, and reviewed my existing chatbots and signed in.
+- 7am I eat light breakfast, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 9.40am eat lunch.
+- 10.05am work
+- 2.05pm update calendars, and create overall 2026 planner.
+- 4.40pm eat dinner, wash up.
+- 5.10pm continue updating calendars and payhip store.
+- 7.25pm eat first supper, get started on pinterest.
+- 8.55pm I briefly watched parts of today's news on CNA and Channel 5, I keep reviewing Pinterest setup with payhip.
+- 11pm I reviewed the latest ebooks on NLB, and downloaded ebooks.
+- 12.20am eat second supper, sleep, and maybe read ebooks and compiled news.
 
 ### Tuesday (November 25) ()
 - Tuesday 25 Nov 2025 2.10pm Pasir Ris Polyclinic - Lab Results
