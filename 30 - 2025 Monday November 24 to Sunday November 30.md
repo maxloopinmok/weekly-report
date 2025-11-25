@@ -1,4 +1,4 @@
-### Monday (November 24) (bowels, towels)
+### Monday (November 24) (bowels, towels, nails, toenails)
 - 6am I watched parts of this:
     - https://www.youtube.com/watch?v=GAqQrlb0wfs
 - 6.20am I reviewed gemini 3 pro pricing, and reviewed my existing chatbots and signed in.
@@ -13,9 +13,17 @@
 - 11pm I reviewed the latest ebooks on NLB, and downloaded ebooks.
 - 12.20am eat second supper, sleep, and maybe read ebooks and compiled news.
 
-### Tuesday (November 25) ()
+### Tuesday (November 25) (shave)
+- 9am eat light breakfast, sleep.
+- 12.45pm eat lunch, wash up.
+- 1.15pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
 - Tuesday 25 Nov 2025 2.10pm Pasir Ris Polyclinic - Lab Results
-
+- 2.50pm return home, bath, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 5.30pm I downloaded ebooks, eat dinner, and read a ebooks.
+- 8.40pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.45pm reviewed setting up sole proprietorship and getting a domain address.
+- 12am I sorted my Yahoo emails, downloaded ebooks.
+- 12.15am eat supper, sleep, and maybe read ebooks.
 
 ### Wednesday (November 26) (bowels)
 
