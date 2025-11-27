@@ -1,4 +1,4 @@
-### Monday (November 24) (bowels, towels, nails, toenails)
+### Monday (November 24) (bowels, nails, toenails)
 - 6am I watched parts of this:
     - https://www.youtube.com/watch?v=GAqQrlb0wfs
 - 6.20am I reviewed gemini 3 pro pricing, and reviewed my existing chatbots and signed in.
@@ -25,13 +25,33 @@
 - 12am I sorted my Yahoo emails, downloaded ebooks.
 - 12.15am eat supper, sleep, and maybe read ebooks.
 
-### Wednesday (November 26) (bowels)
-
+### Wednesday (November 26) (bowels, towels)
+- 9am light breakfast
+- 10.15am work, 11am lunch
+- 2.15pm reviewed MOE holidays for calendars, planning for android scheduling app.
+- 2.45pm eat first dinner, wash up, bath.
+- 3.15pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news, I reviewed payhip and pinterest setup.
+- 6.50pm eat dinner outside, buy bread, come home, bath.
+- 8pm reviewed and purchased domain maxloodigital.com from squarespace.
+- 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.45pm I sorted my Yahoo emails, I troubleshoot purchased shopee purchase of rubber stoppers.
+- 10.45pm reviewed free ebooks publishing tools.
+- 11.10pm eat supper, sleep.
 
 ### Thursday (November 27) ()
+- 9am thereabouts, eat light breakfast
+- 9.30am thereabouts, eat lunch, wash up.
+- 10am setup https://maxloodigital.com/ and publicise on linkedin.
+- 11.55am I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 2.30pm eat first dinner at CGH.
 - Thursday 27 Nov 2025 2.30pm CGH meet Luke from Touch Community
 - Thursday 27 Nov 2025 3.30pm 4E - CGH-NNI Spine Centre (Spine)
-
+- 6.30pm leave CGH, go popular to review 2026 planners, come home, eat second dinner, bath.
+- 8pm complete setting up https://maxloodigital.com/.
+- 8.25pm I read my compiled news.
+- 8.55pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
+- 10pm I read my compiled news, I read articles on Facebook and answered messages.
+- 12am eat supper, sleep.
 
 ### Friday (November 28) (bowels)
 
