@@ -50,11 +50,19 @@
 - 8pm complete setting up https://maxloodigital.com/.
 - 8.25pm I read my compiled news.
 - 8.55pm I briefly watched parts of today's news on CNA and Channel 5, and Talking Point.
-- 10pm I read my compiled news, I read articles on Facebook and answered messages.
-- 12am eat supper, sleep.
+- 10pm I read my compiled news, I read articles on Facebook and answered messages, I sorted my Yahoo emails.
+- 12.10am eat supper, sleep.
 
 ### Friday (November 28) (bowels)
-
+- 8.45am thereabouts, eat light breakfast, sleep.
+- 12.50pm eat lunch, wash up.
+- 1.10pm work, 3.10pm started working concurrently on phone messaging
+- 5.10pm end both work, but handle customer's messages and Elaine's google sheets.
+- 6.15pm stopped working, eat dinner, wash up, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.45pm I read my compiled news, I collated documents for IMH's Medifund.
+- 11pm eat supper, sent emails.  
+- 12.15am sleep, maybe read compiled news.
 
 ### Saturday (November 29) ()
 
