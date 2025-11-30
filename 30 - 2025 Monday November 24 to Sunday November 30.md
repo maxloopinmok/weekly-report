@@ -65,12 +65,29 @@
 - 12.15am sleep, maybe read compiled news.
 
 ### Saturday (November 29) ()
-
+- 5.30am work: sort out Elaine's contact list.
+- 6.30am I briefly read and compiled parts of today's news on ST, BT, The Edge, this week's The Economist, I read my compiled news.
+- 8.30am I sorted my Yahoo emails, I eat light breakfast, I sleep briefly.
+- 10am I eat lunch, wash up, I sleep briefly.
+- 11am work.
+- 3pm eat first dinner, wash up, I read my compiled news.
+- 5.30pm troubleshoot 2026 monthly calendar for school holidays.
+- 6.45pm go out second dinner, come home, bath.
+- 8.30pm improved calendars for singapore.
+- 10.25pm I briefly watched parts of today's news on CNA, and bits of Channel 5's weather forecast, and Money Mind.
+- 11.20pm eat supper, sleep, and maybe read ebooks.
 
 ### Sunday (November 30) (bowels)
-
-
-
+- 12.50pm eat lunch, wash up, bath.
+- 1.15pm work, 4pm thereabouts eat first dinner, settle bank books for IMH MSW/MSS.
+- 5.15pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 6.50pm go outside eat dinner, collect rubber stoppers from Heng's minimart, come home, bath.
+- 8.30pm troubleshoot txt to epub conversion problems.
+    - possibly find some future time to update:
+        - https://calibre-ebook.com/download
+- 11pm I briefly watched parts of today's news on CNA and Channel 5.
+- 12am planning for next week and beyond, I made purchases on Shopee.
+- 1.30am eat supper, sleep, and maybe read ebooks.
 
 
 
@@ -84,6 +101,8 @@
 - 2025 AI for Life 
 - 2024 Using AI in Marketing
 - 2025 Million Dollar AI Prompts
+- 2025 The $5K Startup
+- 2025 Launching Your Side Hustle
 
 ## Routines
 - I update weekly report.
