@@ -1,8 +1,15 @@
 ### Monday (December 1) ()
+- 8.30am thereabouts, light breakfast, sleep.
+- 1pm thereabouts, lunch, wash up, check emails and messages.
+- 1.40pm go kinokuniya.
 - Monday 1 Dec 2025 5pm IMH Clinic B MSS
+- 6.20pm reach home, bath, eat dinner, wash up.
+- 7pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news, I downloaded ebooks.
+- 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.45pm I tested txt_to_epub.py, I read my compiled news, I updated some image magick images for calendars.
+- 11.30pm eat supper, sleep.
 
-
-### Tuesday (December 2) (bowels)
+### Tuesday (December 2) (bowels, towels)
 
 
 ### Wednesday (December 3) ()
