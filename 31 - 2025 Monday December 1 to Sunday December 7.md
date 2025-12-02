@@ -10,7 +10,17 @@
 - 11.30pm eat supper, sleep.
 
 ### Tuesday (December 2) (bowels, towels)
-
+- 10am eat light breakfast.
+- 10.15am work, 12pm eat lunch, wash up, 1pm wash up water bottles.
+- 2.15pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 3pm answer call from elaine propnex.
+- 3.20pm I read my compiled news.
+- 4.15pm eat first dinner, wash up, continued reading compiled news.
+- 6.30pm go out to eat second dinner, come home, bath.
+- 8pm I reviewed and updated my sales profit and loss.
+- 8.55pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.45pm I read my compiled news, I reviewed grid image creation, and created and replaced some calendars and planners, I did not review business plan.
+- 3am eat supper, sleep.
 
 ### Wednesday (December 3) ()
 
@@ -59,8 +69,8 @@
 - Stabilise on some books and blog them.
 
 # Upcoming Schedule
+- Sunday 7 Dec 2025 transfer FSM One account back to OCBC
 - Monday 8 Dec 2025 start Christmas Year End Sale for maxloodigital.com
-- Tuesday 9 Dec 2025 transfer FSM One account back to OCBC
 
 # Upcoming Medical Appointments
 - Thursday 11 Dec 2025 2.10pm 4E - CGH-NNI Spine Centre (Spine)
