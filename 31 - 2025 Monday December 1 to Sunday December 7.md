@@ -9,7 +9,7 @@
 - 9.45pm I tested txt_to_epub.py, I read my compiled news, I updated some image magick images for calendars.
 - 11.30pm eat supper, sleep.
 
-### Tuesday (December 2) (bowels, towels)
+### Tuesday (December 2) (bowels)
 - 10am eat light breakfast.
 - 10.15am work, 12pm eat lunch, wash up, 1pm wash up water bottles.
 - 2.15pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
@@ -22,13 +22,39 @@
 - 9.45pm I read my compiled news, I reviewed grid image creation, and created and replaced some calendars and planners, I did not review business plan.
 - 3am eat supper, sleep.
 
-### Wednesday (December 3) ()
-
+### Wednesday (December 3) (towels)
+- 7.30am eat light breakfast, continued updating calendar products.
+- 11am eat lunch, wash up, sleep.
+- 1.35pm work, 3.40pm eat first dinner, wash up. 
+- 5.35pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 6.50pm go out eat dinner, take psyllium powder from shopee, come home, bath.
+- 8.15pm I read my compiled news.
+- 8.50pm I briefly watched parts of today's news on CNA and Channel 5.
+- 9.35pm I read my compiled news.
+- 12.30am I sent emails to a few schools about planning calendars for students.
+- 1.15am eat supper, sleep.
 
 ### Thursday (December 4) (bowels)
-
+- 10.55am eat light breakfast, sleep.
+- 1pm eat lunch, wash up.
+- 1.30pm work
+    - filter out the cats that have no sponsors and are still in EV or SL, and not exiting by 23 December 2025.
+    - filter out the number of cats adopted in 2025, including those going home in December 2025.
+    - filter out the number of cats that have entered our system.  These cats are considered fostered cats.
+    - 4pm thereabouts eat first dinner.
+- 5.30pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news, 6.30pm eat first supper.
+- 8.45pm I briefly watched parts of today's news on CNA and Channel 5, I skipped Talking Point.
+- 9.45pm I updated business plans for my gig work.
+- 12.05am eat supper, sleep, and read compiled news.
 
 ### Friday (December 5) ()
+
+- 10am call AMD.
+
+- 8pm online purchase of NTUC goods:
+    - pocari sweat and 100 plus powder
+    - normal uht milk
+    - samdasoo mineral water
 
 
 ### Saturday (December 6) (bowels)
@@ -70,7 +96,7 @@
 
 # Upcoming Schedule
 - Sunday 7 Dec 2025 transfer FSM One account back to OCBC
-- Monday 8 Dec 2025 start Christmas Year End Sale for maxloodigital.com
+- Monday 15 Dec 2025 start Christmas Year End Sale for maxloodigital.com
 
 # Upcoming Medical Appointments
 - Thursday 11 Dec 2025 2.10pm 4E - CGH-NNI Spine Centre (Spine)
