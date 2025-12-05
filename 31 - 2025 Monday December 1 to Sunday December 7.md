@@ -44,18 +44,38 @@
     - 4pm thereabouts eat first dinner.
 - 5.30pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news, 6.30pm eat first supper.
 - 8.45pm I briefly watched parts of today's news on CNA and Channel 5, I skipped Talking Point.
-- 9.45pm I updated business plans for my gig work.
-- 12.05am eat supper, sleep, and read compiled news.
+- 9.45pm I updated business plans for my gig work, I sorted my Yahoo emails.
+- 12.20am eat supper, could not sleep, and read compiled news.
 
 ### Friday (December 5) ()
-
-- 10am call AMD.
-
-- 8pm online purchase of NTUC goods:
-    - pocari sweat and 100 plus powder
-    - normal uht milk
+- 7.30am eat light breakfast, sleep.
+- 10.30am called AMD, whatsapp spd brenden about my work problems.
+- 12pm thereabouts, eat lunch, wash up.
+- 1.15pm try to sleep a little.
+- 2.45pm online purchase of NTUC goods:
+    - redoxon
+    - 100 plus powder
+    - fairprice uht milk
     - samdasoo mineral water
-
+    - kleenex box tissue
+    - mama lemon (fresh citrus)
+    - fairprice onwards toilet roll
+- 4.15pm eat dinner, I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 5.25pm bath, I read and scanned the book "AI Demystified: Unleash the power of artificial intelligence at work".
+- 7.50pm eat first supper, I read my compiled news.
+- 9.25pm I briefly watched parts of today's news on CNA and Channel 5, and watched parts of these:
+    - https://www.youtube.com/watch?v=l6d_0PB0Pbg
+    - https://www.youtube.com/watch?v=W-bRxxa7uaI
+    - https://www.youtube.com/watch?v=CEvabZUkWVw
+    - https://www.youtube.com/watch?v=EnjrRDwycK0
+    - https://www.teslaconomics.com/
+    - https://x.com/Teslaconomics/status/1996834953993293870
+    - https://timesofindia.indiatimes.com/etimes/trending/trader-doubles-money-in-10-days-using-chatgpt-and-grok-know-what-really-happened/articleshow/122501392.cms
+    - https://www.chaincatcher.com/en/article/2213902
+    - https://www.facebook.com/new247update/posts/breakingchinese-engineer-uploaded-xai-secrets-related-to-grok-entire-codebase-to/1356095313187348/
+    - https://nof1.ai/
+- 11.30pm I read my compiled news, I thought about developing spreadsheets for selected company data for investors.
+- 2.40am eat supper, sleep.
 
 ### Saturday (December 6) (bowels)
 
