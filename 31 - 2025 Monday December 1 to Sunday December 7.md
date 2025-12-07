@@ -78,11 +78,34 @@
 - 2.40am eat supper, sleep.
 
 ### Saturday (December 6) (bowels)
-
+- 9am thereabouts, eat light breakfast, sleep
+- 1.45pm eat lunch, wash up.
+- 2pm work, 5pm eat first dinner, wash up.
+- 6pm contacted ms ong about calendar.
+- 7pm I briefly read and compiled parts of today's news on ST, BT, The Edge, I read my compiled news.
+- 7.40pm go out eat second dinner, return library book, come home, bath.
+- 8.55pm I briefly watched parts of today's news on CNA, and Channel 5 and Money Mind, and parts of these:
+    - https://www.youtube.com/watch?v=myx3De15iJY
+    - https://www.youtube.com/watch?v=BTeNmrv6gPA
+    - https://www.youtube.com/watch?v=vHoyHfzhfBY
+- 10.15pm I read my compiled news, I created a scraping tool for Yahoo Finance.
+- 1.10am eat supper, sleep.
 
 ### Sunday (December 7) ()
-
-
+- 9am thereabouts, eat light breakfast, sleep
+- 1.20pm eat lunch, wash up.
+- 1.40pm work.
+    - boss says,"We are an art studio that does art jamming with rescue cats. We also run a fostering program for cats"
+- 5.40pm I sorted my Yahoo emails, I called DBS to clarify ebook purchase on google play.
+- 6.25pm eat dinner, wash up.
+- 6.45pm I briefly read and compiled parts of today's news, I read my compiled news, I downloaded a ebook.
+- 9.25pm I briefly watched parts of today's news on CNA, and Channel 5, and parts of these:
+    - https://www.youtube.com/watch?v=24APEyZrFHo
+    - https://www.youtube.com/watch?v=A8ILwueoMoE
+    - https://www.youtube.com/watch?v=HxI_mlBtzcI
+    - https://www.youtube.com/watch?v=k7GVmBu_NFM
+- 11pm amend code for stocks display in libreoffice calc, post on linkedin and facebook.
+- 1.40pm eat supper, sleep.
 
 
 
@@ -98,6 +121,7 @@
 - 2025 Million Dollar AI Prompts
 - 2025 The $5K Startup
 - 2025 Launching Your Side Hustle
+- 2025 AI Demystified: Unleash the power of artificial intelligence at work
 
 ## Routines
 - I update weekly report.
@@ -115,8 +139,8 @@
 - Stabilise on some books and blog them.
 
 # Upcoming Schedule
-- Sunday 7 Dec 2025 transfer FSM One account back to OCBC
-- Monday 15 Dec 2025 start Christmas Year End Sale for maxloodigital.com
+- Tuesday 9 Dec 2025 transfer FSM One account back to OCBC
+- Monday 22 Dec 2025 start Christmas Year End Sale for maxloodigital.com
 
 # Upcoming Medical Appointments
 - Thursday 11 Dec 2025 2.10pm 4E - CGH-NNI Spine Centre (Spine)
