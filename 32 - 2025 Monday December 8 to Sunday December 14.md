@@ -1,5 +1,14 @@
 ### Monday (December 8) (bowels)
-
+- 9am thereabouts, eat light breakfast, sleep.
+- 1.15pm eat lunch, wash up.
+- 1.30pm work.
+- 5.30pm planning meetings with darius and brenden, and also sim card purchase and delivery with elaine.
+- 6.35pm eat dinner, wash up.
+- 6.55pm I created a new investor blog article and linked to maxloodigital.com.
+- 8.55pm I briefly watched parts of today's news on CNA, and Channel 5.
+- 9.55pm I troubleshoot my pinterest pins.
+- 11.15pm I briefly read and compiled parts of today's news, I read my compiled news.
+- 12.55am eat supper, sleep.
 
 ### Tuesday (December 9) ()
 - Tuesday 9 Dec 2025 transfer FSM One account back to OCBC
