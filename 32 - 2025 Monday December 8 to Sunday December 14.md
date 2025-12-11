@@ -32,12 +32,34 @@
 - 1.20am eat supper, sleep.
 
 ### Wednesday (December 10) (bowels)
-
+- 10am thereabouts, eat light breakfast, sleep.
+- 11am to 12.30am thereabouts, move bowels.
+- 12.30pm eat lunch, wash up.
+- 12.45pm work, dinner about 3.45pm.
+- 4.25pm I briefly read and compiled parts of today's news, I read my compiled news.
+    - 5.15pm CGH Josephine Yeo called.
+    - 6pm I started amending and reposting blog posts to let Royce validate.
+- 8.55pm I briefly watched parts of today's news on CNA, and Channel 5.
+- 9.45pm I read my compiled news, and applied for a part time writer job with The Smart Investor, I sorted my Yahoo emails.
+- 10.40pm eat supper, sleep, and maybe read ebooks.
+- 1am thereabouts, wake, could not sleep.
 
 ### Thursday (December 11) ()
+- 5.30am thereabouts, eat first breakfast, tried to sleep, slept about 1-2 hours again.
+- 10.30am eat second light breakfast, and lunch, wash up.
+- 10.55am begin unpaid telemarketing preparations.
+- 12.35pm bath, go outside second lunch.
 - Thursday 11 Dec 2025 2.10pm 4E - CGH-NNI Spine Centre (Spine)
 - Thursday 11 Dec 2025 4pm Pasir Ris Polyclinic - Flu Vaccination
-
+- 4.30pm eat snack, bath.
+- 5pm cold call for propnex elaine.
+- 6pm answer call from elaine, eat dinner, wash up.
+- 7.20pm I briefly read and compiled parts of today's news, I read my compiled news.
+- 8pm sleep a while.
+- 9pm review recent blog post at:
+    - https://somethingusefulforinvestors.blogspot.com/
+- 10pm check DBS Debit Card transactions for Oct, Nov 2025.
+- 10.30pm eat supper, sleep, and maybe read ebooks.
 
 ### Friday (December 12) (bowels)
 
@@ -77,10 +99,12 @@
 - Stabilise on some books and blog them.
 
 # Upcoming Schedule
+- Monday 15 Dec 2025 4.30pm meet brenden and darius at EV
 - Monday 22 Dec 2025 start Christmas Year End Sale for maxloodigital.com
 - Dec 2025 transfer FSM One account back to OCBC
 
 # Upcoming Medical Appointments
+- Friday 19 Dec 2025 2pm 3D - Digestive Diseases Centre @ CGH
 - Tuesday 6 Jan 2026 11.30am Dietician, Level 1, Integrated Building, CGH
 - Friday 13 Feb 2026 2pm Diagnostic Centre, Level 3, Integrated Building, CGH
 - Tuesday 3 Mar 2026 12pm 3D - Digestive Diseases Centre @ CGH
