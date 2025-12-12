@@ -58,11 +58,26 @@
 - 8pm sleep a while.
 - 9pm review recent blog post at:
     - https://somethingusefulforinvestors.blogspot.com/
-- 10pm check DBS Debit Card transactions for Oct, Nov 2025.
-- 10.30pm eat supper, sleep, and maybe read ebooks.
+- 10pm check and record DBS Debit Card transactions for Oct, Nov 2025.
+- 10.30pm eat supper, and maybe read ebooks.
+- 12.15am update telemarketing records, business records, I sorted my Yahoo emails.
+- 12.30am I briefly watched parts of today's news on CNA, and parts of these:
+    - https://www.youtube.com/watch?v=qkpPw7T4Aqk
+    - https://www.youtube.com/watch?v=hMTdA8TAL1s
+    - https://www.youtube.com/watch?v=GGdjty9pAtg
+    - https://www.youtube.com/watch?v=AGddzUqJT7g
+- 2.35am sleep.
 
 ### Friday (December 12) (bowels)
-
+- 10.40am thereabouts, eat light breakfast, try to sleep, bath.
+- 12pm thereabouts, eat lunch.
+- 2pm work, 3.30pm eat first dinner, wash up.
+- 5.01pm I briefly read and compiled parts of today's news, I read my compiled news.
+- 6.20pm I briefly watched yesterday's news on Channel 5, and eat second dinner.
+- 7.10pm I read my compiled news.
+- 8.30pm I briefly watched parts of today's news on CNA, and Channel 5.
+- 9.40pm I reviewed the yahoo finance data and posted in blogger, linkedin and facebook.
+- 12.50am eat supper, sleep.
 
 ### Saturday (December 13) ()
 
