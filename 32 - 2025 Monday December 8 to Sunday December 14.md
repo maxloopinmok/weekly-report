@@ -68,7 +68,7 @@
     - https://www.youtube.com/watch?v=AGddzUqJT7g
 - 2.35am sleep.
 
-### Friday (December 12) (bowels)
+### Friday (December 12) (bowels, towels, nails, toes)
 - 10.40am thereabouts, eat light breakfast, try to sleep, bath.
 - 12pm thereabouts, eat lunch.
 - 2pm work, 3.30pm eat first dinner, wash up.
@@ -77,14 +77,41 @@
 - 7.10pm I read my compiled news.
 - 8.30pm I briefly watched parts of today's news on CNA, and Channel 5.
 - 9.40pm I reviewed the yahoo finance data and posted in blogger, linkedin and facebook.
-- 12.50am eat supper, sleep.
+- 12.50am work.
+- 1.10am check Yahoo emails, eat supper, sleep, and maybe read ebooks.
 
-### Saturday (December 13) ()
-
+### Saturday (December 13) (FToothbrush)
+- 12.35pm eat lunch, wash up.
+- 1pm message reply to elaine.
+- 2.10pm I sorted my Yahoo emails, I briefly read and compiled parts of today's news, I read my compiled news, I begin troubleshooting an android voice recorder, first dinner about 3pm.
+- 6.40pm go out for second dinner, come home, bath.
+- 8.25pm messaged and called elaine, but no answer, and continued troubleshooting android voice recorder, but eventually realised "Android is still rejecting the service because: A microphone foreground service may NOT be started from a background BroadcastReceiver on targetSdk 34+ (you’re on 36)."
+    - On Android 14+ this is explicitly forbidden
+    - I also tried Samsung Voice Recorder, but it also forbids voice recordings when we are answering calls => no solutions work due to Samsung ban on voice recordings for calls for Singapore Samsung phones.
+- 10.45pm I briefly watched parts of today's news on CNA, and Channel 5, and parts of this:
+    - https://www.youtube.com/watch?v=aNYl-O-XxCA
+    - https://www.youtube.com/watch?v=oBS3fAqY0lw
+    - https://www.youtube.com/watch?v=dD4iEit2Bv0
+    - https://www.youtube.com/watch?v=hUabJaV0h8w
+- 1am eat supper, sleep, and maybe read some ebook.
 
 ### Sunday (December 14) (bowels)
-
-
+- 9am thereabouts, eat light breakfast.
+- 9.30am install new sim card, reboot phone, adjust settings: 8845 1573
+- 9.50am eat lunch, wash up, do task recording, tried to sleep.
+- 10.45am work
+- 2.55pm transition to cold calling, eat first dinner, wash up.
+- 3.20pm cold calling and troubleshooting phone connection.
+- 5pm I briefly read and compiled parts of today's news, I read my compiled news, I posted another blog post.
+- 6.40pm go out for second dinner, come home, bath.
+- 8pm do task + medicines + expenses recordings, message elaine, do planning.
+- 9.20pm I briefly watched parts of today's news on CNA, and Channel 5, and parts of these:
+    - https://www.youtube.com/watch?v=J7Ze0AUp4nM
+    - https://www.youtube.com/watch?v=FTjTcrX-aGw
+    - https://www.youtube.com/watch?v=hIrjyX2DVCU
+    - https://www.youtube.com/watch?v=iIXRZkTWj8g
+    - https://www.youtube.com/watch?v=jiC3ezjUkCk
+- 10.55pm eat supper, sleep.
 
 
 
@@ -102,7 +129,7 @@
 - I update weekly report.
 - I do note taking, and/or tasks recording and planning.
 - I sorted my emails.
-- I briefly read parts of today's Straits Times, Business Times and The Edge, and compiled them.
+- I briefly read parts of today's ST, BT and The Edge, and compiled them.
 - I read parts of this week's compiled news readings.
 - I watched today's news on CNA and Channel 5.
 
