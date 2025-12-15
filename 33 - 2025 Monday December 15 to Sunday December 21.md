@@ -1,6 +1,16 @@
 ### Monday (December 15) ()
-- Monday 15 Dec 2025 4.30pm meet brenden and darius at EV
-
+- 9am thereabouts, eat light breakfast, messaged brenden, amanda, darius about change in meeting schedule, received payment from elaine.
+- 10.10am I briefly read and compiled parts of today's news, I read my compiled news, about 11.30am eat lunch and wash up.
+- 12.20pm start cold calling.
+- 3.20pm eat first dinner, rest and read a little.
+- 4pm continue cold calling.
+- 6pm eat eat second dinner, wash up, reviewed and complete some admin work for cold calling, read my compiled news, suddenly answered incoming client call.
+- 7pm continued reading ebook:
+    - 2022 Marketing Without Money
+- 8.55pm I briefly watched parts of today's news on CNA, and Channel 5.
+- 9.45pm I sorted my Yahoo emails, and downloaded DBS statements.
+- 10.15pm I reviewed the latest ebooks at NLB, I downloaded ebooks.
+- 12.30am I updated my records, eat supper, sleep.
 
 ### Tuesday (December 16) (bowels)
 
@@ -52,6 +62,7 @@
 # Upcoming Schedule
 - Monday 22 Dec 2025 start Christmas Year End Sale for maxloodigital.com
 - Dec 2025 transfer FSM One account back to OCBC
+- POSTPONED Monday 15 Dec 2025 4.30pm meet brenden and darius at EV
 
 # Upcoming Medical Appointments
 - Tuesday 6 Jan 2026 11.30am Dietician, Level 1, Integrated Building, CGH
