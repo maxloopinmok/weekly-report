@@ -12,8 +12,16 @@
 - 10.15pm I reviewed the latest ebooks at NLB, I downloaded ebooks.
 - 12.30am I updated my records, eat supper, sleep.
 
-### Tuesday (December 16) (bowels)
-
+### Tuesday (December 16) (bowels, towels, shave)
+- 12pm thereabouts, eat light breakfast, wash up, move bowels, do recordings.
+- 12.40pm eat lunch, wash up.
+- 12.55pm work, eat first dinner about 2.40pm.
+- 4.50pm I briefly read and compiled parts of today's news, I read my compiled news.
+- 6.30pm go out for second dinner, come home, bath.
+- 8pm I read my compiled news, I downloaded yahoo finance stats, posted a blog post, and publicised it.
+- 10pm I briefly watched parts of today's news on CNA.
+- 10.45pm I reviewed android programming ebooks from NLB and downloaded them.
+- 11.50pm eat supper, sleep, and maybe read ebooks.
 
 ### Wednesday (December 17) ()
 
@@ -23,6 +31,7 @@
 
 ### Friday (December 19) ()
 - Friday 19 Dec 2025 2pm 3D - Digestive Diseases Centre @ CGH
+- Friday 19 Dec 2025 5pm meet brenden and darius at EV
 
 
 ### Saturday (December 20) (bowels)
@@ -62,13 +71,13 @@
 # Upcoming Schedule
 - Monday 22 Dec 2025 start Christmas Year End Sale for maxloodigital.com
 - Dec 2025 transfer FSM One account back to OCBC
-- POSTPONED Monday 15 Dec 2025 4.30pm meet brenden and darius at EV
 
 # Upcoming Medical Appointments
 - Tuesday 6 Jan 2026 11.30am Dietician, Level 1, Integrated Building, CGH
 - Friday 13 Feb 2026 2pm Diagnostic Centre, Level 3, Integrated Building, CGH
 - Tuesday 3 Mar 2026 12pm 3D - Digestive Diseases Centre @ CGH
 - Monday 16 Mar 2026 2.20pm SGH Neurology Clinic L BLK3 L1 (Yellow Zone), Dr Dementia - Simon Ting
+- Tuesday 31 Mar 2026 11am Psychological Medicine Centre, Level 3, IB CGH
 - Thursday 23 Apr 2026 3pm IMH Clinic B
 - Friday 29 May 2026 9.15am 1A - SNEC Eye Clinic @ CGH
 - Friday 7 Aug 2026 9.40am 4E - CGH-NNI Spine Centre (Knee)
