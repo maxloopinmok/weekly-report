@@ -21,13 +21,42 @@
 - 8pm I read my compiled news, I downloaded yahoo finance stats, posted a blog post, and publicised it.
 - 10pm I briefly watched parts of today's news on CNA.
 - 10.45pm I reviewed android programming ebooks from NLB and downloaded them.
-- 11.50pm eat supper, sleep, and maybe read ebooks.
+- 12.10am eat supper, sleep, and maybe read ebooks.
 
 ### Wednesday (December 17) ()
-
+- 8am thereabouts, eat breakfast, wash up, read ebook:
+    - 2025 Selling to Skeptics
+- 9am thereabouts, sleep.
+- 12.40pm eat lunch, wash up, do task, medicine recordings.
+- 1.05pm I watched yesterday's news on Channel 5.
+- 1.59pm cold calling
+- 3.01pm eat first dinner.
+- 3.29pm cold calling.
+- 5.45pm post cold calling, some admin work updating the call script, did not include in paid time.
+- 5.55pm I briefly read and compiled parts of today's news, I read my compiled news.
+- 6.30pm go out for second dinner, come home, bath, I bought pocari sweat.
+- 8pm I read my compiled news, I applied for business name, but realised that SSIC may not have digital products creation and sale business category, so stopped.
+- 9.15pm I briefly watched parts of today's news on CNA, and Channel 5, and watched parts of this:
+    - https://www.youtube.com/watch?v=S0f0QiDu2Dc
+    - https://www.youtube.com/watch?v=NhMq52kqjC4
+- 10.30pm I wrote an enquiry to ACRA about whether I'm running a business or just doing gig work.
+- 10.45pm I briefly read and compiled parts of today's news, I read my compiled news, I sorted my Yahoo emails.
+- 12.55pm eat supper, sleep.
 
 ### Thursday (December 18) (bowels)
-
+- 8am eat breakfast, wash up, sleep.
+- 11.10am eat lunch, wash up, do recordings, try to sleep, but cannot sleep.
+- 12.10pm move bowels, bath.
+- 12.30pm work, 2.45pm first dinner.
+- 4.10pm I briefly read and compiled parts of today's news, I read my compiled news.
+- 6.30pm go out for second dinner, buy toothbrushes, come home, bath.
+- 8pm send messages to confirmed clients from elaine.
+- 8.15pm replied to amanda
+- 8.30pm recorded expenses, tasks, I briefly watched parts of today's news on CNA, and Channel 5.
+- 9.35pm I read ebook:
+    - 2025 Selling to Skeptics
+- 11.10pm I setup whatsapp web for new whatsapp account, running two accounts concurrently.
+- 11.25pm eat supper, sleep, and maybe read ebooks.
 
 ### Friday (December 19) ()
 - Friday 19 Dec 2025 2pm 3D - Digestive Diseases Centre @ CGH
@@ -52,6 +81,7 @@
 - 2025 Launching Your Side Hustle
 - 2025 AI Demystified: Unleash the power of artificial intelligence at work
 - 2022 Marketing Without Money
+- 2025 Selling to Skeptics
 
 ## Routines
 - I update weekly report.
