@@ -59,16 +59,51 @@
 - 11.25pm eat supper, sleep, and maybe read ebooks.
 
 ### Friday (December 19) ()
+- 7.30am I briefly read and compiled parts of today's news, I read my compiled news.
+- 8.15am eat breakfast, wash up.
+- 8.40am try to sleep.
+- 11.30am eat lunch, wash up, do recordings.
+- 12.30pm go CGH, 2.45pm first dinner.
 - Friday 19 Dec 2025 2pm 3D - Digestive Diseases Centre @ CGH
-- Friday 19 Dec 2025 5pm meet brenden and darius at EV
-
+- Friday 19 Dec 2025 5pm meet brenden and darius at redhill EV
+- 6pm thereabouts, travel home, bath.
+- 8pm second dinner, wash up, I briefly watched parts of today's news on CNA, and Channel 5.
+- 10pm eat supper, sleep.
 
 ### Saturday (December 20) (bowels)
-
+- 7.15am thereabouts, eat breakfast, sleep.
+- 11.30am thereabouts, eat lunch, wash up.
+- 12pm thereabouts, write reply email to CGH, and removed bitwarden and messaged darius and brenden.
+- 2pm wipe fans + bedroom floor, eat first dinner.
+- 3pm sleep
+- 4.45pm do work for elaine
+- 5.45pm I briefly read and compiled parts of today's news, I read my compiled news.
+- 6.35pm go out second dinner, come home, bath.
+- 8pm read ebook:
+    - 2020 Traffic Secrets
+- 8.50pm I briefly watched parts of today's news on CNA, and Channel 5, and parts of these:
+    - https://www.youtube.com/watch?v=zioKpt-E5vk
+    - https://www.youtube.com/watch?v=axSGGYS4_Is
+    - https://www.youtube.com/watch?v=LkRay4K3Ig8
+    - https://www.youtube.com/watch?v=ivxVIdyY_Jc
+- 10pm I briefly read and compiled parts of today's news, including The Economist, I read my compiled news.
+- 10.50pm eat supper, sleep, and read compiled news.
 
 ### Sunday (December 21) ()
-
-
+- 11am thereabouts, eat light breakfast and lunch.
+- 1.10pm prepare elaine's work.
+- 2.40pm eat first dinner.
+- 2.50pm do cold calls.
+- 6pm thereabouts, end cold calls and sort work, do recordings.
+- 6.30pm go out eat second dinner, come home, bath.
+- 7.50pm do recordings, process STI stocks info, update blog and linkedin.
+- 8.55pm I briefly watched parts of today's news on CNA, and Channel 5, and parts of these:
+    - https://www.youtube.com/watch?v=ZyhsKXQeihE
+    - https://www.youtube.com/watch?v=D3NmEFZoM1A
+    - https://www.youtube.com/watch?v=h-z71uspNHw
+- 10.30pm I updated my blog post in facebook, and immediately got more than 10 readers, I had posted in linkedin earlier, but got no readers.
+- 10.50pm I briefly read and compiled parts of today's news, I read my compiled news.
+- 11.40pm eat supper, sleep, and read compiled news.
 
 
 
@@ -82,6 +117,7 @@
 - 2025 AI Demystified: Unleash the power of artificial intelligence at work
 - 2022 Marketing Without Money
 - 2025 Selling to Skeptics
+- 2020 Property Agent Secrets
 
 ## Routines
 - I update weekly report.
