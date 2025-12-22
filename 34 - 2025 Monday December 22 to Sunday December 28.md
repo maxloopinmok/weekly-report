@@ -1,5 +1,13 @@
-### Monday (December 22) (bowels)
-
+### Monday (December 22) (bowels, towels)
+- 9.30am thereabouts, eat light breakfast, move bowels, sleep.
+- 12pm thereabouts, eat lunch, sleep.
+- 2.30pm eat first dinner.
+- 2.55pm elaine's work.
+- 6.40pm go out second dinner, come home, bath.
+- 8.10pm do recordings, message elaine.
+- 8.40pm I briefly watched parts of today's news on CNA, and Channel 5.
+- 9.35pm I briefly read and compiled parts of today's news, I read my compiled news.
+- 11.30pm eat supper, sleep, and maybe read compiled news.
 
 ### Tuesday (December 23) ()
 
