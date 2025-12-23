@@ -7,10 +7,20 @@
 - 8.10pm do recordings, message elaine.
 - 8.40pm I briefly watched parts of today's news on CNA, and Channel 5.
 - 9.35pm I briefly read and compiled parts of today's news, I read my compiled news.
-- 11.30pm eat supper, sleep, and maybe read compiled news.
+- 11.30pm eat supper, sleep, and maybe read compiled news, and fine tune "txt_to_epub" python file.
 
-### Tuesday (December 23) ()
-
+### Tuesday (December 23) (doctor)
+- 8.45am thereabouts, eat light breakfast, go out to polyclinic to book medical appt, medical assessment.
+- 9.45am eat lunch, bath, sleep.
+- 1.30pm thereabouts, tried greenshot, do recordings.
+- 1.50pm I briefly read and compiled parts of today's news, I read my compiled news.
+- 2.45pm eat first dinner, go for polyclinic appointment.
+- 5pm go eat second dinner, come home, bath, eat snack.
+- 6pm I read my compiled news.
+- 8pm I do recordings, sorted my Yahoo emails, downloaded ebook.
+- 8.50pm I briefly watched parts of today's news on CNA, and Channel 5.
+- 9.40pm I read my compiled news.
+- 10.10pm eat supper, sleep, and maybe read ebook.
 
 ### Wednesday (December 24) (bowels)
 
