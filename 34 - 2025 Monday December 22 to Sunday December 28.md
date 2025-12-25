@@ -20,13 +20,31 @@
 - 8pm I do recordings, sorted my Yahoo emails, downloaded ebook.
 - 8.50pm I briefly watched parts of today's news on CNA, and Channel 5.
 - 9.40pm I read my compiled news.
-- 10.10pm eat supper, sleep, and maybe read ebook.
+- 10.10pm eat supper, sleep, and maybe read ebook, and spent about half hour trying propnex investment suite on my phone.
 
 ### Wednesday (December 24) (bowels)
-
+- 8.30am thereabouts, take medicines, move bowels, sleep.
+- 10am eat lunch, take medicines, wash up, move bowels, sleep.
+- 1.25pm move bowels, bath, do recordings, eat dinner.
+- 3pm start elaine's work.
+- 6pm eat first supper, I briefly read and compiled parts of today's news, I read my compiled news.
+- 8.35pm I briefly watched parts of today's news on CNA, and Channel 5.
+    - 8.45pm thereabouts, I eat second supper with moxiclav.
+- 9.40pm I reviewed the latest ebooks from NLB, and downloaded ebooks.
+- 11pm I reviewed my feed at linkedin.
+- 11.50pm eat third supper, sleep, and read compiled news.
 
 ### Thursday (December 25) ()
-
+- 10am thereabouts, eat lunch, wash up, do research and send emails regarding "Government programs or support networks that may offer resources or funding to help people with disabilities in business"
+- 11.50am sleep.
+- 2pm quick replies to whatsapp messages.
+- 2.15pm I briefly read and compiled parts of today's news, I read my compiled news.
+    - 2.45pm eat first dinner.
+    - 4pm thereabouts, I started checking on school calendars, which should be ok, and improving stocks scraping, which is problematic.
+- 6.45pm go out eat dinner, come home, bath.
+- 8pm continue improving stocks scraping.
+- 1.40am I briefly watched parts of today's news on CNA, and Channel 5.
+- 2.20pm eat supper, sleep, and maybe read compiled news.
 
 ### Friday (December 26) (bowels)
 
