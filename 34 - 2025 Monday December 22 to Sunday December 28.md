@@ -47,6 +47,23 @@
 - 2.20pm eat supper, sleep, and maybe read compiled news.
 
 ### Friday (December 26) (bowels)
+- 10am eat lunch, sleep.
+- 2pm thereabouts, bowels cannot move.
+- 3pm elaine's tasks.
+- 6pm go out second dinner, come home, bath.
+- 7.30pm check on elaine's tasks.
+- 8.30pm I briefly watched parts of today's news on CNA, and Channel 5, and parts of these:
+    - https://www.youtube.com/watch?v=YOLFlIPa0uU
+    - https://www.youtube.com/watch?v=zuBTcr_bQPo
+    - https://www.youtube.com/watch?v=zbBRc80uvfI
+    - https://www.youtube.com/watch?v=VofkcJhmKXw
+    - https://www.youtube.com/watch?v=XTnJQrbYmAA
+    - https://www.youtube.com/watch?v=8W5A7fIuA-A
+    - https://www.youtube.com/watch?v=nflOt5HOE-k
+- 10.30pm I extracted stocks data for processing tomorrow, and clarified/amended the code.
+    - 12am thereabouts eat supper
+- 2am I sorted parts of my Yahoo email, did recordings, sent email to IRAS.
+- 2.40am sleep.
 
 
 ### Saturday (December 27) ()
