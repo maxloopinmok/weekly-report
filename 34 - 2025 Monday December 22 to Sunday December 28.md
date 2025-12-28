@@ -46,7 +46,7 @@
 - 1.40am I briefly watched parts of today's news on CNA, and Channel 5.
 - 2.20pm eat supper, sleep, and maybe read compiled news.
 
-### Friday (December 26) (bowels)
+### Friday (December 26) (bowels, towels)
 - 10am eat lunch, sleep.
 - 2pm thereabouts, bowels cannot move.
 - 3pm elaine's tasks.
@@ -65,12 +65,38 @@
 - 2am I sorted parts of my Yahoo email, did recordings, sent email to IRAS.
 - 2.40am sleep.
 
-
 ### Saturday (December 27) ()
-
+- 9.30am eat breakfast, sleep.
+- 1pm eat lunch.
+- 1.30pm I sorted parts of my Yahoo emails, I downloaded ebook, I did a YIJC geography survey sent by a ex DHS classmate.
+- 2.20pm I briefly read and compiled parts of today's news.
+- 3.35pm I read my compiled news.
+    - 4.30pm eat dinner, wash up.
+    - 8.10pm eat first supper, wash up.
+- 9.25pm I briefly watched parts of today's news on CNA, and Channel 5, and parts of these:
+    - https://www.youtube.com/watch?v=I2h9ozrNvyY
+    - https://offers.hubspot.com/thank-you/using-chatgpt-at-work?hubs_signup-url=offers.hubspot.com/using-chatgpt-at-work&hubs_signup-cta=submit&hubs_offer=offers.hubspot.com/using-chatgpt-at-work
+    - https://www.youtube.com/watch?v=9Yhhwr0dyS4
+    - https://www.youtube.com/watch?v=TiaTUbCOuwU
+    - https://www.youtube.com/watch?v=GJY93oSVMNE
+- 10.35pm I read my compiled news.
+- 1am eat second supper, sleep.
 
 ### Sunday (December 28) (bowels)
-
+- 5.30am I did up resume and applied for jobs (telemarketer, web):
+    - https://www.mycareersfuture.gov.sg/dashboard/career
+- 7am sleep.
+- 11.15am eat lunch, try to sleep.
+- 12pm I briefly read and compiled parts of today's news.
+    - 12.15pm move bowels, bath.
+    - 2.35pm eat first dinner, wash up.
+- 3pm cold calls for elaine.
+- 6.05pm end work, sort things out.
+- 6.15pm go out second dinner, come home, bath.
+- 7.40pm cold calls for elaine.
+- 7.55pm send christmas messages to friends and relatives.
+- 10.40pm I briefly watched parts of today's news on CNA.
+- 11.30 eat supper, sleep.
 
 
 
