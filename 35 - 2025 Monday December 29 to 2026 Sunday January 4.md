@@ -1,5 +1,17 @@
 ### Monday (December 29) ()
-
+- 6am send out messages to friends and cell group.
+- 6.40pm I sorted out my web store and posted a blog post.
+- 8am eat breakfast, sleep.
+- 11am eat lunch.
+- 11.20am evaluate and fine tune guide book and stocks scrape code.
+- 3pm I eat first dinner and wash up.
+    - I briefly read and compiled parts of today's news.
+    - I searched for plumbers.
+- 4.45pm I left for McDonald's at Pasir Ris Mall, dinner there, I read my compiled news.
+- 6pm come home, bath.
+- 7pm I reviewed and applied my friend PWW Jason and Bro Joshua's ideas, and confirmed a plumber visit on tomorrow Tuesday.
+- 10.30pm I did recordings.
+- 11pm eat supper, sleep.
 
 ### Tuesday (December 30) (bowels)
 
