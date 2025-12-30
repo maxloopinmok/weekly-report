@@ -1,4 +1,4 @@
-### Monday (December 29) ()
+### Monday (December 29) (nails, toes, towels)
 - 6am send out messages to friends and cell group.
 - 6.40pm I sorted out my web store and posted a blog post.
 - 8am eat breakfast, sleep.
@@ -14,10 +14,28 @@
 - 11pm eat supper, sleep.
 
 ### Tuesday (December 30) (bowels)
-
+- 9.30am thereabouts, eat light breakfast and then lunch.
+- 10am troubleshoot/google/chatbot jason's and joshua's ideas
+- 2.45pm I eat first dinner.
+- 3pm I briefly read and compiled parts of today's news.
+- 5pm thereabouts, plumber arrived and fix cistern's inlet and angle valve.
+- 5.30pm I read my compiled news.
+- 6.40pm I eat second dinner, I bath.
+- 7.15pm I scraped SGX stocks, and fine tuned its outputs.
+    - try current STI stocks scraper to see if it works
+- 8.45pm I briefly watched parts of today's news on CNA, and Channel 5, and parts of these:
+    - https://www.youtube.com/watch?v=Cis57hC3KcM
+    - https://www.youtube.com/watch?v=HQ3eVt2jgAY
+- 9.45pm I uploaded SGX stocks data to payhip, and adjusted Google Search Console for blog and payhip.
+- 11pm I read compiled news, and briefly read this:
+    - 2021 Android for Absolute Beginners
+- 12.25am I tried to quick create a epub reader, but it got too involved, and chatgpt failed.
+    - 2.50am I resorted to gemini with android studio and it works!
+- 3.30am eat supper, sleep.
 
 ### Wednesday (December 31) ()
-
+- 
+- 
 
 ### Thursday (January 1) (bowels)
 
@@ -46,6 +64,7 @@
 - 2022 Marketing Without Money
 - 2025 Selling to Skeptics
 - 2020 Property Agent Secrets
+- 2021 Android for Absolute Beginners
 
 ## Routines
 - I update weekly report.
@@ -55,7 +74,7 @@
 - I read parts of this week's compiled news readings.
 - I watched today's news on CNA and Channel 5.
 
-# Tasks to do:
+# Occasional Tasks To Do:
 - Review selected books for further readings.
 - Use ChatGPT for jobs recommendation.
 - I searched for e-books.
