@@ -70,10 +70,22 @@
     - I sorted my emails, and downloaded ebooks.
 - 8.20pm I briefly read and compiled parts of today's news.
     - 8.55pm to 9.40pm I watched today's news on CNA and Channel 5.
-- 11pm eat supper, sleep, and maybe read compiled news.
+- 11pm to 6am thereabouts, eat supper, couldn't sleep, read compiled news, and updated calendars and profiles.
 
-### Friday (January 2) ()
-- get tripod from heng's minimart
+### Friday (January 2) (shave)
+- 8am thereabouts, eat breakfast, try to sleep.
+- 9am I recorded tasks, medicines, plans, I read my compiled news, sleep.
+- 12.30pm thereabouts, eat lunch, wash up.
+- 12.50pm I read my compiled news.
+- 3pm walk out to white sands koufu eat first dinner, take photos of toothbrushes (buy $3 + $3 + $5 another day) from NTUC and send to mum, get haircut ($12), take bus 3 or 403, cross road and get tripod from heng's minimart.
+    - Joshua's video shoot idea: collected tripod from heng's minimart
+- 5pm arrive home, bath.
+- 5.25pm I recorded tasks, medicines, expenses, plans.
+- 5.50pm I did a short write up for a short trial video shoot, shot the video, and did all the admin setup work at youtube to launch it at 8.45pm SGT tonight.
+- 9.15pm I watched today's news on CNA and Channel 5.
+- 10.10pm I read my compiled news.
+- 11.30pm thereabouts, I briefly read and compiled parts of today's news.
+- 12.30am eat supper, sleep, maybe read compiled news.
 
 ### Saturday (January 3) (bowels)
 
