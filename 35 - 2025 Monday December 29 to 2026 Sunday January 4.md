@@ -88,13 +88,45 @@
 - 12.30am eat supper, sleep, maybe read compiled news.
 
 ### Saturday (January 3) (bowels)
-
+- 9am eat light breakfast, wash up, move bowels, record TMEP.
+- 9.50am eat lunch, record TMEP.
+- 10.15am sleep.
+- 12.30pm thereabouts, I briefly read and compiled parts of today's news.
+- 2.30pm I eat lunch, wash up.
+- 3pm I start on elaine's work.
+- 6.30pm I eat first supper.
+- 7pm I read my compiled news, sleep.
+- 8.30pm I read my compiled news.
+- 9.25pm I watched today's news on CNA and Channel 5, and parts of these:
+    - https://www.youtube.com/watch?v=0rinBUI6ViE
+    - https://www.youtube.com/watch?v=BnWVOqg8GnA
+- 11.05pm I read my compiled news.
+- 12.30am I briefly read and compiled parts of today's news.
+    - I spent a bit of time updating what elaine suggested.
+    - I spent some time messaging replies to my friends using whatsapp.
+    - I chatted with gemini to determine how to amend my current published youtube video.
+- 2.30am I sorted my emails.
+- 2.50am eat second supper, sleep.
 
 ### Sunday (January 4) ()
-
-
-
-
+- 9am eat light breakfast.
+- 9.50am eat lunch, and then sent my youtube video to army friends and other friends that i've not contacted for some time.
+- 11am go to changi airport to send brother off, 11.50am had first dinner there, visit white sands NTUC, come home, bath.
+- 2.40pm I replied to messages from friends.
+- 3.50pm I compiled data for STI statistics and posted my blog post.
+    - 4.45pm I eat second dinner.
+    - 6.10pm I answered some messages.
+- 6.30pm I eat first supper, and then preoccupied with responding to PMC jane.
+    - update the profit and loss (incoming others) to include mei har and enny's gifts.
+- 8.25pm I read my compiled news.
+- 9.25pm I watched today's news on CNA and Channel 5, and parts of these:
+    - https://www.youtube.com/watch?v=JP28tWLUVzE
+    - https://www.youtube.com/watch?v=P5BZSEuam_M
+    - https://www.youtube.com/watch?v=LBvVzIMIMz0
+    - https://www.youtube.com/watch?v=8qcZRrAKsMY
+- 10.40pm I read my compiled news.
+- 12am I briefly read and compiled parts of today's news, including this week's The Economist.
+- 12.30am eat supper, sleep.
 
 
 
@@ -115,7 +147,7 @@
     - Apply for part time, flexi time, remote jobs
 
 ## Routines
-- I recorded tasks, medicines, expenses, plans.
+- I recorded Tasks, Medicines, Expenses, Plans (TMEP).
 - I sorted my emails.
 - I briefly read and compiled parts of today's news.
 - I read my compiled news.
