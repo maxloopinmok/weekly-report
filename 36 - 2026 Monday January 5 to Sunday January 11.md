@@ -1,12 +1,37 @@
 ### Monday (January 5) (bowels)
-
+- 10.35am eat light breakfast and lunch, move bowels, bath.
+- 11.10am record TMEP, reply messages.
+    - update the profit and loss to include mei har and enny's gifts.
+- 12pm thereabouts, read my compiled news, sleep, move bowels
+- 3.15pm eat first dinner, wash up.
+- 3.30pm update and check medical appointments from phone.
+- 4.45pm I briefly read and compiled parts of today's news.
+- 6pm sent messages to prospects for elaine
+- 6.15pm I amended parts of my title, description, video chapters, and search keywords for my youtube video:
+    - https://www.youtube.com/watch?v=j-UsIe_yxug
+    - WhatsApp THK's Eva/Mary about whether there are meal deliveries during CNY holidays
+- 7.15pm I eat my first supper, bathed.
+- 7.50pm I sorted my emails.
+    - messaged ACC Jennifer about meeting up in kembagan to deliver her calendar.
+    - replied to PWW Jason about reply from SG Enable to his suggestion for getting them to help publicise.
+- 8.20pm I updated my resume and applied for jobs (telemarketer, web):
+    - https://www.mycareersfuture.gov.sg/
+    - I updated my TMEP.
+- 8.55pm I watched today's news on CNA and Channel 5.
+- 9.45pm I updated my TMEP, and added to my next video script.
+- 3.55pm eat supper, sleep.
 
 ### Tuesday (January 6) ()
 - Tuesday 6 Jan 2026 11.30am Dietician, Level 1, Integrated Building, CGH
 - check with white sands POSB about mysterious interest deposit in my bank account.
+- get CDC vouchers from Elias Mall CC.
 
 ### Wednesday (January 7) (bowels)
 - 3pm work
+    - Send messages updates to person who wanna see Tengah
+    - Can u create another google sheet, page - under ur main “max” and help me list those confirmed for River Modern Launch down, so I can keep track.
+    - update google slides: the parc - units for sale
+
 
 ### Thursday (January 8) ()
 
@@ -40,7 +65,7 @@
     - Apply for part time, flexi time, remote jobs
 
 ## Routines
-- I recorded Tasks, Medicines, Expenses, Plans (TMEP).
+- I recorded/updated my Tasks, Medicines, Expenses, Plans (TMEP).
 - I sorted my emails.
 - I briefly read and compiled parts of today's news.
 - I read my compiled news.
@@ -70,10 +95,26 @@
 
 
 # Upcoming Medical Appointments
+- Monday 12 Jan 2026 CDLD, BLK 3 B1 (Yellow Zone), Colorectal Surgery, SGH
+- Monday 9 Feb 2026 2B, ENT, Level 2, Medical Centre, CGH
 - Friday 13 Feb 2026 2pm Diagnostic Centre, Level 3, Integrated Building, CGH
 - Tuesday 3 Mar 2026 12pm 3D - Digestive Diseases Centre @ CGH
 - Monday 16 Mar 2026 2.20pm SGH Neurology Clinic L BLK3 L1 (Yellow Zone), Dr Dementia - Simon Ting
 - Tuesday 31 Mar 2026 11am Psychological Medicine Centre, Level 3, IB CGH
 - Thursday 23 Apr 2026 3pm IMH Clinic B
-- Friday 29 May 2026 9.15am 1A - SNEC Eye Clinic @ CGH
-- Friday 7 Aug 2026 9.40am 4E - CGH-NNI Spine Centre (Knee)
+- Friday 28 May 2026 10am 1A - SNEC Eye Clinic @ CGH
+- Friday 3 Jul 2026 3pm 4E - CGH-NNI Spine Centre (Knee)
+
+## Medical Appointments odd or even dates for 2026
+Jan - even
+Feb - odd
+Mar - odd
+Apr - even
+May - even
+Jun - odd
+Jul - odd
+Aug - even
+Sep - odd
+Oct - odd
+Nov - even
+Dec - even
