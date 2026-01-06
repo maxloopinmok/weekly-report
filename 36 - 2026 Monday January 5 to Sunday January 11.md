@@ -19,12 +19,25 @@
     - I updated my TMEP.
 - 8.55pm I watched today's news on CNA and Channel 5.
 - 9.45pm I updated my TMEP, and added to my next video script.
-- 3.55pm eat supper, sleep.
+- 3.55am eat supper, sleep.
 
 ### Tuesday (January 6) ()
+- 8am thereabouts, email PA about CDC vouchers denominations, do some STI stocks data scraping, amend video script, print out medicines roster for dietician appointment, I updated my TMEP, try to sleep.
+- 9.40am I applied for a telesales job at SG Enable's job portal.
+    - no recurrence of corppass error.
+    - 10.10am eat light breakfast and lunch.
+- 10.25am I briefly read and compiled parts of today's news.
 - Tuesday 6 Jan 2026 11.30am Dietician, Level 1, Integrated Building, CGH
-- check with white sands POSB about mysterious interest deposit in my bank account.
-- get CDC vouchers from Elias Mall CC.
+- 1pm eat first dinner, get CDC vouchers from Elias Mall CC.
+- 2.30pm reach home, bath, eat light second dinner.
+- 3.50pm thereabouts, record script's audio for review, update video script, created video, uploaded to youtube.
+- 6.45pm I scraped STI stocks data, uploaded to payhip, posted a blog post.
+    - 7.30pm eat light third dinner, wash up.
+    - 8.45pm second youtube video published.
+- 8.55pm I watched today's news on CNA and Channel 5, and parts of this:
+    - https://www.youtube.com/watch?v=xMCcR9Q-QyY
+- 10pm I briefly read and compiled parts of today's news.
+- 11.20pm eat supper, sleep, and maybe read compiled news.
 
 ### Wednesday (January 7) (bowels)
 - 3pm work
