@@ -37,22 +37,51 @@
 - 8.55pm I watched today's news on CNA and Channel 5, and parts of this:
     - https://www.youtube.com/watch?v=xMCcR9Q-QyY
 - 10pm I briefly read and compiled parts of today's news.
-- 11.20pm eat supper, sleep, and maybe read compiled news.
+- 11.30pm eat supper, sleep, and maybe read compiled news.
 
-### Wednesday (January 7) (bowels)
+### Wednesday (January 7) (bowels, towels)
+- 10.15am eat light breakfast and lunch.
+- 10.35am sleep.
+- 2.30pm eat dinner
 - 3pm work
     - Send messages updates to person who wanna see Tengah
     - Can u create another google sheet, page - under ur main “max” and help me list those confirmed for River Modern Launch down, so I can keep track.
     - update google slides: the parc - units for sale
-
+- 6.30pm respond to beansprouts and other whatsapp messages, eat first supper, wash up, I sorted my emails, I updated my medical appointments schedule.
+- 7.45pm I briefly read and compiled parts of today's news.
+- 8.37pm do elaine's work.
+- 9.40pm I read my compiled news.
+- 10.50pm I tried to understand my epub reader kotlin code.
+- 11.20pm I attempt to amend my epub reader, and it works!
+- 1.50am I scraped STI stocks data 
+- 2.05am eat supper, sleep.
 
 ### Thursday (January 8) ()
-
+- 8am eat breakfast, I read my compiled news.
+- 9.30am thereabouts, sleep.
+- 11.50am checked messages, updated TMEP.
+- 12.20pm eat lunch, wash up.
+- 12.35pm I read this:
+    - 2021 Android for Absolute Beginners
+    - I tried to sleep a little
+    - write reply to nicole from beansprouts
+    - 3pm thereabouts eat first dinner
+- 3.40pm I write reply to PWW jennifer's friend jane
+    - 4.20pm updated elaine's "Max work hours"
+- 4.30pm I watched yesterday's news on CNA and Channel 5
+- 6pm I briefly read and compiled parts of today's news.
+- 6.30pm I eat second dinner, buy burger for mum, come home, bath.
+- 8pm I briefly read and compiled parts of today's news.
+    - 8.50pm I watched today's news on CNA and Channel 5, and Talking Point.
+    - 10.20pm I scraped STI stocks data
+- 10.45pm eat supper, sleep, and maybe read compiled news, and maybe read:
+    - 2025 Kotlin from Scratch
 
 ### Friday (January 9) (bowels)
 - 3pm work
 
 ### Saturday (January 10) ()
+- 1pm pass printed calendars to jennifer at kembagan MRT.
 
 
 ### Sunday (January 11) (bowels)
@@ -103,20 +132,23 @@
 - 2020 Property Agent Secrets
 - 2021 Android for Absolute Beginners
 - 2024 Kotlin Programming
+- 2025 Kotlin from Scratch
 
 # Upcoming Schedule
-
+- Wednesday 14 Jan 2026 2pm Meet SPD and SG Enable personnel at EV.
 
 # Upcoming Medical Appointments
-- Monday 12 Jan 2026 CDLD, BLK 3 B1 (Yellow Zone), Colorectal Surgery, SGH
-- Monday 9 Feb 2026 2B, ENT, Level 2, Medical Centre, CGH
+- Monday 12 Jan 2026 2.30pm CDLD, BLK 3 B1 (Yellow Zone), Colorectal Surgery, SGH
+- Monday 9 Feb 2026 11.10am 2B, ENT, Level 2, Medical Centre, CGH
 - Friday 13 Feb 2026 2pm Diagnostic Centre, Level 3, Integrated Building, CGH
 - Tuesday 3 Mar 2026 12pm 3D - Digestive Diseases Centre @ CGH
 - Monday 16 Mar 2026 2.20pm SGH Neurology Clinic L BLK3 L1 (Yellow Zone), Dr Dementia - Simon Ting
 - Tuesday 31 Mar 2026 11am Psychological Medicine Centre, Level 3, IB CGH
+- Thursday 2 Apr 2026 3.30pm Dietician, Level 1, Integrated Building, CGH
 - Thursday 23 Apr 2026 3pm IMH Clinic B
 - Friday 28 May 2026 10am 1A - SNEC Eye Clinic @ CGH
 - Friday 3 Jul 2026 3pm 4E - CGH-NNI Spine Centre (Knee)
+- Thursday 10 Dec 2026 2.20pm 4E - CGH-NNI Spine Centre (Spine)
 
 ## Medical Appointments odd or even dates for 2026
 Jan - even
