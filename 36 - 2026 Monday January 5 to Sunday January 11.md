@@ -78,7 +78,16 @@
     - 2025 Kotlin from Scratch
 
 ### Friday (January 9) (bowels)
-- 3pm work
+- 9am thereabouts, eat light breakfast, sleep.
+- 11.30pm eat lunch, move bowels, sleep.
+- 2.50pm eat dinner, wash up, bath.
+- 3.20pm work
+- 6.20pm replied to friends' messages, updated TMEP.
+- 6.45pm eat first supper.
+- 7.05pm I updated TMEP, I briefly read and compiled parts of today's news.
+- 8.55pm I watched today's news on CNA and Channel 5.
+- 10pm I read my compiled news.
+- 12am eat supper, sleep, and maybe read my compiled news or ebook.
 
 ### Saturday (January 10) ()
 - 1pm pass printed calendars to jennifer at kembagan MRT.
