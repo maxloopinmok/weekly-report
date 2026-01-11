@@ -90,12 +90,38 @@
 - 12am eat supper, sleep, and maybe read my compiled news or ebook.
 
 ### Saturday (January 10) ()
+- 5am thereabouts, amended epub reader code:
+    - epub reader background black, to remember which file it previously open and which page it was at, even after exiting the app.
+    - page numbers cannot be seen clearly, ensure that page numbers are layered over the page, and the layer is not transparent.
+    - extra button, toggle between light and dark background 
+    - when scroll to end of epub, continue scrolling until last line reaches top of screen
+- 7am sleep
+- 9.10am eat light breakfast, I briefly read and compiled parts of today's news.
+    - 10am thereabouts, eat lunch.
+- 12.20pm depart from home.
 - 1pm pass printed calendars to jennifer at kembagan MRT.
+- 1.40pm thereabouts, eat first dinner at elias mall, come home.
+- 2.30pm reach home, bath, I read my compiled news.
+    - 6pm I scraped STI stocks data, updated payhip, I posted blog post, and shared on linkedin.
+    - 6pm I sorted my emails.
+    - 7.10pm eat second dinner, wash up.
+    - 8.50pm I watched today's news on CNA and Channel 5, and Money Mind.
+- 11.45pm eat supper, sleep, and maybe read more compiled news.
 
-
-### Sunday (January 11) (bowels)
-- 3pm work
-
+### Sunday (January 11) (bowels, towels)
+- 10.45pm thereabouts, eat light breakfast and lunch, and move bowels, sleep.
+- 2.30pm eat first dinner, prepare calendar printouts for mummy to give to Poh Khum and husband.
+- 3.30pm work for elaine.
+- 6.45pm go out for second dinner, come home, bath.
+- 8.10pm I briefly read and compiled parts of today's news, and The Economist.
+- 9.15pm I watched today's news on CNA and Channel 5, and parts of these:
+    - https://www.youtube.com/watch?v=-Epp6VmpezI
+    - https://www.youtube.com/watch?v=JILSzhssMsk
+    - https://www.youtube.com/watch?v=-EgTYDKtEw8
+    - https://www.youtube.com/watch?v=XCUWrrmaNck
+    - https://www.oneusefulthing.org/p/claude-code-and-what-comes-next
+- 10.20pm I reviewed the latest ebooks from NLB, and downloaded ebooks.
+- 12am eat supper, sleep, and maybe read selected ebooks.
 
 
 
@@ -110,7 +136,7 @@
         - Publicise on LinkedIn and Facebook
 - https://sites.google.com/view/somethingusefulfrommaxloo/
     - Update current personal profile
-- Telemarketing for Elaine (3 to 4 × 3 hrs per week)
+- Telemarketing for Elaine (2 to 4 × 3 hrs per week)
 - Read up or look out for more opportunities
 - https://www.mycareersfuture.gov.sg/
     - Apply for part time, flexi time, remote jobs
