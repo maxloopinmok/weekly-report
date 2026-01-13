@@ -11,20 +11,35 @@
 - 6pm eat second dinner at home, bath, sleep, I read my compiled news.
 - 8pm thereabouts, worked on elaine's tasks, and scraped stocks data.
 - 9.24pm I watched today's news on CNA and Channel 5.
-- 11.10pm eat supper, sleep, and maybe read compiled news.
+- 11.15pm eat supper, sleep, and maybe read compiled news.
 
 ### Tuesday (January 13) (bowels)
-- change SGH gastro and dementia appointments.
-- check yesterday's books list from kinokuniya.
-- check pending tasks in "new books.txt" and save new "new books.txt" in phone.
+- 7pm eat breakfast, sleep.
+- 10am thereabouts, move bowels, eat lunch, bath, read compiled news.
+    - change SGH gastro and dementia appointments.
+- 3pm thereabouts, eat dinner
+- 4.53pm to 5.38pm elaine's task
+- 5.40pm review https://www.oneusefulthing.org/p/claude-code-and-what-comes-next.
+    - reviewed links in resume and messaged referees.
+    - downloaded stripe document.
+    - created 2025 tab in excel sheet for 2025 profits.
+- 8.40pm eat first supper.
+- 8.55pm I watched today's news on CNA and Channel 5.
+    - https://www.aic.sg/care-services/household-services-scheme/
+- 10.05pm I scraped stocks data, I sorted my emails.
+- 10.25pm I briefly read and compiled parts of today's news.
+- 12.20am eat supper, sleep, and maybe read compiled news.
 
 
 ### Wednesday (January 14) ()
 - Wednesday 14 Jan 2026 2pm Meet SPD and SG Enable personnel at EV.
+- check latest recorded books list from kinokuniya.
+- check pending tasks in "new books.txt" and save new "new books.txt" in phone.
 
 
 ### Thursday (January 15) (bowels)
-
+- 3pm work
+    - send elaine's message to clients interested in tampines condo.
 
 ### Friday (January 16) ()
 
@@ -85,8 +100,8 @@
 # Upcoming Schedule
 
 # Upcoming Medical Appointments
-- Friday 23 Jan 2026 2.45pm AEC & GIFU, BLK3 L1 (Yellow Zone)
 - Monday 9 Feb 2026 11.10am 2B, ENT, Level 2, Medical Centre, CGH
+- Wednesday 25 Feb 2026 2.30pm AEC & GIFU, BLK3 L1 (Yellow Zone), SGH
 - Friday 13 Feb 2026 2pm Diagnostic Centre, Level 3, Integrated Building, CGH
 - Tuesday 3 Mar 2026 12pm 3D - Digestive Diseases Centre @ CGH
 - Monday 16 Mar 2026 2.20pm SGH Neurology Clinic L BLK3 L1 (Yellow Zone), Dr Dementia - Simon Ting
@@ -94,7 +109,7 @@
 - Thursday 2 Apr 2026 3.30pm Dietician, Level 1, Integrated Building, CGH
 - Thursday 23 Apr 2026 3pm IMH Clinic B
 - Friday 28 May 2026 10am 1A - SNEC Eye Clinic @ CGH
-- Tuesday 30 Jun 2026 4pm CDLD, BLK 3 B1 (Yellow Zone), Colorectal Surgery, SGH
+- Tuesday 26 May 2026 3.20pm CDLD, BLK 3 B1 (Yellow Zone), Colorectal Surgery, SGH
 - Friday 3 Jul 2026 3pm 4E - CGH-NNI Spine Centre (Knee)
 - Thursday 10 Dec 2026 2.20pm 4E - CGH-NNI Spine Centre (Spine)
 
