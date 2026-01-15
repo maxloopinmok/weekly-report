@@ -13,7 +13,7 @@
 - 9.24pm I watched today's news on CNA and Channel 5.
 - 11.15pm eat supper, sleep, and maybe read compiled news.
 
-### Tuesday (January 13) (bowels)
+### Tuesday (January 13) (bowels, towels)
 - 7pm eat breakfast, sleep.
 - 10am thereabouts, move bowels, eat lunch, bath, read compiled news.
     - change SGH gastro and dementia appointments.
@@ -32,22 +32,53 @@
 
 
 ### Wednesday (January 14) ()
-- Wednesday 14 Jan 2026 2pm Meet SPD and SG Enable personnel at EV.
+- 9.30am thereabouts, eat light breakfast and lunch.
+- 10am I briefly read and compiled parts of today's news.
+- 11.30am thereabouts, sleep.
+- 12.30pm thereabouts, leave home for SPD.
+- Wednesday 14 Jan 2026 2pm Meet SPD brenden and qadar at EV; SG Enable personnel could not attend.
+- 2.30pm eat first dinner at coffee shop near EV, go kinokuniya orchard, come home, bath.
+- 5.30pm I read my compiled news.
+- 7.30pm I eat second dinner, wash up, I recorded TMEP.
+- 8pm I read my compiled news.
+- 9.15pm I watched today's news on CNA and Channel 5, and parts of these:
+    - https://www.youtube.com/watch?v=N8I2wYXt4m8
+    - https://www.youtube.com/watch?v=8Q8L5x2oBBg
+    - https://www.youtube.com/watch?v=hJP1xO1h1Nc
+    - https://www.youtube.com/watch?v=hJP1xO1h1Nc
+    - https://www.youtube.com/watch?v=vcUBUQOyzFI
+    - https://www.youtube.com/watch?v=82DyXL0ZXI8
+- 11.15pm I read my compiled news.
+- 12.40pm I scraped stocks data.
+    - eat supper
+- 1.10am review beansprouts task
+- 3.25am sleep, and maybe read compiled news.
+
+### Thursday (January 15) (bowels, towels)
+- 9.30am eat light breakfast, sleep, and maybe read compiled news.
+- 2.20pm eat lunch, wash up, read compiled news.
+- 3.10pm work
+    - touch up and send elaine's message to river modern confirmed clients
+    - send elaine's message to clients interested in tampines condo.
+- 7pm eat dinner, wash up, troubleshoot contacting and presenting vacuum cleaner problem to sterra with mother.
+- 8.40pm I briefly read and compiled parts of today's news.
+- 8.55pm I watched today's news on CNA and Channel 5, and Talking Point.
+- 10.10pm thereabouts, I briefly read and compiled parts of today's news.
+    - 11pm I scraped stocks data, posted blog post, and publicise post.
+        - 11.20pm I eat supper, brush teeth.
+- 1.45am sleep, and maybe read compiled news.
+
+### Friday (January 16) ()
+- do red alpha test
+- sort through txt lists in phone
 - check latest recorded books list from kinokuniya.
 - check pending tasks in "new books.txt" and save new "new books.txt" in phone.
 
-
-### Thursday (January 15) (bowels)
-- 3pm work
-    - send elaine's message to clients interested in tampines condo.
-
-### Friday (January 16) ()
-
-
 ### Saturday (January 17) (bowels)
-
+- 3pm work
 
 ### Sunday (January 18) ()
+- do beansprout assignment 
 
 
 
@@ -60,6 +91,9 @@
     - Blog about investment analysis based on stocks data
         - scrape data 
         - adjust data and save to xlsx, pdf, csv, png
+            - top 60 requires sorting data into top 60
+            - take top 60, use AI chat to convert to code
+            - scrape two sets of top 60 data
         - AI chat to analyse and comment and post to Blog
         - Publicise on LinkedIn and Facebook
 - https://sites.google.com/view/somethingusefulfrommaxloo/
