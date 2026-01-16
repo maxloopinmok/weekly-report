@@ -69,13 +69,27 @@
 - 1.45am sleep, and maybe read compiled news.
 
 ### Friday (January 16) ()
-- do red alpha test
-- sort through txt lists in phone
-- check latest recorded books list from kinokuniya.
-- check pending tasks in "new books.txt" and save new "new books.txt" in phone.
+- 9.20am thereabouts, eat breakfast and lunch, I briefly read and compiled parts of today's news, sleep.
+- 3.30pm eat first dinner, planned to do red alpha test, but due to too many requirements, plus job being non disabled friendly, I stopped.
+- 4pm switched to working on beansprouts article.
+- 7pm eat second dinner outside, come home, bath.
+- 8.30pm reviewed and replied emails
+- 9.20pm I watched today's news on CNA and Channel 5, and parts of these:
+    - https://www.youtube.com/watch?v=wFj8NBmO0uE
+    - https://www.youtube.com/watch?v=bEbaQMKmfdc
+    - https://www.youtube.com/watch?v=nojVWKZBLmM
+    - https://www.youtube.com/watch?v=h2P7Q2sI_nM
+    - https://www.youtube.com/watch?v=c1GXOeR5G2c
+    - https://www.youtube.com/watch?v=CL1OfPj3ePo
+    - https://www.youtube.com/watch?v=IV9xrZmwSGE
+    - https://www.youtube.com/watch?v=Smh50q7UTcY
+- 12.40am eat supper, sleep, and maybe read compiled news.
 
 ### Saturday (January 17) (bowels)
 - 3pm work
+- sort through txt lists in phone
+- check latest recorded books list from kinokuniya.
+- check pending tasks in "new books.txt" and save new "new books.txt" in phone.
 
 ### Sunday (January 18) ()
 - do beansprout assignment 
