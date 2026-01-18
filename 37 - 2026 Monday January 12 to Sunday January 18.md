@@ -86,15 +86,31 @@
 - 12.40am eat supper, sleep, and maybe read compiled news.
 
 ### Saturday (January 17) (bowels)
-- 3pm work
-- sort through txt lists in phone
-- check latest recorded books list from kinokuniya.
-- check pending tasks in "new books.txt" and save new "new books.txt" in phone.
+- 9am move bowels, eat breakfast, wash up, record TMEP, sleep.
+- 12.30pm move bowels, bath, eat lunch, wash up, record TMEP, read compiled news half asleep.
+- 2.50pm I eat dinner.
+- 3.10pm work
+- 6.25pm I eat my first supper, read my compiled news, and then drifted to review latest and cheapest broadband plans and emailed SIMBA.
+- 10.30pm I briefly read and compiled parts of today's news, and The Economist.
+    - sort through txt lists in phone
+    - check pending tasks in "new books.txt" and save new "new books.txt" in phone.
+- 2am I watched today's news on CNA and Channel 5, and Money Mind.
+- 3am eat supper
+- 3.30am I watched parts of this:
+    - https://www.youtube.com/watch?v=n2DspZG31B0
+- 3.45am I troubleshoot Claude Code windows 11 desktop version, and quickreader.
+- 7.30am sleep.
 
 ### Sunday (January 18) ()
-- do beansprout assignment 
-
-
+- 10am eat light breakfast and lunch, sleep.
+- 2pm read compiled news.
+    - 3pm eat first dinner.
+    - 6.30pm submit beansprout assignment 
+- 7pm eat second dinner outside, visit SIMBA at Pasir Ris Mall to ask about broadband plan, come home, bath.
+- 9pm record TMEP, I scraped stocks data, posted blog post, and publicise post, I briefly read and compiled parts of today's news.
+- 12am I watched today's news on CNA and Channel 5.
+- 12.55am I checked latest recorded books list from kinokuniya, I downloaded ebooks, I picked many epubs for review.
+- 2.50am eat supper, sleep, and maybe read.
 
 
 
