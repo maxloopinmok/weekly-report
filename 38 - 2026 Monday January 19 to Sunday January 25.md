@@ -1,5 +1,22 @@
 ### Monday (January 19) (bowels)
-
+- 11.20am eat light breakfast, sleep.
+- 3pm thereabout, eat lunch, move bowels with centa enema, bath.
+- 4.10pm record TMEP.
+- 4.20pm brush teeth, read compiled news.
+- 5pm call dbs about amazon ebook purchase failures, bought amazon ebook, upgraded epubor due to upgraded kindle, downloaded ebook, did Lenovo laptop hardware tests and replied Lenovo.
+- 5.50pm record TMEP, buy another amazon ebook.
+- 6.40pm go out dinner, visit SIMBA Pasir Ris Mall, buy diapers from guardian, come home, bath.
+- 8.30pm record TMEP.
+- 8.40pm I read my compiled news.
+- 8.55pm I watched today's news on CNA and Channel 5.
+- 9.45pm I read:
+    - https://critical.sg/singapores-pm-lawrence-wong-committed-the-gravest-sin-against-beijing-he-told-the-truth/
+    - https://www.straitstimes.com/asia/east-asia/barbs-jibes-and-spin-by-chinese-netizens-over-pm-wongs-remarks-on-japan-china-spat
+    - I recorded TMEP, and ordered medicines online from healthhub.
+- 10.45pm I read my compiled news.
+- 2.25am I briefly tried the BIOS setting as required by Lenovo.
+- 2.45am I briefly read and compiled parts of today's news.
+- 3.40am eat supper, sleep, and maybe read.
 
 ### Tuesday (January 20) ()
 
@@ -82,8 +99,8 @@
 - Tuesday 31 Mar 2026 11am Psychological Medicine Centre, Level 3, IB CGH
 - Thursday 2 Apr 2026 3.30pm Dietician, Level 1, Integrated Building, CGH
 - Thursday 23 Apr 2026 3pm IMH Clinic B
-- Friday 28 May 2026 10am 1A - SNEC Eye Clinic @ CGH
 - Tuesday 26 May 2026 3.20pm CDLD, BLK 3 B1 (Yellow Zone), Colorectal Surgery, SGH
+- Thursday 28 May 2026 10am 1A - SNEC Eye Clinic @ CGH
 - Friday 3 Jul 2026 3pm 4E - CGH-NNI Spine Centre (Knee)
 - Thursday 10 Dec 2026 2.20pm 4E - CGH-NNI Spine Centre (Spine)
 
