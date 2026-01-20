@@ -1,4 +1,4 @@
-### Monday (January 19) (bowels)
+### Monday (January 19) (bowels, towels)
 - 11.20am eat light breakfast, sleep.
 - 3pm thereabout, eat lunch, move bowels with centa enema, bath.
 - 4.10pm record TMEP.
@@ -16,16 +16,41 @@
 - 10.45pm I read my compiled news.
 - 2.25am I briefly tried the BIOS setting as required by Lenovo.
 - 2.45am I briefly read and compiled parts of today's news.
-- 3.40am eat supper, sleep, and maybe read.
+- 3.40am eat supper, I sorted my emails.
+- 4.10am sleep, and maybe read.
 
 ### Tuesday (January 20) ()
-
+- 9.30am thereabouts, read compiled news.
+    - 10am thereabouts, read parts of fbreader faq to get ideas about support issues.
+- 11.10am eat light breakfast and lunch, wash up.
+- 11.35am update quick reader code.
+- 1.45pm thereabouts, leave home, go white sands for first dinner, check amazon transaction with white sands POSB, come home.
+- 3pm record TMEP, messaged elaine, chatted with amazon, returned the ebooks, bath.
+    - https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he
+- 4.30pm managed or reply emails from the smart investor janice, amazon, lenovo, sterra.
+- 4.55pm I read my compiled news, I read parts of the book:
+    - 2026 How to Make AI Useful
+- 6.40pm record TMEP, checked and replied emails and messages.
+- 7pm eat second dinner, wash up.
+- 7.20pm I briefly read and compiled parts of today's news.
+- 8.50pm I watched today's news on CNA.
+- 9.15pm I briefly read and compiled parts of today's news, I read my compiled news.
+- 10.15pm I watched today's news on Channel 5.
+- 10.40pm I read my compiled news, and emailed Our Daily Bread about a paid contribution, and to Mr Woo about my final month's pay.
+- 12.35am eat supper, sleep, and maybe read.
 
 ### Wednesday (January 21) (bowels)
 
 
-### Thursday (January 22) ()
 
+### Thursday (January 22) ()
+The Smart Investor is inviting you to a scheduled Zoom meeting.
+Topic: Interview
+Time: Jan 22, 2026 03:00 PM Singapore
+Join Zoom Meeting
+https://us06web.zoom.us/j/88475410869?pwd=xjhOBWJ7UblQYmPK0F2POxNNGbeeJS.1
+Meeting ID: 884 7541 0869
+Passcode: 696717
 
 ### Friday (January 23) (bowels)
 
