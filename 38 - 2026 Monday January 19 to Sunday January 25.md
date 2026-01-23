@@ -40,10 +40,21 @@
 - 12.35am eat supper, sleep, and maybe read.
 
 ### Wednesday (January 21) (bowels)
-
-
+- 10am eat light breakfast, wash up, move bowels, sleep, and maybe read compiled news.
+- 1.30pm eat lunch, move bowels.
+- 2.15pm reviewed and replied emails and messages, and proceeded to amend beansprout article.
+    - 3.40pm call sgh to change appointment date.
+    - 8.15pm eat dinner, wash up, bath.
+- 12.50am finish beansprout article, and start sorting emails and messages.
+- 2.10am I scrape STI stocks data.
+- 2.30am eat supper, bath.
+- 3am I briefly read and compiled parts of today's and next day's news.
+- 6am sleep.
 
 ### Thursday (January 22) ()
+- 9am thereabouts, eat breakfast, wash up, sleep.
+- 2pm thereabouts, eat lunch, wash up.
+    - made amendments to beansprout article's referencing.
 The Smart Investor is inviting you to a scheduled Zoom meeting.
 Topic: Interview
 Time: Jan 22, 2026 03:00 PM Singapore
@@ -51,12 +62,29 @@ Join Zoom Meeting
 https://us06web.zoom.us/j/88475410869?pwd=xjhOBWJ7UblQYmPK0F2POxNNGbeeJS.1
 Meeting ID: 884 7541 0869
 Passcode: 696717
+- 3.30pm thereabouts, continued making amendments to beansprout article, and make final submission.
+- 4.20pm start on new beansprout article.
+- 7.19pm to 7.49pm work on elaine's tasks.
+- 8pm go out dinner, buy bread, come home, bath.
+- 9.20pm I watched today's news on CNA and Channel 5.
+- 10pm thereabouts, I continued working on the new beansprout article.
+- 3am update TMEP, I scrape STI stocks data.
+- 3.40am eat supper, sleep, read compiled news.
 
 ### Friday (January 23) (bowels)
-
+- 8am thereabouts, eat light breakfast, sleep.
+- 11am thereabouts, eat lunch, wash up, sleep, tried to move bowels.
+- 3pm eat first dinner, moved bowels, bath.
+- 3.40pm cold calls.
+- 6.40pm go out first supper at pasir ris mall kopitiam, come home, bath.
+- 8pm I read my compiled news.
+- 11.15pm I record TMEP, I briefly read and compiled parts of today's news.
+- 12am thereabouts, I watched today's news on CNA and Channel 5.
+- 1.05am eat supper, sleep, maybe read compiled news.
 
 ### Saturday (January 24) ()
-
+- I scrape STI stocks data.
+- I update quick reader.
 
 ### Sunday (January 25) (bowels)
 
@@ -114,13 +142,14 @@ Passcode: 696717
 - 2025 Kotlin from Scratch
 
 # Upcoming Schedule
+- Monday 26 Jan 2026 10am-6pm Lenovo laptop repair by Servlink Technology Resources P/L
 
 # Upcoming Medical Appointments
 - Monday 9 Feb 2026 11.10am 2B, ENT, Level 2, Medical Centre, CGH
 - Friday 13 Feb 2026 2pm Diagnostic Centre, Level 3, Integrated Building, CGH
 - Wednesday 25 Feb 2026 2.30pm AEC & GIFU, BLK3 L1 (Yellow Zone), SGH
 - Tuesday 3 Mar 2026 12pm 3D - Digestive Diseases Centre @ CGH
-- Monday 16 Mar 2026 2.20pm SGH Neurology Clinic L BLK3 L1 (Yellow Zone), Dr Dementia - Simon Ting
+- Monday 16 Mar / 7 May 2026 2.20pm SGH Neurology Clinic L BLK3 L1 (Yellow Zone), Dr Dementia - Simon Ting
 - Tuesday 31 Mar 2026 11am Psychological Medicine Centre, Level 3, IB CGH
 - Thursday 2 Apr 2026 3.30pm Dietician, Level 1, Integrated Building, CGH
 - Thursday 23 Apr 2026 3pm IMH Clinic B
