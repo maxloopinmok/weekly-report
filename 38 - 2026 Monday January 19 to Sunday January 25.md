@@ -83,11 +83,23 @@ Passcode: 696717
 - 1.05am eat supper, sleep, maybe read compiled news.
 
 ### Saturday (January 24) ()
-- I scrape STI stocks data.
-- I update quick reader.
+- 7am thereabouts, I read compiled news.
+- 7.55am I briefly read and compiled parts of today's news.
+- 8.40am I reviewed the latest ebooks from NLB, I downloaded ebooks.
+- 9.30am I eat light breakfast and lunch, sleep.
+- 1.30pm thereabouts, I read my compiled news.
+- 3.45pm thereabouts, I eat first dinner, wash up, reread and amend latest beansprout article.
+- 5.10pm I scrape STI stocks data, and posted blog post.
+- 6.50pm I go out to eat second dinner, buy bread, come home, bath.
+- 8.30pm thereabouts, I reviewed new investment strategy.
+- 12.20am I briefly read and compiled this week's The Economist.
+- 12.50am I updated TMEP, I sorted my emails.
+- 1am I watched today's news on CNA and Channel 5, and Money Mind.
+- 2.10am eat supper, sleep.
+- 5am thereabouts, vomitted.
 
 ### Sunday (January 25) (bowels)
-
+- too sick to write.
 
 
 
@@ -119,6 +131,7 @@ Passcode: 696717
 - I briefly read and compiled parts of today's news.
 - I read my compiled news.
 - I watched today's news on CNA and Channel 5.
+- I scraped STI stocks data at end of day.
 
 ## Occasional Tasks To Do:
 - I searched for ebooks.
