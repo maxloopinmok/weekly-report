@@ -1,16 +1,17 @@
 ### Monday (January 26) ()
-- sick
+- sick, and mostly slept until about 4.30pm.
 - Monday 26 Jan 2026 10am-6pm Lenovo laptop repair by Servlink Technology Resources P/L
     - Lenovo laptop repair day - tech guy came about 11.30am and left after 12pm after changing the heatsink because the fan or fans that are causing the noise problem is tied to the heatsink.  
 - 5pm thereabouts, work on beansprout submission
 - 6.40pm thereabouts, eat dinner.
-- 7.20pm thereabouts, I sorted my Yahoo emails, I updated TMEP, I checked Challenger Notebooks pricing, I paid SingTel bill.
+- 7.20pm thereabouts, I sorted my Yahoo emails, I updated TMEP, I checked Challenger Notebooks pricing, I paid SingTel bill, I emailed mypharmacist@cgh.com.sg.
 - 10pm called SingTel about digivoice, reviewed phone's "SIMBA email.txt" and copied to PC, updated beansprout article versioning, updated phone's "ideas.txt", messaged elaine about this week's work hours.  
 - 11.25pm eat supper, brush teeth.
 - 11.55pm checked the haze situation in singapore and reviewed NEA's website for haze outlook:
     - https://www.straitstimes.com/singapore/nea-closely-monitoring-haze-situation-after-burning-smell-noticeable
     - https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/guidelines/list-of-portable-air-cleaners-against-covid-19-virus-aerosols
-- 12.15am I continued updating TMEP, I scraped STI stocks data.
+- 12.15am I continued updating TMEP, I reviewed my CGH email, I scraped STI stocks data, and reviewed "Trailing Annual Dividend Yield" of Thai Beverage, which is likely caused by a problem at Yahoo Finance.  
+- 1.50am reviewed perplexity's top global news headlines, 2am go to sleep, but likely to read unfinished compiled news.
 
 ### Tuesday (January 27) (bowels)
 - 2pm make appointment at Tampines Polyclinic for COVID vaccination
@@ -50,7 +51,7 @@
         - Publicise on LinkedIn and Facebook
 - https://sites.google.com/view/somethingusefulfrommaxloo/
     - Update current personal profile
-- Telemarketing for Elaine (3 to 4 × 3 hrs per week)
+- Telemarketing for Elaine (ideally 2 × 3 hrs per week)
 - Read up or look out for more opportunities
 - https://www.mycareersfuture.gov.sg/
     - Apply for part time, flexi time, remote jobs
@@ -61,6 +62,7 @@
 - I briefly read and compiled parts of today's news.
 - I read my compiled news.
 - I watched today's news on CNA and Channel 5.
+- I scraped STI stocks data at end of day.
 
 ## Occasional Tasks To Do:
 - I searched for ebooks.
