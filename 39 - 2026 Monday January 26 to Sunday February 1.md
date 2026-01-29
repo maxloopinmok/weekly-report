@@ -11,20 +11,61 @@
     - https://www.straitstimes.com/singapore/nea-closely-monitoring-haze-situation-after-burning-smell-noticeable
     - https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/guidelines/list-of-portable-air-cleaners-against-covid-19-virus-aerosols
 - 12.15am I continued updating TMEP, I reviewed my CGH email, I scraped STI stocks data, and reviewed "Trailing Annual Dividend Yield" of Thai Beverage, which is likely caused by a problem at Yahoo Finance.  
-- 1.50am reviewed perplexity's top global news headlines, 2am go to sleep, but likely to read unfinished compiled news.
+- 1.50am reviewed perplexity's top global news headlines, 2am go to sleep, but likely to read unfinished compiled news, but couldn't sleep.
 
 ### Tuesday (January 27) (bowels)
-- 2pm make appointment at Tampines Polyclinic for COVID vaccination
-- update IRAS web portal
-- 6pm to 10pm arrival of CGH and SGH medicines
+- 4.40am moved bowels, reviewed milk alternatives for taking with bisacodyl using chatgpt.
+- 5.20am shifted to review possible core holdings for stocks.
+    - 10.20am thereabouts, eat light breakfast and lunch, wash up.
+    - 11am thereabouts, make appointment at Lily Aw Pasir Ris Family Clinic & Surgery for COVID vaccination
+- 1pm thereabouts until 4pm thereabouts, sleep.
+- 4pm thereabouts, I briefly read and compiled parts of last few days' news.
+- 7.30pm go out dinner, come home, bath.
+- 5pm, 8pm thereabouts, arrival of CGH and SGH medicines
+- 9pm to 11pm sleep
+- 11pm to 3.30am I read my compiled news.
+- 3.30am eat supper.
+- 4.15am I briefly read and compiled parts of today's news.
+- 5am I scraped SGX data.
+- 5.30am sleep.
 
 ### Wednesday (January 28) ()
+- 11am thereabouts, eat light breakfast and lunch, wash up.
+- 12pm thereabouts, prepare and then buy gold etf and CNMC goldmine.
+- 2pm thereabouts, sleep.
+- 4pm thereabouts, eat first dinner.
+- 4.30pm I read my compiled news, I reviewed what's to be done for sim card, new phone and home broadband plan.
+- 7pm thereabouts, go out pasir ris mall to get SIMBA SIM card, eat dinner, and buy diapers, come home, bath.
+- 9.30pm thereabouts, chatted with mum.
+- 10pm record TMEP.
+- 11.15pm I scraped SGX data, I reviewed and created invoice for beansprout.
+- 1.45am eat supper, sleep, and maybe read compiled news.
 
 ### Thursday (January 29) (bowels)
+- 5.20am take medicine, check lenovo power conservation, record TMEP.
+- 5.35am sleep.
+- 9.45am take medicine, reviewed whatsapp messages, replied emails, tried to move bowels.
+- 10.35am tried to sleep, or maybe read compiled news.
+- 11am moved bowels, eat light breakfast and lunch, update TMEP.
+- 11.40am moved bowels, bath.
+- 12pm record TMEP, sleep, or maybe read compiled news.
 - 3pm cold calls
+- 7pm some admin tasks, 7.15pm eat dinner, wash up.
+- 7.45pm I reviewed the latest beansprout article and replied through email, I updated my TMEP, I updated my beansprout invoice.
+- 9pm I did a brief review of global news using perplexity and chatgpt.
+    - 9.30pm I eat first supper.
+- 10.10pm I briefly read and compiled parts of today's news.
+- 11.30pm I scraped SGX data.
+- 11.50pm I watched past episodes of news on Channel 5.
+- 12.50pm eat supper, brush teeth and bath.
+- 1.30am sleep, and maybe read compiled news.
 
 ### Friday (January 30) ()
+- 3pm Lily Aw Pasir Ris Family Clinic & Surgery COVID Vaccination.
 - make arrangements for dolphin aircon cleaning
+- wait for bing sui's reply about whether broadband speed is too slow, then check with singtel about recontract options.
+- haircut next week
+- submit resume next week for programming jobs.
 - I update quick reader.
 
 
@@ -32,6 +73,7 @@
 - 3pm cold calls
 
 ### Sunday (February 1) ()
+- update IRAS web portal
 
 
 
