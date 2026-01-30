@@ -57,14 +57,20 @@
 - 10.10pm I briefly read and compiled parts of today's news.
 - 11.30pm I scraped SGX data.
 - 11.50pm I watched past episodes of news on Channel 5.
-- 12.50pm eat supper, brush teeth and bath.
-- 1.30am sleep, and maybe read compiled news.
+- 12.50pm eat supper, brush teeth and bath, update TMEP.
+- 1.50am sleep, and maybe read compiled news.
 
 ### Friday (January 30) ()
+- 4.30am thereabouts, updated TMEP, sort out SIMBA problems, emailed elaine.
+- 5.30am eat first breakfast.
+- 6.10am sleep, and maybe read compiled news.
+- 9.30am eat light second breakfast and lunch.
+- 10.05am record TMEP.
+- call polyclinic appointment for dental appointment
 - 3pm Lily Aw Pasir Ris Family Clinic & Surgery COVID Vaccination.
 - make arrangements for dolphin aircon cleaning
 - wait for bing sui's reply about whether broadband speed is too slow, then check with singtel about recontract options.
-- haircut next week
+- haircut next week and record new video
 - submit resume next week for programming jobs.
 - I update quick reader.
 
@@ -134,14 +140,19 @@
 - Friday 13 Feb 2026 2pm Diagnostic Centre, Level 3, Integrated Building, CGH
 - Wednesday 25 Feb 2026 2.30pm AEC & GIFU, BLK3 L1 (Yellow Zone), SGH
 - Tuesday 3 Mar 2026 12pm 3D - Digestive Diseases Centre @ CGH
-- Monday 16 Mar / 7 May 2026 2.20pm SGH Neurology Clinic L BLK3 L1 (Yellow Zone), Dr Dementia - Simon Ting
 - Tuesday 31 Mar 2026 11am Psychological Medicine Centre, Level 3, IB CGH
 - Thursday 2 Apr 2026 3.30pm Dietician, Level 1, Integrated Building, CGH
 - Thursday 23 Apr 2026 3pm IMH Clinic B
+- Thursday 14 May 2026 Neuroscience Clinic @ SGH Emergency / NNI L10 (via Lobby A)
 - Tuesday 26 May 2026 3.20pm CDLD, BLK 3 B1 (Yellow Zone), Colorectal Surgery, SGH
 - Thursday 28 May 2026 10am 1A - SNEC Eye Clinic @ CGH
 - Friday 3 Jul 2026 3pm 4E - CGH-NNI Spine Centre (Knee)
 - Thursday 10 Dec 2026 2.20pm 4E - CGH-NNI Spine Centre (Spine)
+
+## Cyclical Appointments
+- Dolphin Aircon Cleaning (Feb, Jun, Oct)
+- Dental Appointments (Jan, Jul)
+- Flu, COVID Appointments (Dec, Jan)
 
 ## Medical Appointments odd or even dates for 2026
 Jan - even
