@@ -66,7 +66,10 @@
 - 6.10am sleep, and maybe read compiled news.
 - 9.30am eat light second breakfast and lunch.
 - 10.05am record TMEP.
-- call polyclinic appointment for dental appointment
+    - call polyclinic appointment for dental appointment
+- 10.40am read compiled news, and maybe sleep.
+- 12.30pm I reviewed chatgpt's news results.
+- 1.50pm I go first dinner outside.
 - 3pm Lily Aw Pasir Ris Family Clinic & Surgery COVID Vaccination.
 - make arrangements for dolphin aircon cleaning
 - wait for bing sui's reply about whether broadband speed is too slow, then check with singtel about recontract options.
@@ -138,6 +141,7 @@
 # Upcoming Medical Appointments
 - Monday 9 Feb 2026 11.10am 2B, ENT, Level 2, Medical Centre, CGH
 - Friday 13 Feb 2026 2pm Diagnostic Centre, Level 3, Integrated Building, CGH
+- Monday 23 Feb 2026 2pm Pasir Ris Polyclinic Dental
 - Wednesday 25 Feb 2026 2.30pm AEC & GIFU, BLK3 L1 (Yellow Zone), SGH
 - Tuesday 3 Mar 2026 12pm 3D - Digestive Diseases Centre @ CGH
 - Tuesday 31 Mar 2026 11am Psychological Medicine Centre, Level 3, IB CGH
