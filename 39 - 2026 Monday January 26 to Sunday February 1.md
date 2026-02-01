@@ -71,18 +71,43 @@
 - 12.30pm I reviewed chatgpt's news results.
 - 1.50pm I go first dinner outside.
 - 3pm Lily Aw Pasir Ris Family Clinic & Surgery COVID Vaccination.
-- make arrangements for dolphin aircon cleaning
-- wait for bing sui's reply about whether broadband speed is too slow, then check with singtel about recontract options.
-- haircut next week and record new video
-- submit resume next week for programming jobs.
-- I update quick reader.
-
+- 4.15pm made enquiries at pasir ris mall SIMBA, come home, bath.
+- 5pm thereabouts, read my compiled news.
+- 6.30pm thereabouts, eat second dinner, wash up, chatted with mum.
+- 7.30pm read my compiled news, update TMEP, reply WFS darius.
+- 9.25pm I briefly watched a little of today's news on Channel 5.
+- 9.40pm I briefly read and compiled parts of today's news.
+- 10.40pm I scraped SGX data.
+    - 11pm eat supper.
+    - 11.30pm thereabouts until 3.30am, sleep.
+- 3.30am I reviewed data and posted blog post, and I had to troubleshoot my linkedin account.
+- 6am sleep again.
 
 ### Saturday (January 31) (bowels)
-- 3pm cold calls
+- 7.50am to 8.10am move bowels, eat breakfast, sleep.
+- 11.30am move bowels, sleep.
+- 1.30pm eat lunch, wash up, make arrangements for dolphin aircon cleaning.
+- 2.11pm cold calls
+- 4.23pm updated TMEP, eat dinner, wash up.
+- 5pm thereabouts, sleep a bit, read compiled news.
+- 7.20pm I briefly read and compiled parts of today's news.
+- 7.50pm I watched parts of yesterday's Channel 5 news, today's news on CNA and Channel 5, and Money Mind, eat first supper, I bathed.
+- 9.55pm I updated TMEP, I briefly read and compiled parts of today's news.
+- 10.25pm eat second supper, sleep, and maybe read compiled news.
+- 2.30am thereabouts, eat third supper, sleep.
 
 ### Sunday (February 1) ()
-- update IRAS web portal
+- 10am eat light breakfast and lunch, wash up.
+- 10.30am I briefly read and compiled parts of today's news.
+- 12.30pm I leave home for pasir ris mall SIMBA, then goto elias mall for first dinner, come back to pasir ris mall SIMBA, come home, bath.
+- 3pm thereabouts, I read my compiled news.
+- 3.55pm cold calls
+- 5.55pm did TMEP.
+- 6.30pm thereabouts, eat second dinner, wash up, read my compiled news.
+- 7.30pm checked IRAS web portal.
+- 8pm record TMEP, I read compiled news, I extracted SGX data and posted blog post.
+    - 11pm eat supper, wash up.
+- 12.40am sleep.
 
 
 
@@ -137,6 +162,7 @@
 - 2025 Kotlin from Scratch
 
 # Upcoming Schedule
+- Sunday 1 Mar 2026 File Income Tax - Sole proprietor
 
 # Upcoming Medical Appointments
 - Monday 9 Feb 2026 11.10am 2B, ENT, Level 2, Medical Centre, CGH
