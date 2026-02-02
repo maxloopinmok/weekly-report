@@ -1,5 +1,18 @@
 ### Monday (February 2) (bowels)
-
+- 8am thereabouts, take medicine, sleep.
+- 11am thereabouts, move bowels, eat light breakfast and lunch, take medicines, review video script, do video recording, and post video.
+- 3pm thereabouts, eat first dinner, apply for jobs (telecommuting, part time):
+    - https://www.mycareersfuture.gov.sg/dashboard/career
+- 4.45pm I briefly read and compiled parts of today's news.
+- 6.55pm go elias mall eat second dinner, come home, bath.
+- 8.30pm thereabouts, I read my compiled news.
+- 9.25pm I watched today's news on CNA and Channel 5.
+- 10.25pm I watched parts of these:
+    - https://www.youtube.com/watch?v=EV7WhVT270Q
+    - https://www.youtube.com/watch?v=uxMu0K1aXQQ
+    - https://www.youtube.com/watch?v=XG_rsEzwMTA
+    - https://www.youtube.com/watch?v=rxR83MF6LF0
+- 12.50am eat supper, sleep, and maybe read compiled news.
 
 ### Tuesday (February 3) ()
 - 3pm to 5pm Dolphin Aircon Cleaning
@@ -13,7 +26,7 @@
 
 
 ### Thursday (February 5) ()
-
+- 2.30pm meet CRSS Joseph at White Sands Koufu
 
 ### Friday (February 6) (bowels)
 
