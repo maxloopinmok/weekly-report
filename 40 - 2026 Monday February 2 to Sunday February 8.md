@@ -15,18 +15,27 @@
 - 12.50am eat supper, sleep, and maybe read compiled news.
 
 ### Tuesday (February 3) ()
-- 3pm to 5pm Dolphin Aircon Cleaning
-- haircut next week and record new video
-- submit resume next week for programming jobs.
-- wait for bing sui's reply about whether broadband speed is too slow, then check with singtel about recontract options.
-- I update quick reader.
-
+- 10am thereabouts, eat light breakfast and lunch, wash up, sleep, and read compiled news.
+- 2.45pm eat dinner, sent out emails to ODB and CGH.
+- 3.40pm I briefly read and compiled parts of today's news.
+    - 4pm Dolphin Aircon Cleaning
+    - I sorted my emails, and read compiled news.
+- 6.30pm thereabouts, I eat my first supper, sleep, read compiled news.
+- 11.10pm thereabouts, I eat second supper.
+    - I tried updating quick reader.
+    - I reviewed new NLB ebooks.
+- 1.30am thereabouts, tried to sleep.
+- 2.30am thereabouts, eat panadol, sleep.
 
 ### Wednesday (February 4) (bowels)
+- 5am thereabouts, wake, worked on quick reader.
+- 7am thereabouts, I briefly read and compiled parts of today's news.
+- 
 
 
 ### Thursday (February 5) ()
 - 2.30pm meet CRSS Joseph at White Sands Koufu
+- haircut 
 
 ### Friday (February 6) (bowels)
 
@@ -85,6 +94,7 @@
 
 # Upcoming Schedule
 - Sunday 1 Mar 2026 File Income Tax - Sole proprietor
+- wait for bing sui's reply about whether broadband speed is too slow, then check with singtel about recontract options.
 
 # Upcoming Medical Appointments
 - Monday 9 Feb 2026 11.10am 2B, ENT, Level 2, Medical Centre, CGH
