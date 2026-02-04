@@ -30,18 +30,28 @@
 ### Wednesday (February 4) (bowels)
 - 5am thereabouts, wake, worked on quick reader.
 - 7am thereabouts, I briefly read and compiled parts of today's news.
-- 
-
+- 8.05am tried to sleep, moved bowels, eat breakfast.
+- 11am thereabouts, eat lunch, sleep.
+- 3pm thereabouts, eat first dinner, read compiled news.
+- 5.30pm thereabouts, replied emails and messages.
+- 6.30pm go elias mall eat second dinner, come home, bath.
+- 8.15pm thereabouts, troubleshoot purchase of mineral water over NTUC, lazada, amazon, sheng siong.
+- 9.15pm I watched today's and yesterday's news on Channel 5.
+- 10.30pm I scraped SGX data.
+- 10.40pm I worked on quick reader.
+- 12.15am I updated TMEP.
+- 12.55am eat supper, sleep, and maybe read ebook.
 
 ### Thursday (February 5) ()
-- 2.30pm meet CRSS Joseph at White Sands Koufu
 - haircut 
+- 2.30pm meet CRSS Joseph at White Sands Koufu
 
 ### Friday (February 6) (bowels)
 
 
 ### Saturday (February 7) ()
-
+- 2pm to 4.30pm Cleaning of house
+- sheng siong Delivering On Sat, 7 February 2026, 6:00pm - 9:00pm
 
 ### Sunday (February 8) (bowels)
 
@@ -91,6 +101,7 @@
 - 2025 AI Demystified: Unleash the power of artificial intelligence at work
 - 2022 Marketing Without Money
 - 2025 The World Doesn't Need You
+- 2020 Coping with Mild Cognitive Impairment (MCI)
 
 # Upcoming Schedule
 - Sunday 1 Mar 2026 File Income Tax - Sole proprietor
