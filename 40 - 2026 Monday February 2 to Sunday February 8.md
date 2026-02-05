@@ -43,18 +43,24 @@
 - 12.55am eat supper, sleep, and maybe read ebook.
 
 ### Thursday (February 5) ()
-- haircut 
-- 2.30pm meet CRSS Joseph at White Sands Koufu
+- 10am thereabouts, eat breakfast and lunch, I briefly read and compiled parts of today's news, sleep.
+- 2.30pm meet CRSS Joseph at pasir ris bus interchange, go elias mall for first dinner, see doctor at pasir ris polyclinic, $8 haircut at block 442 pasir ris, come home, bath.
+- 4.30pm thereabouts, read compiled news, sleep.
+- 7pm thereabouts, eat second dinner and first supper, wash up.
+- 7.30pm replied emails, read compiled news, sleep.
+- 12am eat second supper, update TMEP.
+- 12.45am I reviewed new ebooks from NLB, I downloaded ebooks.
+- 2.15am sleep.
 
 ### Friday (February 6) (bowels)
-
+- 3pm cold calls
 
 ### Saturday (February 7) ()
 - 2pm to 4.30pm Cleaning of house
 - sheng siong Delivering On Sat, 7 February 2026, 6:00pm - 9:00pm
 
 ### Sunday (February 8) (bowels)
-
+- 3pm cold calls
 
 
 
