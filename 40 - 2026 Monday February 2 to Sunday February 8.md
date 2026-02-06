@@ -50,10 +50,22 @@
 - 7.30pm replied emails, read compiled news, sleep.
 - 12am eat second supper, update TMEP.
 - 12.45am I reviewed new ebooks from NLB, I downloaded ebooks.
-- 2.15am sleep.
+- 2.15am I scraped SGX data, sleep.
 
 ### Friday (February 6) (bowels)
-- 3pm cold calls
+- 9.40am thereabouts, take forlax, try to sleep.
+- 10.30am thereabouts, eat light breakfast and lunch
+- 11am thereabouts, move bowels, bath
+- 11.30am thereabouts, move bowels, sleep
+- 1pm, 2pm, 2.30pm thereabouts move bowels, bath, sleep.
+- 3pm update TMEP, eat first dinner.
+- 3.30pm cold calls
+- 6.30pm I briefly read and compiled parts of today's news.
+- 6.45pm thereabouts, go white sands koufu eat second dinner, come home, bath.
+- 8.45pm thereabouts, helped mum with LPA.
+- 9.30pm I read compiled news, I briefly read and compiled parts of today's news.
+- 11.30pm eat supper, I watched today's and yesterday's news on Channel 5.
+- 1am read compiled news, sleep.
 
 ### Saturday (February 7) ()
 - 2pm to 4.30pm Cleaning of house
@@ -110,6 +122,7 @@
 - 2020 Coping with Mild Cognitive Impairment (MCI)
 
 # Upcoming Schedule
+- Wednesday 11 Feb 2026 6pm Reunion Dinner with Mummy
 - Sunday 1 Mar 2026 File Income Tax - Sole proprietor
 - wait for bing sui's reply about whether broadband speed is too slow, then check with singtel about recontract options.
 
