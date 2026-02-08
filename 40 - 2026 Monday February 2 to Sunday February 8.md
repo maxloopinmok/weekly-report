@@ -52,7 +52,7 @@
 - 12.45am I reviewed new ebooks from NLB, I downloaded ebooks.
 - 2.15am I scraped SGX data, sleep.
 
-### Friday (February 6) (bowels)
+### Friday (February 6) (bowels, nails)
 - 9.40am thereabouts, take forlax, try to sleep.
 - 10.30am thereabouts, eat light breakfast and lunch
 - 11am thereabouts, move bowels, bath
@@ -68,11 +68,39 @@
 - 1am read compiled news, sleep.
 
 ### Saturday (February 7) ()
-- 2pm to 4.30pm Cleaning of house
+- 10am or 11am thereabouts, eat light breakfast and lunch, sleep.
+- 1.50pm messaged and replied helen about LPA, I reviewed the latest ebooks from NLB and downloaded ebooks.
+- 2pm to 4.30pm Cleaning of house, 3pm eat first dinner.
+- 4.30pm thereabouts, I briefly read and compiled parts of today's news.
+- 6.50pm go elias mall for second dinner, buy cuttlefish from sheng siong, come home, eat some cuttlefish, bath.
 - sheng siong Delivering On Sat, 7 February 2026, 6:00pm - 9:00pm
+- 9pm I read my compiled news.
+- 11.45pm eat supper.
+- 12.15am I briefly read and compiled parts of this week's The Economist.
+- 12.50am I watched today's news on CNA and Channel 5, and Money Mind, and parts of these:
+    - https://www.youtube.com/watch?v=ydW6Io2T4ho
+    - https://www.youtube.com/watch?v=4uzGDAoNOZc
+    - I moved my bowels meant for Sunday.
+- 3am sleep, and maybe read my compiled news.
 
 ### Sunday (February 8) (bowels)
-- 3pm cold calls
+- 11am or 11.30am thereabouts, eat light breakfast and lunch, sleep.
+- 3pm thereabouts, eat first dinner, read my compiled news.
+- 4.15pm cold calls
+- 6pm go out with mum to elias mall for second dinner, come home, bath.
+- 8pm thereabouts, I read my compiled news.
+    - 8.45pm to 9pm send out messages for cold calls
+- 9.20pm I watched today's news on Channel 5.
+- 9.50pm I updated TMEP.
+- 10.05pm I watched parts of these:
+    - https://www.youtube.com/watch?v=_aUKWYHLKfE
+    - https://www.youtube.com/watch?v=pO7jA2a2MGo
+    - https://www.youtube.com/watch?v=BUZ6WnHNDaU
+    - https://www.youtube.com/watch?v=FgfdmdEab5E
+    - https://www.youtube.com/watch?v=ceEUO_i7aW4
+    - https://www.youtube.com/watch?v=0JDmLYwKrUM
+- 12am thereabouts, I scraped SGX data and post blog post.
+- 12.55am eat supper, sleep, and maybe read compiled news.
 
 
 
