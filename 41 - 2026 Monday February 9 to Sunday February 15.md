@@ -1,8 +1,18 @@
 ### Monday (February 9) ()
+- 9.30am eat light breakfast and lunch, go CGH.
 - Monday 9 Feb 2026 11.10am 2B, ENT, Level 2, Medical Centre, CGH
+- 1pm thereabouts, eat first dinner at CGH, come home, bath, sleep.
+- 4pm thereabouts, troubleshoot quick reader.
+    - 5pm thereabouts, eat second dinner.
+- 7.20pm update TMEP, called mummy about her long medical appointment.
+- 7.40pm I briefly read and compiled parts of today's news.
+- 8.40pm I eat supper, and wash up.
+- 9.25pm I watched today's news on Channel 5.
+- 9.50pm troubleshoot quick reader.
+- 10.30pm I read my compiled news.
+- 11.20am sleep.
 
-
-### Tuesday (February 10) (bowels)
+### Tuesday (February 10) (bowels, towels)
 
 
 ### Wednesday (February 11) ()
