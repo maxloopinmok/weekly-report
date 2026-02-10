@@ -2,18 +2,32 @@
 - 9.30am eat light breakfast and lunch, go CGH.
 - Monday 9 Feb 2026 11.10am 2B, ENT, Level 2, Medical Centre, CGH
 - 1pm thereabouts, eat first dinner at CGH, come home, bath, sleep.
-- 4pm thereabouts, troubleshoot quick reader.
+- 4pm thereabouts, troubleshoot quick.
     - 5pm thereabouts, eat second dinner.
 - 7.20pm update TMEP, called mummy about her long medical appointment.
 - 7.40pm I briefly read and compiled parts of today's news.
 - 8.40pm I eat supper, and wash up.
 - 9.25pm I watched today's news on Channel 5.
-- 9.50pm troubleshoot quick reader.
+- 9.50pm troubleshoot quick.
 - 10.30pm I read my compiled news.
 - 11.20am sleep.
 
 ### Tuesday (February 10) (bowels, towels)
-
+- 2am thereabouts, wake, I sorted my Yahoo emails, and tested Lenovo's link on different browsers.
+- 2.40am troubleshoot quick.
+- 4am sleep because run out of claude credits.
+- 6am eat first breakfast, wash up, move bowels.
+- 6.45am sleep, move bowels.
+- 7am to 8.20am troubleshoot quick.
+- 8.20am I scraped SGX data, sleep.
+- 9.45am eat second light breakfast, and lunch, sleep.
+- 12pm troubleshoot quick.
+    - 3pm or 4pm thereabouts, eat first dinner.
+    - 6.30pm I scraped SGX data.
+- 6.55pm go elias mall eat second dinner, come home, bath.
+- 8.20pm I setup my android tablet, I sorted my emails.
+- 8.55pm I briefly read and compiled parts of today's news.
+- 10.30pm eat supper, sleep, and maybe read compiled news.
 
 ### Wednesday (February 11) ()
 - 4pm go tampines hub sg services with mummy to resolve LPA matters.
