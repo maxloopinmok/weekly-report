@@ -27,15 +27,58 @@
 - 6.55pm go elias mall eat second dinner, come home, bath.
 - 8.20pm I setup my android tablet, I sorted my emails.
 - 8.55pm I briefly read and compiled parts of today's news.
-- 10.30pm eat supper, sleep, and maybe read compiled news.
+- 10.30pm eat supper, cannot sleep, and maybe read compiled news.
+- 12am troubleshoot quick.
+- 3am sleep.
 
 ### Wednesday (February 11) ()
-- 4pm go tampines hub sg services with mummy to resolve LPA matters.
-- Wednesday 11 Feb 2026 6pm Reunion Dinner with Mummy
+- 10.30am thereabouts, eat light breakfast and lunch.
+- 11am troubleshoot quick.
+- 12pm apply for lenovo warranty extension.
+- 12.20pm I watched yesterday's news on Channel 5.
+- 12.35pm I briefly read and compiled parts of today's news.
+- 2.30pm eat first dinner, and watched parts of these:
+    - https://www.youtube.com/watch?v=qan82QT8Ql4
+    - https://www.youtube.com/watch?v=WSCbyIMXwS4
+- 3.30pm go tampines hub sg services with mummy to resolve LPA matters.
+- Wednesday 11 Feb 2026 5pm Reunion Dinner with Mummy at Pasir Ris Mall
+- 6pm thereabouts, come home, bath, read compiled news.
+- 8.55pm I watched today's news on CNA and Channel 5, and parts of these:
+    - https://www.youtube.com/watch?v=WSCbyIMXwS4
+    - https://www.youtube.com/watch?v=pFqONGixScE
+    - https://www.youtube.com/watch?v=JS1pLZiOC6o
+    - https://www.youtube.com/watch?v=KlekiW3o-mY
+    - https://www.youtube.com/watch?v=hB3oyfnprAY
+    - https://www.youtube.com/watch?v=C_MXaam7Hhw
+    - https://www.youtube.com/watch?v=CQ2fOeKOiMk
+    - https://www.youtube.com/watch?v=httnhdpu_W4
+- 11.30pm I scraped Yahoo Fin, I sorted my emails, eat supper, sleep, and maybe read compiled news.
 
 
 ### Thursday (February 12) (bowels)
-
+- 7am take bowels medicine, I briefly read and compiled parts of today's news.
+- 8.15am I watched parts of these:
+    - https://www.youtube.com/watch?v=VDZ9UhHTEfI
+    - https://www.youtube.com/watch?v=nnwQxwOxs5g
+    - https://www.youtube.com/watch?v=f-gsmLyZ24s
+    - https://www.youtube.com/watch?v=BhfTQXMtoZw
+    - https://www.youtube.com/watch?v=Q7r--i9lLck
+    - I read parts of these:
+        - https://eu.36kr.com/en/p/3678583640810112
+        - https://www.forwardfuture.ai/p/what-people-are-actually-doing-with-openclaw-25-use-cases?email=maxlooo%40yahoo.com
+- 9.15am moved bowels.
+- 9.35am eat light breakfast and lunch, wash up.
+- 9.50am sleep, and maybe read compiled news.
+    - 10am thereabouts, moved bowels
+- 1pm moved bowels, bath.
+- 1.15pm read compiled news, started gathering friends to try out quick reader.
+- 3.10pm cold calls and related confirmed clients reconfirmation.
+    - 4.10pm eat dinner, wash up.
+- 6.40pm in the middle of both cold calls for a while, and mostly replying to friends about quick reader.
+- 9.25pm I watched today's news on Channel 5.
+- 10.10pm eat first supper, bath.
+- 10.50pm I scraped yahoo finance, I read my compiled news.
+- 11.40pm sleep, and maybe read compiled news.
 
 ### Friday (February 13) ()
 - Friday 13 Feb 2026 2pm Diagnostic Centre, Level 3, Integrated Building, CGH
