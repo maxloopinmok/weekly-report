@@ -12,7 +12,7 @@
 - 10.30pm I read my compiled news.
 - 11.20am sleep.
 
-### Tuesday (February 10) (bowels, towels)
+### Tuesday (February 10) (bowels)
 - 2am thereabouts, wake, I sorted my Yahoo emails, and tested Lenovo's link on different browsers.
 - 2.40am troubleshoot quick.
 - 4am sleep because run out of claude credits.
@@ -55,7 +55,7 @@
 - 11.30pm I scraped Yahoo Fin, I sorted my emails, eat supper, sleep, and maybe read compiled news.
 
 
-### Thursday (February 12) (bowels)
+### Thursday (February 12) (bowels, towels)
 - 7am take bowels medicine, I briefly read and compiled parts of today's news.
 - 8.15am I watched parts of these:
     - https://www.youtube.com/watch?v=VDZ9UhHTEfI
@@ -80,9 +80,18 @@
 - 10.50pm I scraped yahoo finance, I read my compiled news.
 - 11.40pm sleep, and maybe read compiled news.
 
-### Friday (February 13) ()
+### Friday (February 13) (bedsheet)
+- 8.30am eat light breakfast and lunch, sleep.
+- 12.45pm wake, change, go to CGH.
 - Friday 13 Feb 2026 2pm Diagnostic Centre, Level 3, Integrated Building, CGH
-
+- 2.45pm thereabouts, first dinner at CGH, come home, bath.
+- 4.30pm change bedsheets, reply messages, emails, record TMEP.
+- 5.30pm thereabouts, read my compiled news.
+- 8.15pm eat my second dinner, messaged my 3 supportive friends, record TMEP.
+- 9.15pm I watched today's news on Channel 5.
+- 9.40pm I briefly read and compiled parts of today's news.
+- 11.10pm eat supper.
+- 11.40pm sleep, and maybe read compiled news.
 
 ### Saturday (February 14) (bowels)
 
