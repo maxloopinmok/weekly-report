@@ -92,13 +92,32 @@
 - 9.40pm I briefly read and compiled parts of today's news.
 - 11.10pm eat supper.
 - 11.40pm sleep, and maybe read compiled news.
+- 1.10am moved bowels.
+- 2.30am or 3.30am thereabouts, take panadol.
 
-### Saturday (February 14) (bowels)
-
+### Saturday (February 14) (bowels, toes)
+- 6am or 7am, wake and sleep and read compiled news.
+- 9.30am eat light breakfast and lunch, read compiled news, sleep, scraped yahoo finance.
+- 3pm eat first dinner.
+- 3.25pm cold calls
+- 6.13pm stop, go out elias mall second dinner, come home, bath, talk to mum, updated TMEP.
+- 8.25pm I watched today's news on CNA and Channel 5, and Money Mind.
+- 9.40pm I sorted my emails, i posted my blog post, brush teeth.
+- 10.40pm sleep.
 
 ### Sunday (February 15) ()
-
-
+- 9am thereabouts, eat breakfast, sleep.
+- 12.15pm eat lunch, go to pasir ris mrt station to meet mum, travel to nursing home to see dad.
+- 3.10pm leave nursing home, goto tampines mall for small reunion dinner, come home, bath.
+- 6pm thereabouts, read compiled news.
+- 7pm thereabouts, reviewed ad alternatives to find testers for quick reader, updated quick reader.
+    - 9.15pm I watched today's news on Channel 5.
+    - 9.30pm thereabouts, eat first supper.
+- 11pm thereabouts, updated TMEP.
+- 11.50pm promote blog post on linkedin, facebook.
+- 12.35am I briefly read and compiled parts of today's news, and The Economist.
+- 2am thereabouts, I troubleshoot quick reader.
+- 4.25am eat second supper, sleep.
 
 
 
@@ -153,6 +172,7 @@
 
 # Upcoming Medical Appointments
 - Monday 23 Feb 2026 2pm Pasir Ris Polyclinic Dental
+- Wednesday 25 Feb 2026 10.10am 3E - NNI @ CGH
 - Wednesday 25 Feb 2026 2.30pm AEC & GIFU, BLK3 L1 (Yellow Zone), SGH
 - Tuesday 3 Mar 2026 12pm 3D - Digestive Diseases Centre @ CGH
 - Tuesday 31 Mar 2026 11am Psychological Medicine Centre, Level 3, IB CGH
