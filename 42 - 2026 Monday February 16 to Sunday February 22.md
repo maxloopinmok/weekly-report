@@ -1,5 +1,10 @@
 ### Monday (February 16) (bowels)
-
+- 9.45am thereabouts, eat light breakfast and lunch, sleep.
+- 2.30pm thereabouts, I briefly read and compiled parts of today's news.
+- 4pm thereabouts, I eat my dinner, wash up, I read my compiled news and troubleshoot quick reader.
+- 8.15pm thereabouts, I eat first supper, wash up, I read my compiled news and troubleshoot quick reader.
+- 12.30am I watched today's news on Channel 5.
+- 1am eat second supper, sleep, and maybe read compiled news.
 
 ### Tuesday (February 17) ()
 
