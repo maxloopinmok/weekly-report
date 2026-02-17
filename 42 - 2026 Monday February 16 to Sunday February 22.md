@@ -7,7 +7,15 @@
 - 1am eat second supper, sleep, and maybe read compiled news.
 
 ### Tuesday (February 17) ()
-
+- 9am thereabouts, eat breakfast.
+- 9.30am eat lunch, check and replied messages.
+- 11.30am visit by relatives.
+- 12.30pm thereabouts, troubleshoot quick reader and sending for review, and setting up sales from 18 to 25 Feb.
+- 4pm thereabouts, read compiled news.
+- 5.35pm I briefly read and compiled parts of today's news.
+- 7pm thereabouts, eat first supper, reached out to people on reddit, and friends to test app.
+- 9.25pm I watched today's news on Channel 5, reached out to friends, and read compiled news.
+- 12.40am eat supper, sleep.
 
 ### Wednesday (February 18) (bowels)
 
