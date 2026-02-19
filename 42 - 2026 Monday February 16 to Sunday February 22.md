@@ -18,10 +18,44 @@
 - 12.40am eat supper, sleep.
 
 ### Wednesday (February 18) (bowels)
-
+- 4.30am to 6am thereabouts, respond to messages, broke off with jane.
+- 9.30am take bowels medicine, record TMEP, sleep, respond to messages.
+- 10.30am thereabouts, eat light breakfast and lunch.
+- 10am, 11.30am thereabouts, move bowels, sleep, respond to messages.
+- 2.15pm move bowels, bath, eat dinner, respond to messages.
+- 4pm I applied for jobs:
+    - https://www.mycareersfuture.gov.sg/dashboard/career
+- 4.35pm responded to messages, searched google for jobs, tried applying to platforms, but never got through to applying for jobs.
+- 6.50pm eat first supper, replied messages.
+- 7.25pm do some readings:
+    - The Adolescence Of Technology.epub
+- 9.15pm I downloaded a few ebooks.
+- 9.50pm I watched parts of these:
+    - https://www.youtube.com/watch?v=JFilKfL7_9A
+    - https://www.youtube.com/watch?v=BYxF-svDl8Q
+    - https://www.youtube.com/watch?v=k5e17RMLk-Q
+    - https://www.youtube.com/watch?v=Gb0jLRC8uWM
+    - https://www.youtube.com/watch?v=xeoaqWRBNv0
+    - https://www.youtube.com/watch?v=aETqFYCrIoA
+    - https://www.youtube.com/watch?v=n1E9IZfvGMA
+    - https://www.youtube.com/watch?v=HLxA1Gh-x3g
+    - https://www.youtube.com/watch?v=a5OW2c2xvdw
+    - https://www.youtube.com/watch?v=hcE0NPYlo1w
+    - https://www.youtube.com/watch?v=XOcEXAwVDlg
+    - I watched today's news on CNA and Channel 5.
+    - https://www.youtube.com/watch?v=9gLRRO6ZhuM
+- 1.15am eat second supper, sleep, and maybe read.
 
 ### Thursday (February 19) ()
-
+- 10am eat light breakfast and lunch, sleep, I briefly read and compiled parts of today's news.
+- 3pm eat dinner, I read compiled news and ebook.
+- 7.30pm eat first supper, bath.
+- 8pm I scraped yahoo finance, updated TMEP, reviewed the latest ebooks from NLB.
+- 8.55pm I watched today's news on CNA and Channel 5, and last week's Budget Talking Point:
+    - https://www.channelnewsasia.com/watch/talking-point-20252026/budget-forum-2026-5931951
+- 10.25pm I reviewed the latest ebooks from NLB, and downloaded ebooks.
+- 11.25pm thereabouts, I reviewed ETFs.
+- 12.05am eat second supper, sleep, and maybe read ebooks.
 
 ### Friday (February 20) (bowels)
 
