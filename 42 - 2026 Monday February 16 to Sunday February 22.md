@@ -55,10 +55,28 @@
     - https://www.channelnewsasia.com/watch/talking-point-20252026/budget-forum-2026-5931951
 - 10.25pm I reviewed the latest ebooks from NLB, and downloaded ebooks.
 - 11.25pm thereabouts, I reviewed ETFs.
-- 12.05am eat second supper, sleep, and maybe read ebooks.
+- 12.15am eat second supper, sleep, and maybe read ebooks.
 
 ### Friday (February 20) (bowels)
-
+- 7am thereabouts, evaluate GSD vs A93, reviewed global and tech news.
+- 9.15am moved bowels, responded to messages, sold some GSD, bought some A93.
+- 10.15am eat light breakfast and lunch.
+- 10.35am I briefly read and compiled parts of today's news.
+- 11.30am therabouts, sleep
+- 12.30pm moved bowels, reply messages.
+- 2.45pm eat dinner.
+- 3.10pm cold calls.
+- 6.40pm thereabouts, eat first supper, read compiled news.
+- 8.45pm take medicine, read compiled news.
+- 10.15pm I watched today's news on CNA.
+- 11.15pm I watched parts of these:
+    - https://www.youtube.com/watch?v=RoSdjdpbtIA
+    - https://www.youtube.com/watch?v=_ZKpAiSh7rg
+    - https://www.youtube.com/watch?v=F6AP0v_2wr0
+    - https://www.youtube.com/watch?v=CQfoi0SrlA4
+    - https://www.youtube.com/watch?v=ktpNFfpJ5rw
+    - https://www.youtube.com/watch?v=UKRz33WdaH0
+- 1am eat supper, sleep, and read compiled news.
 
 ### Saturday (February 21) ()
 
