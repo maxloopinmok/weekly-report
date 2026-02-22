@@ -79,10 +79,35 @@
 - 1am eat supper, sleep, and read compiled news.
 
 ### Saturday (February 21) ()
+- skipped an entire day of recording.  
+- 2am thereabouts eat second supper, continued amending code through chatgpt for scraping yahoo finance for etfs.
+- 3.15pm I briefly read and compiled parts of The Economist, and maybe read compiled news.
+- 4.30am sleep
 
-
-### Sunday (February 22) (bowels)
-
+### Sunday (February 22) (bowels, towels)
+- 9am thereabouts, read compiled news.
+- 9.45am eat light breakfast and lunch, briefly read and compiled parts of today's news.
+    - 10.30am moved bowels.
+- 11.25am sleep.
+- 2pm therabouts, read compiled news.
+- 3pm eat first supper.
+- 3.20pm cold calls
+- 6.44pm eat dinner, record TMEP, searched for SME Centre Tampines, feedback difficulties I face to ST Forum.
+- 9pm thereabouts, read compiled news.
+- 9.25pm I watched today's news on CNA and Channel 5.
+- 10pm I watched parts of these:
+    - https://www.youtube.com/watch?v=-q2n5DkDoMQ
+    - https://www.youtube.com/watch?v=XMJA3_hv9aY
+    - https://www.youtube.com/watch?v=F6zu5joQuHI
+    - https://www.youtube.com/watch?v=c58e_wrgg1Y
+    - https://www.youtube.com/watch?v=TotUFMwux5g
+    - https://www.youtube.com/watch?v=TotUFMwux5g
+    - https://www.youtube.com/watch?v=iy_-p7FruMc
+    - https://www.youtube.com/watch?v=i5N0rGmYx9A
+    - https://www.youtube.com/watch?v=SEKJcj9CJz8
+    - https://www.youtube.com/watch?v=iitq4Zrphdk
+- 11.20pm I read compiled news.
+- 12.30pm eat second supper, read compiled news, sleep.
 
 
 
