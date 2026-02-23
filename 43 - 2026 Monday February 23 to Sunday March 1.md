@@ -1,6 +1,15 @@
 ### Monday (February 23) ()
+- 12.30am  downloaded ebooks related to ai agents.
+- 1.05am eat supper, read compiled news, ebooks, sleep.
+- 9.40am eat light breakfast and lunch, I briefly read and compiled parts of today's news, sleep.
 - Monday 23 Feb 2026 2pm Pasir Ris Polyclinic Dental
-
+- 3pm first dinner at elias mall, come home, bath.
+- 4.30pm read my compiled news, messaged different people.
+    - 6pm eat second dinner.
+- 9.25pm I watched today's news on Channel 5, record TMEP.
+- 9.55pm I read compiled news.
+- 11.10pm I scraped yahoo, I eat supper, I sorted emails, I paid Singtel bill.
+- 12.30am sleep, and read compiled news.
 
 ### Tuesday (February 24) ()
 
