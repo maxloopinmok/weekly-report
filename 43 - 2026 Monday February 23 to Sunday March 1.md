@@ -11,21 +11,31 @@
 - 11.10pm I scraped yahoo, I eat supper, I sorted emails, I paid Singtel bill.
 - 12.30am sleep, and read compiled news.
 
-### Tuesday (February 24) ()
-
+### Tuesday (February 24) (bowels)
+- 9am moved bowels, record TMEP, eat light breakfast and lunch, I briefly read and compiled parts of today's news, messaged my friends about my app, reposted request for testers on reddit.
+- 1pm sleep, and read compiled news.
+- 2.30pm eat dinner, read compiled news, replied to messages.
+- 4pm bath, applied for jobs:
+    - https://www.mycareersfuture.gov.sg/dashboard/career
+    - others like you also applied for, many have applied for
+    - searched through 20 pages of 20 results each for telecommuting
+- 6.30pm eat first supper, read compiled news.
+- 9.25pm I watched today's news on CNA and Channel 5.
+- 11.35pm I tried sorting out my google payment method, pending verification from POSB.
+- 12.45am eat second supper, download ebook, sleep.
 
 ### Wednesday (February 25) ()
 - Wednesday 25 Feb 2026 10.10am 3E - NNI @ CGH
 - Wednesday 25 Feb 2026 2.30pm AEC & GIFU, BLK3 L1 (Yellow Zone), SGH
 
 
-### Thursday (February 26) ()
+### Thursday (February 26) (bowels)
 
 
 ### Friday (February 27) ()
 
 
-### Saturday (February 28) ()
+### Saturday (February 28) (bowels)
 
 
 ### Sunday (March 1) ()
