@@ -25,12 +25,37 @@
 - 12.45am eat second supper, download ebook, sleep.
 
 ### Wednesday (February 25) ()
+- 6am thereabouts, I briefly read and compiled parts of today's news.
+- 7.45am thereabouts, eat breakfast, bath, sleep.
+- 9.10am wake, leave for CGH.
 - Wednesday 25 Feb 2026 10.10am 3E - NNI @ CGH
+- 10.45am thereabouts, leave CGH for Kinokuniya Orchard.
+- 1.05pm leave Kinokuniya for SGH.
+- 1.50pm thereabouts, lunch at SGH.
 - Wednesday 25 Feb 2026 2.30pm AEC & GIFU, BLK3 L1 (Yellow Zone), SGH
-
+- 4pm thereabouts, leave SGH for Kinokuniya.
+- 6pm thereabouts, leave Kinokuniya.
+- 7.45pm thereabouts, dinner at Elias Mall, come home, bath.
+- 8.45pm thereabouts, tried answering google payment requirements, read compiled news.
+- 12.30am eat supper.
+- 1am update TMEP, I watched today's news on Channel 5.
+- 1.45am thereabouts, I wrote emails to SPD and CGH.
+- 2.15am I downloaded ebooks, check with chatgpt whether liquid mode is doable.
+- 4.15am sleep.
 
 ### Thursday (February 26) (bowels)
-
+- 11am light breakfast and lunch.
+- 11.30am I briefly read and compiled parts of today's news, I tried to confirm job interview, settle IRAS tax issues for property tax and personal income tax and self employment tax.
+    - 3pm eat dinner, bath.
+- 4pm cold calls
+- 6.30pm I briefly read and compiled parts of today's news, I took selfies for google payments.
+    - 7.10pm eat first supper.
+- 7.45pm record TMEP, and do a little cold call and sort data and reply to elaine.
+- 8.45pm I read my compiled news, I sorted my emails.
+- 1.10am eat second supper.
+    - 1.39am settle elaine's task
+    - 2.05am scrape yahoo.
+- 2.30am sleep, and read compiled news.
 
 ### Friday (February 27) ()
 
