@@ -57,8 +57,19 @@
     - 2.05am scrape yahoo.
 - 2.30am sleep, and read compiled news.
 
-### Friday (February 27) ()
-
+### Friday (February 27) (discovery of lump near right foot)
+- 10.30am thereabouts, eat light breakfast and lunch.
+- 11.15am record TMEP, sleep, read compiled news.
+- 2pm tried to resolve google play and payment issues.
+- 3.05pm eat first dinner.
+- 3.30pm I tried to resolve google play issues.
+- 4.10pm I watched yesterday's news on Channel 5.
+- 4.55pm I briefly read and compiled parts of today's news.
+- 6.30pm go elias mall, eat second dinner, come home, bath.
+- 7.55pm read compiled news.
+- 9.20pm I watched today's news on Channel 5, I eat first supper, discovery of lump near right foot.
+- 10.15pm read compiled news.
+- 11pm eat second supper, sleep, and maybe read compiled news.
 
 ### Saturday (February 28) (bowels)
 
