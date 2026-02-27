@@ -69,7 +69,9 @@
 - 7.55pm read compiled news.
 - 9.20pm I watched today's news on Channel 5, I eat first supper, discovery of lump near right foot.
 - 10.15pm read compiled news.
-- 11pm eat second supper, sleep, and maybe read compiled news.
+- 11pm eat second supper.
+- 11.25pm scrape yahoo, post blog post and publicise on linkedin and facebook.
+- 12.25am sleep, and maybe read compiled news.
 
 ### Saturday (February 28) (bowels)
 
