@@ -73,14 +73,38 @@
 - 11.25pm scrape yahoo, post blog post and publicise on linkedin and facebook.
 - 12.25am sleep, and maybe read compiled news.
 
-### Saturday (February 28) (bowels)
-
+### Saturday (February 28) (bowels, towels)
+- 9.45am thereabouts, eat light breakfast and lunch, call and make appointment at pasir ris polyclinic, bath, confirmed interview on monday at 4.30pm.
+- 10.35am I briefly read and compiled parts of today's news.
+- 11.10am Pasir Ris Polyclinic appointment
+- 12pm reached home, bath.
+- 12.30pm I briefly read and compiled parts of today's news, and The Economist.
+- 2pm sleep.
+- 2.40pm eat first dinner.
+- 3.15pm go CGH A&E.
+- 5.30pm second dinner at white sands koufu, come home, bath.
+- 7pm thereabouts, post on reddit again for testers, and replied to responses, read compiled news.
+- 8.20pm I watched today's news on CNA and Channel 5, and Money Mind.
+- 9.45pm I watched parts of these:
+    - https://www.youtube.com/watch?v=KomAKiGIn2c
+    - https://www.youtube.com/watch?v=SDKr_qh30lo
+    - https://www.youtube.com/watch?v=CFBZzLU3IQI
+    - https://www.youtube.com/watch?v=iR_b09xcDjs
+    - https://www.youtube.com/watch?v=qflh4GKbmVQ
+    - https://www.youtube.com/watch?v=icxc_KDPrxM
+    - https://www.youtube.com/watch?v=m8y0ftEmbkY
+- 11.50pm recorded TMEP, I read compiled news.
+- 1.30am eat supper, wash up.
+- 2am sleep, read compiled news.
 
 ### Sunday (March 1) ()
-
-
-
-
+- 9.45am eat light breakfast and lunch, read compiled news, sleep.
+- 2.45pm eat dinner, read compiled news, respond to messages regarding app.
+- 7.15pm eat first supper, record TMEP, create 8 days app sale for 28 March, I briefly read and compiled parts of today's news.
+- 9.15pm to 9.40pm I watched today's news on Channel 5.
+- 9.40pm read compiled news, half asleep.
+- 11.30pm eat second supper.
+- 12am sleep, read compiled news.
 
 
 
@@ -132,8 +156,9 @@
 - 2025 How Large Language Models Work
 
 # Upcoming Schedule
-- Sunday 1 Mar 2026 File Income Tax - Sole proprietor
 - wait for bing sui's reply about whether broadband speed is too slow, then check with singtel about recontract options.
+NOT DONE:
+- Sunday 1 Mar 2026 File Income Tax - Sole proprietor
 
 # Upcoming Medical Appointments
 - Tuesday 3 Mar 2026 12pm 3D - Digestive Diseases Centre @ CGH
