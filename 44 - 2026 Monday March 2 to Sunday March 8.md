@@ -1,6 +1,17 @@
 ### Monday (March 2) (bowels)
-- 
-- 4.30pm Singa Credit interview at 4.30pm on Monday 
+- 6.30am I briefly read and compiled parts of today's news.
+    - 8.15am moved bowels twice.
+- 8.40am read compiled news, sleep.
+- 9.45am eat light breakfast and lunch, sleep.
+- 3pm eat dinner, read compiled news.
+    - 4.45pm to 5pm Singa Credit interview at 4.30pm on Monday
+    - 7.30pm thereabouts, read ebook.
+    - 8.15pm eat first supper.
+- 8.50pm I watched today's news on CNA and Channel 5.
+- 10.30pm read ebooks:
+    - 2025 Using Generative AI for SEO
+    - 2023 The Art of SEO - Mastering Search Engine Optimization
+- 11.30pm eat second supper, sleep, read ebooks.
 
 ### Tuesday (March 3) ()
 - Tuesday 3 Mar 2026 12pm 3D - Digestive Diseases Centre @ CGH
@@ -72,6 +83,8 @@ NOT DONE:
 - 2020 Coping with Mild Cognitive Impairment (MCI)
 - 2024 Build a Large Language Model (From Scratch)
 - 2025 How Large Language Models Work
+- 2025 Using Generative AI for SEO
+- 2023 The Art of SEO - Mastering Search Engine Optimization
 
 # Upcoming Schedule
 - wait for bing sui's reply about whether broadband speed is too slow, then check with singtel about recontract options.
