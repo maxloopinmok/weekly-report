@@ -11,15 +11,31 @@
 - 10.30pm read ebooks:
     - 2025 Using Generative AI for SEO
     - 2023 The Art of SEO - Mastering Search Engine Optimization
-- 11.30pm eat second supper, sleep, read ebooks.
+- 11.30pm eat second supper, 
+- 11.55pm scraped yahoo, sleep, read ebooks.
 
 ### Tuesday (March 3) ()
+- 5am I briefly read and compiled parts of today's news.
+- 6am I sorted my emails, assess quick reader stats.
+- 6.30am read compiled news.
+- 7.20am eat breakfast, wash up.
+- 7.45am sleep, read compiled news.
+- 11.10am eat lunch, brush teeth, go CGH.
 - Tuesday 3 Mar 2026 12pm 3D - Digestive Diseases Centre @ CGH
-
+- 1pm eat first dinner, come home, bath.
+- 3pm answer messages, file self employment income tax.
+    - Sunday 3 Mar 2026 File Income Tax - Sole proprietor
+- 4.45pm eat second dinner, brush teeth.
+- 5pm I reviewed NLB's latest ebooks.
+- 6.30pm record TMEP, I briefly read and compiled parts of today's news.
+- 7pm read compiled news.
+- 8.30pm eat first supper.
+- 8.50pm I watched today's news on CNA and Channel 5.
+- 10.10pm read compiled news.
+- 11pm thereabouts, eat second supper.
+- 11.40pm sleep, read ebooks.
 
 ### Wednesday (March 4) (bowels)
-NOT DONE:
-- Sunday 1 Mar 2026 File Income Tax - Sole proprietor
 
 
 ### Thursday (March 5) ()
@@ -97,6 +113,7 @@ NOT DONE:
 - Tuesday 26 May 2026 3.20pm CDLD, BLK 3 B1 (Yellow Zone), Colorectal Surgery, SGH
 - Thursday 28 May 2026 10am 1A - SNEC Eye Clinic @ CGH
 - Friday 3 Jul 2026 3pm 4E - CGH-NNI Spine Centre (Knee)
+- Friday 31 Jul 2026 2.10pm 4E - CGH-NNI Spine Centre (ankle ganglion cyst)
 - Thursday 10 Dec 2026 2.20pm 4E - CGH-NNI Spine Centre (Spine)
 
 ## Cyclical Appointments
