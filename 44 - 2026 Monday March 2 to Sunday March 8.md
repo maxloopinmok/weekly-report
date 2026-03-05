@@ -35,13 +35,48 @@
 - 11pm thereabouts, eat second supper.
 - 11.40pm sleep, read ebooks.
 
-### Wednesday (March 4) (bowels)
-
+### Wednesday (March 4) (bowels, towels)
+- 5.30am thereabouts, I briefly read and compiled parts of today's news, intermittent sleep, read compiled news.
+    - 7am to 7.45am, 10am, 1.40pm moved bowels
+    - 8am therabouts, eat breakfast
+    - 12.45pm thereabouts, eat lunch
+- 2pm record TMEP, reply messages.
+- 2.30pm read compiled news.
+- 4pm eat first dinner.
+- 4.30pm zoom meeting with ASME Cherlyn Tan
+- 5.20pm read compiled news.
+- 6pm thereabouts, applied for jobseeker assistance:
+    - https://www.youtube.com/watch?v=0JOeAn97NFY&t=55s
+    - https://www.youtube.com/watch?v=0JOeAn97NFY&t=184s
+    - https://jobseekersupport.mycareersfuture.gov.sg/
+    - https://jobsandskills.skillsfuture.gov.sg/about-us
+    - Industry: IT, computer, smartphone, telemarketing, property, investment, social media, ghost writing, software development, research
+    - Specific topic to explore: to find part and flexi time work from home jobs or sole proprietor business suitable for a disabled PWD
+    - Feedback: please provide skills training, free or paid AI tools, grants, financial support, job and business opportunities for PWDs working and training flexi and part time from home
+    - 6.45pm go elias mall eat second dinner, collect squatty potty from shopee, come home, bath.
+- 8.55pm I watched today's news on CNA and Channel 5.
+- 10.10pm read compiled news, read "skills demand for the future economy report 2025" (SDFE-2025.pdf).
+- 12.10am eat supper, sorted emails, scraped yahoo.
+- 1.10am read "AI Agents 2026_Mindstream-1.pdf", read ebooks.
 
 ### Thursday (March 5) ()
-
+- 6.30am I briefly read and compiled parts of today's news, eat light breakfast, read compiled news, sleep.
+- 10am eat lunch, brush teeth.
+- 1pm thereabouts, changed CGH appointment date and time, record TMEP, settle google payment issues for app.
+- 3pm eat dinner.
+- 3.35pm cold calls
+- 5.53pm record TMEP, read compiled news.
+- 6.55pm I briefly read and compiled parts of today's news, reviewed promoting Quick Reader app.
+- 8.25pm I watched parts of these:
+    - https://www.youtube.com/watch?v=jFIBotuTZT4
+    - https://www.youtube.com/watch?v=6UfitKQf6SU
+    - https://www.youtube.com/watch?v=uiaeK24E4k8
+- 8.45pm I watched today's news on CNA and Channel 5, and Talking Point, and struggle with bowels.
+    - 9.30pm thereabouts, eat supper.
+- 11pm record TMEP, sleep, read compiled news.
 
 ### Friday (March 6) (bowels)
+- Tuesday 6 Mar 2026 10am Psychological Medicine Centre, Level 3, IB CGH
 
 
 ### Saturday (March 7) ()
@@ -106,7 +141,6 @@
 - wait for bing sui's reply about whether broadband speed is too slow, then check with singtel about recontract options.
 
 # Upcoming Medical Appointments
-- Tuesday 31 Mar 2026 11am Psychological Medicine Centre, Level 3, IB CGH
 - Thursday 2 Apr 2026 3.30pm Dietician, Level 1, Integrated Building, CGH
 - Thursday 23 Apr 2026 3pm IMH Clinic B
 - Thursday 14 May 2026 Neuroscience Clinic @ SGH Emergency / NNI L10 (via Lobby A)
