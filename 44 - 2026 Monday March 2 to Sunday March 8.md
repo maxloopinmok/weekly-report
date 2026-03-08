@@ -75,16 +75,73 @@
     - 9.30pm thereabouts, eat supper.
 - 11pm record TMEP, sleep, read compiled news.
 
-### Friday (March 6) (bowels)
+### Friday (March 6) (bowels, FB toothbrush)
+- 6am move bowels, bath, read compiled news.
+- 6.45am I briefly read and compiled parts of today's news.
+- 8.30am eat breakfast, bath.
 - Tuesday 6 Mar 2026 10am Psychological Medicine Centre, Level 3, IB CGH
-
+- 12.20pm lunch at home, brush teeth.
+- 1pm go SSO.
+- 3pm thereabouts, come home, bath.
+- 3.30pm thereabouts, read compiled news.
+- 5pm eat dinner.
+- 5.30pm record TMEP, scraped yahoo, I reviewed the latest ebooks from NLB, I downloaded ebooks.
+- 6.40pm I briefly read and compiled parts of today's news, I read compiled news.
+- 8.30pm eat first supper.
+- 8.50pm I watched today's news on CNA and Channel 5.
+- 9.50pm I watched parts of these:
+    - https://www.youtube.com/watch?v=34jdVUEjM2M
+    - https://www.youtube.com/watch?v=3jrGutFAIgo
+    - https://www.youtube.com/watch?v=WtMTUSpl1Fc
+    - https://www.youtube.com/watch?v=-poTqB36CrI
+- 10.40pm read ebooks:
+    - 2026 The Next Renaissance
+    - 2025 The Art of Small Business Social Media
+- 1.45am update chatgpt codex, eat second supper, sleep.
 
 ### Saturday (March 7) ()
+- 6.30am I briefly read and compiled parts of today's news, I troubleshoot a windows python version of epub viewer.
+- 11am thereabouts, eat light breakfast and lunch, sleep.
+- 1pm or 2pm thereabouts, read compiled news, troubleshoot product ideas and quick reader.
+- 4.45pm update TMEP, eat dinner.
+- 5.15pm read compiled news.
+- 8.30pm eat first supper.
+- 8.45pm I watched today's news on CNA and Channel 5, and Money Mind.
+- 9.45pm I watched parts of these:
+    - https://www.youtube.com/watch?v=DgsX6NnF_p4
+    - https://www.youtube.com/watch?v=Gk0n0FjeKj8
+- 10.10pm read compiled news.
+- 10.50pm troubleshoot quick reader.
+- 11.30pm thereabouts, read compiled news.
+- 1am thereabouts, eat second supper, sleep.
 
-
-### Sunday (March 8) (bowels)
-
-
+### Sunday (March 8) (bowels, towels, bedsheet)
+- 4.30am troubleshoot quick reader, moved bowels.
+- 7.30am eat light breakfast, sleep.
+- 9.30am troubleshoot quick reader, eat lunch, I briefly read and compiled parts of today's news, read compiled news.
+- 3pm eat first dinner.
+- 3.15pm cold calls
+- 6.18pm go elias mall second dinner, come home, bath.
+- 7.49pm to 7.58pm cold call messaging.
+- 8pm record TMEP, cold call messaging.
+- 8.27pm I watched today's news on CNA and Channel 5.
+    - I watched parts of these:
+        - https://www.youtube.com/watch?v=2JOKwaVZEBc
+        - https://www.youtube.com/watch?v=ZAn8PX99kw0
+        - https://www.youtube.com/watch?v=QgQ3s8AqAac
+        - https://www.youtube.com/watch?v=Myns95yecqs
+        - https://www.youtube.com/watch?v=CtL_7ZABmNI
+        - https://www.youtube.com/watch?v=osu2O-aubjg
+        - https://www.youtube.com/watch?v=BbriJNCTbhE
+        - https://www.youtube.com/watch?v=_fU9Q_HoD10
+        - https://www.youtube.com/watch?v=SENM9Z1GCmc
+        - https://www.youtube.com/watch?v=cbQ5W2pvBLI
+        - https://www.youtube.com/watch?v=uyKyjSQWUYA
+        - https://www.youtube.com/watch?v=7ymDZ200Zf4
+        - https://www.youtube.com/watch?v=RYJrmQDhgJI
+        - https://www.youtube.com/watch?v=lF6aARP-wQo
+- 12.35am created and publicised blog post, eat supper, troubleshoot quick reader.
+- 4.35am sleep.
 
 
 
@@ -136,6 +193,8 @@
 - 2025 How Large Language Models Work
 - 2025 Using Generative AI for SEO
 - 2023 The Art of SEO - Mastering Search Engine Optimization
+- 2026 The Next Renaissance
+- 2025 The Art of Small Business Social Media
 
 # Upcoming Schedule
 - wait for bing sui's reply about whether broadband speed is too slow, then check with singtel about recontract options.
