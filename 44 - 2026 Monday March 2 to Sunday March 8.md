@@ -200,6 +200,7 @@
 - wait for bing sui's reply about whether broadband speed is too slow, then check with singtel about recontract options.
 
 # Upcoming Medical Appointments
+- Wednesday 25 Mar 2026 3pm Dental Appointment at Pasir Ris Polyclinic
 - Thursday 2 Apr 2026 3.30pm Dietician, Level 1, Integrated Building, CGH
 - Thursday 23 Apr 2026 3pm IMH Clinic B
 - Thursday 14 May 2026 Neuroscience Clinic @ SGH Emergency / NNI L10 (via Lobby A)
