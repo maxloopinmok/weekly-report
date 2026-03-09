@@ -19,6 +19,7 @@
 - 12am read compiled news.
     - 12.30am eat supper.
 - 1am sleep, and maybe continue reading compiled news.
+    - scrape yahoo.
 
 ### Tuesday (March 10) (bowels)
 
