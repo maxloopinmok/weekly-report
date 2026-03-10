@@ -20,9 +20,32 @@
     - 12.30am eat supper.
 - 1am sleep, and maybe continue reading compiled news.
     - scrape yahoo.
+    - 1.10am record TMEP.
 
 ### Tuesday (March 10) (bowels)
-
+- 4am, 4.45am thereabouts, moved bowels, 5am bath.
+- 5.15am read compiled news.
+- 7am I briefly read and compiled parts of today's news.
+- 8.45am eat light breakfast, sleep.
+- 11.15am thereabouts, eat lunch, answer messages and calls, record TMEP.
+- 12.45pm read compiled news.
+- 1.30pm bath, go pasir ris mall to meet ACC joseph.
+- 2.45pm eat first dinner at elias mall, come home, bath.
+- 3.30pm record TMEP, read compiled news.
+- some time between 4pm and 5pm SSO Comcare telephone call.
+- 5pm read compiled news.
+- 7.15pm eat second dinner, read compiled news.
+- 9.15pm I watched today's news on Channel 5, and parts of these:
+    - https://www.youtube.com/watch?v=SVXTV69c2wQ
+    - https://www.youtube.com/watch?v=mAPMzgLymOQ
+    - https://www.youtube.com/watch?v=tUkD0oj92Qg
+    - https://www.youtube.com/watch?v=Wu67lLD8bB0
+    - https://www.youtube.com/watch?v=td_lTMVV-ak
+    - https://www.youtube.com/watch?v=ULMepxpvaTk
+    - https://www.youtube.com/watch?v=2t003_-mLVI
+    - https://www.youtube.com/watch?v=Sceno54VRG8
+- 10.45pm eat supper, scrape yahoo.
+- 11.30pm sleep, and maybe read ebooks.
 
 ### Wednesday (March 11) ()
 
