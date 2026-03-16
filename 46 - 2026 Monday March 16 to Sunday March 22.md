@@ -1,8 +1,16 @@
 ### Monday (March 16) (bowels, towels)
 - 6am thereabouts, troubleshoot clearing PC HDD.
 - 8.30am eat light breakfast, I briefly read and compiled parts of today's news.
+- 10am eat lunch, bath, sleep.
+- 11.30am answered phone call, troubleshoot quick reader free version testers.
+- 3pm eat dinner.
 - 16 March 3.15pm Zoom meeting with Dividend Titan Willie
     - Research Associate - Equities
+- 3.50pm cold calls
+- 6.11pm read compiled news.
+- 8pm eat supper, I sorted my emails.
+- 8.40pm I briefly read and compiled parts of today's news.
+- 9pm sleep, and maybe read compiled news.
 
 ### Tuesday (March 17) ()
 
