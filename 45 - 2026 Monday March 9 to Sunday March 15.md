@@ -48,19 +48,51 @@
 - 11.30pm sleep, and maybe read ebooks.
 
 ### Wednesday (March 11) ()
-
+- 4.50am sorted my emails, applied for telecommuting jobs:
+    - https://www.mycareersfuture.gov.sg/
+    - improved quickreaderwindows
+- 6.20am I briefly read and compiled parts of today's news, eat light breakfast, sleep.
+- 1pm wake up, eat lunch, sent emails and messages about SSO's ComCare.
+- 4pm go SSO to apply for ComCare, come home.
+- 5.30pm eat dinner, bath, read compiled news.
+- 8pm thereabouts, I briefly read and compiled parts of today's news.
+- 8.30pm scraped yahoo.
+- 8.45pm I watched today's news on CNA and Channel 5, eat first supper, and parts of these:
+    - https://www.youtube.com/watch?v=vF3RVZsfQhg
+    - https://www.youtube.com/watch?v=XGDZbxAOEtc
+    - https://www.youtube.com/watch?v=FWAk6JNTv0s
+    - https://www.youtube.com/watch?v=VYUbVQSPwMc
+- 10.15pm read compiled news.
+- 12.30am eat second supper, brush teeth.
+- 1.15am reviewed latest ebooks from NLB, and downloaded ebooks.
+- 3am to 4am could not sleep, moved bowels.
 
 ### Thursday (March 12) (bowels)
-
+- 4am I briefly read and compiled parts of today's news.
+- 6am thereabouts, moved bowels, spent a lot of time trying to implement openclaw manager with deepseek, qwen, and llama, that I did not sleep, and forgot to update TMEP.
 
 ### Friday (March 13) ()
-
+- 8am thereabouts, eat light breakfast, I briefly read and compiled parts of today's news.
+    - 10am eat lunch
+- 12pm bath, leave to go TTSH, Ren Ci, NCID and meet Jen, and later mummy and Poh Khum, lunch at about 3.30pm.
+- 6pm reach home, eat dinner, bath, read compiled news.
+- 1.15am record TMEP, update quick reader.
+    - 4am thereabouts, eat supper.
+- 6am thereabouts, sleep.
 
 ### Saturday (March 14) (bowels)
-
+- 7.30am wake, moved bowels, update quick reader, applied for jobs:
+    - https://www.mycareersfuture.gov.sg
+- 10.15am no breakfast, eat lunch, sleep.
+- 2.30pm eat dinner, I briefly read and compiled parts of today's news.
+- 4.50pm to 6.30pm cold calls
+- 6.30pm to 8pm thereabouts, update quick reader free version
+- 8pm thereabouts, eat supper, take first increased dosage of faverin medicine.
+- 8.45pm I watched today's news on Channel 5 and Money Mind, and fell asleep.
+- 10pm record TMEP, sleep.
 
 ### Sunday (March 15) ()
-
+- mostly troubleshooting quick reader
 
 
 
