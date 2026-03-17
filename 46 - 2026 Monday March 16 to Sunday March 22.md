@@ -12,8 +12,16 @@
 - 8.40pm I briefly read and compiled parts of today's news.
 - 9pm sleep, and maybe read compiled news.
 
-### Tuesday (March 17) ()
-
+### Tuesday (March 17) (shave)
+- 5.45am eat first breakfast, troubleshoot notebookLM, amazon affiliates and quick reader free version testers.
+- 7.30am sleep.
+- 9.45am eat second light breakfast and lunch, brush teeth.
+- 10.15am I briefly read and compiled parts of today's news, troubleshoot task scheduling for yahoo finance scraping.
+- 12.10pm troubleshoot quickreader and quickreaderfreeversion, but mostly on quickreader's liquid mode.
+    - 3pm thereabouts, eat dinner.
+    - 9pm thereabouts, eat supper.
+    - 9.30pm fix book summaries.
+- 9.45pm sleep, and maybe read summaries.
 
 ### Wednesday (March 18) (bowels)
 
