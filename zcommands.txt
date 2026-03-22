@@ -1,5 +1,5 @@
 cd .\src\weekly-report\
 git status
 git add ./
-git commit -m "Part Time Work - Week 45 Report: Tuesday update 1"
+git commit -m "Part Time Work - Week 46 Report: Tuesday update 1"
 git push

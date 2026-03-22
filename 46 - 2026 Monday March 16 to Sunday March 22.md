@@ -22,31 +22,84 @@
     - 9pm thereabouts, eat supper.
     - 9.30pm fix book summaries.
 - 9.45pm sleep, and maybe read summaries.
+- 12am wake up, do summaries, I briefly read and compiled parts of today's news.
+- 1.30am sleep, and maybe read compiled news and summaries.
 
 ### Wednesday (March 18) (bowels)
-
+- 4.15am moved bowels, bath, read compiled news.
+- 5.05am record TMEP, I watched yesterday's news on Channel 5.
+- 5.35am I watched parts of these:
+    - https://www.youtube.com/watch?v=N-j7J26AhMQ
+    - https://www.youtube.com/watch?v=W31ro8YT7jc
+    - https://www.youtube.com/watch?v=sQRLPwcK-tU
+    - https://www.youtube.com/watch?v=hX1IjD9DBNo
+    - https://www.youtube.com/watch?v=GVrEX3-uIE0
+- 6.30am I briefly read and compiled parts of today's news, troubleshoot quick reader free version testers.
+    - 7.30am thereabouts, eat light breakfast.
+- 8.30am sleep, and maybe read compiled news.
+- 12.50pm thereabouts, eat lunch, read compiled news, half asleep.
+- 3.30pm record TMEP, update google play console for quick reader.
+- 4.15pm apply for jobs:
+    - https://www.mycareersfuture.gov.sg
+    - try to earn points:
+        - https://jobseekersupport.mycareersfuture.gov.sg/
+- 5pm eat dinner, wipe floor, bath.
+- 6pm scrape yahoo finance, update google play console for quick reader.
+- 7pm I briefly read and compiled parts of today's news.
+- 9.15am I watched today's news on Channel 5.
+- 9.40am I watched parts of these:
+    - https://www.youtube.com/watch?v=XeTuLyOBY_0
+    - https://www.youtube.com/watch?v=rzJC-ngZ6CY
+    - https://www.youtube.com/watch?v=mlYUhqVCAK0
+    - https://www.youtube.com/watch?v=ANWerraTEiA
+    - https://www.youtube.com/watch?v=3E779xZhQxQ
+- 10.55pm eat supper, sleep.
 
 ### Thursday (March 19) ()
+- skipped recording a lot.
+- 8am thereabouts, eat light breakfast.
+- 11am thereabouts, eat lunch.
+- 3.30pm thereabouts, eat dinner.
+- 4pm to 5pm thereabouts, go NTUC to buy milk, come home, bath.
+- 8.55pm record TMEP, I briefly read and compiled parts of today's news.
+- 9.25pm I watched today's news on Channel 5, and parts of these:
+    - https://www.youtube.com/watch?v=GGK-HMYMBBI
+    - https://www.youtube.com/watch?v=7_Q8ECC9PYA
+    - https://www.youtube.com/watch?v=-x-uetBTy5Y
+- 10.30pm eat supper, sleep.
 
-
-### Friday (March 20) (bowels)
-
+### Friday (March 20) (bowels, nails)
+- 4.30am thereabouts, wake, I briefly read and compiled parts of today's news.
+- 5.30am thereabouts, take forlax
+- 6.30am thereabouts, eat light breakfast.
+- 7am moved bowels, sleep.
+- 9.30am thereabouts, moved bowels, bath.
+- 10.10am eat lunch, read compiled news, sleep.
+- skipped recording.
+- 11pm thereabouts, sleep.
 
 ### Saturday (March 21) ()
+- skipped recording, visited father at nursing home, left home about 2pm, come home about 5.30pm.
+- 9.45pm record TMEP, eat supper.
+- 10.10pm I briefly read and compiled parts of this week's The Economist news.
+- 10.30pm sleep, and maybe read compiled news.
 
-
-### Sunday (March 22) (bowels)
-
-
-
-
-
+### Sunday (March 22) (bowels, towels, shave)
+- 7.30am moved bowels, eat light breakfast, record TMEP.
+- 8.15am I briefly read and compiled parts of today's news.
+- 9am download ebooks, bath, sleep, maybe read compiled news or ebooks.
+- 11am thereabouts to 12.15pm moved bowels, eat lunch, bath, sleep.
+- 3pm eat dinner
+- 3.23pm to 6.14pm cold calls
+- 6.15pm onwards, do readings, send messages.
+    - 8.30pm thereabouts, eat supper.
+- 11pm sleep, and maybe do readings.
 
 
 
 # Current Priorities
 - https://maxloodigital.com/
-    - Improve calendars, planners, stocks data, and publicise them on LinkedIn and Facebook.
+    - Improve calendars, planners, stocks data, book summaries, and publicise them on LinkedIn and Facebook.
 - https://somethingusefulforinvestors.blogspot.com/
     - Blog about investment analysis based on stocks data
         - scrape data 
