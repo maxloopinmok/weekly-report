@@ -1,6 +1,25 @@
 ### Monday (March 23) ()
-- visit SIMBA at Pasir Ris Mall, and maybe join relatives at their lunch gathering.
-- 
+- 12am to 2.15am update quick reader, sort emails, reply messages, record TMEP, try to sleep by taking medicine.
+- 4.30am thereabouts, read compiled news.
+- 5.45am I watched yesterday's news on CNA and Channel 5.
+- 6.30am I briefly read and compiled parts of today's news.
+- 7.30am eat light breakfast, try to sleep, maybe read compiled news.
+- did not visit SIMBA at Pasir Ris Mall, and maybe join relatives at their lunch gathering.
+- skipped recordings
+- 4.30pm eat dinner, wash up, read compiled news.
+- 6pm thereabouts, write messages and emails.
+- 7.15pm scraped yahoo finance, I briefly read and compiled parts of today's news.
+- 7.50pm I watched parts of these:
+    - https://www.youtube.com/watch?v=DnvWAP99r3Y
+    - https://www.youtube.com/watch?v=dtcgzGAeUZA
+    - https://www.youtube.com/watch?v=U95Xz-U_cvE
+    - https://www.youtube.com/watch?v=LBZc0uHtepk
+    - https://www.youtube.com/watch?v=U-XKDDcW9xs
+    - https://www.youtube.com/watch?v=CH3k6k_dbnA
+    - https://www.youtube.com/watch?v=pcR30j-sKxU
+    - https://www.youtube.com/watch?v=F2YW1r-jZKM
+    - https://www.youtube.com/watch?v=QDRzgF-8-50
+- 9.30pm eat supper, sleep.
 
 ### Tuesday (March 24) (bowels)
 
