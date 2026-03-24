@@ -22,7 +22,27 @@
 - 9.30pm eat supper, sleep.
 
 ### Tuesday (March 24) (bowels)
-
+- 12.30am I watched yesterday's news on CNA and Channel 5.
+- 1.50am I tried installing Nvidia Nemotron-Cascade 2 with Ollama, I briefly read a few ebooks to identify one for summarisation.
+    - 2.30am moved bowels, bath.
+- 5am thereabouts, I briefly read and compiled parts of today's news, I reviewed the latest ebooks at NLB, I downloaded ebooks.
+- 6.30am record TMEP, I updated quickreaderwindows.
+- 7am eat light breakfast, sleep.
+- 1.15pm eat lunch, sleep a little until about 3pm, read compiled news.
+- 5pm thereabouts, eat first dinner, record TMEP, reviewed and summarise ebook:
+    - 2025 Dividend Investing
+- 7pm go pasir ris mall to check with simba about blocked number, eat second dinner, come home, bath.
+- 8.30pm record TMEP, reviewed ebook and its summary:
+    - 2025 Dividend Investing
+- 8.55pm I watched today's news on CNA, and parts of these:
+    - https://www.youtube.com/watch?v=Zb4UsQoejFo
+    - https://www.youtube.com/watch?v=dwYfNQzHQuY
+    - https://www.youtube.com/watch?v=ttCb5BH6ZKU
+    - https://www.youtube.com/watch?v=ugWqorspshI
+    - https://www.youtube.com/watch?v=8DzGp41xcYM
+    - I also scraped yahoo finance.
+- 11.20pm I replied to SIMBA over emails, I sorted my emails.
+- 12.40am eat supper, sleep, and maybe read compiled news or ebook.
 
 ### Wednesday (March 25) ()
 - Wednesday 25 Mar 2026 3pm Dental Appointment at Pasir Ris Polyclinic
@@ -95,6 +115,7 @@
 - 2025 The Art of Small Business Social Media
 
 # Upcoming Schedule
+- Saturday 18 Apr 2026 10am Career Catalyst session via Zoom
 - wait for bing sui's reply about whether broadband speed is too slow, then check with singtel about recontract options.
 
 # Upcoming Medical Appointments
