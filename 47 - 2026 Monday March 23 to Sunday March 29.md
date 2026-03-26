@@ -45,11 +45,33 @@
 - 12.40am eat supper, sleep, and maybe read compiled news or ebook.
 
 ### Wednesday (March 25) ()
+- 4.30am thereabouts, read compiled news, read ebook.
+- 6.30am I watched yesterday's news on Channel 5, I briefly read and compiled parts of today's news.
+- 8pm eat light breakfast, sleep.
+- 11am thereabouts, wake, troubleshoot blocked mobile number by emailing and calling SIMBA and IMDA, and messaging elaine and daniel.
 - Wednesday 25 Mar 2026 3pm Dental Appointment at Pasir Ris Polyclinic
-
+- 4pm eat dinner, bath.
+- 4.40pm thereabouts, I read my compiled news, slept a little, sent emails and messages, scraped yahoo finance.
+- 8.25pm I briefly read and compiled parts of today's news.
+- 8.45pm I watched today's news on CNA and Channel 5.
+- 9.50pm I watched parts of these:
+    - https://www.youtube.com/watch?v=0e1ZzerTq70
+    - https://www.youtube.com/watch?v=xUlX6jvwVfM
+- 10.20pm eat supper, sleep, and maybe read compiled news.
 
 ### Thursday (March 26) (bowels)
-
+- 2.30am thereabouts, read compiled news, troubleshoot creating python script to run STI commentary generation.
+- 5.30am I briefly read and compiled parts of today's news.
+    - 6.50am moved bowels
+- 7.30am sleep.
+- 7.55am eat light breakfast, sleep.
+- 3pm thereabouts, eat first dinner, read compiled news, call IMDA.
+- 6pm scrape yahoo finance.
+- 6.30pm thereabouts, go out for second dinner, come home, bath.
+- 7.45pm thereabouts, reviewed ebooks from NLB and downloaded some.
+- 8.45pm I watched today's news on CNA and Channel 5.
+- 9.45pm record TMEP, I sorted emails, eat supper, brush teeth.
+- 10.35pm sleep, and maybe read compiled news.
 
 ### Friday (March 27) ()
 
