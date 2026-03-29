@@ -59,7 +59,7 @@
     - https://www.youtube.com/watch?v=xUlX6jvwVfM
 - 10.20pm eat supper, sleep, and maybe read compiled news.
 
-### Thursday (March 26) (bowels)
+### Thursday (March 26) (bowels, shave)
 - 2.30am thereabouts, read compiled news, troubleshoot creating python script to run STI commentary generation.
 - 5.30am I briefly read and compiled parts of today's news.
     - 6.50am moved bowels
@@ -74,14 +74,58 @@
 - 10.35pm sleep, and maybe read compiled news.
 
 ### Friday (March 27) ()
+- 1.30am thereabouts, read compiled news.
+- 2.30am replied messages and sent emails, pay singtel bill.
+- 3am thereabouts, updated quickreaderwindows, did and post summary.
+- 5.30pm thereabouts, I briefly read and compiled parts of today's news.
+- 7am go white sands eat breakfast, come home, bath, sleep.
+- 12pm eat lunch, take medicine, record TMEP, replied messages.
+- 1.30pm go nursing home.
+- 5pm reached home, eat dinner, bath, read compiled news, sent messages and emails.
+- 9.25pm I watched today's news on CNA and Channel 5.
+- 10.50pm I watched parts of these:
+    - https://www.youtube.com/watch?v=Cn8HBj8QAbk
+    - https://www.youtube.com/watch?v=Ph37AlQ5hrE
+    - https://www.youtube.com/watch?v=LJyKSRZrYkg
+    - https://www.youtube.com/watch?v=GiVtPpEVdCY
+    - https://www.youtube.com/watch?v=tKc4X6s80Lg
+- 1am eat supper, sleep.
 
-
-### Saturday (March 28) (bowels)
-
+### Saturday (March 28) (bowels, towels)
+- 6am thereabouts, I briefly read and compiled parts of today's news.
+- 7.30am thereabouts, eat light breakfast, sleep.
+- 11.30am, 12pm moved bowels, bath.
+- 12.10pm eat lunch, sleep.
+- 1.45pm moved bowels, bath, sleep.
+- 4.30pm thereabouts, eat dinner, read compiled news, sleep.
+- 8.55pm I watched today's news on CNA and Channel 5, and Money Mind.
+- 9.55pm I watched parts of these:
+    - https://www.youtube.com/watch?v=Vq0W85mnYU0
+    - https://www.youtube.com/watch?v=WTmm0ISLJ1s
+    - https://www.youtube.com/watch?v=E-wMiPOwSSA
+    - https://www.youtube.com/watch?v=VYD6Sa5L0AA
+    - https://www.youtube.com/watch?v=IFxCf51FBNY
+    - https://www.youtube.com/watch?v=NGL-xx81i68
+    - https://www.youtube.com/watch?v=eWXbB4u16UM
+    - https://www.youtube.com/watch?v=_E0ITsOgJDk
+    - https://www.youtube.com/watch?v=t1Zys-XrvbQ
+    - https://www.youtube.com/watch?v=GaTsaUfQVOk
+    - https://www.youtube.com/watch?v=GG2pi50l0GM
+    - https://www.youtube.com/watch?v=9Ycij-DrZQg
+    - 11pm thereabouts, eat supper
+- 12.10am bath, I sorted my emails, I briefly read and compiled parts of this week's The Economist.
+- 12.30am read compiled news, maybe other ebooks, sleep.
 
 ### Sunday (March 29) ()
-
-
+- 3am thereabouts, read compiled news, replied to messages.
+- 4.15am I briefly read and compiled parts of today's news.
+- 6am eat breakfast.
+- 6.45am leave for nursing home.
+- 12pm thereabouts, reach home, eat lunch, bath, sleep.
+- 4pm wake up, message friends.
+    - 6.30pm eat dinner.
+- 9.25pm I watched today's news on Channel 5.
+- 9.55pm record TMEP, eat supper, sleep.
 
 
 
@@ -138,14 +182,15 @@
 
 # Upcoming Schedule
 - Saturday 18 Apr 2026 10am Career Catalyst session via Zoom
-- wait for bing sui's reply about whether broadband speed is too slow, then check with singtel about recontract options.
 
 # Upcoming Medical Appointments
-- Thursday 2 Apr 2026 3.30pm Dietician, Level 1, Integrated Building, CGH
+- Tuesday 7 Apr 2026 4pm AEC & GIFU, BLK 3 Level 1, SGH
 - Thursday 23 Apr 2026 3pm IMH Clinic B
+- Thursday 30 Apr 2026 11.30am Psychological Medicine Centre, Level 3 IB, CGH
 - Thursday 14 May 2026 Neuroscience Clinic @ SGH Emergency / NNI L10 (via Lobby A)
 - Tuesday 26 May 2026 3.20pm CDLD, BLK 3 B1 (Yellow Zone), Colorectal Surgery, SGH
 - Thursday 28 May 2026 10am 1A - SNEC Eye Clinic @ CGH
+- Friday 5 Jun 2026 4pm Dietician, Level 1, Integrated Building, CGH
 - Friday 3 Jul 2026 3pm 4E - CGH-NNI Spine Centre (Knee)
 - Friday 31 Jul 2026 2.10pm 4E - CGH-NNI Spine Centre (ankle ganglion cyst)
 - Thursday 10 Dec 2026 2.20pm 4E - CGH-NNI Spine Centre (Spine)
