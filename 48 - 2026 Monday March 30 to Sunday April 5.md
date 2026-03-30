@@ -6,8 +6,13 @@
     - https://www.youtube.com/watch?v=8XhAZN7DfXc
     - https://www.youtube.com/watch?v=c4Mgp3FWvt0
 - 4am I briefly read and compiled parts of today's news.
-- 5.50am eat light breakfast, record TMEP, sleep.
-- 
+- 5.50am eat light breakfast, record TMEP
+- 6.40am sleep.
+- 8am moved bowels, buy online from sheng siong, try to sleep.
+- 12pm eat lunch at home, attend father's wake.
+- 5pm eat dinner at home, bath, attend father's wake.
+- 11pm eat supper at home, bath, record TMEP, download ebooks.
+- 12.20am sleep.
 
 ### Tuesday (March 30) ()
 
