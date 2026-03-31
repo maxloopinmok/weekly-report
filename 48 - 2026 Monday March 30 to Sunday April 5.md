@@ -15,7 +15,10 @@
 - 12.20am sleep.
 
 ### Tuesday (March 30) ()
-
+- skipped recording because at wake.
+- 11pm thereabouts, reach home, bath, eat supper, brush teeth, record TMEP.
+- 12.45am I watched yesterday's and today's news on Channel 5, I scraped yahoo finance, moved bowels twice.
+- 2am sleep.
 
 ### Wednesday (April 1) (bowels)
 
