@@ -23,10 +23,34 @@
 
 ### Wednesday (April 8) ()
 - Wednesday 8 Apr 2026 4pm White Sands OCBC Meeting
-
+- 8.45pm I watched today's news on CNA and Channel 5.
+    - 9.45pm I took medicine, I eat supper
+- 10pm I watched parts of these:
+    - https://www.youtube.com/watch?v=o-C4CLSthDo
+    - https://www.youtube.com/watch?v=u9Azd3weYCY
+    - https://www.youtube.com/watch?v=Goa6c6Qz__I
+    - https://www.youtube.com/watch?v=ahRMR_9kqb0
+    - https://www.youtube.com/watch?v=YSVUHxHID0c
+- 11pm I brush teeth, sleep, maybe read compiled news and summaries.
 
 ### Thursday (April 9) (bowels)
-
+- 9am thereabouts, eat light breakfast, sleep.
+- 11.30am moved bowels, bath, eat lunch.
+- 12.10pm record TMEP, download ebook, moved bowels, bath.
+- 12.35pm I uploaded my quickreaderfreeversion app on google play console.  I briefly read and compiled parts of today's news.
+    - 12.45pm moved bowels
+- 2 pm or 3pm thereabouts, update quickreaderfreeversion app, etc.
+    - reviewed marketing summaries.
+    - 4pm thereabouts, eat first dinner.
+- 7.15pm go elias mall eat second dinner, come home, bath.
+- 8.45pm I watched today's news on CNA and Channel 5.
+- 9.40pm I watched parts of these:
+    - https://www.youtube.com/watch?v=8d3E-XZX3u4
+    - https://www.youtube.com/watch?v=7vkybiVRSm0
+    - https://www.youtube.com/watch?v=C7sagA2I-os
+    - https://www.youtube.com/watch?v=0pStigyl674 (Give me 14 Minutes and I’ll make You Dangerously Smart (with AI))
+- 11pm or 12am thereabouts, update payhip and gumroad files.
+- 2.45am eat supper, sleep.
 
 ### Friday (April 10) ()
 
