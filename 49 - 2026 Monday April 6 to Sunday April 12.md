@@ -53,7 +53,12 @@
 - 2.45am eat supper, sleep.
 
 ### Friday (April 10) ()
-
+- skipped recording.
+- 10pm I watched parts of these:
+    - https://www.youtube.com/watch?v=yBOOhzLltJA
+    - https://www.youtube.com/watch?v=vUfRufToiHg
+- 10.30pm or 11pm thereabouts, I troubleshoot using deepseek and gemma 4 to do stocks commentary, eat supper.
+- 12.45am sleep, or read compiled news.
 
 ### Saturday (April 11) (bowels)
 
