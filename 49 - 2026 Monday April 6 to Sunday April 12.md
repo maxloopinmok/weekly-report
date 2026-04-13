@@ -60,12 +60,38 @@
 - 10.30pm or 11pm thereabouts, I troubleshoot using deepseek and gemma 4 to do stocks commentary, eat supper.
 - 12.45am sleep, or read compiled news.
 
-### Saturday (April 11) (bowels)
-
+### Saturday (April 11) (bowels, towels, nails)
+- 6am thereabouts, moved bowels twice, compiled latest news.
+- 9am thereabouts, eat light breakfast, sleep.
+- dunno when eat lunch, sleep.
+- 2pm thereabouts, read compiled news and summaries and ebook.
+    - 4.30pm eat first dinner
+    - 6pm or 7pm thereabouts, update substack.
+- 8pm go elias mall eat second dinner, come home, bath.
+- 9.15pm cut nails, I watched today's news on CNA and Channel 5, and Money Mind.
+- 10.15pm I watched parts of these:
+    - https://www.youtube.com/watch?v=SUNhDTn-5Ko
+    - https://www.youtube.com/watch?v=haoAI2lIZ74
+    - https://www.youtube.com/watch?v=lP86NzlXNf4
+    - https://www.youtube.com/watch?v=E42VSR9ntfw
+    - https://www.youtube.com/watch?v=woTy4dTiT20
+    - https://www.youtube.com/watch?v=dvu5uTmvIPw
+    - https://www.youtube.com/watch?v=Y2wy_nc-RGo
+    - https://www.youtube.com/watch?v=a5o2cRr9WUY
+    - https://www.youtube.com/watch?v=gkynmKYl2y8
+- 1am eat supper, sleep, maybe read compiled news.
 
 ### Sunday (April 12) ()
-
-
+- 11am thereabouts, post summaries.
+- 1.40pm I watched parts of these:
+    - https://www.youtube.com/watch?v=glCPd9cgawY
+    - https://www.youtube.com/watch?v=1_5sSJK2rU0
+- skipped recording
+- 8.15pm I watch parts of this:
+    - https://www.youtube.com/watch?v=RljBVCnt9AQ
+- 8.50pm I watched today's news on CNA and Channel 5.
+- 10pm messaged some friends, eat supper.
+- 11pm sleep.
 
 
 
