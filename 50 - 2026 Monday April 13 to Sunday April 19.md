@@ -8,7 +8,12 @@
 - 11.15pm eat supper, sleep, and maybe read summaries or ebooks.
 
 ### Tuesday (April 14) ()
-
+- skipped recording
+- 10.15pm I watched parts of these:
+    - https://www.youtube.com/watch?v=3xz1lcGdQPc
+    - skipped recording
+- 11.30pm eat supper, download ebooks, sorted emails.
+- 12.15am brush teeth, sleep.
 
 ### Wednesday (April 15) (bowels)
 
