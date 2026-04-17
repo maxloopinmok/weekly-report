@@ -16,13 +16,42 @@
 - 12.15am brush teeth, sleep.
 
 ### Wednesday (April 15) (bowels)
-
+- 3am thereabouts, wake, use AI to summarise wrongly summarised files.
+- skipped recording.
+- 11pm I watched parts of these:
+    - https://www.youtube.com/watch?v=7bPZJhhDQU4
+    - https://www.youtube.com/watch?v=OFmxKgaLN80
+    - https://www.youtube.com/watch?v=I7U2Y9t-aYc
+    - https://www.youtube.com/watch?v=MIudp4xv7Io
+    - https://www.youtube.com/watch?v=4BsIVY-0aOY
+    - https://www.youtube.com/watch?v=bAoLN_DRJQw
+- 12.45pm eat supper, can't sleep, and maybe read compiled news or summaries.
 
 ### Thursday (April 16) ()
-
+- before 7am, can't sleep.
+- 7am thereabouts, take panadol to sleep.
+- 9am wake, eat light breakfast, sleep.
+- 11am thereabouts, wake, start AI to do summaries, sleep.
+- 12pm thereabouts, eat lunch.
+- 1pm meet ACC Joseph at Pasir Ris Mall Kopitiam
+- 2pm thereabouts, come home, bath, sleep.
+- 3.30pm wake, sort emails, record TMEP.
+    - 4pm start AI to do summaries.
+- 4.45pm thereabouts, sleep.
+- 6pm wake, eat dinner, bath, read compiled news and summaries.
+- 8.55pm I watched today's news on CNA and Channel 5, and Talking Point.
+- 10pm I record TMEP, sort emails, read summary, sleep.
+- 12.30am eat supper, record TMEP.
+- can't sleep until about after 8am in morning.
 
 ### Friday (April 17) (bowels)
-
+- 8.45pm I watched today's news on CNA and Channel 5.
+- 9.40pm I watched parts of these:
+    - https://www.youtube.com/watch?v=tMYoiHSYgWw (AI Just Compressed 160 Years of Aging Research — Here's What They Found | Dr. David Sinclair)
+        - Watch this to find out how ageing reversal experiments were simulated with the help of AI!  How soon are we to deageing human beings??
+    - https://www.youtube.com/watch?v=ZVAGTidLVyc
+    - https://www.youtube.com/watch?v=_Vw_6QrqS8c
+- 12am eat supper, try to sleep.
 
 ### Saturday (April 18) ()
 - Saturday 18 Apr 2026 10am Career Catalyst session via Zoom
