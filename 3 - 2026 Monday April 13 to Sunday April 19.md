@@ -54,11 +54,33 @@
 - 12am eat supper, try to sleep.
 
 ### Saturday (April 18) ()
-- Saturday 18 Apr 2026 10am Career Catalyst session via Zoom
+- skipped recording.
+- 9.20am Pasir Ris Polyclinic appointment to see doctor.
+- 10am eat lunch at home.
+- Saturday 18 Apr 2026 10am Career Catalyst session via Zoom (cancelled)
+- skipped recording.
+- 8.15pm I watched today's news on CNA and Channel 5, and Money Mind.
+    - I watched parts of these:
+        - https://www.youtube.com/watch?v=4EsUaur0nsQ
+        - https://www.youtube.com/watch?v=Sk9tvyRSCgY
+        - https://www.youtube.com/watch?v=r5BLAFPk9Jo
+        - https://www.youtube.com/watch?v=4lVFWM4qQSQ
+- 10.15pm restarted AI summaries creation, eat supper.
+- 11pm thereabouts sleep.
 
-
-### Sunday (April 19) (bowels)
-
+### Sunday (April 19) (bowels, towels)
+- 3.30am thereabouts, wake, start AI summaries generation, read compiled news.
+- 4.45am record TMEP, sort emails.
+- 5am I briefly read and compiled parts of today's news.
+- 5.45am read compiled news and sleep.
+- skipped recording.
+- 9.20pm I watched today's news on CNA and Channel 5, and parts of these:
+    - https://www.youtube.com/watch?v=CFBIg4_z99w (OpenAI’s New ROSALIND Is Now Performing At Human Level)
+    - https://www.youtube.com/watch?v=zZsTVBXcbow
+    - https://www.youtube.com/watch?v=ZtOwUtO8568
+    - https://www.youtube.com/watch?v=LACyqdAfnaw
+    - 11.30pm eat supper
+- 12am brush teeth, bath, sleep.
 
 
 
@@ -118,7 +140,9 @@
 # Upcoming Appointments
 - Monday 20 Apr 2026 1.30pm AEC & GIFU, BLK 3 Level 1, SGH
 - Thursday 30 Apr 2026 11.30am Psychological Medicine Centre, Level 3 IB, CGH
+- Friday 8 May 2026 7.45am Pasir Ris Polyclinic Fasting Blood Test
 - Thursday 14 May 2026 Neuroscience Clinic @ SGH Emergency / NNI L10 (via Lobby A)
+- Wednesday 20 May 2026 8.50am Pasir Ris Polyclinic
 - Tuesday 26 May 2026 3.20pm CDLD, BLK 3 B1 (Yellow Zone), Colorectal Surgery, SGH
 - Thursday 28 May 2026 10am 1A - SNEC Eye Clinic @ CGH
 - Friday 5 Jun 2026 4pm Dietician, Level 1, Integrated Building, CGH
