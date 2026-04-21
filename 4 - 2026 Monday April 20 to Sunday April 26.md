@@ -1,9 +1,15 @@
 ### Monday (April 20) ()
 - Monday 20 Apr 2026 1.30pm AEC & GIFU, BLK 3 Level 1, SGH
-
+- skipped recording.
 
 ### Tuesday (April 21) (bowels)
-
+- skipped recording.
+- 8.55pm I watched today's news on CNA and Channel 5.
+- 9.55pm I watched parts of this:
+    - https://www.youtube.com/watch?v=0yR3osYvt8g
+    - https://www.youtube.com/watch?v=oM4neOyZOi0
+- 10.20pm I read ebooks.
+    - 10.50pm eat supper
 
 ### Wednesday (April 22) ()
 
@@ -80,6 +86,7 @@
 - Thursday 30 Apr 2026 11.30am Psychological Medicine Centre, Level 3 IB, CGH
 - Friday 8 May 2026 7.45am Pasir Ris Polyclinic Fasting Blood Test
 - Thursday 14 May 2026 Neuroscience Clinic @ SGH Emergency / NNI L10 (via Lobby A)
+- Monday to Friday 18 to 22 May Invitation to Participate in the Disability-Inclusive Employment and Lifelong Learning Manpower Study
 - Wednesday 20 May 2026 8.50am Pasir Ris Polyclinic
 - Tuesday 26 May 2026 3.20pm CDLD, BLK 3 B1 (Yellow Zone), Colorectal Surgery, SGH
 - Thursday 28 May 2026 10am 1A - SNEC Eye Clinic @ CGH
