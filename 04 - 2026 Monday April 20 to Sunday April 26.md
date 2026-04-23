@@ -12,10 +12,19 @@
     - 10.50pm eat supper
 
 ### Wednesday (April 22) ()
-
+- skipped recording.
+- 9.25pm I watched today's news on CNA and Channel 5.
+- 10.35pm I watched parts of these:
+    - https://www.youtube.com/watch?v=cKFITKsb7M8 (Claude Mythos Clone Shocks Anthropic and OpenAI)
+    - https://www.youtube.com/watch?v=2J6oY19OIGI
+    - https://www.youtube.com/watch?v=8U8SuaL29wM
 
 ### Thursday (April 23) (bowels)
-
+- skipped recording
+- 8.45pm I watched today's news on CNA and Channel 5, and Talking Point.
+- 10.30pm I watched parts of this:
+    - https://www.youtube.com/watch?v=Yy659EQA2k4
+- 11.40pm eat supper
 
 ### Friday (April 24) ()
 
