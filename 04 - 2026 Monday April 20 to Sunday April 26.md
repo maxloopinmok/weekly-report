@@ -27,7 +27,15 @@
 - 11.40pm eat supper
 
 ### Friday (April 24) ()
-
+- skipped recording
+- 8.55pm I watched today's news on CNA and Channel 5.
+- 10.05pm I watched parts of these:
+    - https://www.youtube.com/watch?v=evVs-Jtor50
+    - https://www.youtube.com/watch?v=YwZdLN7oB6I
+    - https://www.youtube.com/watch?v=m-nnyNZ0TQ0 (Stanford Neuroscientist: Can’t Remember Your Dreams? Your Brain May Be Warning You!)
+    - https://www.youtube.com/watch?v=v4F1gFy-hqg
+- 1pm eat supper, try to move bowels, moved bowels, bath.
+- 2.40am sleep.
 
 ### Saturday (April 25) (bowels)
 
