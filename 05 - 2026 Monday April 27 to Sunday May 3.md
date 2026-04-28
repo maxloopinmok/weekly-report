@@ -1,57 +1,28 @@
-### Monday (April 20) ()
-- Monday 20 Apr 2026 1.30pm AEC & GIFU, BLK 3 Level 1, SGH
+### Monday (April 27) (bowels)
 - skipped recording.
 
-### Tuesday (April 21) (bowels)
-- skipped recording.
-- 8.55pm I watched today's news on CNA and Channel 5.
-- 9.55pm I watched parts of this:
-    - https://www.youtube.com/watch?v=0yR3osYvt8g
-    - https://www.youtube.com/watch?v=oM4neOyZOi0
-- 10.20pm I read ebooks.
-    - 10.50pm eat supper
+### Tuesday (April 28) ()
+- 10.15pm I watched parts of these:
+    - https://www.youtube.com/watch?v=CM4TXfpsWUg (The Nobel Prize in Physics Was Just Awarded for Proving the Universe Isn't Real — Einstein Was Wrong)
+    - https://www.youtube.com/watch?v=4IM866W7yGc (Age Reversal in 2026: The Longevity Singularity & David’s Updated Protocols | David Sinclair EP #250)
+    - https://www.youtube.com/watch?v=5PW69MmmX3c (The Challenge of Artificial Intelligence (AI) | SGH Formal Dinner Address by Mr George Yeo)
 
-### Wednesday (April 22) ()
-- skipped recording.
-- 9.25pm I watched today's news on CNA and Channel 5.
-- 10.35pm I watched parts of these:
-    - https://www.youtube.com/watch?v=cKFITKsb7M8 (Claude Mythos Clone Shocks Anthropic and OpenAI)
-    - https://www.youtube.com/watch?v=2J6oY19OIGI
-    - https://www.youtube.com/watch?v=8U8SuaL29wM
+### Wednesday (April 29) (bowels)
 
-### Thursday (April 23) (bowels)
-- skipped recording
-- 8.45pm I watched today's news on CNA and Channel 5, and Talking Point.
-- 10.30pm I watched parts of this:
-    - https://www.youtube.com/watch?v=Yy659EQA2k4
-- 11.40pm eat supper
 
-### Friday (April 24) ()
-- skipped recording
-- 8.55pm I watched today's news on CNA and Channel 5.
-- 10.05pm I watched parts of these:
-    - https://www.youtube.com/watch?v=evVs-Jtor50
-    - https://www.youtube.com/watch?v=YwZdLN7oB6I
-    - https://www.youtube.com/watch?v=m-nnyNZ0TQ0 (Stanford Neuroscientist: Can’t Remember Your Dreams? Your Brain May Be Warning You!)
-    - https://www.youtube.com/watch?v=v4F1gFy-hqg
-- 1pm eat supper, try to move bowels, moved bowels, bath.
-- 2.40am sleep.
+### Thursday (April 30) ()
+- Thursday 30 Apr 2026 11.30am Psychological Medicine Centre, Level 3 IB, CGH
 
-### Saturday (April 25) (bowels)
-- 4am thereabouts, move bowels, bath, I briefly read and compiled parts of today's news.
-- skipped recording
-- 11.45pm thereabouts, I watched parts of these:
-    - https://www.youtube.com/watch?v=mNMtT_EphsY
-    - https://www.youtube.com/watch?v=HLn1Kn3TYAc
-    - https://www.youtube.com/watch?v=RfNODQ8PeLs
-    - https://www.youtube.com/watch?v=kk-Jb29AhjM
-- skipped recording
-    - 1am thereabouts, eat supper
-- 3.15am could not sleep, and maybe read compiled news.
 
-### Sunday (April 26) ()
-- 6am start dabbling into creating a deepseek summariser python program.
-- skipped recording.
+### Friday (May 1) (bowels)
+
+
+### Saturday (May 2) ()
+
+
+### Sunday (May 3) (bowels)
+
+
 
 
 
@@ -109,7 +80,6 @@
 # Upcoming Schedule
 
 # Upcoming Appointments
-- Thursday 30 Apr 2026 11.30am Psychological Medicine Centre, Level 3 IB, CGH
 - Friday 8 May 2026 7.45am Pasir Ris Polyclinic Fasting Blood Test
 - Thursday 14 May 2026 Neuroscience Clinic @ SGH Emergency / NNI L10 (via Lobby A)
 - Monday to Friday 18 to 22 May Invitation to Participate in the Disability-Inclusive Employment and Lifelong Learning Manpower Study
