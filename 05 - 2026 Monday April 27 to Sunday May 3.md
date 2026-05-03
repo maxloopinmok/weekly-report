@@ -6,23 +6,59 @@
     - https://www.youtube.com/watch?v=CM4TXfpsWUg (The Nobel Prize in Physics Was Just Awarded for Proving the Universe Isn't Real — Einstein Was Wrong)
     - https://www.youtube.com/watch?v=4IM866W7yGc (Age Reversal in 2026: The Longevity Singularity & David’s Updated Protocols | David Sinclair EP #250)
     - https://www.youtube.com/watch?v=5PW69MmmX3c (The Challenge of Artificial Intelligence (AI) | SGH Formal Dinner Address by Mr George Yeo)
+- 12am thereabouts, sleep.
 
 ### Wednesday (April 29) (bowels)
-
+- 2.30am moved bowels, prepare and post on substack.
+- skipped recording.
 
 ### Thursday (April 30) ()
+- 2am thereabouts, I watched parts of these:
+    - https://www.youtube.com/watch?v=6iMiCJHxTww (Princeton Scientist: We Don't Understand AI)
+    - https://www.youtube.com/watch?v=-rFpH4Ho-Ow (The Breakthrough Terrifying ASML)
+    - https://www.youtube.com/watch?v=D8ohmtB8MdI (David Sinclair on AI Drug Discovery, GLP-1 Side Effects, and Longevity Investing | Q&A EP #251)
+    - https://www.youtube.com/watch?v=9-TVwv6wtGQ (What happens now that AI is good at math? — the OpenAI Podcast Ep. 17)
+    - I used AI to summarise and posted on substack.
+- 4.30am eat supper, bath.
+- 5am I used AI to summarise, I briefly read and compiled parts of today's news.
+- 6.30am I sort AI summaries, I sorted my emails.
+- 7am thereabouts or maybe later, I read compiled news and summaries, sleep.
 - Thursday 30 Apr 2026 11.30am Psychological Medicine Centre, Level 3 IB, CGH
 
 
 ### Friday (May 1) (bowels)
-
+- 9.55pm I watched parts of these:
+    - https://www.youtube.com/watch?v=epzzALZ8oYo
+    - https://www.youtube.com/watch?v=ikypXooCPCw
+    - https://www.youtube.com/watch?v=XJUpuOBpT-4
+    - https://www.youtube.com/watch?v=YQEp9kRX4YU
+    - https://www.youtube.com/watch?v=BoGyQvPYkoU
+    - https://www.youtube.com/watch?v=Mi49MokB_bQ
+    - https://www.youtube.com/watch?v=QDxiOPsGB9U
 
 ### Saturday (May 2) ()
 
 
 ### Sunday (May 3) (bowels)
-
-
+- 1am I watched today's news on CNA and Channel 5.
+    - I watched parts of these:
+        - https://www.youtube.com/watch?v=7h_38jHEN5I
+        - https://www.youtube.com/watch?v=BN7N6FvfKi0
+        - https://www.youtube.com/watch?v=wnL0XQStt2c
+        - https://www.youtube.com/watch?v=qwbH_2guO5M (Why Your Death Is Mathematically Impossible (And Quantum Physics Proves It))
+        - https://www.youtube.com/watch?v=sczDlp-QQac (Quantum Computers Broke The Only Rule That Holds Reality Together)
+        - https://www.youtube.com/watch?v=LMJb-_uL6lQ
+        - https://scottaaronson.blog/?p=9665
+        - https://www.youtube.com/watch?v=kYkIdXwW2AE (Yann LeCun's Billion Dollar Bet)
+- 3.30am thereabouts, eat supper, bath, move bowels, read compiled news.
+- 5.30am I summarised transcripts using AI and posted outcome and wrote letter to ST Forum, I briefly read and compiled parts of today's news.
+- 8.30am eat breakfast, sleep.
+- skipped recording.
+- 10pm I watched parts of these:
+    - https://www.youtube.com/watch?v=ItlT2g3-7dE
+    - https://www.youtube.com/watch?v=PndrzAGj9JE
+    - https://www.youtube.com/watch?v=bxDObdH2YSc
+    - https://www.youtube.com/watch?v=-LuNOY0MpGE
 
 
 
